@@ -1,3 +1,11 @@
+## ColossalAI's main branch lacks the ChatGPT application path.
+Summary: The provided text does not contain any information about ChatGPT, so I am unable to extract the requested information.
+
+Link: https://github.com/hpcaitech/ColossalAI/tree/main/applications/ChatGPT
+
+<img src="/img/4fc7c95e-6ba1-4a05-8443-8dfe0c705a36.png" width="400" />
+<br/><br/>
+
 ## Python Package Index Seeks to Raise Funds from Supporters in 2023
 Summary: html2text is a Python script and library that converts HTML into Markdown-structured text. It provides various configuration options and supports ignoring links, escaping special characters, using reference links, and marking preformatted code blocks. Installation can be done via pip, and unit tests can be run using tox. The project is available on PyPI and has extensive documentation.
 
