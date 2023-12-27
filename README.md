@@ -1,3 +1,11 @@
+## Skiing Without Breaking the Bank: Four Affordable Resorts for a Great Vacation
+Summary: Due to the rising costs of skiing, resorts are now offering lavish amenities, such as extravagant chalets and five-star restaurants. However, four highly regarded resorts remain affordable, providing a classic skiing experience at attainable prices, allowing skiers to enjoy the sport without sacrificing their finances.
+
+Link: https://www.wsj.com/articles/affordable-ski-resorts-11674060010
+
+<img src="/img/6fa96e7a-b3b8-4513-844b-9152f020e3b1.png" width="400" />
+<br/><br/>
+
 ## OMMO: A Large-scale Outdoor Multi-modal Dataset and Benchmark for Novel View Synthesis and Implicit Scene Reconstruction
 Summary: The OMMO dataset is a large-scale outdoor multimodal dataset comprising images, point clouds, and prompt annotations, providing a benchmark for tasks like novel view synthesis, surface reconstruction, and multi-modal NeRF. The dataset features complex objects and scenes with calibrated data, captured from fly-view videos and curated through a quality review and annotation process. It offers diverse real-world urban and natural scenes with various scales, camera trajectories, and lighting conditions, making it suitable for studying scene understanding and generation in outdoor environments.
 
