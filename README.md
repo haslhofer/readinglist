@@ -1,3 +1,11 @@
+## 404 Error: Page Not Found
+Summary: A 404 error, or "File not found," indicates that the requested file is not available at the specified URL. This can occur due to incorrect filename casing, file permissions, or the absence of an index.html file for root URLs. For more information, refer to GitHub Pages documentation.
+
+Link: https://vinija.ai/toolkit/RLHF/
+
+<img src="/img/271ff714-8b7b-4c1a-8637-f75d31b2a8bf.png" width="400" />
+<br/><br/>
+
 ## LinkedIn: Unlocking Your Professional Potential
 Summary: I lack the ability to access external websites or specific PDF documents, including the one you cited from linkedin.com. Therefore, I'm unable to summarize the text you mentioned.
 
