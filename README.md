@@ -1,3 +1,11 @@
+## Mask2Former and OneFormer: Unleashing Universal Image Segmentation with Transformers
+Summary: Hugging Face introduces Mask2Former and OneFormer, state-of-the-art neural networks for universal image segmentation, available in the 🤗 transformers library. These models can handle instance, semantic, and panoptic segmentation tasks with a unified architecture, treating segments as binary mask classification. Mask2Former improves upon MaskFormer by enhancing the neural network architecture for instance segmentation. OneFormer further advances the capabilities by achieving state-of-the-art performance on all three segmentation tasks with training solely on a panoptic dataset, using a text encoder to condition the model on different inputs. The models can be easily used for inference and fine-tuning with the Transformers library.
+
+Link: https://huggingface.co/blog/mask2former
+
+<img src="/img/26a1a504-c2a3-4a4a-82f8-05079c2a4ce5.png" width="400" />
+<br/><br/>
+
 ## NVIDIA Broadcast 1.4 Introduces Eye Contact, Vignette Effects, and Virtual Background Enhancements
 Summary: NVIDIA Broadcast 1.4 introduces two new effects: Eye Contact, which simulates eye contact with the camera, and Vignette, which adds a subtle background blur to improve visual quality. Virtual Background effects have been enhanced with temporal information for better segmentation and stability, and two community-requested features, camera mirroring and webcam screenshots, have been added. App developers can integrate the SDKs powering NVIDIA Broadcast, known as Maxine, into their apps, including the latest features. NVIDIA Broadcast is a free tool for NVIDIA and GeForce RTX GPU owners, and it is available for download from the NVIDIA Broadcast Download Center.
 
