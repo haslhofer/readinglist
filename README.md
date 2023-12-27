@@ -1,3 +1,11 @@
+## Creating Realistic 3D MetaHumans from AI-Generated Images in Unreal Engine 5
+Summary: This video tutorial demonstrates how to use Midjourney AI to generate an image and then transfer it to Unreal Engine 5's Metahuman to create a 3D animated character. The process involves using a text prompt to generate the image in Midjourney, then utilizing a Metahuman pipeline to convert the image into a 3D model. Once the 3D model is created, it can be animated and integrated into Unreal Engine 5 for use in games or other virtual experiences. The video provides step-by-step instructions, allowing users to create their own custom 3D characters from scratch using AI-generated images.
+
+Link: https://www.youtube.com/watch?v=iubhFsKZBP0
+
+<img src="/img/6ef48da9-1bdb-41fb-8b81-acdd25596ab6.png" width="400" />
+<br/><br/>
+
 ## Text2Poster: Lay Out Stylized Texts on Retrieved Images
 Summary: Text2Poster is a tool for creating stylized posters by laying out text elements on retrieved background images. Given input text elements and a background query, Text2Poster automatically retrieves relevant background images, predicts the layout distribution of text elements, and refines the layout to generate visually appealing posters. A quick start guide is provided for API usage, while the full source code and instructions for running it are also available. The tool requires certain dependencies and resources, including a layout refine model, a layout distribution prediction model, and background image retrieval resources. Tips about the background image retrieval process are also included. If you find this tool useful, you can cite the research paper provided.
 
