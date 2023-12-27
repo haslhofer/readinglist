@@ -1,3 +1,11 @@
+## Databricks releases Dolly, a large language model trained on a focused corpus of 50k records, demonstrating surprisingly high-quality instruction-following behavior.
+Summary: Dolly v1-6b, a large language model trained by Databricks, demonstrates that a two-year-old open-source model, when fine-tuned on a focused corpus, can exhibit high-quality instruction-following behavior not seen in its foundation model. It is designed for academic research and model engineering experimentation, showcasing capabilities across a range of tasks. However, it has known limitations and is not state-of-the-art, as it struggles with complex prompts, programming, mathematical operations, factual errors, and more. The model is trained on The Pile, a 400B token dataset, and a ~52K record instruction corpus called Stanford Alpaca. Intended exclusively for research purposes, Dolly v1-6b is not recommended for high-risk applications due to its shortcomings.
+
+Link: https://huggingface.co/databricks/dolly-v1-6b
+
+<img src="/img/307521c1-88d2-4fcb-98cd-19d44d2f3210.png" width="400" />
+<br/><br/>
+
 ## Docker Partners With Hugging Face to Democratize AI
 Summary: Hugging Face and Docker, Inc. have partnered to make cutting-edge machine learning (ML) accessible to all software engineers. The partnership aims to simplify the process of using ML in software development, enabling developers to easily integrate pre-trained models and optimize ML workflows. The collaboration includes the development of Docker images for Hugging Face models, making them easily deployable in various environments. Furthermore, Docker Compose is used to simplify the management of complex multi-container ML applications, enhancing productivity and reducing the time required for ML projects.
 
