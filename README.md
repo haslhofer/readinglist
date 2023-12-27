@@ -1,3 +1,11 @@
+## Hugging Face Models
+Summary: Hugging Face is a platform for sharing and collaborating on models in machine learning. It offers a variety of models, including those for visual question answering, text-to-text generation, and image-to-text generation. The platform also provides tools for training and evaluating models, and for collaborating with other users.
+
+Link: https://huggingface.co/models?other=pix2struct
+
+<img src="/img/9a21c8a1-8fd1-4ef4-a7b9-ef5414f9d2ef.png" width="400" />
+<br/><br/>
+
 ## LinkedIn Post: Curated Free Online Resources and Courses for System Design, Low Level Design, and Interview Preparation
 Summary: This post provides a curated list of free resources for system design, including Gaurav Sen, SudoCode, WhatsApp System Design, Instagram Design, TikTok Architecture Design, Tinder System Design, System Design of Amazon, Flipkart like E-commerce, Mock Low Level Design Interview, High Level Design vs Low Level Design, and more. Additionally, the post mentions resources for Low Level Design such as Somyajit bhattacharya, Arpit bhayani, Sandeep Kaul, Crack the System Design Interview, System Design Interview, Engineering Blogs, and more.
 
