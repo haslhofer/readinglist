@@ -1,3 +1,11 @@
+## LinkedIn warns users about external link safety
+Summary: 
+
+Link: https://lnkd.in/gCFiKCZQ
+
+<img src="/img/462fc92a-a349-4ecb-b851-fa98d4bcd429.png" width="400" />
+<br/><br/>
+
 ## 
 Summary: 
 
