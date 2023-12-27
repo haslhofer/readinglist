@@ -1,3 +1,11 @@
+## Unlock Your Professional Potential with LinkedIn
+Summary: There is no text provided for summarization.
+
+Link: https://www.linkedin.com/feed/hashtag/?keywords=datawarehouse&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7018092928241721344
+
+<img src="/img/483b3b74-e851-4bd4-80e8-b6c91052a4e0.png" width="400" />
+<br/><br/>
+
 ## Unlock Your Professional Potential and Thrive in Your Career
 Summary: Sorry, I don't have access to the internet to get the context from the given URL. Therefore, I am unable to summarize the text in one paragraph for you.
 
