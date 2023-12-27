@@ -1,3 +1,13 @@
+## Lex Fridman podcast with OpenAI CEO Sam Altman dives into the future of AI, including GPT-4, AGI, and Microsoft's role in AI development.
+Summary: Sure, here's a summary of the given text:
+
+In the Lex Fridman podcast, OpenAI CEO Sam Altman discusses the importance of combining knowledge with reasoning ability to enhance wisdom. Altman emphasizes the significance of agility and learning from the community, rather than waiting for perfect technology like GPT-4. He also shares his insights on Microsoft's leadership, future AI applications, and advice for young people, touching on topics such as the meaning of life.
+
+Link: https://www.linkedin.com/posts/areddy_sam-altman-openai-ceo-on-gpt-4-chatgpt-activity-7045515114199810049-hYBO?utm_source=share&utm_medium=member_android
+
+<img src="/img/2177fe81-7ba2-4360-a7be-b1389616ed1a.png" width="400" />
+<br/><br/>
+
 ## Unlock Your Professional Potential with LinkedIn
 Summary: Unfortunately, I am unable to summarize the text you provided because there was no text included in your request.
 
