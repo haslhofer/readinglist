@@ -1,3 +1,11 @@
+## Matt MacLaurin shares his personal list of "Very Good Learning Investments" for preparing for a new chapter in tech
+Summary: Matt MacLaurin, a creative coder with extensive experience in various tech companies, shared his personal list of beneficial learning investments for those preparing for a new chapter in tech. He recommends exploring generative AI for various applications, delving into mobile development with a focus on Apple's Swift UI for UI design, embracing low-code platforms for efficient app development, and immersing oneself in Unreal Engine for a comprehensive creative experience.
+
+Link: https://www.linkedin.com/posts/mattmaclaurin_if-i-was-preparing-for-a-new-chapter-in-tech-activity-7023724176410624000-vgNk?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/60d7431d-b70e-4eec-9b71-6bb455b88a01.png" width="400" />
+<br/><br/>
+
 ## Foundation Models: The Future is Getting Here Fast
 Summary: In the rapidly evolving world of foundation models, a new technical stack is emerging, offering significant opportunities for founders and tool builders. The challenges faced by developers in this field, such as the trade-off between ease of building and defensibility, can be addressed by considering the broader stack and exploring opportunities in novel applications, differentiation, and tools. Important areas of development include tooling for orchestration and infrastructure, efficient training and deployment techniques, and data sources and actions integration. The goal is to make foundation models more accessible to a wider range of builders and accelerate the creation of innovative AI-driven applications.
 
