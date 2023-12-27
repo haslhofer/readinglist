@@ -1,3 +1,11 @@
+## Foundation Models: The Future is Getting Here Fast
+Summary: In the rapidly evolving world of foundation models, a new technical stack is emerging, offering significant opportunities for founders and tool builders. The challenges faced by developers in this field, such as the trade-off between ease of building and defensibility, can be addressed by considering the broader stack and exploring opportunities in novel applications, differentiation, and tools. Important areas of development include tooling for orchestration and infrastructure, efficient training and deployment techniques, and data sources and actions integration. The goal is to make foundation models more accessible to a wider range of builders and accelerate the creation of innovative AI-driven applications.
+
+Link: https://www.madrona.com/foundation-models/?utm_source=Foundation+Model+Share+Link&amp;utm_medium=Social&amp;utm_campaign=Foundation+model+update+Jan+2023
+
+<img src="/img/41506a16-8eb5-4a20-bf1a-96bb8e19718f.png" width="400" />
+<br/><br/>
+
 ## Google Research unveiled groundbreaking advancements in language, computer vision, multi-modal models, and generative AI in a new blog series. Language models can now engage in natural and contextual conversations, with semantic reasoning and adaptability to various tasks. Computer vision models utilize transformers for more flexible feature processing, leading to enhanced object detection and detailed 3D representations. Multi-modal models combine modalities for improved accuracy and can generate outputs in multiple formats. Generative models produce high-quality images, videos, and audio from text prompts, while enabling user control and customization. Google Research emphasizes the responsible use of AI, focusing on beneficial applications and mitigating potential risks.
 Summary: This text describes the advancements made by Google Research in 2022 and their vision for 2023 and beyond. It focuses on language models, computer vision, multimodal models, generative models, and responsible AI.
 
