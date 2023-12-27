@@ -1,3 +1,11 @@
+## Multivariate Probabilistic Time Series Forecasting with Informer: Achieve More Accurate Forecasts for Complex Time Series Data
+Summary: This document provides an overview of multivariate probabilistic time series forecasting using Informer, a Transformer-based model. The authors introduce the model, discuss its advantages over traditional methods, and provide detailed instructions on how to implement it using the Hugging Face Transformers library. They also include code examples and demonstrate how to evaluate the model's performance on a real-world dataset. Overall, this document serves as a comprehensive guide for researchers and practitioners interested in applying Informer for multivariate time series forecasting tasks.
+
+Link: https://huggingface.co/blog/informer
+
+<img src="/img/55e378db-a1f1-42be-88ce-88e1085ff788.png" width="400" />
+<br/><br/>
+
 ## Together announces OpenChatKit, an open-source conversational chatbot with language instruction, customization, retrieval system and moderation capabilities.
 Summary: Together, LAION, and Ontocord have collaborated to introduce OpenChatKit, an open-source foundation for constructing specialized and general-purpose chatbots for various applications. OpenChatKit features a fine-tuned large language model, customization recipes, an extensible retrieval system, and a moderation model. They've collaborated to build a comprehensive kit for developing chatbots. The project is open-source, allowing community contributions for ongoing improvement.
 
