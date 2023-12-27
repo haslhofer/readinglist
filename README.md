@@ -1,3 +1,11 @@
+## Harnessing NeRF Technology for Creative Filmmaking: A Detailed Tutorial
+Summary: Karen X. Cheng, an influencer, shared a tutorial on using NeRF (Neural Radiance Fields) for creative filmmaking shots, particularly the Dolly Zoom effect, using the Luma AI app. She provides detailed tips and instructions for both Android and iPhone users, emphasizing the importance of capturing diverse footage to ensure a smooth Dolly Zoom effect. Cheng also highlights the advantages of using the web version for precise adjustments. troubleshooting tips, and showcasing the final creative shot captured using this technique.
+
+Link: https://www.linkedin.com/posts/karenxcheng_using-nerf-for-creative-filmmaking-shots-ugcPost-7025885182251438080-1snf?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/0e75e741-c932-4f68-a3cb-39573fc84239.png" width="400" />
+<br/><br/>
+
 ## Exploring Deeper Techniques and Innovations for Diffusion Models
 Summary: This diffusion models course's final unit explores recent advances in diffusion models, including faster sampling via distillation, training improvements, more control for generation and editing, extension to video and audio, and new architectures and approaches. Hands-on notebooks for DDIM inversion and diffusion for audio are provided.
 
