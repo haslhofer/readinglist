@@ -1,3 +1,11 @@
+## New multimodal model CLIPPO performs image and language tasks with a single pixel-based encoder
+Summary: CLIPPO, a novel model that processes both images and text as pixel sequences, has been introduced. Trained solely with contrastive loss, CLIPPO achieves state-of-the-art performance on image-based tasks, outperforming pixel-based baselines on natural language understanding tasks, and solving visual question answering tasks by rendering the question and image together. Additionally, CLIPPO demonstrates strong multilingual multimodal retrieval performance without modifications.
+
+Link: https://arxiv.org/abs/2212.08045
+
+<img src="/img/ac386bdb-a26e-432f-bbd6-5c3a8e3dfef8.png" width="400" />
+<br/><br/>
+
 ## LinkedIn: Join the Professional Network
 Summary: Personal experiences can help you develop a deeper understanding of the world and yourself. You learn from mistakes and successes, which helps you grow as an individual. Personal experiences also shape your beliefs and values, influencing your decisions and actions. Sharing these experiences with others can foster meaningful connections and help others learn and grow. Embracing personal experiences as valuable life lessons can lead to personal growth and development.
 
