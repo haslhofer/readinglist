@@ -1,3 +1,11 @@
+## A Comprehensive Review of the Most Notable Deep Learning Papers Published in 2022
+Summary: In 2022, the field of Deep Learning witnessed remarkable advancements, with generative models and models' sizes, intelligence, and accuracy reaching unprecedented levels. Researchers focused on self-supervised learning to harness the potential of unlabeled data, addressing challenges such as training difficulties, accuracy gaps, and collapse. VicReg emerged as a prominent method to tackle these issues, demonstrating the ability to enforce separation between positive and negative examples and prevent collapse.
+
+Link: https://medium.com/@diegobonila/top-deep-learning-papers-of-2022-a4826e0aac4
+
+<img src="/img/0ead67ee-0f91-4bce-883a-441da07f681f.png" width="400" />
+<br/><br/>
+
 ## Hugging Face introduces Mask2Former and OneFormer for Universal Image Segmentation
 Summary: Mask2Former and OneFormer are state-of-the-art neural networks for image segmentation, now available in Hugging Face's transformers library. They can solve instance, semantic, and panoptic segmentation with a unified architecture, treating "things" and "stuff" classes in a unified way. Mask2Former extends DETR's "binary mask classification" paradigm to instance segmentation, while OneFormer achieves state-of-the-art results on all three tasks by training on a panoptic dataset and adding a text encoder.
 
