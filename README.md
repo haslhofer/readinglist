@@ -1,3 +1,11 @@
+## Microsoft's Florence Vision Model to Generate Alt Text for Reddit Images
+Summary: Microsoft is introducing Florence, an AI-powered computer vision model that will be available as part of the Azure Cognitive Services Vision APIs. Florence is unique because it is a "unified" and "multimodal" model, meaning it can understand both images and language and can handle various tasks, including image captioning, background removal, video summarization, and image retrieval. For example, Reddit will use Florence to generate "alt-text" for images on its platform, making it easier for users with vision challenges to understand the content. Microsoft expects Florence to have a wide range of applications across its own platforms and products, as well as for customers in various industries.
+
+Link: https://techcrunch.com/2023/03/07/microsofts-computer-vision-model-will-generate-alt-text-for-reddit-images/
+
+<img src="/img/a72bd6a0-ab9e-4d57-890b-703000705258.png" width="400" />
+<br/><br/>
+
 ## Denoising diffusion probabilistic models (DDPMs) are a powerful generative modeling technique that has shown impressive results in image generation. In this article, we provide an in-depth guide to DDPMs, covering their theoretical foundations, implementation details, and training and inference algorithms. We also provide a code walkthrough in PyTorch to train DDPMs from scratch and generate images.
 Summary: This article provides an in-depth guide to denoising diffusion probabilistic models (DDPMs), a type of generative model that has gained significant attention in the field of image generation. The article aims to bridge the gap between theoretical concepts and practical implementation, making it accessible to those interested in understanding and utilizing DDPMs for image generation.
 
