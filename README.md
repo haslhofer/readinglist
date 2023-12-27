@@ -1,3 +1,11 @@
+## Harvard University Offers Free Online Course on Introduction to Computer Science
+Summary: CS50x is an introductory computer science course offered by Harvard University. It is a self-paced, online course that teaches students how to think algorithmically and solve problems efficiently. Topics covered include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages used include C, Python, SQL, JavaScript, CSS, and HTML. Students who complete the course with a satisfactory score are eligible for a certificate.
+
+Link: https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0
+
+<img src="/img/fe209279-4168-4e9e-b764-f3f273d50629.png" width="400" />
+<br/><br/>
+
 ## Deepmind's LASER-NV: A Conditional Generative Model of Neural Radiance Fields for Efficient Scene Inference
 Summary: A research team from DeepMind proposed LASER-NV, a conditional generative model of Neural Radiance Fields (NeRFs) that can efficiently infer large and complex scenes from a few arbitrary viewpoints, even under partial observability conditions. By combining a geometry-informed attention mechanism with a set-valued latent representation, LASER-NV can generate diverse and plausible views for unobserved areas while maintaining consistency with the observed ones. Experiments on various datasets demonstrate LASER-NV's capability in modeling scenes of different scales and uncertainty structures.
 
