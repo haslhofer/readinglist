@@ -1,3 +1,11 @@
+## External Link Warning: LinkedIn Cannot Verify Safety of YouTube Playlist
+Summary: The provided context does not contain any information about LinkedIn, so I am unable to provide a summary.
+
+Link: https://lnkd.in/gbj3xdWf
+
+<img src="/img/1e2e81d0-c123-4b81-ab4e-dfabfcb16655.png" width="400" />
+<br/><br/>
+
 ## External Link Safety Warning: LinkedIn Cannot Verify External Link
 Summary: The provided text is a warning message indicating that the attached link is an external link and LinkedIn is unable to verify its safety. It advises users to learn more about external links before proceeding.
 
