@@ -1,3 +1,11 @@
+## Scale Introduces Its Automotive Foundation Model
+Summary: Scale introduced a new AI chatbot called Claude, a competitor to ChatGPT, that displays improved capabilities in various areas. Claude excels in writing creatively and humorously, provides detailed self-awareness, offers satisfactory text summaries, and generates code. It demonstrates an understanding of its limitations and ethical principles, making it more agreeable to interact with. However, Claude struggles with complex calculations, logical reasoning, and generating bug-free code. In some instances, ChatGPT outperforms Claude in these tasks. Both models possess strengths and weaknesses, and the choice between them depends on the specific application.
+
+Link: https://scale.com/blog/chatgpt-vs-claude#What%20is%20%E2%80%9CConstitutional%20AI%E2%80%9D
+
+<img src="/img/9a606595-446a-4db1-b68a-284d850e3acc.png" width="400" />
+<br/><br/>
+
 ## Generative AI Market Dynamics: Understanding Value Distribution and Moats
 Summary: The article discusses the current state of the generative artificial intelligence (AI) market, highlighting the key trends, players, and challenges. It mentions growth in generative AI applications but questions their sustainability due to low gross margins, weak retention, and lack of differentiation. It also explores the role of model providers and infrastructure vendors, emphasizing the substantial revenue flowing through cloud providers and hardware manufacturers. Moreover, the article raises concerns about the lack of systemic moats and the potential for horizontal and vertical company success in the long term. Despite uncertainties, the article expresses optimism about generative AI's transformative potential and the vast opportunities it presents. Overall, it provides valuable insights into the dynamics and challenges of the emerging generative AI landscape.
 
