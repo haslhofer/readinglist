@@ -1,3 +1,11 @@
+## CLIPPO: A Unified Pixel-Based Model for Image, Text, and Multimodal Tasks
+Summary: The research paper titled "CLIPPO: Image-and-Language Understanding from Pixels Only" proposes a unified multimodal model, CLIPPO, which utilizes a single encoder to process both images and text rendered as images. Trained exclusively with contrastive loss, CLIPPO achieves remarkable performance in various image-based tasks like retrieval and zero-shot image classification, comparable to CLIP-style models. Notably, CLIPPO demonstrates strong results on natural language understanding tasks without any word-level loss, outperforming previous pixel-based methods. Additionally, CLIPPO showcases impressive performance in visual question answering by simply rendering the question and image together. Moreover, it exhibits strong multilingual multimodal retrieval capabilities without requiring a tokenizer.
+
+Link: https://arxiv.org/abs/2212.08045
+
+<img src="/img/17f392af-8ac4-4fb7-a53a-0e6380599dab.png" width="400" />
+<br/><br/>
+
 ## I'm sorry, I do not have acces
 Summary: I'm sorry, I do not have access to the internet to get the context from the given URL. Therefore, I am unable to summarize the text for you.
 
