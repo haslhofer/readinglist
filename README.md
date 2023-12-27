@@ -1,3 +1,11 @@
+## Scale Introduces Automotive Foundation Model
+Summary: Scale AI's blog introduced Claude, an AI created by Anthropic, and compared it with OpenAI's ChatGPT. Claude demonstrated enhanced capabilities such as understanding its own features, capabilities, and limitations. It could also handle more context and exhibited more robust ethical considerations. In calculations, Claude was more cautious and acknowledged when its limits were exceeded. However, it struggled with complex mathematical problems. It also produced more verbose and naturalistic writing, while its code generation was less reliable compared to ChatGPT. For tasks like code comprehension and reasoning through logic, both Claude and ChatGPT performed similarly. Overall, Claude showed promise as a competitor to ChatGPT, excelling in some areas and requiring further development in others.
+
+Link: https://scale.com/blog/chatgpt-vs-claude#What%20is%20%E2%80%9CConstitutional%20AI%E2%80%9D
+
+<img src="/img/88edda5c-867f-4d1a-bdd8-10a96d90145e.png" width="400" />
+<br/><br/>
+
 ## Generative AI Market: Infrastructure Takes the Cake, but Defensibility Still Up for Grabs
 Summary: The article analyzes the current state and potential future of the generative AI market, focusing on the value distribution among different parts of the stack, including applications, models, and infrastructure. It highlights the early success of generative AI apps, but questions their long-term viability due to challenges with retention, differentiation, and profitability. Model providers are discussed as the source of generative AI technology, but there are concerns about commoditization and graduation risk. The article emphasizes the significance of infrastructure vendors, particularly cloud providers and Nvidia, in capturing a large share of the market's revenue. The author concludes that there are no systemic moats in generative AI today, leading to a highly competitive market with both horizontal and vertical companies likely to succeed. While the article is optimistic about the potential of generative AI, it cautions that the tech landscape will change significantly as a result of this technology's impact.
 
