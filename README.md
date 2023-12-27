@@ -1,3 +1,11 @@
+## Self-Instruct: A Method to Align Large Language Models with Self-Generated Instructions
+Summary: Self-Instruct is a novel framework that leverages the capabilities of pre-trained language models to generate instructions, input, and output samples. These generated samples are then used to fine-tune the language model, aligning it with the instructions. Empirical evaluation demonstrates significant improvements in the model's performance on various benchmarks and tasks, rivaling the performance of models trained with human-written instructions and private datasets. The method provides an efficient and scalable approach to aligning language models with instructions without relying heavily on human annotations or private data.
+
+Link: https://arxiv.org/abs/2212.10560
+
+<img src="/img/71659de6-2393-4cc7-9d81-a386c0da7865.png" width="400" />
+<br/><br/>
+
 ## Language Is Not All You Need: Aligning Perception with Language Models
 Summary: Kosmos-1, a new Multimodal Large Language Model (MLLM), has been developed to offer perception, learning in context, and instruction following capabilities. Trained on web-scale multimodal data, it can handle various tasks, including language understanding, generation, and OCR-free NLP, as well as perception-language tasks like multimodal dialogue, image captioning, and visual question answering. Moreover, it supports vision tasks like image recognition with textual instructions. Kosmos-1 also demonstrates cross-modal transfer learning and incorporates a dataset for the nonverbal reasoning assessment of MLLMs.
 
