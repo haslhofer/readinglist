@@ -1,3 +1,11 @@
+## Hugging Face Models: Explore and Discover State-of-the-Art Machine Learning Models
+Summary: The Hugging Face Model Hub is an open-source repository of machine learning models, with a focus on natural language processing. It includes models for various tasks such as text classification, text generation, question answering, and more. The models are trained on various datasets and can be fine-tuned on specific tasks. Developers can explore, share, and use these models for their own projects.
+
+Link: https://huggingface.co/models?other=pix2struct
+
+<img src="/img/c679c0d2-051d-49ef-85e5-26cd1100d73f.png" width="400" />
+<br/><br/>
+
 ## Hugging Face Models
 Summary: Hugging Face is a platform for sharing and collaborating on models in machine learning. It offers a variety of models, including those for visual question answering, text-to-text generation, and image-to-text generation. The platform also provides tools for training and evaluating models, and for collaborating with other users.
 
