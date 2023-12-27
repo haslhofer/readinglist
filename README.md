@@ -1,3 +1,11 @@
+## Generative AI Market: Infrastructure Takes the Cake, but Defensibility Still Up for Grabs
+Summary: The article analyzes the current state and potential future of the generative AI market, focusing on the value distribution among different parts of the stack, including applications, models, and infrastructure. It highlights the early success of generative AI apps, but questions their long-term viability due to challenges with retention, differentiation, and profitability. Model providers are discussed as the source of generative AI technology, but there are concerns about commoditization and graduation risk. The article emphasizes the significance of infrastructure vendors, particularly cloud providers and Nvidia, in capturing a large share of the market's revenue. The author concludes that there are no systemic moats in generative AI today, leading to a highly competitive market with both horizontal and vertical companies likely to succeed. While the article is optimistic about the potential of generative AI, it cautions that the tech landscape will change significantly as a result of this technology's impact.
+
+Link: https://a16z.com/2023/01/19/who-owns-the-generative-ai-platform/
+
+<img src="/img/95829f7a-360d-468c-a1ad-dd552d043171.png" width="400" />
+<br/><br/>
+
 ## AI Research Introduces a Method for Personalizing Generative Art by Combining Multiple Concepts on the Fly
 Summary: Researchers from Carnegie Mellon University, Tsinghua University, and Adobe Research have developed a novel approach for personalizing text-to-image generation models, enabling users to create images that incorporate their own concepts and preferences. This method, called Custom Diffusion, involves fine-tuning a small subset of model weights using only a few examples, thereby avoiding the need for extensive retraining. The fine-tuning targets the cross-attention layers, which are crucial for integrating new concepts. Additionally, a regularization dataset is employed to prevent overfitting and concept intermixing. Experimental results demonstrate the effectiveness of Custom Diffusion in personalizing text-to-image generation, allowing users to generate images that reflect their unique ideas and styles.
 
