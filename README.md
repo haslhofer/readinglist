@@ -1,3 +1,11 @@
+## David Heinemeier Hansson: Actions speak louder than arguments when it comes to persuasion.
+Summary: David Heinemeier Hansson argues that actions are more persuasive than arguments. He believes that people are more likely to believe someone who has taken a risk and followed through on their convictions than someone who has only talked about their ideas. He says that credibility is earned through successful actions and that the social payoff for taking risks is the ability to unlock the minds of others and advance society.
+
+Link: https://world.hey.com/dhh/actions-beat-arguments-2aa1da34
+
+<img src="/img/007bd8a6-e740-4d52-a593-31b5fbbf8716.png" width="400" />
+<br/><br/>
+
 ## Atomic Git commits: Simplify complexity; increase productivity
 Summary: The practice of writing atomic git commits is explained, which means each commit only performs one simple task that can be described in a single sentence. This approach has advantages like reversibility, a clean history, easier code reviews, and a more efficient workflow. By breaking down complex tasks into smaller, manageable steps, atomic commits make it easier to solve problems and simplify the work. The adoption of this practice can significantly improve productivity and job satisfaction.
 
