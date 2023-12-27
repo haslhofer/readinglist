@@ -1,3 +1,11 @@
+## ChatGPT's Amazing Performance on Wharton MBA Exam Raises Concerns About AI's Impact on Education
+Summary: ChatGPT, an AI chatbot, recently took a Wharton MBA final exam and earned a B to B- grade, demonstrating its capabilities in operations management and process analysis. But it also has limitations, especially in handling advanced questions. Experts believe that ChatGPT and similar AI tools will continue to improve, potentially impacting MBA programs and the value of an MBA education. The integration of AI into the corporate world is comparable to the impact of calculators, which automated mathematical tasks and reduced the value of related skills. Universities and professionals must adapt to the changing landscape by educating themselves about AI and exploring ways to utilize it effectively.
+
+Link: https://fortune.com/2023/01/21/chatgpt-passed-wharton-mba-exam-one-professor-is-sounding-alarm-artificial-intelligence/
+
+<img src="/img/1ed2145d-f99d-4874-b84f-4a68f0c71696.png" width="400" />
+<br/><br/>
+
 ## Panic-Selling in Silicon Valley as Laid-Off Workers Flood Markets with Startup Shares
 Summary: Due to falling valuations, numerous laid-off Silicon Valley employees are selling their start-up shares in a panic, causing a potential drop in valuations. Valuations soared from 2020 due to low-interest rates, and tech workers received a large portion of their compensation in stock-based compensation, which is now having the opposite effect as valuations decline. The article recommends considering other investment options, like Adobe and Microsoft, that are profitable despite the economic downturn.
 
