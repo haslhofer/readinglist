@@ -1,3 +1,11 @@
+## Researchers from Google Brain and Tel Aviv University Propose a Text-to-Image Model Guided by Sketches
+Summary: Researchers from Google Brain and Tel Aviv University have developed a text-to-image model guided by sketches, enabling precise control over the spatial characteristics of synthesized images. Their method involves training a Latent Edge Predictor (LEP) that maps the internal activations of a diffusion model to spatial edge maps, ensuring that the generated image aligns with a reference sketch. This approach allows for realistic image synthesis with enhanced edge fidelity while maintaining the model's ability to generate high-quality images from text prompts.
+
+Link: https://www.marktechpost.com/2023/01/19/google-brain-and-tel-aviv-university-researchers-proposed-a-text-to-image-model-guided-by-sketches/
+
+<img src="/img/eb2bddf9-ef6a-4041-ab96-ff5c98ea494c.png" width="400" />
+<br/><br/>
+
 ## Skiing Without Breaking the Bank: Four Affordable Resorts for a Great Vacation
 Summary: Due to the rising costs of skiing, resorts are now offering lavish amenities, such as extravagant chalets and five-star restaurants. However, four highly regarded resorts remain affordable, providing a classic skiing experience at attainable prices, allowing skiers to enjoy the sport without sacrificing their finances.
 
