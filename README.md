@@ -1,3 +1,11 @@
+## AI Research Introduces a Method for Personalizing Generative Art by Combining Multiple Concepts on the Fly
+Summary: Researchers from Carnegie Mellon University, Tsinghua University, and Adobe Research have developed a novel approach for personalizing text-to-image generation models, enabling users to create images that incorporate their own concepts and preferences. This method, called Custom Diffusion, involves fine-tuning a small subset of model weights using only a few examples, thereby avoiding the need for extensive retraining. The fine-tuning targets the cross-attention layers, which are crucial for integrating new concepts. Additionally, a regularization dataset is employed to prevent overfitting and concept intermixing. Experimental results demonstrate the effectiveness of Custom Diffusion in personalizing text-to-image generation, allowing users to generate images that reflect their unique ideas and styles.
+
+Link: https://www.marktechpost.com/2023/01/16/a-new-artificial-intelligence-ai-research-focuses-on-the-personalization-of-generative-art-by-teaching-a-model-many-new-concepts-at-once-and-combining-them-on-the-fly/
+
+<img src="/img/3f81c330-adde-41b7-a384-d59a9f97953c.png" width="400" />
+<br/><br/>
+
 ## Hugging Face Datasets and Transformers for Building Image Similarity Systems
 Summary: Using the Hugging Face library, this blog post presents a step-by-step guide on how to construct an image similarity system. The system computes the similarity between a query image and candidate images using cosine similarity between the images' embeddings. The embeddings are produced by a vision model fine-tuned on the Beans dataset, which offers a thorough grasp of the input images. The system can be further enhanced by reducing embedding dimensionality using random projection or locality-sensitive hashing, and by integrating with FAISS to build dense indexes and retrieve nearest neighbors efficiently.
 
