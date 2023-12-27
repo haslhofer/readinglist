@@ -1,3 +1,11 @@
+## Nebuly Introduces ChatLLaMA, Open-Source Implementation of LLaMA Based on Reinforcement Learning from Human Feedback
+Summary: Nebuly has created ChatLLaMA, an open-source implementation of LLaMA based on Reinforcement Learning from Human Feedback (RLHF), allowing users to build ChatGPT-like services. It has complete code for replication and offers faster training and inference due to LLaMA's smaller size. Fine-tuning requires Meta's original weights and a custom dataset, or generation using LangChain's agents. Nebuly calls for contributions to improve the library, including checkpoints, optimization, and packaging for deployment.
+
+Link: https://www.marktechpost.com/2023/02/27/meet-chatllama-the-first-open-source-implementation-of-llama-based-on-reinforcement-learning-from-human-feedback-rlhf/
+
+<img src="/img/b6369d64-301c-404a-8e8f-8d4e43d2c68f.png" width="400" />
+<br/><br/>
+
 ## "Path 'apps/accelerate/chatllama' not found in repository 'nebuly'"
 Summary: The provided text does not contain any information about chatllama, so I am unable to extract the requested data.
 
