@@ -1,3 +1,11 @@
+## LLaMA-Adapter: Efficiently Fine-tuning Large Language Models with Zero-initialized Attention
+Summary: The paper introduces LLaMA-Adapter, a lightweight adaptation method for efficiently fine-tuning the LLaMA language model for instruction-following tasks. Utilizing 52K self-instruction demonstrations, LLaMA-Adapter requires only 1.2M additional learnable parameters, significantly fewer than fully fine-tuning the massive 7B parameter LLaMA model. The method employs a set of learnable adaptation prompts prepended to word tokens at higher transformer layers. A zero-initialized attention mechanism with zero gating adaptively integrates instructional cues into LLaMA while preserving its pre-trained knowledge. LLaMA-Adapter generates high-quality responses comparable to models with fully fine-tuned 7B parameters. It can also be extended to multi-modal instructions for learning image-conditioned LLaMA models, demonstrating superior reasoning performance on ScienceQA and COCO Caption benchmarks. The zero-initialized attention mechanism also shows promise for fine-tuning other pre-trained models like ViT and RoBERTa on vision and language tasks.
+
+Link: https://paperswithcode.com/paper/llama-adapter-efficient-fine-tuning-of
+
+<img src="/img/5891cdc3-8cb4-4054-a7e3-656dec101424.png" width="400" />
+<br/><br/>
+
 ## Using an Open-Source Cerebras Model with LangChain: Exploring Alternatives to OpenAI's GPT Model
 Summary: In this article, Bartosz Mikulski demonstrates how to use an open-source Cerebras model with LangChain, guiding you through the process of loading the model with HuggingFace Transformers, creating prompt templates, and integrating it with LangChain Agents. With hands-on examples and step-by-step instructions, explore how to use the Cerebras model as an alternative to OpenAI's GPT model in building AI-powered applications.
 
