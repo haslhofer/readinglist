@@ -1,3 +1,11 @@
+## Open Source Colossal-AI Tool Accelerates ChatGPT Training and Lowers Costs
+Summary: Colossal-AI provides an open-source solution for replicating the training process of OpenAI's popular ChatGPT application, enabling users to train ChatGPT-like models with reduced hardware resources and faster training times. The framework simplifies the replication of ChatGPT's training stages and offers efficient single-GPU and multi-GPU versions for various hardware setups. With Colossal-AI, AI developers can leverage advanced memory management techniques, scale training to large parallelism, and customize pre-trained models for specific applications, making the development and deployment of ChatGPT-like solutions more accessible and cost-effective.
+
+Link: https://www.hpc-ai.tech/blog/colossal-ai-chatgpt
+
+<img src="/img/21c29745-2611-47c5-99e2-ffe6c45cae64.png" width="400" />
+<br/><br/>
+
 ## 404 Error: Page Not Found
 Summary: The page you are trying to access could not be found due to an error in the URL or the page has been moved or deleted. You can return to the homepage or try searching for the content you are seeking. Additionally, you can access the help desk, contact Masterpiece Studio, or log in to your account. Information about the company, careers, privacy policy, and terms of use is also available.
 
