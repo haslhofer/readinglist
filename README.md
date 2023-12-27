@@ -1,3 +1,11 @@
+## New AI tool lets you talk to your website using ChatGPT
+Summary: A new version of Aista Magic Cloud has been released, allowing users to integrate ChatGPT and AI into their website by copying and pasting a JavaScript tag. The tool automatically crawls the website, generates a machine learning model, and enables intelligent conversations based on ChatGPT. Reinforcement learning is utilized to improve accuracy over time. The website has roughly 70 pages, resulting in an initial accuracy of approximately 50%. The tool also logs questions and answers, allowing users to correct and retrain the model for higher accuracy
+
+Link: https://dev.to/polterguy/use-chatgpt-to-talk-to-your-website-52nb
+
+<img src="/img/cc92c141-79b6-490c-98da-182e0a3bcb6d.png" width="400" />
+<br/><br/>
+
 ## Discover the Potential of AI to Enhance Your Productivity and Creativity
 Summary: Futurepedia is a comprehensive platform designed to educate professionals on how to leverage AI for their businesses. Boasting a catalog of over 5,000 AI tools, Futurepedia helps individuals enhance their skills in areas such as marketing, productivity, design, coding, video, and research analysis. Users can explore a variety of tools, read reviews, and access learning resources to stay up-to-date with the latest advancements in AI.
 
