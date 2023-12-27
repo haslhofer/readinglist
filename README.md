@@ -1,3 +1,11 @@
+## Introducing Transformers Agents: A Natural Language API for Tasks Like Image Generation and Text Summarization
+Summary: Transformers Agents is an API that provides a natural language interface to interact with a set of curated tools, enabling users to perform various tasks such as image generation, text-to-speech, and text summarization. This experimental API leverages large language models (LLMs) to generate code that executes these tools based on natural language instructions. By prompting LLMs with tool descriptions and expected inputs/outputs, the API generates code snippets that are then executed with a restricted Python interpreter. The API also supports custom tools, allowing users to extend its capabilities by creating and sharing their own tools. Additionally, the generated code can be retrieved and modified, enabling users to integrate it into different settings.
+
+Link: https://huggingface.co/docs/transformers/transformers_agents
+
+<img src="/img/4914dcba-2736-4e01-86cd-54707248667a.png" width="400" />
+<br/><br/>
+
 ## LangFlow Demo: Building an Autonomous LLM Agent in 6 Easy Steps
 Summary: This video demonstrates the creation of an autonomous Large Language Model (LLM) agent using LangFlow. The agent utilizes OpenAI's text-davinci-003 model with access to search and math tools. The video showcases how an ambiguous question is broken down into a chain-of-thought reasoning process, with the most suitable tool employed at each step. The agent efficiently provides accurate and comprehensive responses, demonstrating the potential of LLM-based agents for various applications.
 
