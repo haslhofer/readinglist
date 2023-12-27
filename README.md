@@ -1,3 +1,11 @@
+## ModelScope releases Damo-ViLab Text-to-Video Synthesis Model
+Summary: Hugging Face's text-to-video generation model, based on a multi-stage diffusion model, takes an English description as input and produces a matching video. With 1.7 billion parameters, it uses a UNet3D structure and an iterative denoising process to generate videos from pure Gaussian noise. The model is trained on public datasets like Webvid and has limitations such as deviations related to the training data distribution, inability to achieve perfect film and television quality, and lack of text generation capabilities. It is prohibited to use the model for demeaning, harmful, pornographic, violent, or false information generation.
+
+Link: https://huggingface.co/damo-vilab/text-to-video-ms-1.7b
+
+<img src="/img/e14ff299-ccfa-43fe-8123-010a92d2d4a6.png" width="400" />
+<br/><br/>
+
 ## Microsoft AI DeBERTaV3: Novel Pretraining Paradigm for Better Natural Language Understanding
 Summary: Researchers from Microsoft AI introduced DeBERTaV3, an improved version of the DeBERTa language model, which leverages replaced token detection and gradient-disentangled embedding sharing for enhanced pre-training. DeBERTaV3 demonstrates superior performance compared to previous models on various NLU tasks, establishing a solid foundation for future language understanding research.
 
