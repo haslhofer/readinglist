@@ -1,3 +1,11 @@
+## Researchers Introduce Custom Diffusion: A Method to Personalize Generative Art Models with Fine-tuning
+Summary: 
+
+Link: https://www.marktechpost.com/2023/01/16/a-new-artificial-intelligence-ai-research-focuses-on-the-personalization-of-generative-art-by-teaching-a-model-many-new-concepts-at-once-and-combining-them-on-the-fly/
+
+<img src="/img/959963ce-9a76-464b-bbdf-60bec63f0128.png" width="400" />
+<br/><br/>
+
 ## Hugging Face presents a method for building an image similarity system using Transformers and Datasets libraries
 Summary: This blog post describes how to build an image similarity system using Hugging Face datasets and Transformers. The system uses dense representations, also known as embeddings, of images to determine similarity. Embeddings are compressed high-dimensional pixel representations that enable rapid computation. A vision model computes the embeddings, and cosine similarity is used to measure similarity. The post also discusses dimensionality reduction techniques to manage memory requirements and introduces the use of FAISS for efficient retrieval. Additionally, the post provides resources for further exploration on image similarity systems and related topics.
 
