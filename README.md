@@ -1,3 +1,11 @@
+## How ChatGPT Works: A Dive into Large Language Models, Attention Mechanisms, and Reinforcement Learning
+Summary: ChatGPT is a large language model (LLM) trained on vast amounts of text data. It leverages self-attention mechanisms and reinforcement learning from human feedback to understand and generate human-like text. The model excels in various natural language processing tasks, including text generation, summarization, translation, and answering questions.
+
+Link: https://towardsdatascience.com/how-chatgpt-works-the-models-behind-the-bot-1ce5fca96286
+
+<img src="/img/061c773d-e460-4e9d-9f28-e63b6c78c930.png" width="400" />
+<br/><br/>
+
 ## Deploy FLAN-T5 XXL on Amazon SageMaker
 Summary: This guide demonstrates deploying the FLAN-T5 XXL model on Amazon SageMaker for real-time inference. It covers creating a customized inference script with bnb quantization, bundling the model and script into a model.tar.gz artifact, uploading it to Amazon S3, and deploying the model using Hugging Face Inference Deep Learning Container. Additionally, it provides examples of running inference requests with different parameters and cleaning up resources by deleting the model and endpoint.
 
