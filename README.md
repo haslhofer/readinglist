@@ -1,3 +1,11 @@
+## Mask2Former and OneFormer: Universal Image Segmentation with Transformers
+Summary: 
+
+Link: https://huggingface.co/blog/mask2former
+
+<img src="/img/d63ca3da-399b-4d65-bcd5-362ae8a4545a.png" width="400" />
+<br/><br/>
+
 ## NVIDIA Broadcast 1.4 adds eye contact, vignette effects, and virtual background improvements
 Summary: NVIDIA Broadcast 1.4 enhances the livestreaming and video conferencing tool with Eye Contact and Vignette effects. Eye Contact simulates eye contact with the camera, while Vignette adds an AI-simulated bokeh visual. Also included are enhancements to Virtual Background, camera mirroring, and screenshot capabilities. NVIDIA Broadcast is available free for all NVIDIA and GeForce RTX GPU owners.
 
