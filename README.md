@@ -1,3 +1,11 @@
+## Semantic Kernel: Integrate cutting-edge LLM technology quickly and easily into your apps
+Summary: The Semantic Kernel SDK allows developers to integrate Large Language Models (LLMs) like OpenAI, Azure OpenAI, and Hugging Face into their applications using conventional programming languages such as C#, Python, and Java. It enables automatic orchestration of plugins using AI and provides features like plan generation, simplified function chaining, and the ability to create native and semantic functions. The SDK offers an intuitive Visual Studio Code extension for designing and testing semantic functions. The project is open-source, licensed under MIT, and offers extensive documentation, tutorials, and community engagement opportunities.
+
+Link: https://github.com/microsoft/semantic-kernel
+
+<img src="/img/adb5f9a6-7241-4522-ab5a-0bbda4d7d4d6.png" width="400" />
+<br/><br/>
+
 ## Web Stable Diffusion: Bringing AI to Browsers with No Server Support
 Summary: This project introduces a web-based implementation of Stable Diffusion models that allows users to create photorealistic images and images in various styles based on text input. It eliminates the need for server support by running everything within the browser. The solution is powered by machine learning compilation (MLC) and leverages open-source components such as PyTorch, Hugging Face diffusers, and TVM Unity. Users can import, optimize, build, and deploy models locally with native GPU runtime or on the web with WebGPU runtime. The workflow for deploying ML models is Python-first and universally deployable, enabling seamless integration of new optimizations and models. The project also acknowledges the contributions of various open-source communities and individuals involved in its development.
 
