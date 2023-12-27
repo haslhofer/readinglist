@@ -1,3 +1,11 @@
+## "Path 'apps/accelerate/chatllama' not found in repository 'nebuly'"
+Summary: The provided text does not contain any information about chatllama, so I am unable to extract the requested data.
+
+Link: https://github.com/nebuly-ai/nebullvm/tree/main/apps%2Faccelerate%2Fchatllama
+
+<img src="/img/02b181b1-2fd4-4c08-a49b-4b493399fadf.png" width="400" />
+<br/><br/>
+
 ## Spotlight: Vision-Only Approach for Foundational UI Understanding
 Summary: Researchers from Google present Spotlight, a vision-language model for understanding mobile UI elements. It utilizes a unified approach to represent diverse UI tasks using two core modalities: vision and language. The model achieves state-of-the-art results on various UI tasks, including widget captioning, screen summarization, command grounding, and tappability prediction, without relying on UI metadata. Spotlight leverages existing vision and language model architectures, enabling scalable model design and learning strategies. The model's ability to focus on specific regions of interest using a focus region extractor further enhances its performance. Researchers believe Spotlight can be applied to more UI tasks and contribute to advancements in interaction and user experience.
 
