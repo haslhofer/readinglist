@@ -1,3 +1,11 @@
+## Together announces OpenChatKit, an open-source conversational chatbot with language instruction, customization, retrieval system and moderation capabilities.
+Summary: Together, LAION, and Ontocord have collaborated to introduce OpenChatKit, an open-source foundation for constructing specialized and general-purpose chatbots for various applications. OpenChatKit features a fine-tuned large language model, customization recipes, an extensible retrieval system, and a moderation model. They've collaborated to build a comprehensive kit for developing chatbots. The project is open-source, allowing community contributions for ongoing improvement.
+
+Link: https://www.together.xyz/blog/openchatkit
+
+<img src="/img/22be6e5d-76ef-4caf-8c81-569e1cd5cee0.png" width="400" />
+<br/><br/>
+
 ## GPT-NeoXT-Chat-Base-20B: A 20B parameter open-source chat model fine-tuned from EleutherAI’s GPT-NeoX
 Summary: GPT-NeoXT-Chat-Base-20B-v0.16 is a 20B parameter language model, fine-tuned from EleutherAI's GPT-NeoX with 40 million instructions on carbon-negative compute. It excels at tasks like summarization, question answering, classification, and extraction. However, it may generate incorrect results, struggle with coding tasks, repeat itself, have difficulty switching contexts, and is not suitable for creative writing or long answers. The model is intended for research, safe deployment of models, understanding model limitations, generating artworks, and educational or creative tools. It should not be used for malicious purposes, generating harmful content, impersonation, cyberbullying, or spamming. While the model has limitations, the community welcomes contributions and collaboration to improve its robustness and inclusivity.
 
