@@ -1,3 +1,11 @@
+## Harness Custom Knowledge with Your Own ChatGPT
+Summary: The article delves into the process of creating a custom ChatGPT model with a custom knowledge base. It explores the limitations of prompt engineering as a conventional method and introduces the concept of injecting custom data sources like Wiki pages, company knowledge bases, or specific documents into ChatGPT. The author acknowledges the challenges faced due to limited context and the potential solution offered by GPT-4, while also highlighting the significance of selecting the right data sources for effective knowledge integration.
+
+Link: https://link.medium.com/CiOze7suDyb
+
+<img src="/img/5732f1e4-cad8-4385-b0e1-4edf447534a5.png" width="400" />
+<br/><br/>
+
 ## Chat Lmsys Connection Security Check
 Summary: chat.lmsys.org is currently checking the security of your connection before allowing you to proceed. This process is facilitated by Cloudflare to ensure performance and security.
 
