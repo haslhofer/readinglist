@@ -1,3 +1,11 @@
+## Introducing Scale's Automotive Foundation Model
+Summary: Scale introduces its Automotive Foundation Model, a large language model specifically designed for the automotive industry. The model excels in understanding technical concepts, generating natural language responses, and translating between languages. Capable of comprehending industry-specific terminology, the model can provide detailed explanations, generate compelling marketing content, translate documents into multiple languages, and write code and user instructions. With this model, Scale aims to assist automotive companies in improving customer service, enhancing technical documentation, and streamlining communication.
+
+Link: https://scale.com/blog/chatgpt-vs-claude#What%20is%20%E2%80%9CConstitutional%20AI%E2%80%9D
+
+<img src="/img/d26fd026-b3bc-47a7-a5b9-40db56258ac5.png" width="400" />
+<br/><br/>
+
 ## How Value Will Emerge in Generative AI
 Summary: The blog post discusses the dynamics of the generative AI market and attempts to identify where value will accrue. It highlights the growth of generative AI app usage and revenue, while also mentioning challenges with retention, differentiation, and margins. Model providers are acknowledged for their role in creating generative AI, but their revenue is still relatively small. Cloud providers and hardware manufacturers are identified as beneficiaries of the high compute requirements of generative AI. The post emphasizes the absence of long-lasting moats in the current market, leading to uncertainty about long-term winners. The authors express optimism about the potential of generative AI and acknowledge the learning process involved in understanding the new rules of the game.
 
