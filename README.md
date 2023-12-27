@@ -1,3 +1,11 @@
+## External Link Warning: LinkedIn Cannot Verify Safety
+Summary: The provided text warns users about an external link that is not associated with LinkedIn. The platform cannot verify the safety of the link and encourages users to learn more about external links and their potential risks.
+
+Link: https://lnkd.in/gjFmVydn
+
+<img src="/img/211bec38-b956-43cd-b546-fc6cab830be8.png" width="400" />
+<br/><br/>
+
 ## External Link Safety Warning on LinkedIn
 Summary: The given context does not provide any information for me to summarize. It only mentions a link to YouTube and some cautionary text about external links.
 
