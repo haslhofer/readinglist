@@ -1,3 +1,11 @@
+## Fearing for their investments, laid-off Silicon Valley workers sell start-up shares amid plunging valuations
+Summary: Due to the economic slowdown, many tech companies have been forced to lay off employees. This has resulted in a sell-off of start-up shares by laid-off tech workers, causing valuations to plunge further. Tech workers had been paid excessive stock-based compensation during the boom, which is now having a negative impact. This article recommends considering investments in profitable tech stocks, such as Adobe Inc. (ADBE) and Microsoft Corporation (MSFT), rather than unprofitable startups.
+
+Link: https://finance.yahoo.com/news/laid-off-silicon-valley-workers-150000073.html
+
+<img src="/img/94d1bd39-f081-4b19-bcda-c725dcfc78b8.png" width="400" />
+<br/><br/>
+
 ## A New Method for Evaluating the Performance of Models Trained with Synthetic Data When Applied to Real-World Data
 Summary: A new method for evaluating the performance of models trained with synthetic data when applied to real-world data has been proposed. This method involves training models on synthetic data and then applying them to real-world data while analyzing their ability to handle data drift. The results show that models trained on synthetic data can perform well, but with a loss of predictive power compared to models trained on real-world data.
 
