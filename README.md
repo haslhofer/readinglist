@@ -1,3 +1,11 @@
+## OpenAI's evals library helps evaluate and measure the accuracy of LLM systems
+Summary: Choosing the right LLM for a project can be difficult. OpenAI's evals library allows users to evaluate the accuracy of LLM responses and incorporate it into their CI/CD pipeline or real-time system. The library is comprehensive but complex, and Rohit Agarwal provides a simplified guide to using it. Feedback from Andrew K., Shyamal Hitesh Anadkat, and Ravi Theja Desetty was incorporated into the guide.
+
+Link: https://www.linkedin.com/posts/1rohitagarwal_llms-generativeai-openai-activity-7065325624587878400-woqN?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/1730aeca-576c-421f-8fe0-9c133d13a668.png" width="400" />
+<br/><br/>
+
 ## Microsoft Unveils Guidance: A Revolutionary Language for Seamless Prompt Programming
 Summary: Microsoft AI introduces Guidance, a next-generation language for prompt programming that provides structure for text output, enabling users to write prompts confidently without worrying about hallucinations and incorrect results. It aims to establish a standard in prompt programming, allowing prompts to be chained from one utility to another while retaining truthfulness and minimizing token usage.
 
