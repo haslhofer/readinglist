@@ -1,3 +1,11 @@
+## ModelScope: "Model-as-a-Service" Bringing State-of-the-Art AI Models to Everyone
+Summary: ModelScope is a library that provides a model-as-a-service (MaaS) platform for training, inferencing, and evaluating machine learning models. It offers a unified interface for different tasks and models, making it easy for developers to integrate AI models into their applications. Additionally, ModelScope provides a rich set of tools for model management and deployment, allowing users to build their own MLOps systems.
+
+Link: https://github.com/modelscope/modelscope
+
+<img src="/img/db265ad9-26ac-475b-86de-c66a9e0033c2.png" width="400" />
+<br/><br/>
+
 ## Cassie Kozyrkov's 100-video series on YouTube teaches the basics of machine learning
 Summary: The provided text is a list of video titles from a YouTube playlist named "Making Friends with Machine Learning". There is no coherent paragraph that summarizes the content of the playlist.
 
