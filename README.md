@@ -1,3 +1,11 @@
+## Neural Radiance Fields for View Synthesis
+Summary: Researchers have developed a novel method for synthesizing novel views of complex scenes using a sparse set of input views. Their algorithm leverages a fully-connected deep network to represent a scene as a continuous volumetric scene function. This function takes a 5D coordinate as input (spatial location and viewing direction) and outputs the volume density and view-dependent emitted radiance at that location. Optimizing this neural radiance field allows for the generation of photorealistic novel views, outperforming prior work on neural rendering and view synthesis.
+
+Link: https://arxiv.org/abs/2003.08934
+
+<img src="/img/2233f056-2664-494c-9f95-e0ffc6039610.png" width="400" />
+<br/><br/>
+
 ## MAV3D: Unleashing the Power of Text to Generate Dynamic 3D Scenes
 Summary: MAV3D, a novel method for generating 3D dynamic scenes from text descriptions, is introduced. This method uses a 4D dynamic Neural Radiance Field (NeRF) optimized for scene appearance, density, and motion consistency by querying a Text-to-Video (T2V) diffusion-based model. The dynamic video output can be viewed from any camera location and angle and composited into any 3D environment. MAV3D does not require 3D or 4D data, and the T2V model is trained only on Text-Image pairs and unlabeled videos.
 
