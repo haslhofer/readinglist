@@ -1,3 +1,11 @@
+## Language Models' Self-Taught Tool Usage Improves Zero-Shot Performance
+Summary: A new model called Toolformer has been developed to allow language models to use external tools through simple APIs. Toolformer can decide which tools to use, when to use them, and how to incorporate the results into its predictions. The model was trained in a self-supervised manner using a small number of demonstrations for each API. Toolformer has shown improved zero-shot performance on a variety of downstream tasks, often comparable to larger models, while maintaining its core language modeling abilities.
+
+Link: https://arxiv.org/abs/2302.04761
+
+<img src="/img/5e6b5381-efc5-4306-a5ae-b0635d5ee371.png" width="400" />
+<br/><br/>
+
 ## Hugging Face Adds Support for BLIP-2, a Vision and Language Model for Deep Conversations Involving Images
 Summary: Multimodal models have emerged as an exciting new frontier in artificial intelligence, combining vision and language understanding for deeper conversations. BLIP-2, a state-of-the-art vision and language model from Salesforce, has been integrated into Hugging Face Transformers. It outperforms the 80-billion parameter Flamingo model showcasing impressive capabilities. Users can now experiment with BLIP-2 for image-related conversations and explore its potential applications in fields like medicine, art, and education.
 
