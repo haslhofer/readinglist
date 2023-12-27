@@ -1,3 +1,11 @@
+## Falcon Models by TII Are Now Open-Source Under the Apache 2.0 License
+Summary: The Falcon Models (7B/40B) from TII are now licensed under the Apache 2.0 License. This licensing change brings clarity and greater permissiveness, especially for commercial use. Users can now leverage the best-performing open source in open-source and commercial projects. Models are available on Hugging Face.
+
+Link: https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_exciting-news-falcon-models-from-tii-activity-7069750736250621952-GH9U?utm_source=share&utm_medium=member_android
+
+<img src="/img/2f717168-802e-486d-9ed8-8be6594138d5.png" width="400" />
+<br/><br/>
+
 ## Gorilla: An API store for LLMs
 Summary: Gorilla is an Apache 2.0 licensed, commercially usable API store for LLMs. It enables LLMs to use external APIs by invoking them with semantically and syntactically correct calls. With over 1,600 APIs, Gorilla provides a drop-in alternative for function-calling. It reduces hallucination and improves accuracy in making API calls. The project includes the APIBench dataset, evaluation code, and instructions for running Gorilla locally. Additionally, a CLI interface allows users to chat with Gorilla models. The Gorilla team welcomes suggestions, contributions, and collaborations.
 
