@@ -1,3 +1,11 @@
+## Google Brain and Tel Aviv University Propose Text-to-Image Model Guided By Sketches
+Summary: Researchers from Google Brain and Tel Aviv University have introduced a novel method for guiding the inference process of a pre-trained text-to-image diffusion model using an edge predictor. This predictor operates on the internal activations of the diffusion model's core network, enabling the synthesized image's edges to adhere to a reference sketch. The Latent Edge Predictor (LEP) is trained to map the internal activations into spatial edge maps, allowing the model to generate realistic samples guided by both a text prompt and an input sketch. This approach provides a general method for directing the image generation process with spatial information from another domain, such as sketches, and showcases impressive results in aligning the generated images with the desired sketch outline.
+
+Link: https://www.marktechpost.com/2023/01/19/google-brain-and-tel-aviv-university-researchers-proposed-a-text-to-image-model-guided-by-sketches/
+
+<img src="/img/82cfff03-92f9-4e9a-9b55-7f52681a943f.png" width="400" />
+<br/><br/>
+
 ## Four Ski Resorts Where You Can Still Afford a Ski Vacation
 Summary: Due to the rising cost of skiing vacations, many skiers are seeking more affordable options. This article presents four highly regarded ski resorts that offer world-class skiing at attainable prices. These resorts, known for their well-groomed slopes, affordable lift tickets, and friendly ski-village vibes, provide an alternative to the increasingly expensive ski destinations.
 
