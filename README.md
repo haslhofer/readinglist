@@ -1,3 +1,11 @@
+## 404 Error: Page Not Found
+Summary: The page you are trying to access could not be found due to an error in the URL or the page has been moved or deleted. You can return to the homepage or try searching for the content you are seeking. Additionally, you can access the help desk, contact Masterpiece Studio, or log in to your account. Information about the company, careers, privacy policy, and terms of use is also available.
+
+Link: https://masterpiecestudio.com/blog/announcing-generative-animations
+
+<img src="/img/9fe38f24-0fd2-4582-a66d-9330ea453671.png" width="400" />
+<br/><br/>
+
 ## Catalog and Classification of Popular Transformer Models
 Summary: The paper provides a catalog and classification of the most popular Transformer models, which are a type of foundation model that has recently gained popularity in natural language processing tasks. It includes an introduction to critical aspects and innovations in Transformer models and covers models trained using self-supervised learning and those further trained with human input. The catalog aims to offer a comprehensive yet straightforward resource for understanding the Transformer model landscape.
 
