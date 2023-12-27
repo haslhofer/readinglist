@@ -1,3 +1,11 @@
+## Chroma: Open-source embedding database enabling effortless document retrieval for LLM applications
+Summary: Chroma is an open-source embedding database that simplifies building Python or JavaScript LLM apps with memory. It offers simple APIs for creating collections, adding documents, querying, and filtering. Key features include easy integration with various language models, scaling from prototyping to production, support for different embedding methods, and a user-friendly interface. Chroma is Apache 2.0 licensed and welcomes contributions and ideas from the community to enhance the project.
+
+Link: https://github.com/chroma-core/chroma
+
+<img src="/img/dd7906b2-8139-49b2-9863-fc01d0508955.png" width="400" />
+<br/><br/>
+
 ## Read the Docs documentation page not found
 Summary: The provided text describes a "404 Not Found" error encountered while browsing the documentation of "langchain" on "Read the Docs." It suggests navigating to the project's index page or using the search function to find similar information. Additionally, tips for addressing 404 errors, such as creating custom 404 pages and setting up redirects, are mentioned. The site also encourages readers to sign up for a newsletter to receive blog updates and provides links to the company's job listings, advertising opportunities, and various resources including a tutorial, team, documentation, and support.
 
