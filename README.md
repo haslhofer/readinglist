@@ -1,3 +1,11 @@
+## Gorilla: An API store for LLMs
+Summary: Gorilla is an Apache 2.0 licensed, commercially usable API store for LLMs. It enables LLMs to use external APIs by invoking them with semantically and syntactically correct calls. With over 1,600 APIs, Gorilla provides a drop-in alternative for function-calling. It reduces hallucination and improves accuracy in making API calls. The project includes the APIBench dataset, evaluation code, and instructions for running Gorilla locally. Additionally, a CLI interface allows users to chat with Gorilla models. The Gorilla team welcomes suggestions, contributions, and collaborations.
+
+Link: https://github.com/ShishirPatil/gorilla
+
+<img src="/img/af87453b-b16c-497a-ac21-5f030023e633.png" width="400" />
+<br/><br/>
+
 ## Introducing PodcastSocialMediaCopilot: A Python Library for Creating Engaging Social Media Posts for Podcasts
 Summary: PodcastSocialMediaCopilot is a Python script that generates social media captions and hashtags for podcast episodes using natural language processing (NLP). It uses the Dolly 2 NLP model from Hugging Face to extract key concepts and entities from podcast transcripts, and then generates creative and engaging captions and hashtags based on these insights. The script can be easily integrated into podcast production workflows to streamline social media promotion efforts.
 
