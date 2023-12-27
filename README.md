@@ -1,3 +1,11 @@
+## Cassie Kozyrkov's 100-video series on YouTube teaches the basics of machine learning
+Summary: The provided text is a list of video titles from a YouTube playlist named "Making Friends with Machine Learning". There is no coherent paragraph that summarizes the content of the playlist.
+
+Link: http://bit.ly/mf-ml
+
+<img src="/img/c38686f1-c1f6-4869-a1d3-c8636ba5c718.png" width="400" />
+<br/><br/>
+
 ## MIT Professor Offers Free Introductory Course on Deep Learning
 Summary: MIT Professor Alexander Amini is offering a free introductory course on deep learning, with applications in computer vision, natural language processing, biology, and more. The course is designed for students with prior knowledge in calculus and linear algebra and provides foundational knowledge of deep learning algorithms and practical experience in building neural networks using TensorFlow. The course concludes with a project proposal competition with feedback from staff and industry sponsors.
 
