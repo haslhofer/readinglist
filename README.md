@@ -1,3 +1,11 @@
+## Docker Strengthens Testing Capabilities with Acquisition of AtomicJar
+Summary: Docker recently acquired AtomicJar, signaling a shift in software testing toward a "shift left" approach. This involves incorporating testing earlier in the development process, enabling developers to quickly and easily test code changes as they are made, potentially reducing the time and effort spent on bug fixing during the later stages of software development.
+
+Link: https://hub.docker.com/r/kevinsimper/wkhtmltoimage/#!
+
+<img src="/img/1efdb1f9-e8b2-4b09-9a55-d65809fc19d1.png" width="400" />
+<br/><br/>
+
 ## Fine-tune FLAN-T5 XXL using DeepSpeed and Amazon SageMaker
 Summary: This post details the process of fine-tuning the FLAN-T5 XXL model using DeepSpeed on Amazon SageMaker. It begins by explaining how to prepare the dataset and upload it to S3. Then, it explains how to create a custom DeepSpeed launcher script and a deepspeed configuration file. Finally, it provides instructions on how to create a SageMaker training job using the HuggingFace Estimator, defining the required hyperparameters and data input dictionary. The post concludes by mentioning the possibility of deploying the trained model to a SageMaker Endpoint.
 
