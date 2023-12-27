@@ -1,3 +1,11 @@
+## NVIDIA Instant NeRF: Digital artists compose beautiful scenes with inverse rendering
+Summary: Digital artists use NVIDIA Instant NeRF, an inverse rendering tool, to create immersive 3D scenes from static 2D images in minutes. Instant NeRF allows artists to capture the light, reflections, and movement of a scene, providing viewers with a sense of presence and the freedom to explore from different perspectives. The process involves capturing images from multiple perspectives, compiling and training the codebase, and using spatial location and volumetric rendering to generate the 3D scene. Artists can train their first NeRF in an hour and explore the new possibilities of neural radiance fields in real time.
+
+Link: https://nvda.ws/3Id3KuT
+
+<img src="/img/4655b314-99e5-4a96-b35c-d805d848ebc0.png" width="400" />
+<br/><br/>
+
 ## Harnessing NeRF Technology for Creative Filmmaking: A Detailed Tutorial
 Summary: Karen X. Cheng, an influencer, shared a tutorial on using NeRF (Neural Radiance Fields) for creative filmmaking shots, particularly the Dolly Zoom effect, using the Luma AI app. She provides detailed tips and instructions for both Android and iPhone users, emphasizing the importance of capturing diverse footage to ensure a smooth Dolly Zoom effect. Cheng also highlights the advantages of using the web version for precise adjustments. troubleshooting tips, and showcasing the final creative shot captured using this technique.
 
