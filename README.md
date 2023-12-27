@@ -1,3 +1,11 @@
+## External Link Safety Warning on LinkedIn
+Summary: The provided context does not contain any information about LinkedIn, so I am unable to summarize it.
+
+Link: https://lnkd.in/guUVdJKp
+
+<img src="/img/6e712bad-f550-4163-9125-cee2c2f3227c.png" width="400" />
+<br/><br/>
+
 ## LinkedIn Warns Users of External Link's Potential Safety Risks
 Summary: The provided text is a warning message from LinkedIn informing the user that they are about to visit an external link that LinkedIn cannot verify for safety. The user is advised to learn more about the link before proceeding.
 
