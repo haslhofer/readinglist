@@ -1,3 +1,11 @@
+## Top Deep Learning Papers of 2022 Reviewed
+Summary: In this article, Diego Bonilla discusses the top deep learning papers of 2022. He highlights VicReg, a self-supervised learning method that reduces the need for labeled data but faces challenges in training and collapse. Bonilla also mentions other notable deep learning achievements, such as the progress of generative models and the increasing size and sophistication of deep learning models. He emphasizes that his perspective is biased towards computer vision and non-supervised learning, acknowledging the existence of other excellent deep learning research in different areas.
+
+Link: https://link.medium.com/Iei0OAG10wb
+
+<img src="/img/91ab1914-68dc-4cba-8217-990ac0c11a20.png" width="400" />
+<br/><br/>
+
 ## Neural Radiance Fields for View Synthesis
 Summary: Researchers have developed a novel method for synthesizing novel views of complex scenes using a sparse set of input views. Their algorithm leverages a fully-connected deep network to represent a scene as a continuous volumetric scene function. This function takes a 5D coordinate as input (spatial location and viewing direction) and outputs the volume density and view-dependent emitted radiance at that location. Optimizing this neural radiance field allows for the generation of photorealistic novel views, outperforming prior work on neural rendering and view synthesis.
 
