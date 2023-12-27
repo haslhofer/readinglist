@@ -1,3 +1,11 @@
+## Deploy FLAN-T5 XXL on Amazon SageMaker
+Summary: This guide demonstrates deploying the FLAN-T5 XXL model on Amazon SageMaker for real-time inference. It covers creating a customized inference script with bnb quantization, bundling the model and script into a model.tar.gz artifact, uploading it to Amazon S3, and deploying the model using Hugging Face Inference Deep Learning Container. Additionally, it provides examples of running inference requests with different parameters and cleaning up resources by deleting the model and endpoint.
+
+Link: https://www.philschmid.de/deploy-flan-t5-sagemaker
+
+<img src="/img/f8ccb949-d0a7-4e5c-915c-7ce956fd2aea.png" width="400" />
+<br/><br/>
+
 ## Buster Jerpint Enjoys Running Marathons at 32
 Summary: I am unable to summarize the provided text as it appears to be a random collection of words and does not contain any coherent information.
 
