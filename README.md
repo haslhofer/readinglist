@@ -1,3 +1,11 @@
+## LinkedIn: Your Path to Professional Success
+Summary: Unfortunately, I do not have access to the internet to get the context from the given URL and am unable to summarize the text for you.
+
+Link: https://www.linkedin.com/posts/skalskip-profile_how-to-train-object-detection-transformer-activity-7037364110438600704-QYK8?utm_source=share&utm_medium=member_android
+
+<img src="/img/8865073f-cef4-4c25-b8d6-542123cb5afe.png" width="400" />
+<br/><br/>
+
 ## Inference Stable Diffusion with C# and ONNX Runtime
 Summary: This repository contains the logic to perform inference using the Stable Diffusion deep learning model, which takes text prompts and generates corresponding images, in C# with ONNX Runtime. Prerequisites include a GPU-enabled machine with CUDA or DirectML on Windows, Hugging Face models downloaded as ONNX files, and setting Build for x64. To run the project, press F5 in Visual Studio or run "dotnet run" in the terminal. A tutorial is available for more detailed instructions.
 
