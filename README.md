@@ -1,3 +1,11 @@
+## MIT Professor Offers Free Introductory Course on Deep Learning
+Summary: MIT Professor Alexander Amini is offering a free introductory course on deep learning, with applications in computer vision, natural language processing, biology, and more. The course is designed for students with prior knowledge in calculus and linear algebra and provides foundational knowledge of deep learning algorithms and practical experience in building neural networks using TensorFlow. The course concludes with a project proposal competition with feedback from staff and industry sponsors.
+
+Link: https://www.linkedin.com/feed/update/urn:li:activity:7042896105734344704?utm_source=share&utm_medium=member_android
+
+<img src="/img/8b58d4d3-38ad-4f9c-b500-c9e6dfeff0a7.png" width="400" />
+<br/><br/>
+
 ## Instruct-GPT-J-fp16: Fine-tuned GPT-J for Instruction-Based Tasks
 Summary: The Instruct GPT-J model demonstrates GPT-J's capability as an "instruct" model after fine-tuning on an instruction dataset. It can respond to instructions in natural language and generate text accordingly. The model is easy to use with Transformers and can be fine-tuned for advanced use cases. It is an fp16 version optimized for entry-level GPUs like NVIDIA Tesla T4 and delivers similar quality to the fp32 version. The dataset used for fine-tuning is available, and instructions should be provided with new lines at the end for optimal performance.
 
