@@ -1,3 +1,11 @@
+## Wkhtmltox-Dockerized: A web service for wkhtmltopdf and wkhtmltoimage with easy to use API
+Summary: Go-wkhtmltox is a web service providing a REST API for converting web pages to PDF or images. It integrates the headless browser engine wkhtmltopdf and wkhtmltoimage. Users can send POST requests with JSON data specifying the conversion options, including the target format, PDF/image settings, and the web page to convert. The service can fetch data from a URL or accept it directly as a base64-encoded string. It supports customization through templates to modify the response structure and provide different rendering options. Users can run the service locally or deploy it in a Docker container. Additionally, the project offers the ability to create custom fetchers for specific data sources.
+
+Link: https://github.com/gogap/go-wkhtmltox
+
+<img src="/img/1d39be64-38b5-4e22-ab30-84a9c02b6dcf.png" width="400" />
+<br/><br/>
+
 ## Docker Strengthens Testing Capabilities with Acquisition of AtomicJar
 Summary: Docker recently acquired AtomicJar, signaling a shift in software testing toward a "shift left" approach. This involves incorporating testing earlier in the development process, enabling developers to quickly and easily test code changes as they are made, potentially reducing the time and effort spent on bug fixing during the later stages of software development.
 
