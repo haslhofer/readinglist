@@ -1,3 +1,11 @@
+## Instruct-GPT-J-fp16: Fine-tuned GPT-J for Instruction-Based Tasks
+Summary: The Instruct GPT-J model demonstrates GPT-J's capability as an "instruct" model after fine-tuning on an instruction dataset. It can respond to instructions in natural language and generate text accordingly. The model is easy to use with Transformers and can be fine-tuned for advanced use cases. It is an fp16 version optimized for entry-level GPUs like NVIDIA Tesla T4 and delivers similar quality to the fp32 version. The dataset used for fine-tuning is available, and instructions should be provided with new lines at the end for optimal performance.
+
+Link: https://huggingface.co/nlpcloud/instruct-gpt-j-fp16
+
+<img src="/img/d092b04d-12e1-4465-bdc3-44cba7f54956.png" width="400" />
+<br/><br/>
+
 ## ViperGPT: A Framework for Visual Inference via Python Execution for Reasoning
 Summary: ViperGPT, a visual inference framework, combines vision-and-language models with code-generation models to execute Python code, enabling complex visual tasks without further training.
 
