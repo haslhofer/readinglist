@@ -1,3 +1,11 @@
+## Build Your Own Document Q&A Chatbot: A Step-by-Step Guide with GPT API and Custom Documents
+Summary: The author explores different approaches to build a chatbot based on one's own documents, including fine-tuning the GPT model and prompt engineering. After examining their shortcomings, they present a step-by-step guide to constructing a document Q&A chatbot utilizing llama-index and GPT API, emphasizing the effectiveness and efficiency of this method.
+
+Link: https://bootcamp.uxdesign.cc/a-step-by-step-guide-to-building-a-chatbot-based-on-your-own-documents-with-gpt-2d550534eea5
+
+<img src="/img/edc28c67-bfc1-4467-a8c2-b773a7ae9bf1.png" width="400" />
+<br/><br/>
+
 ## Top Websites to Accelerate Your Learning
 Summary: The internet is a vast resource for learning, and this article provides a list of top websites to accelerate your learning. The websites include YouTube for video lectures, Khan Academy for interactive lessons and practice tests, Coursera for online courses from top universities, edX for courses from leading institutions, Udemy for skill-building courses, LinkedIn Learning for professional development courses, Open Library for free e-books and audiobooks, the Library of Congress for primary source documents, OverDrive for e-books and audiobooks from your local library, and BuiltWith to analyze the technologies used by websites.
 
