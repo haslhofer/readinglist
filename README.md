@@ -1,3 +1,11 @@
+## Generative AI Market Dynamics and Where Value Will Accrue
+Summary: 
+
+Link: https://a16z.com/2023/01/19/who-owns-the-generative-ai-platform/
+
+<img src="/img/92428bfa-d9a7-4765-9a2d-fd23b80a36c7.png" width="400" />
+<br/><br/>
+
 ## Researchers Introduce Custom Diffusion: A Method to Personalize Generative Art Models with Fine-tuning
 Summary: 
 
