@@ -1,3 +1,11 @@
+## OMMO: A Large-Scale Outdoor Multi-Modal Dataset and Benchmark for Novel View Synthesis and Implicit Scene Reconstruction
+Summary: The OMMO dataset, a large-scale outdoor multimodal dataset, presents a benchmark for outdoor NeRF-based tasks. It contains complex objects and scenes with calibrated images, point clouds, and detailed prompt annotations. The dataset consists of real fly-view videos, with high-resolution and high-quality video clips selected and refined through an automatic learning-based evaluation and manual review process. Volunteers further provided text descriptions for each scene and keyframe. The OMMO dataset offers abundant urban and natural scenes, varying scales, camera trajectories, and lighting conditions, making it valuable for novel view synthesis, surface reconstruction, and multi-modal NeRF tasks.
+
+Link: https://ommo.luchongshan.com/
+
+<img src="/img/d7dc92b4-52d8-40b2-ac4e-a03a319cd106.png" width="400" />
+<br/><br/>
+
 ## Top Deep Learning Papers of 2022: Exploring Landmark Breakthroughs in Computer Vision and Beyond
 Summary: In 2022, deep learning witnessed breakthroughs in generative models. Artificial Intelligence's models continue to grow larger, smarter, and more expensive. Self-Supervised Learning aims to train networks using unlabeled data to overcome the challenges of manual labeling. SimSiam introduced a crucial technique to prevent "collapse" in Self-Supervised Learning.
 
