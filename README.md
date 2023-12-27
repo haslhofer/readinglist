@@ -1,3 +1,11 @@
+## LinkedIn: Building Your Professional Network
+Summary: Unfortunately, I lack the ability to access the internet and cannot provide a summary of the given link.
+
+Link: https://www.linkedin.com/feed/hashtag/?keywords=etl&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7018092928241721344
+
+<img src="/img/e492cd40-8d8b-4bbf-97c0-27cdd074abe3.png" width="400" />
+<br/><br/>
+
 ## LinkedIn: Unlock Your Professional Potential
 Summary: The provided text does not contain any information, so I am unable to summarize it.
 
