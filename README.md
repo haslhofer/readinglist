@@ -1,3 +1,11 @@
+## Future of AI: Move from closed API models to customized Foundation Models (FMs) for specific data and workloads
+Summary: Foundation models (FMs) like GPT-4 will be used widely in the future, but they will be trained on users' data and workloads, resulting in "GPT-You" instead of "GPT-X." Closed APIs are indefensible because recent demonstrations show that cloning FMs like ChatGPT is possible for a few hundred dollars. The durable moat lies in data, as training on open web data has limitations for complex, enterprise-specific tasks. The last mile, fine-tuning the model with labeled data, generates real value and accuracy for production use cases.
+
+Link: https://www.linkedin.com/posts/alexander-ratner-038ba239_tatsunori-hashimoto-on-twitter-activity-7048435669366427648-KPTv?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/03657dea-0ba0-4dc6-a250-b71ebf35fe8d.png" width="400" />
+<br/><br/>
+
 ## LLaMA-Adapter: Efficiently Fine-tuning Large Language Models with Zero-initialized Attention
 Summary: The paper introduces LLaMA-Adapter, a lightweight adaptation method for efficiently fine-tuning the LLaMA language model for instruction-following tasks. Utilizing 52K self-instruction demonstrations, LLaMA-Adapter requires only 1.2M additional learnable parameters, significantly fewer than fully fine-tuning the massive 7B parameter LLaMA model. The method employs a set of learnable adaptation prompts prepended to word tokens at higher transformer layers. A zero-initialized attention mechanism with zero gating adaptively integrates instructional cues into LLaMA while preserving its pre-trained knowledge. LLaMA-Adapter generates high-quality responses comparable to models with fully fine-tuned 7B parameters. It can also be extended to multi-modal instructions for learning image-conditioned LLaMA models, demonstrating superior reasoning performance on ScienceQA and COCO Caption benchmarks. The zero-initialized attention mechanism also shows promise for fine-tuning other pre-trained models like ViT and RoBERTa on vision and language tasks.
 
