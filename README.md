@@ -1,3 +1,11 @@
+## Build Your Own Custom ChatGPT With Custom Knowledge Base
+Summary: ChatGPT has become a widely used tool for automation, but its limited context and accuracy can be problematic. Prompt engineering can be used to extend ChatGPT's capabilities, but it is a manual and tedious process. This article explores the possibility of feeding ChatGPT custom data sources to improve its knowledge and accuracy. It discusses various methods for doing this, including using GPT-4, using custom knowledge bases, and using natural language querying. The author also provides practical examples and code snippets to help readers implement these techniques.
+
+Link: https://betterprogramming.pub/how-to-build-your-own-custom-chatgpt-with-custom-knowledge-base-4e61ad82427e
+
+<img src="/img/b7718306-92fb-4e53-961f-d84c13db6969.png" width="400" />
+<br/><br/>
+
 ## Databricks 404 Error Page
 Summary: I am sorry, but the provided text does not contain substantial information to summarize. The provided text primarily consists of website page elements like links, headings, and company contact details, rather than coherent paragraphs or text suitable for summarization.
 
