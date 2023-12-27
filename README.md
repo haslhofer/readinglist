@@ -1,3 +1,11 @@
+## ChatGPT is likened to a blurry JPEG image of the web, capable of paraphrasing but not quoting, creating a sense of understanding but prone to hallucinations.
+Summary: Large language models (LLMs) like ChatGPT are similar to lossy compression algorithms, which store data in a compressed format to save space. This analogy helps understand their strengths and weaknesses. LLMs can paraphrase and summarize information, but their answers are approximate and can sometimes be inaccurate, like blurry jpegs of the web. This is due to compression artifacts, where information is lost in the compression process. Conversely, lossless compression algorithms preserve all information, but the resulting file size can be large. While LLMs may be useful for tasks like generating text or summarizing information, they shouldn't replace original writing and thinking. Creating original content requires the effort to articulate thoughts and revise them, something that LLMs currently lack.
+
+Link: https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web
+
+<img src="/img/5f74c163-455c-4623-9267-384b3e97add1.png" width="400" />
+<br/><br/>
+
 ## Create a Powerful Professional Presence with LinkedIn
 Summary: Unfortunately, I cannot extract the necessary context from the provided URL to summarize the topic of the text "Make the most of your professional life".
 
