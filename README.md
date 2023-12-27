@@ -1,3 +1,11 @@
+## Open-source repository PrimeQA simplifies research and development in multilingual question answering
+Summary: IBM Research AI created PrimeQA, an open-source repository that provides all the tools necessary for creating a custom QA application. It allows researchers to easily replicate state-of-the-art published results, customize models to suit their needs, and quickly deploy pre-trained models. PrimeQA includes implementations of state-of-the-art retrievers and readers, enabling training, inference, and performance evaluation. Additionally, it supports auxiliary capabilities like question generation. With its user-friendly design and reusable components, PrimeQA aims to simplify and accelerate QA research and development.
+
+Link: https://www.marktechpost.com/2023/03/03/with-just-20-lines-of-python-code-you-can-do-retrieval-augmented-gpt-based-qa-using-this-open-source-repository-called-primeqa/
+
+<img src="/img/bd07ffc4-3062-4845-bb86-2f53c6d0aac0.png" width="400" />
+<br/><br/>
+
 ## Nebuly Introduces ChatLLaMA, Open-Source Implementation of LLaMA Based on Reinforcement Learning from Human Feedback
 Summary: Nebuly has created ChatLLaMA, an open-source implementation of LLaMA based on Reinforcement Learning from Human Feedback (RLHF), allowing users to build ChatGPT-like services. It has complete code for replication and offers faster training and inference due to LLaMA's smaller size. Fine-tuning requires Meta's original weights and a custom dataset, or generation using LangChain's agents. Nebuly calls for contributions to improve the library, including checkpoints, optimization, and packaging for deployment.
 
