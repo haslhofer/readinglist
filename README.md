@@ -1,3 +1,11 @@
+## Catalog and Classification of Popular Transformer Models
+Summary: The paper provides a catalog and classification of the most popular Transformer models, which are a type of foundation model that has recently gained popularity in natural language processing tasks. It includes an introduction to critical aspects and innovations in Transformer models and covers models trained using self-supervised learning and those further trained with human input. The catalog aims to offer a comprehensive yet straightforward resource for understanding the Transformer model landscape.
+
+Link: https://arxiv.org/abs/2302.07730
+
+<img src="/img/d891ffd3-d7c0-4a7a-815a-20e34423587e.png" width="400" />
+<br/><br/>
+
 ## Neural Architecture of Speech: Aligning Speech Models with Brain Activity
 Summary: The study investigates how human speech is processed by probing neural speech models to predict both language and auditory brain region activations. Thirty speech representation models are grouped into four categories: traditional feature engineering, generative, predictive, and contrastive. Among the investigated models, Data2Vec (predictive model) showed the best alignment with both language and auditory brain regions. Both language and auditory brain areas are best aligned with intermediate layers in deep learning models.
 
