@@ -1,3 +1,11 @@
+## CarperAI and partners to release open-source "instruction-tuned" large language model
+Summary: CarperAI, a new lab within EleutherAI, is working on releasing the first open-source “instruction-tuned” language model. This model will be trained with Reinforcement Learning from Human Feedback (RHLF) to follow human instructions and produce more socially acceptable and honest content. The goal is to democratize access to large language models and enable academics, independent researchers, and startups to conduct research and build upon state-of-the-art models.
+
+Link: https://carper.ai/instruct-gpt-announcement/
+
+<img src="/img/998cd6a6-6ecb-4631-b782-12e2131e75f6.png" width="400" />
+<br/><br/>
+
 ## OpenAssistant, a conversational AI developed through open data collection, concludes its journey.
 Summary: OpenAssistant, a conversational AI project, has gathered and made publicly available data, models, and code from over 13,000 contributors. The project aims to provide conversational AI for everyone, and its data, models, and code are openly accessible. The project has also shared a list of contributors, a paper, and links to GitHub, the HuggingFace organization, and a video by Yannic summarizing the project. Additionally, OpenAssistant suggests other open-data projects like LMSYS Chatbot Arena and Open Empathic for those interested in supporting similar initiatives.
 
