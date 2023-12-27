@@ -1,3 +1,52 @@
+## An In-Depth Guide to Denoising Diffusion Probabilistic Models – From Theory to Implementation
+Summary: Diffusion probabilistic models, first introduced in 2015, gained popularity in 2020 when Ho et al. published the paper, "Denoising Diffusion Probabilistic Models" (DDPMs). DDPMs made diffusion models practical by improving and achieving "image fidelity" rivaling Generative Adversarial Networks (GANs).
+
+The authors changed the formulation and model training procedures, which helped improve and achieve "image fidelity" rivaling GANs and established the validity of these new generative algorithms.
+
+The key concepts and techniques behind DDPMs are:
+
+1. Generative Models: The job of generative models is to generate new images similar to the original set of images.
+
+2. Forward and Reverse Diffusion Process:
+   - Forward Diffusion Process: The forward process gradually corrupts the images such that they move away from their existing subspace.
+   - Reverse Diffusion Process: The aim is to reverse the forward diffusion process and gradually recover the original images.
+
+3. Denoising Diffusion Probabilistic Models (DDPMs):
+   - DDPMs are a class of generative models inspired by an idea in Non-Equilibrium Statistical Physics.
+   - They are composed of two opposite processes, the Forward & Reverse Diffusion Process.
+
+4. Mathematical Details:
+   - Forward Diffusion Kernel (FDK) and Reverse Diffusion Kernel (RDK) define the PDF of an image at a particular time step in the forward and reverse diffusion processes, respectively.
+   - The diffusion rate, denoted by beta, is precalculated using a variance scheduler.
+   - The forward diffusion process is fixed and known, and the intermediate noisy images are called latents.
+   - The FDK is defined as a normal distribution with mean and covariance determined by beta and an identity matrix, respectively.
+   - Gaussian noise is added at each time step regulated by the scheduler.
+   - Skipping intermediate steps in the Markov chain is achieved by reformulating the kernel to directly go from timestep 0 to t.
+
+5. Training Objective & Loss Function:
+   - The training objective is to maximize the log-likelihood of the sample generated at the end of the reverse process.
+   - The loss function is derived from the variational lower bound (VLB), also known as Evidence lower bound (ELBO).
+   - The simplified loss function used in DDPMs is the Mean Squared Error between the noise added in the forward process and the noise predicted by the model.
+
+6. Writing DDPMs From Scratch In PyTorch:
+   - The article provides a step-by-step guide to creating the necessary components for training DDPMs from scratch in PyTorch.
+
+7. Training and Sampling Algorithms:
+   - The article includes code for the training and sampling algorithms used in DDPMs.
+
+8. Applications:
+   - DDPMs have been the foundation for cutting-edge image generation systems like DALL-E 2, Imagen, Stable Diffusion, and Midjourney.
+
+9. Conclusion:
+   - Diffusion models are a rapidly growing field with exciting possibilities for the future.
+
+In summary, the article provides a comprehensive overview of DDPMs, including their concepts, mathematical details, training, and sampling algorithms, and demonstrates how to implement DDPMs from scratch in PyTorch.
+
+Link: https://learnopencv.com/denoising-diffusion-probabilistic-models/
+
+<img src="/img/6558131e-6066-4ed1-a7ac-2142013b6f63.png" width="400" />
+<br/><br/>
+
 ## Keras Dreambooth Sprint: Train, Demo, and Submit Models for Fine-tuning Stable Diffusion
 Summary: The Keras Dreambooth event organized by Hugging Face is set to take place between March 6th and April 7th, 2023. Participants will be tasked with fine-tuning Stable Diffusion models on concepts of their choice using Dreambooth, hosting the models on Hugging Face Hub, filling out model cards, and creating demos using Gradio. Prizes will be awarded to the top three submissions in categories like nature and animals, sci-fi/fantasy universes, consentful, and wild-card. The event aims to showcase innovative applications of Dreambooth and encourage collaboration within the Hugging Face community.
 
