@@ -1,3 +1,11 @@
+## Panic-Selling in Silicon Valley as Laid-Off Workers Flood Markets with Startup Shares
+Summary: Due to falling valuations, numerous laid-off Silicon Valley employees are selling their start-up shares in a panic, causing a potential drop in valuations. Valuations soared from 2020 due to low-interest rates, and tech workers received a large portion of their compensation in stock-based compensation, which is now having the opposite effect as valuations decline. The article recommends considering other investment options, like Adobe and Microsoft, that are profitable despite the economic downturn.
+
+Link: https://finance.yahoo.com/news/laid-off-silicon-valley-workers-150000073.html
+
+<img src="/img/1dee29ae-8eeb-4d6e-a131-b3e7b12bcb96.png" width="400" />
+<br/><br/>
+
 ## New Technique can Gauge the Performance of AI Models Trained on Synthetic Data When Applied to Real-World Data
 Summary: A newly introduced framework trains credit scoring models based on synthetic data and evaluates their performance on real-world data. CTGAN and TVAE, two state-of-the-art synthetic data generators, were compared, and TVAE showed better results. The framework can analyze the model's ability to handle data drift and yielded good performance with a minor loss in predictive power when applied to real-world data.
 
