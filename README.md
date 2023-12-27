@@ -1,3 +1,11 @@
+## Harvard offers free courses in programming, pricing strategy, customer needs, game development, biochemistry, remote work, life lessons, rhetoric and ancient Chinese philosophy among others.
+Summary: Harvard University is providing 10 courses for free, and no application or fee is necessary to join. The courses cover various topics such as programming, pricing strategy, customer needs, game development, biochemistry, remote work, super-earths and life, managing happiness, persuasive writing and public speaking, and the path to happiness through Chinese philosophy. The article also provides a link to a post where people can suggest other courses that they found helpful for getting started.
+
+Link: https://www.linkedin.com/posts/iamarifalam_harvarduniversity-writing-coding-activity-7035581774940246016-4kBg?utm_source=share&utm_medium=member_android
+
+<img src="/img/d3ca4308-ef20-4fd2-b138-72d2b32397fa.png" width="400" />
+<br/><br/>
+
 ## AiEdge: A Vast Array of Machine Learning-Related Content and Offerings
 Summary: The provided text is a collection of blog posts published on the AiEdge website, covering topics such as machine learning, artificial intelligence, transformers for LLMs, and natural language processing. These posts delve into concepts, applications, and techniques in these fields, offering insights and tutorials for readers interested in learning about these technologies.
 
