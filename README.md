@@ -1,3 +1,11 @@
+## MosaicML, a platform for training large language models, has acquired MosaicBERT, an architecture and training recipe that allows users to pretrain a competitive BERT-Base model from scratch for $20.
+Summary: MosaicML, a Databricks subsidiary, introduces MosaicBERT, an optimized architecture and training recipe that enables the pretraining of a competitive BERT-Base model from scratch for $20. This breakthrough makes custom BERT models accessible to researchers and engineers, allowing them to build better models for their specific domains without time and cost constraints. MosaicBERT outperforms the baseline BERT-Base in four out of eight GLUE tasks across various pretraining durations and matches the original BERT’s average GLUE score of 79.6 in 1.13 hours on 8xA100 GPUs. This significant advancement paves the way for domain-specific pretrained models that can achieve higher accuracy than generic models.
+
+Link: https://www.mosaicml.com/blog/mosaicbert
+
+<img src="/img/20952542-91cf-491a-8a70-aa4632fcf993.png" width="400" />
+<br/><br/>
+
 ## CarperAI and partners to release open-source "instruction-tuned" large language model
 Summary: CarperAI, a new lab within EleutherAI, is working on releasing the first open-source “instruction-tuned” language model. This model will be trained with Reinforcement Learning from Human Feedback (RHLF) to follow human instructions and produce more socially acceptable and honest content. The goal is to democratize access to large language models and enable academics, independent researchers, and startups to conduct research and build upon state-of-the-art models.
 
