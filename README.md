@@ -1,3 +1,11 @@
+## Text2Poster: Laying Out Stylized Texts on Retrieved Images
+Summary: Text2Poster is a system that allows users to create posters with text laid out on retrieved images. The system uses a pre-trained text-image retrieval model BriVL to find suitable background images for the poster. Then, a layout distribution prediction model and a layout refinement model are used to determine the position and size of the text on the poster. The final poster is generated using freetype-py library for high-quality typography and OpenCV for image composition. The system can be used through an API or via the source code.
+
+Link: https://github.com/chuhaojin/Text2Poster-ICASSP-22
+
+<img src="/img/e0f96401-c0c0-4534-a895-ac1b7362c010.png" width="400" />
+<br/><br/>
+
 ## New AI tool lets you talk to your website using ChatGPT
 Summary: A new version of Aista Magic Cloud has been released, allowing users to integrate ChatGPT and AI into their website by copying and pasting a JavaScript tag. The tool automatically crawls the website, generates a machine learning model, and enables intelligent conversations based on ChatGPT. Reinforcement learning is utilized to improve accuracy over time. The website has roughly 70 pages, resulting in an initial accuracy of approximately 50%. The tool also logs questions and answers, allowing users to correct and retrain the model for higher accuracy
 
