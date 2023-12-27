@@ -1,3 +1,11 @@
+## ViperGPT: A Framework for Visual Inference via Python Execution for Reasoning
+Summary: ViperGPT, a visual inference framework, combines vision-and-language models with code-generation models to execute Python code, enabling complex visual tasks without further training.
+
+Link: https://paperswithcode.com/paper/vipergpt-visual-inference-via-python
+
+<img src="/img/fd387ad5-780b-4a08-99d1-e2e2d957025e.png" width="400" />
+<br/><br/>
+
 ## Chroma: Open-source embedding database enabling effortless document retrieval for LLM applications
 Summary: Chroma is an open-source embedding database that simplifies building Python or JavaScript LLM apps with memory. It offers simple APIs for creating collections, adding documents, querying, and filtering. Key features include easy integration with various language models, scaling from prototyping to production, support for different embedding methods, and a user-friendly interface. Chroma is Apache 2.0 licensed and welcomes contributions and ideas from the community to enhance the project.
 
