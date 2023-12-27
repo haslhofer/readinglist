@@ -1,3 +1,11 @@
+## 
+Summary: 
+
+Link: https://www.linkedin.com/feed/update/urn:li:activity:7064229705507332096?utm_source=share&utm_medium=member_android
+
+<img src="/img/181b8d08-51c5-4c40-b71e-5d200ffb9e50.png" width="400" />
+<br/><br/>
+
 ## OpenAI's evals library helps evaluate and measure the accuracy of LLM systems
 Summary: Choosing the right LLM for a project can be difficult. OpenAI's evals library allows users to evaluate the accuracy of LLM responses and incorporate it into their CI/CD pipeline or real-time system. The library is comprehensive but complex, and Rohit Agarwal provides a simplified guide to using it. Feedback from Andrew K., Shyamal Hitesh Anadkat, and Ravi Theja Desetty was incorporated into the guide.
 
