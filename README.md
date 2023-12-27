@@ -1,3 +1,11 @@
+## Ski Resorts for Budget-Conscious Skiers
+Summary: With the increasing costs of ski resorts, some skiers are looking for more affordable options. Four highly regarded resorts that offer world-class skiing at attainable prices are Purgatory Resort in Colorado, Timberline Lodge on Mount Hood in Oregon, Ski Brule in Michigan, and Jay Peak Resort in Vermont. These resorts offer well-groomed slopes, affordable lift tickets, and a friendly ski-village vibe, without the extravagant extras found at other resorts.
+
+Link: https://www.wsj.com/articles/affordable-ski-resorts-11674060010
+
+<img src="/img/77a9836b-6766-4c55-b4c1-39eff290e6e0.png" width="400" />
+<br/><br/>
+
 ## OMMO: A Large-Scale Outdoor Multi-Modal Dataset and Benchmark for Novel View Synthesis and Implicit Scene Reconstruction
 Summary: The OMMO dataset, a large-scale outdoor multimodal dataset, presents a benchmark for outdoor NeRF-based tasks. It contains complex objects and scenes with calibrated images, point clouds, and detailed prompt annotations. The dataset consists of real fly-view videos, with high-resolution and high-quality video clips selected and refined through an automatic learning-based evaluation and manual review process. Volunteers further provided text descriptions for each scene and keyframe. The OMMO dataset offers abundant urban and natural scenes, varying scales, camera trajectories, and lighting conditions, making it valuable for novel view synthesis, surface reconstruction, and multi-modal NeRF tasks.
 
