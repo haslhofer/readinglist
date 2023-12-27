@@ -1,3 +1,11 @@
+## LinkedIn: Unlock Your Professional Potential
+Summary: I do not have access to the internet to provide a summary of the text.
+
+Link: https://www.linkedin.com/feed/hashtag/?keywords=bigdata&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7018092928241721344
+
+<img src="/img/c895d08a-25a3-4361-ba80-8c375a31e8b1.png" width="400" />
+<br/><br/>
+
 ## Unlock Your Professional Potential with LinkedIn
 Summary: LinkedIn is a professional networking site that helps its members build connections and find jobs. Users can create a profile that includes their work experience, skills, and interests. They can also join groups, share articles, and follow companies. LinkedIn also offers a variety of tools and services to help members connect with others, find jobs, and advance their careers.
 
