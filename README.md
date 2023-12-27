@@ -1,3 +1,11 @@
+## LinkedIn: Unlocking Your Professional Potential
+Summary: I lack the ability to access external websites or specific PDF documents, including the one you cited from linkedin.com. Therefore, I'm unable to summarize the text you mentioned.
+
+Link: https://www.linkedin.com/posts/chatgpt-generative-ai_chatgpt-for-blender-zero-shot-blender-code-activity-7045605285461176320-0Xl7?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/9cd31244-eb10-4dde-8473-9644f0f6f477.png" width="400" />
+<br/><br/>
+
 ## ChatGPT Retrieval Plugin: An Open-Source Tool for Semantic Search and Retrieval of Personal or Organizational Documents Using AI
 Summary: The ChatGPT Retrieval Plugin is a tool that allows users to search and retrieve documents using natural language queries. It uses OpenAI's text-embedding-ada-002 model to generate embeddings of document chunks, and then stores and queries them using a vector database on the backend. The plugin supports several vector database providers, including Elasticsearch, Weaviate, Zilliz, Milvus, Qdrant, Redis, Llama Index, Chroma, Azure Cognitive Search, Azure CosmosDB Mongo vCore, Supabase, Postgres, and AnalyticDB. The plugin exposes API endpoints for upserting, querying, and deleting documents from the vector database. Users can refine their search results by using metadata filters by source, date, author, or other criteria. The plugin can be hosted on any cloud platform that supports Docker containers, and can be kept up to date with the latest documents using incoming webhooks. The plugin also has a memory feature that allows ChatGPT to remember and retrieve information from previous conversations.
 
