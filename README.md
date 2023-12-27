@@ -1,3 +1,11 @@
+## "Finetuning Large Language Models: Reinforcement Learning with Human Feedback"
+Summary: This article explores various improvements in how we train large language models (LLMs) and compares reinforcement learning with human feedback (RLHF) to supervised learning (SL). The system for improving LLM outputs is based on integrating human feedback. The article says that RLHF is the most popular paradigm for enhancing LLMs and improving outputs, though recent studies show that supervised learning approaches can also work well. The section on image models covers text-to-image models and how to align them with human feedback. Notable research papers, headlines, open-source libraries, announcements, and study tips for reading research papers are included. The article also has a paper analysis of "Scaling Vision Transformers to 22 Billion Parameters."
+
+Link: https://open.substack.com/pub/sebastianraschka/p/ahead-of-ai-6-train-differently?r=6h2ps&utm_campaign=post&utm_medium=email
+
+<img src="/img/f4ab67ea-de8f-4ee1-a32a-063d402ca1a2.png" width="400" />
+<br/><br/>
+
 ## Ultra fast ControlNet with 🧨 Diffusers
 Summary: ControlNet, an extension to text-to-image diffusion models like Stable Diffusion, allows users to control the generation process using additional spatial contexts such as depth maps, segmentation maps, scribbles, keypoints, and more. The StableDiffusionControlNetPipeline in Diffusers makes it easy to use ControlNet. It provides a unified interface to handle different conditionings and pre-trained ControlNet models. This blog post explores various use cases of ControlNet, including turning cartoon drawings into realistic photos, using it as an interior designer, transforming sketches into artistic drawings, and bringing famous logos to life. The post also introduces the canny pre-processor and open pose pre-processor for ControlNet and how to combine multiple conditionings for a single image generation. Furthermore, it highlights techniques to make the generation process faster and memory-friendly using a fast scheduler, smart model offloading, and xformers. The post concludes by encouraging the community to build on top of the StableDiffusionControlNetPipeline and provides links to spaces where users can play around with ControlNet.
 
