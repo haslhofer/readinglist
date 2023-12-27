@@ -1,3 +1,11 @@
+## LinkedIn profile not found
+Summary: The exact LinkedIn profile you are searching for could not be found. It may be private or nonexistent. To search and filter among 930 million LinkedIn members, you need to sign in or join LinkedIn.
+
+Link: https://www.linkedin.com/in/ACoAACJzMI4BTUqzEvB3xp7WB5b8cubanufc6fc
+
+<img src="/img/7a55da70-a967-46d0-8cf8-d5c28555da83.png" width="400" />
+<br/><br/>
+
 ## External link not verified for safety
 Summary: The provided text is a warning message displayed when attempting to access an external link from LinkedIn. It informs the user that LinkedIn cannot verify the safety of the link and suggests that they learn more about the risks associated with external links before proceeding. The message also provides a link to additional information on the topic.
 
