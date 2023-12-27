@@ -1,3 +1,11 @@
+## Alpaca/LLama 7B language model, run on a Macbook Pro, achieves similar performance to ChatGPT 3.5 in certain aspects, though it is viewed as less sophisticated.
+Summary: The author conducted experiments with the Alpaca/LLaMA 7B language model to see if it can achieve similar performance to ChatGPT 3.5. Based on their observations, the author characterizes the Alpaca/LLaMA 7B model as a competent junior high school student, while ChatGPT 3.5 is like a competent and well-rounded college graduate. The author also highlights the model's potential implications for privacy and scalability in local language model use cases.
+
+Link: https://hackernoon.com/i-conducted-experiments-with-the-alpacallama-7b-language-model-here-are-the-results
+
+<img src="/img/ec5cdf7d-53e9-4fa2-868c-1e4874226789.png" width="400" />
+<br/><br/>
+
 ## Cerebras releases open-source GPT-3 model with 111MB to 13B parameters
 Summary: Cerebras and Hugging Face released the training recipe and pre-trained checkpoints of their version of GPT-3, ranging from 111MB to 13B parameters, under an Apache 2.0 license, making them open-source and royalty-free for both research and commercial applications. This marks an important milestone in the development of large-scale language models and will allow researchers and developers to explore and utilize the model's capabilities more freely.
 
