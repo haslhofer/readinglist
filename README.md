@@ -1,3 +1,11 @@
+## How Value Will Emerge in Generative AI
+Summary: The blog post discusses the dynamics of the generative AI market and attempts to identify where value will accrue. It highlights the growth of generative AI app usage and revenue, while also mentioning challenges with retention, differentiation, and margins. Model providers are acknowledged for their role in creating generative AI, but their revenue is still relatively small. Cloud providers and hardware manufacturers are identified as beneficiaries of the high compute requirements of generative AI. The post emphasizes the absence of long-lasting moats in the current market, leading to uncertainty about long-term winners. The authors express optimism about the potential of generative AI and acknowledge the learning process involved in understanding the new rules of the game.
+
+Link: https://a16z.com/2023/01/19/who-owns-the-generative-ai-platform/
+
+<img src="/img/ad5620e9-d08c-490e-a6a2-42d6bfd20a2e.png" width="400" />
+<br/><br/>
+
 ## New AI Research Introduces Custom Diffusion Method for Personalized Text-to-Image Generation with Enhanced Efficiency
 Summary: Researchers proposed a method called Custom Diffusion for personalizing text-to-image diffusion models. By fine-tuning only a small subset of model weights, they can incorporate new concepts without the need to retrain the entire model. This method prevents catastrophic forgetting and is highly efficient. It allows users to generate images personalized to their own preferences and concepts with just a few examples.
 
