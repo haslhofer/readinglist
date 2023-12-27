@@ -1,3 +1,11 @@
+## New Technique can Gauge the Performance of AI Models Trained on Synthetic Data When Applied to Real-World Data
+Summary: A newly introduced framework trains credit scoring models based on synthetic data and evaluates their performance on real-world data. CTGAN and TVAE, two state-of-the-art synthetic data generators, were compared, and TVAE showed better results. The framework can analyze the model's ability to handle data drift and yielded good performance with a minor loss in predictive power when applied to real-world data.
+
+Link: https://www.marktechpost.com/2023/01/21/a-new-method-to-evaluate-the-performance-of-models-trained-with-synthetic-data-when-they-are-applied-to-real-world-data/
+
+<img src="/img/3b734605-1f46-4a30-8922-db80e011ee97.png" width="400" />
+<br/><br/>
+
 ## Sure, here is a one-line headline describing the following text:
 
 **Text Summarization: Extracting Key Points with AI Techniques**
