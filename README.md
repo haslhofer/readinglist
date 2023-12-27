@@ -1,3 +1,11 @@
+## Training ControlNet with diffusers for Stable Diffusion
+Summary: The article describes the process of training a ControlNet model using the diffusers library. ControlNets allow for fine-grained control of diffusion models by adding extra conditions. The steps involved include planning the condition, building the dataset, and training the model. The article provides detailed instructions on each step and addresses common challenges faced during training. It also includes tips for optimizing memory usage and enabling training on GPUs with limited VRAM. Additionally, the article reflects on the experience of training a ControlNet and suggests future directions for exploring realistic face generation using synthetic datasets.
+
+Link: https://huggingface.co/blog/train-your-controlnet
+
+<img src="/img/a3407298-b15d-45bb-a50a-fd813de7a1ef.png" width="400" />
+<br/><br/>
+
 ## ModelScope releases Damo-ViLab Text-to-Video Synthesis Model
 Summary: Hugging Face's text-to-video generation model, based on a multi-stage diffusion model, takes an English description as input and produces a matching video. With 1.7 billion parameters, it uses a UNet3D structure and an iterative denoising process to generate videos from pure Gaussian noise. The model is trained on public datasets like Webvid and has limitations such as deviations related to the training data distribution, inability to achieve perfect film and television quality, and lack of text generation capabilities. It is prohibited to use the model for demeaning, harmful, pornographic, violent, or false information generation.
 
