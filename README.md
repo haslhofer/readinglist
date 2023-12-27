@@ -1,3 +1,11 @@
+## Microsoft Unveils Guidance: A Revolutionary Language for Seamless Prompt Programming
+Summary: Microsoft AI introduces Guidance, a next-generation language for prompt programming that provides structure for text output, enabling users to write prompts confidently without worrying about hallucinations and incorrect results. It aims to establish a standard in prompt programming, allowing prompts to be chained from one utility to another while retaining truthfulness and minimizing token usage.
+
+Link: https://www.reddit.com/r/machinelearningnews/comments/13kyub5/microsoft_ai_releases_guidance_a_nextgen_language/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button
+
+<img src="/img/a609bcfb-d822-4b5f-82ab-89a8e30ec59b.png" width="400" />
+<br/><br/>
+
 ## Introducing Transformers Agents: A Natural Language API for Tasks Like Image Generation and Text Summarization
 Summary: Transformers Agents is an API that provides a natural language interface to interact with a set of curated tools, enabling users to perform various tasks such as image generation, text-to-speech, and text summarization. This experimental API leverages large language models (LLMs) to generate code that executes these tools based on natural language instructions. By prompting LLMs with tool descriptions and expected inputs/outputs, the API generates code snippets that are then executed with a restricted Python interpreter. The API also supports custom tools, allowing users to extend its capabilities by creating and sharing their own tools. Additionally, the generated code can be retrieved and modified, enabling users to integrate it into different settings.
 
