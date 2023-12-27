@@ -1,3 +1,11 @@
+## ChatGPT beat Wharton MBA exam, raising concerns about the future of higher education
+Summary: A Wharton professor, Christian Terwiesch, has assessed ChatGPT's performance on a typical MBA core course final exam in Operations Management and found it capable of earning a B to B- grade. The AI chatbot demonstrated proficiency in basic operations management and process analysis questions, including those based on case studies, but faced challenges with more advanced process analysis. Terwiesch emphasizes the need for educators and administrators to adapt to the advancements in AI and embrace the potential benefits while addressing concerns about its impact on the value of traditional education.
+
+Link: https://fortune.com/2023/01/21/chatgpt-passed-wharton-mba-exam-one-professor-is-sounding-alarm-artificial-intelligence/
+
+<img src="/img/dd641425-a0f1-4a44-917e-8fa69f43aa12.png" width="400" />
+<br/><br/>
+
 ## Start-up stock selloffs hit tech amid a wave of layoffs
 Summary: Due to plunging valuations, many laid-off Silicon Valley workers are panic-selling their start-up shares, flooding secondary markets and potentially causing further declines. This trend reflects the broader downturn in the tech sector, where valuations have tumbled after years of record-low interest rates and excessive stock-based compensation for tech workers. Investors should consider the broader market outlook and the financial health of individual companies before making investment decisions.
 
