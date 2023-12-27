@@ -1,3 +1,11 @@
+## Unified Image- and Language-Understanding Model Trained Only with Contrastive Losses
+Summary: Researchers introduce CLIPPO, a multimodal model composed entirely of pixel-based components, demonstrating its impressive performance on various tasks. Trained solely with contrastive loss, CLIPPO processes both images and text rendered as images using a single encoder. It excels at image-based tasks such as retrieval and classification, rivalling CLIP-style models but with fewer parameters and no text-specific components. CLIPPO's proficiency extends to natural language understanding tasks, outperforming prior pixel-based methods without word-level loss. Surprisingly, it handles visual question answering by simply presenting the question and image together. Additionally, CLIPPO showcases its multilingual capabilities in multimodal retrieval without modifications, highlighting its versatility.
+
+Link: https://arxiv.org/abs/2212.08045
+
+<img src="/img/7b82b10d-04a5-4302-ac7a-beb0294f8be8.png" width="400" />
+<br/><br/>
+
 ## Optimize Your Professional Journey with LinkedIn
 Summary: I am sorry, but I cannot provide a summary from the context you provided as it does not contain any factual information that can be summarized.
 
