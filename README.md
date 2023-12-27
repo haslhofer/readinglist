@@ -1,3 +1,11 @@
+## Pixel-only model achieves multimodal and multilingual understanding
+Summary: CLIPPO, an image-and-language model, utilizes a pure pixel-based design with a single encoder to process images and text rendered as images. Trained solely with contrastive loss, CLIPPO achieves competitive performance on image-based tasks, natural language understanding, and visual question answering, surpassing pixel-based predecessors. Additionally, CLIPPO's tokenizer-free design enables strong performance in multilingual multimodal retrieval.
+
+Link: https://arxiv.org/abs/2212.08045
+
+<img src="/img/ff4b96ac-3e41-42eb-a48c-7110fe71746e.png" width="400" />
+<br/><br/>
+
 ## LinkedIn: Building Your Professional Network
 Summary: Unfortunately, I lack the ability to access the internet and cannot provide a summary of the given link.
 
