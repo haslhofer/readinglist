@@ -1,3 +1,11 @@
+## Neural Architecture of Speech: Aligning Speech Models with Brain Activity
+Summary: The study investigates how human speech is processed by probing neural speech models to predict both language and auditory brain region activations. Thirty speech representation models are grouped into four categories: traditional feature engineering, generative, predictive, and contrastive. Among the investigated models, Data2Vec (predictive model) showed the best alignment with both language and auditory brain regions. Both language and auditory brain areas are best aligned with intermediate layers in deep learning models.
+
+Link: https://drive.google.com/file/d/1sW3bjke7XeOU0anVb68LgSYhM4bVBs4Q/view
+
+<img src="/img/fea0b3c0-4f20-44e8-868a-5ffa2a07ada5.png" width="400" />
+<br/><br/>
+
 ## The provided text provides an in-depth exploration of ChatGPT, its functioning, and the underlying reasons for its impressive text-generating capabilities. Here's a concise summary of the key points:
 
 **What is ChatGPT?**
