@@ -1,3 +1,11 @@
+## Four Ski Resorts Where You Can Still Afford a Ski Vacation
+Summary: Due to the rising cost of skiing vacations, many skiers are seeking more affordable options. This article presents four highly regarded ski resorts that offer world-class skiing at attainable prices. These resorts, known for their well-groomed slopes, affordable lift tickets, and friendly ski-village vibes, provide an alternative to the increasingly expensive ski destinations.
+
+Link: https://www.wsj.com/articles/affordable-ski-resorts-11674060010
+
+<img src="/img/36acb2a2-a2db-40ae-8bc7-daac14a3582d.png" width="400" />
+<br/><br/>
+
 ## Large-Scale Dataset with Images, Point Clouds, and Text Descriptions for Outdoor Scene Generation and Reconstruction
 Summary: OMMO is a large-scale outdoor multimodal dataset featuring real-world urban and natural scenes, captured using a fly-view video collection and quality review process. It includes calibrated images, point clouds, and prompt annotations, enabling novel view synthesis, surface reconstruction, and multi-modal NeRF tasks. The dataset showcases various scales, camera trajectories, and lighting conditions, enriching existing NeRF datasets.
 
