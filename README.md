@@ -1,3 +1,11 @@
+## Google has made available nine
+Summary: Google has made available nine free courses on Generative AI learning. The topics covered in these courses include an introduction to LLMs (Large Language Models), attention mechanism, image generation and captioning, and responsible AI. These courses provide a comprehensive understanding of the fundamentals of LLMs, their use cases, and how to create and deploy generative AI solutions. To access these courses, you can follow the links provided in the post.
+
+Link: https://www.linkedin.com/posts/akshay-pachaar_google-has-created-a-generative-ai-learning-activity-7071100802882297856-PvhI?utm_source=share&utm_medium=member_android
+
+<img src="/img/a0f3179e-a30d-4632-9b1b-9b23ff02d83d.png" width="400" />
+<br/><br/>
+
 ## "Artificial Corner" is a websi
 Summary: "Artificial Corner" is a website that publishes articles and blog posts on the topic of artificial intelligence (AI). The website covers various aspects of AI, including AI technology news, tool reviews, opinions on AI ethics and predictions, and AI-related tutorials and guides. Some of the topics discussed in recent posts include the use of AI in job interviews, comparing different AI models, exploring AI animation tools, and creating custom versions of AI chatbots. The website also provides information on upcoming AI-related events and conferences.
 
