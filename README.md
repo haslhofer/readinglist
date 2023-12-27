@@ -1,3 +1,11 @@
+## Using an Open-Source Cerebras Model with LangChain: Exploring Alternatives to OpenAI's GPT Model
+Summary: In this article, Bartosz Mikulski demonstrates how to use an open-source Cerebras model with LangChain, guiding you through the process of loading the model with HuggingFace Transformers, creating prompt templates, and integrating it with LangChain Agents. With hands-on examples and step-by-step instructions, explore how to use the Cerebras model as an alternative to OpenAI's GPT model in building AI-powered applications.
+
+Link: https://www.mikulskibartosz.name/alternatives-to-open-ai-gpt-using-open-source-models-with-langchain/
+
+<img src="/img/ea0a168a-acc4-417a-8bef-6dbe7479779e.png" width="400" />
+<br/><br/>
+
 ## Harness Custom Knowledge with Your Own ChatGPT
 Summary: The article delves into the process of creating a custom ChatGPT model with a custom knowledge base. It explores the limitations of prompt engineering as a conventional method and introduces the concept of injecting custom data sources like Wiki pages, company knowledge bases, or specific documents into ChatGPT. The author acknowledges the challenges faced due to limited context and the potential solution offered by GPT-4, while also highlighting the significance of selecting the right data sources for effective knowledge integration.
 
