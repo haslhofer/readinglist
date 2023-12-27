@@ -1,3 +1,11 @@
+## NVIDIA Broadcast 1.4 Introduces Eye Contact and Vignette Effects With Enhanced Virtual Background
+Summary: NVIDIA Broadcast 1.4 brings new features and enhancements, including Eye Contact, which simulates natural eye contact during livestreams and video conferences. Vignette adds depth to Virtual Backgrounds, while improved segmentation enhances background stability. Camera mirroring and screenshot options are also included. Developers can integrate the new features into their apps through NVIDIA Maxine SDK updates. NVIDIA Broadcast is free for all NVIDIA and GeForce RTX GPU owners.
+
+Link: https://nvda.ws/3ZyWpft
+
+<img src="/img/649f9d9b-5a8b-4e8d-8393-d3b9067d881f.png" width="400" />
+<br/><br/>
+
 ## Scale Introduces Automotive Foundation Model
 Summary: Scale AI's blog introduced Claude, an AI created by Anthropic, and compared it with OpenAI's ChatGPT. Claude demonstrated enhanced capabilities such as understanding its own features, capabilities, and limitations. It could also handle more context and exhibited more robust ethical considerations. In calculations, Claude was more cautious and acknowledged when its limits were exceeded. However, it struggled with complex mathematical problems. It also produced more verbose and naturalistic writing, while its code generation was less reliable compared to ChatGPT. For tasks like code comprehension and reasoning through logic, both Claude and ChatGPT performed similarly. Overall, Claude showed promise as a competitor to ChatGPT, excelling in some areas and requiring further development in others.
 
