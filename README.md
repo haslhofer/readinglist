@@ -1,3 +1,11 @@
+## Generative AI Market Dynamics: Understanding Value Distribution and Moats
+Summary: The article discusses the current state of the generative artificial intelligence (AI) market, highlighting the key trends, players, and challenges. It mentions growth in generative AI applications but questions their sustainability due to low gross margins, weak retention, and lack of differentiation. It also explores the role of model providers and infrastructure vendors, emphasizing the substantial revenue flowing through cloud providers and hardware manufacturers. Moreover, the article raises concerns about the lack of systemic moats and the potential for horizontal and vertical company success in the long term. Despite uncertainties, the article expresses optimism about generative AI's transformative potential and the vast opportunities it presents. Overall, it provides valuable insights into the dynamics and challenges of the emerging generative AI landscape.
+
+Link: https://a16z.com/2023/01/19/who-owns-the-generative-ai-platform/
+
+<img src="/img/e0821541-1e87-456e-8d34-246bce80677e.png" width="400" />
+<br/><br/>
+
 ## AI Researchers Develop Method for Personalizing Generative Art by Teaching Models Multiple New Concepts
 Summary: Researchers from Carnegie Mellon University, Tsinghua University, and Adobe Research have developed a novel method called Custom Diffusion to augment existing text-to-image models efficiently. By fine-tuning a small subset of model weights, mainly the cross-attention layers, the method can quickly acquire new concepts with just a few examples and compose multiple concepts together in novel settings, enabling personalized generative art creation. This approach addresses limitations of retraining models and helps mitigate forgetting and overfitting issues.
 
