@@ -1,3 +1,11 @@
+## Text2Poster: Lay Out Stylized Texts on Retrieved Images
+Summary: Text2Poster is a tool for creating stylized posters by laying out text elements on retrieved background images. Given input text elements and a background query, Text2Poster automatically retrieves relevant background images, predicts the layout distribution of text elements, and refines the layout to generate visually appealing posters. A quick start guide is provided for API usage, while the full source code and instructions for running it are also available. The tool requires certain dependencies and resources, including a layout refine model, a layout distribution prediction model, and background image retrieval resources. Tips about the background image retrieval process are also included. If you find this tool useful, you can cite the research paper provided.
+
+Link: https://github.com/chuhaojin/Text2Poster-ICASSP-22
+
+<img src="/img/5a7386b2-fd43-4bc6-9296-af205c884e63.png" width="400" />
+<br/><br/>
+
 ## New feature in Aista Magic Cloud enables websites to have intelligent conversations based on ChatGPT and AI
 Summary: The article introduces a new version of Aista Magic Cloud, a platform that allows users to add a JavaScript tag to their existing website, enabling the website to have intelligent conversations with users based on ChatGPT and AI. The platform automatically crawls and scrapes a website's data to generate a custom machine learning AI model, capable of answering intelligent questions about the website. The platform allows users to fine-tune the model and reinforce it by correcting the answers and retraining it based on user feedback, increasing the accuracy of the answers over time.
 
