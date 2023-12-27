@@ -1,3 +1,11 @@
+## Ultimate Guide to Setting up Python and Tensorflow on Apple Silicon Macs (M1 & M2)
+Summary: This article provides a step-by-step guide for installing Python and TensorFlow on M1 and M2 Macs. It begins with setting up the basic requirements, installing Xcode Command line tools and creating an account to read the full story. The article then explains how to install Python using pyenv and finally, how to install and set up TensorFlow properly for an M1 or M2 Mac.
+
+Link: https://link.medium.com/dZ8iWFG7Jxb
+
+<img src="/img/a6b5927f-c8d1-476f-a935-688ae8a31009.png" width="400" />
+<br/><br/>
+
 ## Harvard offers free courses in programming, pricing strategy, customer needs, game development, biochemistry, remote work, life lessons, rhetoric and ancient Chinese philosophy among others.
 Summary: Harvard University is providing 10 courses for free, and no application or fee is necessary to join. The courses cover various topics such as programming, pricing strategy, customer needs, game development, biochemistry, remote work, super-earths and life, managing happiness, persuasive writing and public speaking, and the path to happiness through Chinese philosophy. The article also provides a link to a post where people can suggest other courses that they found helpful for getting started.
 
