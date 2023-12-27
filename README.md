@@ -1,3 +1,11 @@
+## Start-up stock selloffs hit tech amid a wave of layoffs
+Summary: Due to plunging valuations, many laid-off Silicon Valley workers are panic-selling their start-up shares, flooding secondary markets and potentially causing further declines. This trend reflects the broader downturn in the tech sector, where valuations have tumbled after years of record-low interest rates and excessive stock-based compensation for tech workers. Investors should consider the broader market outlook and the financial health of individual companies before making investment decisions.
+
+Link: https://finance.yahoo.com/news/laid-off-silicon-valley-workers-150000073.html
+
+<img src="/img/5b5d0f43-b720-4734-aa7e-e15061ee6e20.png" width="400" />
+<br/><br/>
+
 ## New Method Proposed to Evaluate Models Trained with Synthetic Data for Real-World Applications
 Summary: A study introduces a framework for training credit scoring models using synthetic data while analyzing their performance on real-world data and ability to handle data drift. The findings suggest that models trained on synthetic data perform well, but there is a loss of predictive power compared to models trained on real-world data. TVAE outperformed CTGAN as a synthetic data generator, and the performance cost of using synthetic data was approximately 3% and 6% when measured in AUC and KS, respectively. This approach enabled research on credit scoring while protecting borrowers' privacy.
 
