@@ -1,3 +1,11 @@
+## Google Brain and Tel Aviv University Develop Text-to-Image Model Guided by Sketches
+Summary: Researchers from Google Brain and Tel Aviv University developed a novel method, Latent Edge Predictor (LEP), for guiding pretrained text-to-image diffusion models using sketches. LEP operates on the internal activations of the diffusion model's core network to induce the generated image's edges to adhere to a reference sketch, enabling the generation of detailed and realistic images guided by both text prompts and sketches.
+
+Link: https://www.marktechpost.com/2023/01/19/google-brain-and-tel-aviv-university-researchers-proposed-a-text-to-image-model-guided-by-sketches/
+
+<img src="/img/3888f35e-48c4-4f1a-996b-5e23d90965e2.png" width="400" />
+<br/><br/>
+
 ## Ski Resorts for Budget-Conscious Skiers
 Summary: With the increasing costs of ski resorts, some skiers are looking for more affordable options. Four highly regarded resorts that offer world-class skiing at attainable prices are Purgatory Resort in Colorado, Timberline Lodge on Mount Hood in Oregon, Ski Brule in Michigan, and Jay Peak Resort in Vermont. These resorts offer well-groomed slopes, affordable lift tickets, and a friendly ski-village vibe, without the extravagant extras found at other resorts.
 
