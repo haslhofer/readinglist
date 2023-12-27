@@ -1,3 +1,11 @@
+## LinkedIn: The Professional Networking Platform
+Summary: I am sorry, I cannot fulfill your request as I lack the ability to access external websites or specific PDF documents over the internet or any specific file systems.
+
+Link: https://www.linkedin.com/feed/hashtag/?keywords=dataengineering&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7018092928241721344
+
+<img src="/img/7b6649d5-6866-43d6-b4b0-540af83d46e8.png" width="400" />
+<br/><br/>
+
 ## Unlock Your Professional Potential with LinkedIn
 Summary: I am sorry, I do not have access to the internet to get the context from the given URL and am unable to provide you with a summary of the text.
 
