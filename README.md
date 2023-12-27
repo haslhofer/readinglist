@@ -1,3 +1,11 @@
+## Run ChatGPT-like models on your local computer with LLaMA and Alpaca
+Summary: A tutorial on running large language models, such as LLaMA and Alpaca, on your local computer using the dalai library. LLaMA is a foundational language model that can predict the next token in a sequence of words, while Alpaca is a fine-tuned version of LLaMA capable of following instructions. They both achieve comparable or better results than their GPT counterparts while being small enough to run locally.
+
+Link: https://link.medium.com/XvlwwXhTAyb
+
+<img src="/img/685bb9fc-efa2-43c5-a6af-113f8a55d0b8.png" width="400" />
+<br/><br/>
+
 ## How to Create a Private ChatGPT With Your Own Data
 Summary: This article discusses the architecture and data requirements needed to create a custom version of ChatGPT that utilizes your own data. It highlights the disadvantages of fine-tuning a language model with your own data, emphasizing limitations such as factual correctness, access control, and costs. To overcome these challenges, the article proposes separating the language model from the knowledge base, allowing for real-time retrieval of relevant information without the need for model training. The approach involves splitting data into smaller chunks, creating a search index for semantic search, and designing a concise prompt to avoid hallucinations. The article also provides guidance on improving relevance through different chunking strategies and prompt engineering techniques. Various resources and projects are mentioned for inspiration and further exploration. The author emphasizes the importance of separating knowledge from language models to ensure factually correct answers and concludes by encouraging readers to connect with them on social media platforms.
 
