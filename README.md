@@ -1,3 +1,11 @@
+## Researchers Propose Cold Diffusion: A Diffusion Model with Deterministic Perturbations
+Summary: Researchers at the University of Maryland have proposed a new diffusion model called Cold Diffusion. Cold Diffusion replaces additive Gaussian noise in diffusion models with deterministic and arbitrary transformations like blur, subsampling, and snowification. The model is trained as an autoencoder in which the parameters of the encoder that applies a degradation are fixed during training. While the model generates convincing samples, the researchers found that adding a small Gaussian perturbation to the initial sample is necessary to obtain a generative model. The idea of using transformations other than white Gaussian noise is interesting and could lead to a better understanding of the generative capacity of diffusion models.
+
+Link: https://www.marktechpost.com/2023/01/23/researchers-at-the-university-of-maryland-propose-cold-diffusion-a-diffusion-model-with-deterministic-perturbations/
+
+<img src="/img/ad26e436-599e-48e5-845b-846b4747b5d0.png" width="400" />
+<br/><br/>
+
 ## ChatGPT's Amazing Performance on Wharton MBA Exam Raises Concerns About AI's Impact on Education
 Summary: ChatGPT, an AI chatbot, recently took a Wharton MBA final exam and earned a B to B- grade, demonstrating its capabilities in operations management and process analysis. But it also has limitations, especially in handling advanced questions. Experts believe that ChatGPT and similar AI tools will continue to improve, potentially impacting MBA programs and the value of an MBA education. The integration of AI into the corporate world is comparable to the impact of calculators, which automated mathematical tasks and reduced the value of related skills. Universities and professionals must adapt to the changing landscape by educating themselves about AI and exploring ways to utilize it effectively.
 
