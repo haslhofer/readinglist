@@ -1,3 +1,11 @@
+## Unlock Your Professional Potential with LinkedIn
+Summary: LinkedIn is a professional networking site that helps its members build connections and find jobs. Users can create a profile that includes their work experience, skills, and interests. They can also join groups, share articles, and follow companies. LinkedIn also offers a variety of tools and services to help members connect with others, find jobs, and advance their careers.
+
+Link: https://www.linkedin.com/feed/hashtag/?keywords=python&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7018092928241721344
+
+<img src="/img/53a81f6f-a13e-4e06-acf9-bfff881b519c.png" width="400" />
+<br/><br/>
+
 ## LinkedIn Profile Search Fails to Find Exact Match
 Summary: A profile matching "acoaacjzmi4btuqzevb3xp7wb5b8cubanufc6fc" was not found because it either doesn't exist or the user did not set their profile as public. To search and filter over 930 million LinkedIn members, one can either log in or create an account.
 
