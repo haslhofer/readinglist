@@ -1,3 +1,11 @@
+## AiEdge: A Vast Array of Machine Learning-Related Content and Offerings
+Summary: The provided text is a collection of blog posts published on the AiEdge website, covering topics such as machine learning, artificial intelligence, transformers for LLMs, and natural language processing. These posts delve into concepts, applications, and techniques in these fields, offering insights and tutorials for readers interested in learning about these technologies.
+
+Link: https://newsletter.theaiedge.io/p/introduction-to-hands-on-data-science?utm_medium=email
+
+<img src="/img/6f6aaf36-ea06-4e39-a692-d6bb2c96107d.png" width="400" />
+<br/><br/>
+
 ## ColossalAI's main branch lacks the ChatGPT application path.
 Summary: The provided text does not contain any information about ChatGPT, so I am unable to extract the requested information.
 
