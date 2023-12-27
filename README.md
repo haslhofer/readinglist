@@ -1,3 +1,11 @@
+## OpenAssistant, a conversational AI developed through open data collection, concludes its journey.
+Summary: OpenAssistant, a conversational AI project, has gathered and made publicly available data, models, and code from over 13,000 contributors. The project aims to provide conversational AI for everyone, and its data, models, and code are openly accessible. The project has also shared a list of contributors, a paper, and links to GitHub, the HuggingFace organization, and a video by Yannic summarizing the project. Additionally, OpenAssistant suggests other open-data projects like LMSYS Chatbot Arena and Open Empathic for those interested in supporting similar initiatives.
+
+Link: https://open-assistant.io/
+
+<img src="/img/241f3d7b-7fb4-4b6c-8150-a84c51026cf4.png" width="400" />
+<br/><br/>
+
 ## Together Unveils OpenChatKit: Open-Source and Extensible Toolkit for Building Specialized Chatbots
 Summary: Introducing OpenChatKit: an open-source chatbot project developed by Together in collaboration with LAION and Ontocord. It provides a foundation to create specialized and general-purpose chatbots for various applications. OpenChatKit offers a large language model fine-tuned for chat, customization recipes, an extensible retrieval system, and a moderation model. It enables users to contribute feedback, datasets, and improvements, encouraging an ongoing community effort to develop and enhance the chatbot. The project includes tools for dataset contributions, feedback incorporation, and a Hugging Face app for user feedback. OpenChatKit was trained on the Together Decentralized Cloud, utilizing aggressive communication compression for data parallel training over slow networks. The fine-tuning process was done exclusively in the carbon-negative green zone of the cloud.
 
