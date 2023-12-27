@@ -1,3 +1,23 @@
+## Denoising diffusion probabilistic models (DDPMs) are a powerful generative modeling technique that has shown impressive results in image generation. In this article, we provide an in-depth guide to DDPMs, covering their theoretical foundations, implementation details, and training and inference algorithms. We also provide a code walkthrough in PyTorch to train DDPMs from scratch and generate images.
+Summary: This article provides an in-depth guide to denoising diffusion probabilistic models (DDPMs), a type of generative model that has gained significant attention in the field of image generation. The article aims to bridge the gap between theoretical concepts and practical implementation, making it accessible to those interested in understanding and utilizing DDPMs for image generation.
+
+The author begins by explaining the need for generative models, highlighting their role in creating new images that are representative of a given dataset. They emphasize that the space of all possible images is vast, and DDPMs offer a powerful approach to navigate this space and generate meaningful images. 
+
+The article then delves into the theoretical foundations of diffusion-based generative models, covering the forward and reverse diffusion processes. The forward process involves gradually adding noise to images, while the reverse process attempts to remove the noise and recover the original image. The author provides mathematical details and equations to illustrate these processes.
+
+A key contribution of the paper "Denoising Diffusion Probabilistic Models" by Ho et al. was the simplified loss function, which significantly simplifies the training process. The author explains this simplified loss function and highlights its importance in making DDPMs practical.
+
+The article also includes a comprehensive code implementation of DDPMs in PyTorch, guiding readers through the process of loading datasets, creating PyTorch dataloaders, and visualizing the dataset. It also covers the model architecture used in DDPMs, including a detailed explanation of the U-Net-shaped deep neural network.
+
+The article concludes with a discussion of the training and sampling algorithms used in DDPMs. It provides code snippets for performing one epoch of training and for generating images using the reverse diffusion process. The author also includes code for visualizing the forward diffusion process on sample images, demonstrating how the images gradually get corrupted as they progress through the Markov chain.
+
+Overall, this article offers a comprehensive and accessible resource for those interested in understanding and implementing DDPMs for image generation. It provides theoretical insights, mathematical details, and practical code examples, making it a valuable resource for researchers and practitioners in the field of artificial intelligence.
+
+Link: https://learnopencv.com/denoising-diffusion-probabilistic-models/
+
+<img src="/img/485db37f-7c2e-46bb-809b-0c70a221aef3.png" width="400" />
+<br/><br/>
+
 ## "Finetuning Large Language Models: Reinforcement Learning with Human Feedback"
 Summary: This article explores various improvements in how we train large language models (LLMs) and compares reinforcement learning with human feedback (RLHF) to supervised learning (SL). The system for improving LLM outputs is based on integrating human feedback. The article says that RLHF is the most popular paradigm for enhancing LLMs and improving outputs, though recent studies show that supervised learning approaches can also work well. The section on image models covers text-to-image models and how to align them with human feedback. Notable research papers, headlines, open-source libraries, announcements, and study tips for reading research papers are included. The article also has a paper analysis of "Scaling Vision Transformers to 22 Billion Parameters."
 
