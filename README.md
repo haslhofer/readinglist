@@ -1,3 +1,11 @@
+## Fine-tune FLAN-T5 XXL using DeepSpeed and Amazon SageMaker
+Summary: This post details the process of fine-tuning the FLAN-T5 XXL model using DeepSpeed on Amazon SageMaker. It begins by explaining how to prepare the dataset and upload it to S3. Then, it explains how to create a custom DeepSpeed launcher script and a deepspeed configuration file. Finally, it provides instructions on how to create a SageMaker training job using the HuggingFace Estimator, defining the required hyperparameters and data input dictionary. The post concludes by mentioning the possibility of deploying the trained model to a SageMaker Endpoint.
+
+Link: https://www.philschmid.de/sagemaker-deepspeed
+
+<img src="/img/7c201a0f-46e0-4b47-a0a5-96a2c995b3ef.png" width="400" />
+<br/><br/>
+
 ## Open-source Vision-Centric Perception Approach for Autonomous Driving
 Summary: TPV, a groundbreaking open-source project from Beijing, presents a novel vision-centric autonomous driving approach using 3D perception. It introduces the TPV representation and the TPVFormer encoder for transformer-based processing. The system achieves comparable performance to LiDAR methods with significantly reduced training data and computational resources. TPV offers a viable alternative for autonomous driving research and development.
 
