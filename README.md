@@ -1,3 +1,11 @@
+## Buster Jerpint Enjoys Running Marathons at 32
+Summary: I am unable to summarize the provided text as it appears to be a random collection of words and does not contain any coherent information.
+
+Link: https://huggingface.co/spaces/jerpint/buster
+
+<img src="/img/bab0e1fc-aecf-4eed-bd14-087237c9bea6.png" width="400" />
+<br/><br/>
+
 ## Stanford Researcher Discovers Simple Prompting Strategy Enabling Open-Source LLMs to Surpass GPT3-175B's Performance with Fewer Parameters
 Summary: Stanford researcher Simran Arora developed AMA, a simple prompting strategy that enables smaller, open-source language models (LLMs) with 30 times fewer parameters to outperform the few-shot performance of GPT3-175B on 15 of 20 popular benchmarks. AMA combines multiple imperfect prompts with weak supervision to create predictions for the best inputs, achieving impressive results without fine-tuning.
 
