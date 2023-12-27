@@ -1,3 +1,11 @@
+## GPT-NeoXT-Chat-Base-20B: A 20B parameter open-source chat model fine-tuned from EleutherAI’s GPT-NeoX
+Summary: GPT-NeoXT-Chat-Base-20B-v0.16 is a 20B parameter language model, fine-tuned from EleutherAI's GPT-NeoX with 40 million instructions on carbon-negative compute. It excels at tasks like summarization, question answering, classification, and extraction. However, it may generate incorrect results, struggle with coding tasks, repeat itself, have difficulty switching contexts, and is not suitable for creative writing or long answers. The model is intended for research, safe deployment of models, understanding model limitations, generating artworks, and educational or creative tools. It should not be used for malicious purposes, generating harmful content, impersonation, cyberbullying, or spamming. While the model has limitations, the community welcomes contributions and collaboration to improve its robustness and inclusivity.
+
+Link: https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B
+
+<img src="/img/a1f77093-328e-4e37-8d67-9f76240ccd92.png" width="400" />
+<br/><br/>
+
 ## Unsupervised Learning: Autoencoders
 Summary: Autoencoders are unsupervised neural networks used for efficiently compressing and encoding data, finding patterns, removing noise, and reconstructing it to a representation close to the original input. They consist of an encoder, bottleneck, decoder, and reconstruction loss function. Autoencoders can have different architectures like FeedForward, LSTM, or Convolutional Neural Networks depending on their use case. Common applications of autoencoders include dimensionality reduction, anomaly detection, feature extraction, and image denoising.
 
