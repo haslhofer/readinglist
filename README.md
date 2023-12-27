@@ -1,3 +1,11 @@
+## Unsupervised Learning: Autoencoders
+Summary: Autoencoders are unsupervised neural networks used for efficiently compressing and encoding data, finding patterns, removing noise, and reconstructing it to a representation close to the original input. They consist of an encoder, bottleneck, decoder, and reconstruction loss function. Autoencoders can have different architectures like FeedForward, LSTM, or Convolutional Neural Networks depending on their use case. Common applications of autoencoders include dimensionality reduction, anomaly detection, feature extraction, and image denoising.
+
+Link: https://towardsdatascience.com/auto-encoder-what-is-it-and-what-is-it-used-for-part-1-3e5c6f017726
+
+<img src="/img/d682674f-bdd2-41d0-a354-0be99efc5b3c.png" width="400" />
+<br/><br/>
+
 ## David Heinemeier Hansson: Actions speak louder than arguments when it comes to persuasion.
 Summary: David Heinemeier Hansson argues that actions are more persuasive than arguments. He believes that people are more likely to believe someone who has taken a risk and followed through on their convictions than someone who has only talked about their ideas. He says that credibility is earned through successful actions and that the social payoff for taking risks is the ability to unlock the minds of others and advance society.
 
