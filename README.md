@@ -1,3 +1,11 @@
+## Ultra fast ControlNet with 🧨 Diffusers
+Summary: ControlNet, an extension to text-to-image diffusion models like Stable Diffusion, allows users to control the generation process using additional spatial contexts such as depth maps, segmentation maps, scribbles, keypoints, and more. The StableDiffusionControlNetPipeline in Diffusers makes it easy to use ControlNet. It provides a unified interface to handle different conditionings and pre-trained ControlNet models. This blog post explores various use cases of ControlNet, including turning cartoon drawings into realistic photos, using it as an interior designer, transforming sketches into artistic drawings, and bringing famous logos to life. The post also introduces the canny pre-processor and open pose pre-processor for ControlNet and how to combine multiple conditionings for a single image generation. Furthermore, it highlights techniques to make the generation process faster and memory-friendly using a fast scheduler, smart model offloading, and xformers. The post concludes by encouraging the community to build on top of the StableDiffusionControlNetPipeline and provides links to spaces where users can play around with ControlNet.
+
+Link: https://huggingface.co/blog/controlnet
+
+<img src="/img/8d941254-9cb1-4a2f-a7a3-266d9508c7d9.png" width="400" />
+<br/><br/>
+
 ## Andrej Karpathy builds a Generatively Pretrained Transformer (GPT) from scratch in code
 Summary: Andrej Karpathy's video titled "Let's build GPT: from scratch, in code, spelled out" provides a comprehensive explanation of Generatively Pretrained Transformers (GPTs), including connections to ChatGPT, GitHub Copilot, and OpenAI's GPT-2/GPT-3. The video explores the inner workings of GPTs, offering insights into their architecture, training process, and practical applications in natural language processing and generative text generation.
 
