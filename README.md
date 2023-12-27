@@ -1,3 +1,11 @@
+## Error 404: Page not found
+Summary: The provided text does not contain any information to summarize. It only contains an error message indicating that the page entered does not exist, along with links to the site home and a feature to report abuse.
+
+Link: https://www.srijitmukherjee.com/the-math-behind-transformers/
+
+<img src="/img/9b9945dd-c8d9-4346-be26-f820d423a543.png" width="400" />
+<br/><br/>
+
 ## Wkhtmltox-Dockerized: A web service for wkhtmltopdf and wkhtmltoimage with easy to use API
 Summary: Go-wkhtmltox is a web service providing a REST API for converting web pages to PDF or images. It integrates the headless browser engine wkhtmltopdf and wkhtmltoimage. Users can send POST requests with JSON data specifying the conversion options, including the target format, PDF/image settings, and the web page to convert. The service can fetch data from a URL or accept it directly as a base64-encoded string. It supports customization through templates to modify the response structure and provide different rendering options. Users can run the service locally or deploy it in a Docker container. Additionally, the project offers the ability to create custom fetchers for specific data sources.
 
