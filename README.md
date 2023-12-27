@@ -1,3 +1,11 @@
+## Stanford Researcher Discovers Simple Prompting Strategy Enabling Open-Source LLMs to Surpass GPT3-175B's Performance with Fewer Parameters
+Summary: Stanford researcher Simran Arora developed AMA, a simple prompting strategy that enables smaller, open-source language models (LLMs) with 30 times fewer parameters to outperform the few-shot performance of GPT3-175B on 15 of 20 popular benchmarks. AMA combines multiple imperfect prompts with weak supervision to create predictions for the best inputs, achieving impressive results without fine-tuning.
+
+Link: https://www.marktechpost.com/2023/02/01/researchers-at-stanford-university-introduce-the-ask-me-anything-prompting-ama-a-simple-approach-that-surprisingly-enables-open-source-llms-with-30x-fewer-parameters-to-exceed-the-few-shot-perf/
+
+<img src="/img/c2bfec5a-44c9-4fe4-96f7-9c30b9e1c81b.png" width="400" />
+<br/><br/>
+
 ## LinkedIn: Creating a Professional Network for Career Success
 Summary: Unfortunately, I do not have access to the internet to get the context from the given URL and am unable to summarize the text as requested.
 
