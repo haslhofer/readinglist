@@ -1,3 +1,11 @@
+## Create a Powerful Professional Presence with LinkedIn
+Summary: Unfortunately, I cannot extract the necessary context from the provided URL to summarize the topic of the text "Make the most of your professional life".
+
+Link: https://www.linkedin.com/posts/metaai_token-merging-your-vit-but-faster-meta-activity-7030988781688160258--WpO?utm_source=share&utm_medium=member_android
+
+<img src="/img/128182c1-792e-4d16-a87f-a4ec902f7070.png" width="400" />
+<br/><br/>
+
 ## Language Models' Self-Taught Tool Usage Improves Zero-Shot Performance
 Summary: A new model called Toolformer has been developed to allow language models to use external tools through simple APIs. Toolformer can decide which tools to use, when to use them, and how to incorporate the results into its predictions. The model was trained in a self-supervised manner using a small number of demonstrations for each API. Toolformer has shown improved zero-shot performance on a variety of downstream tasks, often comparable to larger models, while maintaining its core language modeling abilities.
 
