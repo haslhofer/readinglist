@@ -1,3 +1,11 @@
+## Hugging Face Datasets and Transformers for Image Similarity
+Summary: This post provides a tutorial and resources for building an image similarity system with Hugging Face Datasets and Transformers. It covers defining similarity using dense representations and cosine similarity, computing embeddings, loading a dataset for candidate images, finding similar images by extracting embeddings and computing similarity scores, performing a query and visualizing the results. The post discusses further extensions and conclusions, highlighting the scalability and efficiency challenges with high-dimensional embeddings and suggesting dimensionality reduction techniques. It introduces the use of Faiss and ScaNN for efficient similarity search and mentions an accompanying Space showcasing a mini image similarity application. The post concludes with additional resources for further learning.
+
+Link: https://huggingface.co/blog/image-similarity
+
+<img src="/img/20b36078-7fb6-408b-88a7-7c7d902dc1df.png" width="400" />
+<br/><br/>
+
 ## Language, computer vision, multi-modal, and generative models are some of the exciting advancements Google Research will highlight in a series of blog posts throughout 2023.
 Summary: The blog post summarizes Google Research's achievements for 2022 and their goals for 2023 and beyond, encompassing language, vision, generative, and multi-modal models, while emphasizing responsible AI practices.
 
