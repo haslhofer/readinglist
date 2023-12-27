@@ -1,3 +1,11 @@
+## Alex Pettitt gives a behind-the-scenes tour of his professional live stream studio setup featuring Blackmagic ATEM gear.
+Summary: In this video, Alex Pettitt gives a detailed tour of the Blackmagic ATEM live setup he designed and built for TheLastLapShow's Formula One live shows and podcasts. He explains the equipment used, the setup process, and the benefits of using Blackmagic products for live streaming. Pettitt also provides tips and tricks for setting up a professional live stream studio and discusses the advantages of using a Blackmagic ATEM setup.
+
+Link: https://www.youtube.com/watch?v=2RTXUnkGwAA
+
+<img src="/img/d0969a42-21d7-4d8d-8eca-028889c0f55c.png" width="400" />
+<br/><br/>
+
 ## Open-source repository PrimeQA simplifies research and development in multilingual question answering
 Summary: IBM Research AI created PrimeQA, an open-source repository that provides all the tools necessary for creating a custom QA application. It allows researchers to easily replicate state-of-the-art published results, customize models to suit their needs, and quickly deploy pre-trained models. PrimeQA includes implementations of state-of-the-art retrievers and readers, enabling training, inference, and performance evaluation. Additionally, it supports auxiliary capabilities like question generation. With its user-friendly design and reusable components, PrimeQA aims to simplify and accelerate QA research and development.
 
