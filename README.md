@@ -1,3 +1,11 @@
+## Exploring Deeper Techniques and Innovations for Diffusion Models
+Summary: This diffusion models course's final unit explores recent advances in diffusion models, including faster sampling via distillation, training improvements, more control for generation and editing, extension to video and audio, and new architectures and approaches. Hands-on notebooks for DDIM inversion and diffusion for audio are provided.
+
+Link: https://github.com/huggingface/diffusion-models-class/tree/main/unit4
+
+<img src="/img/756f7b0e-7666-4b18-969c-2daf217c3b74.png" width="400" />
+<br/><br/>
+
 ## Top Deep Learning Papers of 2022 Reviewed
 Summary: In this article, Diego Bonilla discusses the top deep learning papers of 2022. He highlights VicReg, a self-supervised learning method that reduces the need for labeled data but faces challenges in training and collapse. Bonilla also mentions other notable deep learning achievements, such as the progress of generative models and the increasing size and sophistication of deep learning models. He emphasizes that his perspective is biased towards computer vision and non-supervised learning, acknowledging the existence of other excellent deep learning research in different areas.
 
