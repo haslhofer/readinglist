@@ -1,3 +1,11 @@
+## Generative AI's sweeping impact across industries: Real-time voice cloning, lip syncing, language translation, and more
+Summary: Generative AI, with features like real-time voice cloning, lip syncing, language translation, and face tracking, is poised to revolutionize industries across the board. Its impact, however, is also a cause for concern, raising questions about its potential consequences and the need to strike a balance between innovation and ethical considerations.
+
+Link: https://www.linkedin.com/posts/miguelgfierro_ai-machinelearning-datascience-ugcPost-7024245080869810176-uiD6?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/aceb0932-fcc1-4c60-860a-588458268b70.png" width="400" />
+<br/><br/>
+
 ## CS50x: Harvard's Free Online Computer Science Course for Beginners
 Summary: CS50x is an introductory computer science course offered by Harvard University that covers essential concepts in programming, including abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. The course is designed for students with or without prior programming experience and is led by David J. Malan. Participants are introduced to multiple programming languages, including C, Python, SQL, and JavaScript, along with CSS and HTML. By completing nine problem sets and a final project, students can earn a certificate. The self-paced course includes real-world problem sets to enhance engagement and is supported by a vibrant community of learners.
 
