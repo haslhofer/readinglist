@@ -1,3 +1,11 @@
+## CS50x: Harvard's Free Online Computer Science Course for Beginners
+Summary: CS50x is an introductory computer science course offered by Harvard University that covers essential concepts in programming, including abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. The course is designed for students with or without prior programming experience and is led by David J. Malan. Participants are introduced to multiple programming languages, including C, Python, SQL, and JavaScript, along with CSS and HTML. By completing nine problem sets and a final project, students can earn a certificate. The self-paced course includes real-world problem sets to enhance engagement and is supported by a vibrant community of learners.
+
+Link: https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0
+
+<img src="/img/c354eaba-9a54-442f-b6e3-16fea97bc884.png" width="400" />
+<br/><br/>
+
 ## Deepmind's LASER-NV Generates Large, Complex 3D Scenes from Few Viewpoints
 Summary: Deepmind proposes LASER-NV, a conditional generative model of Neural Radiance Fields capable of generating large and complex scenes with only a few arbitrary viewpoints. LASER-NV utilizes a set-valued latent representation, a geometry-informed attention mechanism, and a combination of observed views and learned priors to synthesize diverse and plausible views, even for unobserved areas, while maintaining consistency with observed views. Experiments on ShapeNet, Multi-ShapeNet, and a novel "City" dataset demonstrate LASER-NV's capability of modeling scenes of different scales and uncertainty structures.
 
