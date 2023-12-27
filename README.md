@@ -1,3 +1,11 @@
+## NVIDIA Broadcast 1.4 Adds Eye Contact and Vignette Effects With Virtual Background Enhancements
+Summary: NVIDIA Broadcast 1.4 adds new features such as Eye Contact, which simulates eye contact with the camera, and Vignette, which adds a bokeh-like effect to the virtual background. It also enhances the Virtual Background effects with temporal information for better segmentation and stability. Additionally, it introduces the ability to mirror the camera and take screenshots. Broadcast is also available as SDKs (Maxine) for app developers to integrate into their apps.
+
+Link: https://nvda.ws/3ZyWpft
+
+<img src="/img/610794b6-9868-434f-87e5-327cb7d1f0eb.png" width="400" />
+<br/><br/>
+
 ## Introducing Scale's Automotive Foundation Model
 Summary: Scale introduces its Automotive Foundation Model, a large language model specifically designed for the automotive industry. The model excels in understanding technical concepts, generating natural language responses, and translating between languages. Capable of comprehending industry-specific terminology, the model can provide detailed explanations, generate compelling marketing content, translate documents into multiple languages, and write code and user instructions. With this model, Scale aims to assist automotive companies in improving customer service, enhancing technical documentation, and streamlining communication.
 
