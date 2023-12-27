@@ -1,3 +1,11 @@
+## Deep Learning Paper Review: Exploring Top Advances in 2022
+Summary: In 2022, the field of deep learning witnessed remarkable advancements. Self-supervised learning techniques, such as VicReg, demonstrated the potential to train networks on unlabeled data. Generative models, like DALL-E 2 and Imagen, showcased impressive capabilities in generating realistic images from text descriptions. Furthermore, advancements in transformer architectures led to improved performance in natural language processing tasks.
+
+Link: https://medium.com/@diegobonila/top-deep-learning-papers-of-2022-a4826e0aac4
+
+<img src="/img/8278bd6a-d363-4787-a777-b948bcdaed01.png" width="400" />
+<br/><br/>
+
 ## Introducing Mask2Former and OneFormer: Universal Image Segmentation Models Unveiled
 Summary: Universal Image Segmentation with Mask2Former and OneFormer introduces two state-of-the-art neural networks: Mask2Former and OneFormer, for image segmentation tasks. The guide covers the differences between instance, semantic, and panoptic segmentation and explains how Mask2Former extends DETR's paradigm to improve instance segmentation. Furthermore, it introduces OneFormer, which achieves state-of-the-art performance on all three segmentation tasks while only training on a panoptic dataset. The guide also provides instructions for inference and fine-tuning Mask2Former and OneFormer using the Hugging Face Transformers library.
 
