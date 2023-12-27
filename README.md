@@ -1,3 +1,11 @@
+## Deepmind's LASER-NV Generates Large, Complex 3D Scenes from Few Viewpoints
+Summary: Deepmind proposes LASER-NV, a conditional generative model of Neural Radiance Fields capable of generating large and complex scenes with only a few arbitrary viewpoints. LASER-NV utilizes a set-valued latent representation, a geometry-informed attention mechanism, and a combination of observed views and learned priors to synthesize diverse and plausible views, even for unobserved areas, while maintaining consistency with observed views. Experiments on ShapeNet, Multi-ShapeNet, and a novel "City" dataset demonstrate LASER-NV's capability of modeling scenes of different scales and uncertainty structures.
+
+Link: https://www.marktechpost.com/2023/01/24/deepmind-proposes-laser-nv-a-conditional-generative-model-of-neural-radiance-fields-capable-of-efficient-inference-of-large-and-complex-scenes-under-partial-observability-conditions/
+
+<img src="/img/b952f84c-4fb6-4a53-aa91-95dd0ea02e4c.png" width="400" />
+<br/><br/>
+
 ## Researchers Introduce Cold Diffusion: Deterministic Perturbations in Diffusion Models for Realistic Image Generation
 Summary: Researchers at the University of Maryland propose Cold Diffusion, a diffusion model with deterministic perturbations, as an alternative to additive Gaussian noise. Cold Diffusion replaces Gaussian noise with deterministic transformations, such as blur, subsampling, or snowification. The model learns to reconstruct images from deterministic degradations without using stochastic noise, outperforming classic sampling techniques in inpainting and super-resolution tasks.
 
