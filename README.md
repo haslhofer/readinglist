@@ -1,3 +1,11 @@
+## Introducing Mask2Former and OneFormer: Universal Image Segmentation Models Unveiled
+Summary: Universal Image Segmentation with Mask2Former and OneFormer introduces two state-of-the-art neural networks: Mask2Former and OneFormer, for image segmentation tasks. The guide covers the differences between instance, semantic, and panoptic segmentation and explains how Mask2Former extends DETR's paradigm to improve instance segmentation. Furthermore, it introduces OneFormer, which achieves state-of-the-art performance on all three segmentation tasks while only training on a panoptic dataset. The guide also provides instructions for inference and fine-tuning Mask2Former and OneFormer using the Hugging Face Transformers library.
+
+Link: https://huggingface.co/blog/mask2former
+
+<img src="/img/1d855318-f374-4c1f-ad03-6fdcea4afa28.png" width="400" />
+<br/><br/>
+
 ## NVIDIA Broadcast 1.4 Introduces Eye Contact and Vignette Effects With Enhanced Virtual Background
 Summary: NVIDIA Broadcast 1.4 brings new features and enhancements, including Eye Contact, which simulates natural eye contact during livestreams and video conferences. Vignette adds depth to Virtual Backgrounds, while improved segmentation enhances background stability. Camera mirroring and screenshot options are also included. Developers can integrate the new features into their apps through NVIDIA Maxine SDK updates. NVIDIA Broadcast is free for all NVIDIA and GeForce RTX GPU owners.
 
