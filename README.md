@@ -1,3 +1,11 @@
+## 
+Summary: 
+
+Link: https://www.marktechpost.com/2023/01/21/a-new-method-to-evaluate-the-performance-of-models-trained-with-synthetic-data-when-they-are-applied-to-real-world-data/
+
+<img src="/img/9e44309d-a892-400f-b263-11696d5a50c9.png" width="400" />
+<br/><br/>
+
 ## Sure, here is a one-line headline describing the text you provided:
 
 **Artificial Intelligence Assists Researchers in Developing New Materials for Energy Storage**
