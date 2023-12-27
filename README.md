@@ -1,3 +1,11 @@
+## Documentation page for Langchain not found
+Summary: The requested documentation page for langchain was not found due to changes over time and the movement of pages. Users are advised to navigate to the project's index page or use the search feature to find similar pages. The text also provides tips to address 404 errors, such as using a custom 404 page and creating redirects when moving content.
+
+Link: https://langchain.readthedocs.io/en/latest/getting_started/getting_started.html
+
+<img src="/img/b7713c9c-140d-4137-9d04-65e8cf4a9baf.png" width="400" />
+<br/><br/>
+
 ## Build Your Own Document Q&A Chatbot: A Step-by-Step Guide with GPT API and Custom Documents
 Summary: The author explores different approaches to build a chatbot based on one's own documents, including fine-tuning the GPT model and prompt engineering. After examining their shortcomings, they present a step-by-step guide to constructing a document Q&A chatbot utilizing llama-index and GPT API, emphasizing the effectiveness and efficiency of this method.
 
