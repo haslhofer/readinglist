@@ -1,3 +1,11 @@
+## Spotlight: Vision-Only Approach for Foundational UI Understanding
+Summary: Researchers from Google present Spotlight, a vision-language model for understanding mobile UI elements. It utilizes a unified approach to represent diverse UI tasks using two core modalities: vision and language. The model achieves state-of-the-art results on various UI tasks, including widget captioning, screen summarization, command grounding, and tappability prediction, without relying on UI metadata. Spotlight leverages existing vision and language model architectures, enabling scalable model design and learning strategies. The model's ability to focus on specific regions of interest using a focus region extractor further enhances its performance. Researchers believe Spotlight can be applied to more UI tasks and contribute to advancements in interaction and user experience.
+
+Link: https://ai.googleblog.com/2023/02/a-vision-language-approach-for.html
+
+<img src="/img/5e080b9d-6550-43e9-9ba2-5ec73ec685ce.png" width="400" />
+<br/><br/>
+
 ## Ultimate Guide to Setting up Python and Tensorflow on Apple Silicon Macs (M1 & M2)
 Summary: This article provides a step-by-step guide for installing Python and TensorFlow on M1 and M2 Macs. It begins with setting up the basic requirements, installing Xcode Command line tools and creating an account to read the full story. The article then explains how to install Python using pyenv and finally, how to install and set up TensorFlow properly for an M1 or M2 Mac.
 
