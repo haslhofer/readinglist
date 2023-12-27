@@ -1,3 +1,11 @@
+## AI Researchers Develop Method for Personalizing Generative Art by Teaching Models Multiple New Concepts
+Summary: Researchers from Carnegie Mellon University, Tsinghua University, and Adobe Research have developed a novel method called Custom Diffusion to augment existing text-to-image models efficiently. By fine-tuning a small subset of model weights, mainly the cross-attention layers, the method can quickly acquire new concepts with just a few examples and compose multiple concepts together in novel settings, enabling personalized generative art creation. This approach addresses limitations of retraining models and helps mitigate forgetting and overfitting issues.
+
+Link: https://www.marktechpost.com/2023/01/16/a-new-artificial-intelligence-ai-research-focuses-on-the-personalization-of-generative-art-by-teaching-a-model-many-new-concepts-at-once-and-combining-them-on-the-fly/
+
+<img src="/img/ec808500-4e50-4fc3-8855-da86f5b4be86.png" width="400" />
+<br/><br/>
+
 ## Create an Image Similarity System with Hugging Face Datasets and Transformers
 Summary: This article describes how to create an image similarity system using Hugging Face, which can compare query images to candidate photos and select those most like the query image. The article explains how to define similarity, extract embeddings from images, calculate similarity scores, and retrieve similar images. Additionally, it discusses methods for reducing the dimensionality of embeddings to improve speed and retrieval quality and mentions that Hugging Face Dataset offers integrations with Faiss to simplify the process.
 
