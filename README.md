@@ -1,3 +1,11 @@
+## LinkedIn: "Agree & Join or Sign in to Make the Most of Your Professional Life"
+Summary: Unfortunately, I do not have access to the internet to get the context from the given URL and am unable to provide a summary of the text.
+
+Link: https://www.linkedin.com/feed/hashtag/?keywords=dataengineering&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7018092928241721344
+
+<img src="/img/fe59052c-a40d-4c0b-aa6a-84255f0106a7.png" width="400" />
+<br/><br/>
+
 ## LinkedIn: Create a Powerful Professional Presence
 Summary: Regrettably, there was no text accompanying your query for me to summarize into a paragraph.
 
