@@ -1,3 +1,11 @@
+## Sorry, I need the text to generate a headline.
+Summary: I am unable to summarize the text as it was not provided. Please provide the text you would like summarized.
+
+Link: https://beta.openai.com/docs/guides/embeddings/limitations-risks
+
+<img src="/img/cf1c7658-89fc-4a4d-80c4-ea63271d4247.png" width="400" />
+<br/><br/>
+
 ## Muse: Text-To-Image Generation via Masked Generative Transformers
 Summary: Muse, a text-to-image Transformer model, excels in image generation while boasting remarkable efficiency compared to diffusion and autoregressive models. Trained on a masked modeling task, Muse leverages discrete token space and parallel decoding for enhanced efficiency. Employing a pre-trained large language model, it ensures precise language comprehension, leading to high-fidelity image generation and an understanding of visual concepts. The model sets a new state-of-the-art performance on CC3M with an FID score of 6.06 and demonstrates impressive results on zero-shot COCO evaluation. Additionally, Muse offers image editing applications like inpainting, outpainting, and mask-free editing without requiring fine-tuning or model inversion.
 
