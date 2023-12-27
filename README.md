@@ -1,3 +1,11 @@
+## LinkedIn Post: Curated Free Online Resources and Courses for System Design, Low Level Design, and Interview Preparation
+Summary: This post provides a curated list of free resources for system design, including Gaurav Sen, SudoCode, WhatsApp System Design, Instagram Design, TikTok Architecture Design, Tinder System Design, System Design of Amazon, Flipkart like E-commerce, Mock Low Level Design Interview, High Level Design vs Low Level Design, and more. Additionally, the post mentions resources for Low Level Design such as Somyajit bhattacharya, Arpit bhayani, Sandeep Kaul, Crack the System Design Interview, System Design Interview, Engineering Blogs, and more.
+
+Link: https://www.linkedin.com/posts/riti2409_systemdesign-github-interviewpreparation-activity-7045739460189196288-FLuy?utm_source=share&utm_medium=member_android
+
+<img src="/img/bb09f5ff-8608-4a6e-adf3-8aec5de6b01e.png" width="400" />
+<br/><br/>
+
 ## 404 Error: Page Not Found
 Summary: A 404 error, or "File not found," indicates that the requested file is not available at the specified URL. This can occur due to incorrect filename casing, file permissions, or the absence of an index.html file for root URLs. For more information, refer to GitHub Pages documentation.
 
