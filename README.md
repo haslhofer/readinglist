@@ -1,3 +1,11 @@
+## Google Brain and Tel Aviv University Researchers Proposed a Text-to-Image Model Guided by Sketches
+Summary: Google Brain and Tel Aviv University researchers proposed a novel text-to-image model guided by sketch inputs. They introduced a Latent Edge Predictor (LEP) to translate internal activations of the diffusion model's core network into spatial edge maps, allowing the model to adhere to a reference sketch. The LEP is trained to predict edges in a local manner, indifferent to the image domain, enabling training on a small dataset. The resulting model aligns the synthesized image with the desired sketch while maintaining detail and realism. The researchers demonstrate impressive results, including samples guided by input sketches and studies on realism versus edge fidelity and stroke importance.
+
+Link: https://www.marktechpost.com/2023/01/19/google-brain-and-tel-aviv-university-researchers-proposed-a-text-to-image-model-guided-by-sketches/
+
+<img src="/img/ba4c1006-06dc-43f6-a07f-0d1ec3b94512.png" width="400" />
+<br/><br/>
+
 ## Ski Vacations On a Budget: Affordable Resorts for Unforgettable Winter Experiences
 Summary: Skiing enthusiasts are facing increasing costs due to elaborate amenities at winter resorts. However, four highly regarded resorts offer affordable vacations and lift tickets, catering to skiers who prioritize well-groomed slopes and a classic ski-village atmosphere. These resorts, including Purgatory Resort, provide enjoyable skiing experiences without the hefty price tag of other luxurious destinations.
 
