@@ -1,3 +1,11 @@
+## Andrej Karpathy builds a Generatively Pretrained Transformer (GPT) from scratch in code
+Summary: Andrej Karpathy's video titled "Let's build GPT: from scratch, in code, spelled out" provides a comprehensive explanation of Generatively Pretrained Transformers (GPTs), including connections to ChatGPT, GitHub Copilot, and OpenAI's GPT-2/GPT-3. The video explores the inner workings of GPTs, offering insights into their architecture, training process, and practical applications in natural language processing and generative text generation.
+
+Link: https://youtu.be/kCc8FmEb1nY
+
+<img src="/img/43d74cbb-118b-45fb-80fc-edff46bc4b60.png" width="400" />
+<br/><br/>
+
 ## An In-Depth Guide to Denoising Diffusion Probabilistic Models – From Theory to Implementation
 Summary: Diffusion probabilistic models, first introduced in 2015, gained popularity in 2020 when Ho et al. published the paper, "Denoising Diffusion Probabilistic Models" (DDPMs). DDPMs made diffusion models practical by improving and achieving "image fidelity" rivaling Generative Adversarial Networks (GANs).
 
