@@ -1,3 +1,11 @@
+## Introducing PodcastSocialMediaCopilot: A Python Library for Creating Engaging Social Media Posts for Podcasts
+Summary: PodcastSocialMediaCopilot is a Python script that generates social media captions and hashtags for podcast episodes using natural language processing (NLP). It uses the Dolly 2 NLP model from Hugging Face to extract key concepts and entities from podcast transcripts, and then generates creative and engaging captions and hashtags based on these insights. The script can be easily integrated into podcast production workflows to streamline social media promotion efforts.
+
+Link: https://github.com/microsoft/PodcastCopilot/blob/main/PodcastSocialMediaCopilot.py
+
+<img src="/img/406f4b36-e31e-46e2-823d-23b89eb25f6f.png" width="400" />
+<br/><br/>
+
 ## 
 Summary: 
 
