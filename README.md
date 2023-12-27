@@ -1,3 +1,11 @@
+## Top Deep Learning Papers of 2022: Exploring Landmark Breakthroughs in Computer Vision and Beyond
+Summary: In 2022, deep learning witnessed breakthroughs in generative models. Artificial Intelligence's models continue to grow larger, smarter, and more expensive. Self-Supervised Learning aims to train networks using unlabeled data to overcome the challenges of manual labeling. SimSiam introduced a crucial technique to prevent "collapse" in Self-Supervised Learning.
+
+Link: https://medium.com/@diegobonila/top-deep-learning-papers-of-2022-a4826e0aac4
+
+<img src="/img/c97faab9-087a-4896-82da-72aac8b1dd38.png" width="400" />
+<br/><br/>
+
 ## Mask2Former and OneFormer: Unleashing Universal Image Segmentation with Transformers
 Summary: Hugging Face introduces Mask2Former and OneFormer, state-of-the-art neural networks for universal image segmentation, available in the 🤗 transformers library. These models can handle instance, semantic, and panoptic segmentation tasks with a unified architecture, treating segments as binary mask classification. Mask2Former improves upon MaskFormer by enhancing the neural network architecture for instance segmentation. OneFormer further advances the capabilities by achieving state-of-the-art performance on all three segmentation tasks with training solely on a panoptic dataset, using a text encoder to condition the model on different inputs. The models can be easily used for inference and fine-tuning with the Transformers library.
 
