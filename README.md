@@ -1,3 +1,11 @@
+## LinkedIn: Creating a Professional Network for Career Success
+Summary: Unfortunately, I do not have access to the internet to get the context from the given URL and am unable to summarize the text as requested.
+
+Link: https://www.linkedin.com/posts/metaai_new-paper-emergence-of-maps-in-the-memories-activity-7026606199731093504-SiFA?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/6bfc0edf-c2a2-423c-b529-ea48bb0ca0db.png" width="400" />
+<br/><br/>
+
 ## The ChatGPT Family and Its Impact on Public Perception of Large Language Models
 Summary: The ChatGPT model family, including GPT-1, GPT-2, GPT-3, and their derived models, has transformed public perception of Large Language Models (LLMs). The GPT-3 models vary in size, data used, and training strategy, with options such as Davinci, Curie, Babbage, and Cushman. OpenAI has also developed specialized models like Codex for code generation and InstructGPT for text generation with human-labeled data. GPT-3.5 models are trained on a blend of text and code, and ChatGPT is a sibling model to InstructGPT, likely using Text-davinci-003 as a seed. Despite similarities in architecture, GPT-1, GPT-2, and GPT-3 differ in training data size and the number of transformer blocks.
 
