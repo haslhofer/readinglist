@@ -1,3 +1,11 @@
+## Databricks Introduces Dolly: An Open Source Language Model with ChatGPT-like Capabilities, Democratizing Access to Advanced AI
+Summary: Databricks introduces Dolly, a cost-effective large language model (LLM) that democratizes instruction-following capabilities like those seen in ChatGPT. By fine-tuning an existing open-source model with a small dataset of instruction training data, Dolly exhibits remarkable interactive behaviors, including text generation, brainstorming, and open Q&A. Databricks emphasizes the importance of companies owning their models and provides an open-source notebook to build Dolly on their platform. The release of Dolly marks the beginning of a series of announcements focused on harnessing the power of LLMs for organizations, with more details to be shared at upcoming events like the Data and AI Summit.
+
+Link: https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html
+
+<img src="/img/77122953-7e30-4342-af7b-66fcb4d01211.png" width="400" />
+<br/><br/>
+
 ## Build Your Own Custom ChatGPT With Custom Knowledge Base
 Summary: ChatGPT has become a widely used tool for automation, but its limited context and accuracy can be problematic. Prompt engineering can be used to extend ChatGPT's capabilities, but it is a manual and tedious process. This article explores the possibility of feeding ChatGPT custom data sources to improve its knowledge and accuracy. It discusses various methods for doing this, including using GPT-4, using custom knowledge bases, and using natural language querying. The author also provides practical examples and code snippets to help readers implement these techniques.
 
