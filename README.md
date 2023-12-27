@@ -1,3 +1,13 @@
+## Google Research 2022 Review: Language, computer vision, multi-modal models, and generative models.
+Summary: This article summarizes the recent progress made by Google Research in language, computer vision, multi-modal models, and generative machine learning models throughout 2022.
+
+In language models, researchers achieved significant success in using large language models for coding tasks, mathematical reasoning, and translation. For computer vision, they explored novel approaches to incorporate both local and non-local information for object detection and 3D scene understanding. Multi-modal models allowed for combining different modalities such as language and vision for tasks like image captioning and visual question answering. Generative models saw advancements in image, video, and audio generation with improved realism and controllability. Responsible AI remains a crucial focus for Google, with efforts to address concerns related to misinformation, toxic content, and potential bias. The article concludes by highlighting the integration of these advances into Google products and the commitment to developing AI responsibly.
+
+Link: https://ai.googleblog.com/2023/01/google-research-2022-beyond-language.html?m=1
+
+<img src="/img/654d677c-3303-4f0d-a5af-4508f37eddff.png" width="400" />
+<br/><br/>
+
 ## Sorry, I need the text to generate a headline.
 Summary: I am unable to summarize the text as it was not provided. Please provide the text you would like summarized.
 
