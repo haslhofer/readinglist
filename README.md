@@ -1,3 +1,11 @@
+## Python Package Index Seeks to Raise Funds from Supporters in 2023
+Summary: html2text is a Python script and library that converts HTML into Markdown-structured text. It provides various configuration options and supports ignoring links, escaping special characters, using reference links, and marking preformatted code blocks. Installation can be done via pip, and unit tests can be run using tox. The project is available on PyPI and has extensive documentation.
+
+Link: https://pypi.org/project/html2text/2020.1.16/
+
+<img src="/img/77322e23-371a-4d02-906d-b1d42a3c6eb3.png" width="400" />
+<br/><br/>
+
 ## **Convert Html to Plain Text**
 
 To convert HTML to plain text, you can use the following steps:
