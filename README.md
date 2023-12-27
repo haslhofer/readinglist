@@ -1,3 +1,11 @@
+## Headline: Abandoned Underground World: Vast Network of Tunnels, Chambers, and Canals Discovered Beneath Ancient Rome
+Summary: I am sorry, I do not have access to the internet to get the context from the URL provided and am unable to summarize the text.
+
+Link: https://beta.openai.com/docs/guides/embeddings/limitations-risks
+
+<img src="/img/bacf9088-bacc-4f5a-bfc0-f41a956da373.png" width="400" />
+<br/><br/>
+
 ## Muse: Text-To-Image Generation Model Achieves State-of-the-Art Performance with Enhanced Efficiency
 Summary: The research paper introduces Muse, a text-to-image generation model based on a masked generative Transformer. Trained on a masked modeling task in discrete token space, Muse efficiently translates text embeddings into high-fidelity images. Compared to diffusion and autoregressive models, Muse stands out for its efficiency due to discrete token usage and parallel decoding. Additionally, the integration of a pre-trained large language model enhances its fine-grained language comprehension, leading to improved image generation and visual concept understanding. The model showcases state-of-the-art performance on CC3M and COCO, and enables image editing applications like inpainting, outpainting, and mask-free editing without further fine-tuning.
 
