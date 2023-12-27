@@ -1,3 +1,11 @@
+## Hugging Face Datasets and Transformers for Building Image Similarity Systems
+Summary: Using the Hugging Face library, this blog post presents a step-by-step guide on how to construct an image similarity system. The system computes the similarity between a query image and candidate images using cosine similarity between the images' embeddings. The embeddings are produced by a vision model fine-tuned on the Beans dataset, which offers a thorough grasp of the input images. The system can be further enhanced by reducing embedding dimensionality using random projection or locality-sensitive hashing, and by integrating with FAISS to build dense indexes and retrieve nearest neighbors efficiently.
+
+Link: https://huggingface.co/blog/image-similarity
+
+<img src="/img/cf74af06-363f-46ee-8129-7140f40f126e.png" width="400" />
+<br/><br/>
+
 ## Google Research 2022 Review: Language, computer vision, multi-modal models, and generative models.
 Summary: This article summarizes the recent progress made by Google Research in language, computer vision, multi-modal models, and generative machine learning models throughout 2022.
 
