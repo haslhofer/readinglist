@@ -1,3 +1,11 @@
+## Language Is Not All You Need: Aligning Perception with Language Models
+Summary: Kosmos-1, a new Multimodal Large Language Model (MLLM), has been developed to offer perception, learning in context, and instruction following capabilities. Trained on web-scale multimodal data, it can handle various tasks, including language understanding, generation, and OCR-free NLP, as well as perception-language tasks like multimodal dialogue, image captioning, and visual question answering. Moreover, it supports vision tasks like image recognition with textual instructions. Kosmos-1 also demonstrates cross-modal transfer learning and incorporates a dataset for the nonverbal reasoning assessment of MLLMs.
+
+Link: https://arxiv.org/abs/2302.14045
+
+<img src="/img/4cc72533-30d0-4030-a6a2-5a3fef48836b.png" width="400" />
+<br/><br/>
+
 ## Multivariate Probabilistic Time Series Forecasting with Informer: Achieve More Accurate Forecasts for Complex Time Series Data
 Summary: This document provides an overview of multivariate probabilistic time series forecasting using Informer, a Transformer-based model. The authors introduce the model, discuss its advantages over traditional methods, and provide detailed instructions on how to implement it using the Hugging Face Transformers library. They also include code examples and demonstrate how to evaluate the model's performance on a real-world dataset. Overall, this document serves as a comprehensive guide for researchers and practitioners interested in applying Informer for multivariate time series forecasting tasks.
 
