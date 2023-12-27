@@ -1,3 +1,11 @@
+## External Link Safety Warning for Non-LinkedIn Pages
+Summary: The provided text does not contain any information to summarize. It only includes a link to a YouTube video and a safety disclaimer, but there is no actual content or context to summarize.
+
+Link: https://lnkd.in/gCFiKCZQ
+
+<img src="/img/8e49e25d-f618-4670-a967-fec1e3816fbe.png" width="400" />
+<br/><br/>
+
 ## LinkedIn warns users about external links due to safety concerns.
 Summary: The provided text is a warning message about an external link that is not hosted on LinkedIn. LinkedIn cannot verify the safety of external links, and advises users to learn more about the risks associated with clicking on external links.
 
