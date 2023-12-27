@@ -1,3 +1,11 @@
+## LinkedIn: Sign up or log in to network with professionals around the world
+Summary: I am sorry, I do not have access to the internet to get the context from the given URL and am unable to summarize the text for you.
+
+Link: https://www.linkedin.com/feed/hashtag/?keywords=datawarehouse&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7018092928241721344
+
+<img src="/img/6fccf422-7b9d-489d-ae3d-5f05439ecdc5.png" width="400" />
+<br/><br/>
+
 ## LinkedIn: Make the Most of Your Professional Life
 Summary: LinkedIn is a professional networking site that helps members connect with each other, find jobs, post resumes, and share information about their careers. Members can create a profile that includes their work history, education, skills, and interests. They can also join groups and follow companies to stay up-to-date on industry news and trends. LinkedIn is a valuable tool for professionals looking to advance their careers.
 
