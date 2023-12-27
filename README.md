@@ -1,3 +1,11 @@
+## Scale's Automotive Foundation Model: A shift towards automotive AI
+Summary: Scale AI introduces its Automotive Foundation Model (AFM), a cutting-edge solution that enables rapid and effective development of automotive AI applications. It offers a diverse set of pre-trained models, fine-tuning capabilities, data labeling services, and a user-friendly interface to swiftly turn ideas into AI-driven functionalities. AFM empowers automotive companies to innovate, automate processes, and enhance decision-making, accelerating their journey towards AI-enabled products and services.
+
+Link: https://scale.com/blog/chatgpt-vs-claude#What%20is%20%E2%80%9CConstitutional%20AI%E2%80%9D
+
+<img src="/img/e416b6a7-2074-4c05-a00d-8e87edb22538.png" width="400" />
+<br/><br/>
+
 ## Generative AI Market Dynamics and Where Value Will Accrue
 Summary: 
 
