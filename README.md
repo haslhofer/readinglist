@@ -1,3 +1,11 @@
+## ChatGPT: A Deep Dive into the Model Behind the Revolutionary Chatbot
+Summary: ChatGPT is a Large Language Model (LLM) trained on vast amounts of text data. LLMs digest text data and infer relationships between words, increasing their capability as their input datasets and parameter space increase. The basic training involves predicting a word in a sequence, but sequential modeling has limitations, such as the inability to value surrounding words differently. Advancements in computational power have enabled the training of large LLMs like GPT-3, which uses the self-attention mechanism and was further enhanced by Reinforcement Learning from Human Feedback, making it exceptional.
+
+Link: https://towardsdatascience.com/how-chatgpt-works-the-models-behind-the-bot-1ce5fca96286
+
+<img src="/img/17d1aa85-f2cc-418c-befb-9b0e75f4c7ac.png" width="400" />
+<br/><br/>
+
 ## How ChatGPT Works: A Dive into Large Language Models, Attention Mechanisms, and Reinforcement Learning
 Summary: ChatGPT is a large language model (LLM) trained on vast amounts of text data. It leverages self-attention mechanisms and reinforcement learning from human feedback to understand and generate human-like text. The model excels in various natural language processing tasks, including text generation, summarization, translation, and answering questions.
 
