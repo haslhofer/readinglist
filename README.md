@@ -1,3 +1,11 @@
+## ChatGPT gets a B- on Wharton MBA Exam
+Summary: ChatGPT, a powerful AI-powered tool backed by Microsoft, demonstrated exceptional performance on Wharton's MBA exam, raising concerns and prompting discussion about the implications of such technology in higher education. The AI chatbot exhibited impressive capabilities in basic operations management and process analysis but had limitations in handling more advanced questions. Experts emphasize the need for educators and institutions to adapt by investing in education and leveraging AI's potential while acknowledging its impact on traditional skill sets and the value of an MBA.
+
+Link: https://fortune.com/2023/01/21/chatgpt-passed-wharton-mba-exam-one-professor-is-sounding-alarm-artificial-intelligence/
+
+<img src="/img/dc614d9d-c2c8-4e1b-95b5-11357f042156.png" width="400" />
+<br/><br/>
+
 ## Fearing for their investments, laid-off Silicon Valley workers sell start-up shares amid plunging valuations
 Summary: Due to the economic slowdown, many tech companies have been forced to lay off employees. This has resulted in a sell-off of start-up shares by laid-off tech workers, causing valuations to plunge further. Tech workers had been paid excessive stock-based compensation during the boom, which is now having a negative impact. This article recommends considering investments in profitable tech stocks, such as Adobe Inc. (ADBE) and Microsoft Corporation (MSFT), rather than unprofitable startups.
 
