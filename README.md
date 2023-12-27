@@ -1,3 +1,11 @@
+## "Artificial Corner: A Look at the Latest Developments and Insights in the World of AI"
+Summary: Artificial Corner is a website dedicated to exploring the advancements and applications of artificial intelligence (AI). Its content covers various topics such as AI tools and software, ChatGPT prompts and tutorials, AI-generated art and animations, and industry news and developments. The website provides comprehensive guides and practical insights for readers interested in leveraging AI's potential to enhance productivity, creativity, and learning.
+
+Link: https://link.medium.com/SsCISkCSmAb
+
+<img src="/img/7fb5778b-21c6-45b7-96ff-8cb87f097922.png" width="400" />
+<br/><br/>
+
 ## Google has made available nine
 Summary: Google has made available nine free courses on Generative AI learning. The topics covered in these courses include an introduction to LLMs (Large Language Models), attention mechanism, image generation and captioning, and responsible AI. These courses provide a comprehensive understanding of the fundamentals of LLMs, their use cases, and how to create and deploy generative AI solutions. To access these courses, you can follow the links provided in the post.
 
