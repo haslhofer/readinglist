@@ -1,3 +1,11 @@
+## LinkedIn warns users about external links for safety
+Summary: The provided link leads to an external page on YouTube, specifically a playlist titled "PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg". Due to external linking, LinkedIn is unable to verify the safety of the content on this page. In case you have questions, more information is available for reference.
+
+Link: https://lnkd.in/g8u9UkY4
+
+<img src="/img/b5257288-fe8b-48cf-9eaa-3693b3e9657f.png" width="400" />
+<br/><br/>
+
 ## External Link Warning: LinkedIn Cannot Verify Safety
 Summary: The provided text warns users about an external link that is not associated with LinkedIn. The platform cannot verify the safety of the link and encourages users to learn more about external links and their potential risks.
 
