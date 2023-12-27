@@ -1,3 +1,11 @@
+## Together Unveils OpenChatKit: Open-Source and Extensible Toolkit for Building Specialized Chatbots
+Summary: Introducing OpenChatKit: an open-source chatbot project developed by Together in collaboration with LAION and Ontocord. It provides a foundation to create specialized and general-purpose chatbots for various applications. OpenChatKit offers a large language model fine-tuned for chat, customization recipes, an extensible retrieval system, and a moderation model. It enables users to contribute feedback, datasets, and improvements, encouraging an ongoing community effort to develop and enhance the chatbot. The project includes tools for dataset contributions, feedback incorporation, and a Hugging Face app for user feedback. OpenChatKit was trained on the Together Decentralized Cloud, utilizing aggressive communication compression for data parallel training over slow networks. The fine-tuning process was done exclusively in the carbon-negative green zone of the cloud.
+
+Link: https://www.together.xyz/blog/openchatkit
+
+<img src="/img/93e0112d-935a-4bea-8870-07496a03ef7b.png" width="400" />
+<br/><br/>
+
 ## Self-Instruct: A Method to Align Large Language Models with Self-Generated Instructions
 Summary: Self-Instruct is a novel framework that leverages the capabilities of pre-trained language models to generate instructions, input, and output samples. These generated samples are then used to fine-tune the language model, aligning it with the instructions. Empirical evaluation demonstrates significant improvements in the model's performance on various benchmarks and tasks, rivaling the performance of models trained with human-written instructions and private datasets. The method provides an efficient and scalable approach to aligning language models with instructions without relying heavily on human annotations or private data.
 
