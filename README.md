@@ -1,3 +1,11 @@
+## External link safety warning for LinkedIn users
+Summary: 
+
+Link: https://lnkd.in/gbj3xdWf
+
+<img src="/img/853a1995-6e3e-448c-8efa-e5493490cdd8.png" width="400" />
+<br/><br/>
+
 ## LinkedIn warns users about external links
 Summary: The provided text is related to a link to a playlist on YouTube. However, LinkedIn is unable to verify the link for safety, and the user is directed to a help page to learn more.
 
