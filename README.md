@@ -1,3 +1,11 @@
+## How to Create a Private ChatGPT With Your Own Data
+Summary: This article discusses the architecture and data requirements needed to create a custom version of ChatGPT that utilizes your own data. It highlights the disadvantages of fine-tuning a language model with your own data, emphasizing limitations such as factual correctness, access control, and costs. To overcome these challenges, the article proposes separating the language model from the knowledge base, allowing for real-time retrieval of relevant information without the need for model training. The approach involves splitting data into smaller chunks, creating a search index for semantic search, and designing a concise prompt to avoid hallucinations. The article also provides guidance on improving relevance through different chunking strategies and prompt engineering techniques. Various resources and projects are mentioned for inspiration and further exploration. The author emphasizes the importance of separating knowledge from language models to ensure factually correct answers and concludes by encouraging readers to connect with them on social media platforms.
+
+Link: https://medium.com/@imicknl/how-to-create-a-private-chatgpt-with-your-own-data-15754e6378a1
+
+<img src="/img/fedf6a81-2ba4-445f-9799-cbec8c08b94b.png" width="400" />
+<br/><br/>
+
 ## Hugging Face Introduces "Run with Docker, Inc" Feature for Local Execution of ML Apps from Spaces
 Summary: Hugging Face's new "Run with Docker, Inc" feature enables users to run over 30,000 machine learning apps from Spaces locally or on their own infrastructure. This collaboration aims to democratize AI by making it more accessible and easy to deploy machine learning models. Additionally, Docker integration brings increased flexibility, allowing users to run models on-premise, in the cloud, or on CPUs/GPUs, catering to diverse use cases.
 
