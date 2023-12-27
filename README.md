@@ -1,3 +1,11 @@
+## LangFlow Demo: Building an Autonomous LLM Agent in 6 Easy Steps
+Summary: This video demonstrates the creation of an autonomous Large Language Model (LLM) agent using LangFlow. The agent utilizes OpenAI's text-davinci-003 model with access to search and math tools. The video showcases how an ambiguous question is broken down into a chain-of-thought reasoning process, with the most suitable tool employed at each step. The agent efficiently provides accurate and comprehensive responses, demonstrating the potential of LLM-based agents for various applications.
+
+Link: https://www.linkedin.com/posts/cobusgreyling_largelanguagemodels-langchain-langflow-ugcPost-7061682557523828736-1TG5?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/cf6bf251-1f7c-4ff0-8b09-b844b39eacf3.png" width="400" />
+<br/><br/>
+
 ## Hugging Face: Get the Latest Research Papers in Your Inbox Daily
 Summary: Hugging Face is a platform that provides tools and resources for natural language processing (NLP) tasks. It offers a range of pre-trained language models, datasets, and tools for fine-tuning and evaluating models. Hugging Face also provides a community forum for researchers and practitioners to share ideas and collaborate on NLP projects.
 
