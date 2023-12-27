@@ -1,3 +1,11 @@
+## Create an Image Similarity System with Hugging Face Datasets and Transformers
+Summary: This article describes how to create an image similarity system using Hugging Face, which can compare query images to candidate photos and select those most like the query image. The article explains how to define similarity, extract embeddings from images, calculate similarity scores, and retrieve similar images. Additionally, it discusses methods for reducing the dimensionality of embeddings to improve speed and retrieval quality and mentions that Hugging Face Dataset offers integrations with Faiss to simplify the process.
+
+Link: https://huggingface.co/blog/image-similarity
+
+<img src="/img/c2231435-044c-43b4-bf06-3ad15589c24b.png" width="400" />
+<br/><br/>
+
 ## Google Research unveils new capabilities in text generation, computer vision, and generative models for 2022 and beyond.
 Summary: This article is a detailed overview of Google's Research Community advancements in 2022. It specifically focuses on language models, computer vision, multimodal models, and generative models. For language models, the emphasis is on the capabilities and challenges of large language models. Computer vision innovations include the use of the transformer architecture in vision models. Multimodal models can handle different modalities simultaneously, enabling exciting applications like natural language instructions for image manipulation. Generative models, particularly Imagen and Parti, have achieved remarkable progress in image generation. Important ethical considerations in AI development are also discussed. The article concludes with Google's ongoing efforts to responsibly apply these advancements in various products and services.
 
