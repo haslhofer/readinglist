@@ -1,3 +1,11 @@
+## New AI Research Introduces Custom Diffusion Method for Personalized Text-to-Image Generation with Enhanced Efficiency
+Summary: Researchers proposed a method called Custom Diffusion for personalizing text-to-image diffusion models. By fine-tuning only a small subset of model weights, they can incorporate new concepts without the need to retrain the entire model. This method prevents catastrophic forgetting and is highly efficient. It allows users to generate images personalized to their own preferences and concepts with just a few examples.
+
+Link: https://www.marktechpost.com/2023/01/16/a-new-artificial-intelligence-ai-research-focuses-on-the-personalization-of-generative-art-by-teaching-a-model-many-new-concepts-at-once-and-combining-them-on-the-fly/
+
+<img src="/img/5ee0b2be-66de-4129-beb5-8962f38e71b7.png" width="400" />
+<br/><br/>
+
 ## Hugging Face Datasets and Transformers for Image Similarity
 Summary: This post provides a tutorial and resources for building an image similarity system with Hugging Face Datasets and Transformers. It covers defining similarity using dense representations and cosine similarity, computing embeddings, loading a dataset for candidate images, finding similar images by extracting embeddings and computing similarity scores, performing a query and visualizing the results. The post discusses further extensions and conclusions, highlighting the scalability and efficiency challenges with high-dimensional embeddings and suggesting dimensionality reduction techniques. It introduces the use of Faiss and ScaNN for efficient similarity search and mentions an accompanying Space showcasing a mini image similarity application. The post concludes with additional resources for further learning.
 
