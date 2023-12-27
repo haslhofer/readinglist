@@ -1,3 +1,11 @@
+## Hugging Face introduces Mask2Former and OneFormer for Universal Image Segmentation
+Summary: Mask2Former and OneFormer are state-of-the-art neural networks for image segmentation, now available in Hugging Face's transformers library. They can solve instance, semantic, and panoptic segmentation with a unified architecture, treating "things" and "stuff" classes in a unified way. Mask2Former extends DETR's "binary mask classification" paradigm to instance segmentation, while OneFormer achieves state-of-the-art results on all three tasks by training on a panoptic dataset and adding a text encoder.
+
+Link: https://huggingface.co/blog/mask2former
+
+<img src="/img/adab950a-12e5-405b-b308-afbe89846a58.png" width="400" />
+<br/><br/>
+
 ## NVIDIA Broadcast 1.4 Adds Eye Contact and Vignette Effects With Virtual Background Enhancements
 Summary: NVIDIA Broadcast 1.4 adds new features such as Eye Contact, which simulates eye contact with the camera, and Vignette, which adds a bokeh-like effect to the virtual background. It also enhances the Virtual Background effects with temporal information for better segmentation and stability. Additionally, it introduces the ability to mirror the camera and take screenshots. Broadcast is also available as SDKs (Maxine) for app developers to integrate into their apps.
 
