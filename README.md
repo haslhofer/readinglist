@@ -1,3 +1,11 @@
+## Hugging Face presents a method for building an image similarity system using Transformers and Datasets libraries
+Summary: This blog post describes how to build an image similarity system using Hugging Face datasets and Transformers. The system uses dense representations, also known as embeddings, of images to determine similarity. Embeddings are compressed high-dimensional pixel representations that enable rapid computation. A vision model computes the embeddings, and cosine similarity is used to measure similarity. The post also discusses dimensionality reduction techniques to manage memory requirements and introduces the use of FAISS for efficient retrieval. Additionally, the post provides resources for further exploration on image similarity systems and related topics.
+
+Link: https://huggingface.co/blog/image-similarity
+
+<img src="/img/005bd6eb-fa43-485f-96c1-e246387bc594.png" width="400" />
+<br/><br/>
+
 ## In 2022, Google Research made advancements in language models, computer vision, multi-modal models, and generative models. The year brought exciting developments such as improved capabilities of large language models, advancements in computer vision techniques, the emergence of multi-modal models, and breakthroughs in generative models for imagery, video, and audio. These advancements have the potential to transform how people interact with computers and enhance user experiences in various Google products. The research team is dedicated to pursuing AI responsibly, prioritizing beneficial uses and avoiding harm. They emphasize the importance of careful consideration, collaboration with experts, and addressing emerging areas of concern. Overall, Google Research aims to harness technological progress to make computers more helpful and accessible to users while adhering to ethical and responsible principles.
 Summary: This article discusses advancements made by Google Research in 2022 and their vision for 2023 and beyond, encompassing language, vision, generative models, and responsible AI.
 
