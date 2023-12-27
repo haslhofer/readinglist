@@ -1,3 +1,23 @@
+## In 2022, Google Research made advancements in language models, computer vision, multi-modal models, and generative models. The year brought exciting developments such as improved capabilities of large language models, advancements in computer vision techniques, the emergence of multi-modal models, and breakthroughs in generative models for imagery, video, and audio. These advancements have the potential to transform how people interact with computers and enhance user experiences in various Google products. The research team is dedicated to pursuing AI responsibly, prioritizing beneficial uses and avoiding harm. They emphasize the importance of careful consideration, collaboration with experts, and addressing emerging areas of concern. Overall, Google Research aims to harness technological progress to make computers more helpful and accessible to users while adhering to ethical and responsible principles.
+Summary: This article discusses advancements made by Google Research in 2022 and their vision for 2023 and beyond, encompassing language, vision, generative models, and responsible AI.
+
+In language models, progress has been made in areas like chain of thought prompting, where models learn to break down complex problems into smaller tasks and combine solutions to address the larger problem. This approach has shown success in solving complex mathematical, scientific, and clinical reasoning problems.
+
+In computer vision, there has been a shift towards using the Transformer architecture for image classification and object detection tasks. This architecture is able to utilize both local and non-local information about the image and has shown improved performance on various benchmarks. Research efforts in this area also explore understanding the 3-D structure of objects from 2-D images and generating novel views of scenes from a few reference images.
+
+Multimodal models, capable of handling multiple modalities simultaneously as model inputs and outputs, play an increasingly important role in improving user interaction with computers. Advances in this area include the development of models that combine language and vision inputs to perform various tasks like visual question answering, image captioning, and object detection. These models can also combine multiple modalities to improve performance on single-modality tasks.
+
+Generative models for imagery, video, and audio have seen significant progress, yielding high-resolution and realistic outputs. This includes the development of diffusion models and autoregressive models, which are trained on large datasets to generate realistic images and videos conditioned on text prompts. Additionally, research efforts in this area focus on user control over the generation process, allowing users to fine-tune models and provide input images or videos to influence the output.
+
+Responsible AI remains a central concern, with researchers emphasizing the importance of using AI in ways that benefit users and society, avoiding harm, and addressing concerns such as bias and toxicity. Google's approach to responsible AI includes establishing principles, conducting thorough research and development processes, seeking feedback from various stakeholders, and engaging in efforts to shape responsible governance and regulation.
+
+The article concludes by highlighting the potential of these advancements to enhance user experiences, particularly in making interactions with computers more natural and intuitive. However, it also acknowledges the responsibility to develop these technologies in accordance with ethical principles, ensuring their safety and responsible use.
+
+Link: https://ai.googleblog.com/2023/01/google-research-2022-beyond-language.html?m=1
+
+<img src="/img/61995edd-7de5-4575-8e7d-c80f8b76b20b.png" width="400" />
+<br/><br/>
+
 ## Muse: A Text-to-Image Model Leveraging Masked Generative Transformers for Efficient Generation
 Summary: Muse is a text-to-image Transformer model achieving state-of-the-art image generation. It uses a masked modeling task in discrete token space, enabling efficient training compared to diffusion or autoregressive models. The model can generate high-fidelity images, understand visual concepts, and support image editing like inpainting and mask-free editing without the need for fine-tuning or inverting.
 
