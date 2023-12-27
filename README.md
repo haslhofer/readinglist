@@ -1,3 +1,11 @@
+## Open-source Vision-Centric Perception Approach for Autonomous Driving
+Summary: TPV, a groundbreaking open-source project from Beijing, presents a novel vision-centric autonomous driving approach using 3D perception. It introduces the TPV representation and the TPVFormer encoder for transformer-based processing. The system achieves comparable performance to LiDAR methods with significantly reduced training data and computational resources. TPV offers a viable alternative for autonomous driving research and development.
+
+Link: https://www.linkedin.com/feed/update/urn:li:ugcPost:7032636372460941312?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7032636372460941312%2C7032636645417828352%29
+
+<img src="/img/c1eb7df4-0a1b-49fb-b3a5-5f6ef48fa996.png" width="400" />
+<br/><br/>
+
 ## Open Source Colossal-AI Tool Accelerates ChatGPT Training and Lowers Costs
 Summary: Colossal-AI provides an open-source solution for replicating the training process of OpenAI's popular ChatGPT application, enabling users to train ChatGPT-like models with reduced hardware resources and faster training times. The framework simplifies the replication of ChatGPT's training stages and offers efficient single-GPU and multi-GPU versions for various hardware setups. With Colossal-AI, AI developers can leverage advanced memory management techniques, scale training to large parallelism, and customize pre-trained models for specific applications, making the development and deployment of ChatGPT-like solutions more accessible and cost-effective.
 
