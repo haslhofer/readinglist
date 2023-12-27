@@ -1,3 +1,11 @@
+## Keras Dreambooth Sprint: Train, Demo, and Submit Models for Fine-tuning Stable Diffusion
+Summary: The Keras Dreambooth event organized by Hugging Face is set to take place between March 6th and April 7th, 2023. Participants will be tasked with fine-tuning Stable Diffusion models on concepts of their choice using Dreambooth, hosting the models on Hugging Face Hub, filling out model cards, and creating demos using Gradio. Prizes will be awarded to the top three submissions in categories like nature and animals, sci-fi/fantasy universes, consentful, and wild-card. The event aims to showcase innovative applications of Dreambooth and encourage collaboration within the Hugging Face community.
+
+Link: https://github.com/huggingface/community-events/blob/main/keras-dreambooth-sprint/README.md
+
+<img src="/img/9b4ff2c5-691f-46cd-977e-ec381bc9a6b5.png" width="400" />
+<br/><br/>
+
 ## LinkedIn: Your Path to Professional Success
 Summary: Unfortunately, I do not have access to the internet to get the context from the given URL and am unable to summarize the text for you.
 
