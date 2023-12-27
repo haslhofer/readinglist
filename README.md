@@ -1,3 +1,11 @@
+## Chat Lmsys Connection Security Check
+Summary: chat.lmsys.org is currently checking the security of your connection before allowing you to proceed. This process is facilitated by Cloudflare to ensure performance and security.
+
+Link: https://chat.lmsys.org/
+
+<img src="/img/7bd43f9c-62b7-4178-b04f-1a0486987e0c.png" width="400" />
+<br/><br/>
+
 ## Databricks releases Dolly, a large language model trained on a focused corpus of 50k records, demonstrating surprisingly high-quality instruction-following behavior.
 Summary: Dolly v1-6b, a large language model trained by Databricks, demonstrates that a two-year-old open-source model, when fine-tuned on a focused corpus, can exhibit high-quality instruction-following behavior not seen in its foundation model. It is designed for academic research and model engineering experimentation, showcasing capabilities across a range of tasks. However, it has known limitations and is not state-of-the-art, as it struggles with complex prompts, programming, mathematical operations, factual errors, and more. The model is trained on The Pile, a 400B token dataset, and a ~52K record instruction corpus called Stanford Alpaca. Intended exclusively for research purposes, Dolly v1-6b is not recommended for high-risk applications due to its shortcomings.
 
