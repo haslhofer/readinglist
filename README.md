@@ -1,3 +1,11 @@
+## Web Stable Diffusion: Bringing AI to Browsers with No Server Support
+Summary: This project introduces a web-based implementation of Stable Diffusion models that allows users to create photorealistic images and images in various styles based on text input. It eliminates the need for server support by running everything within the browser. The solution is powered by machine learning compilation (MLC) and leverages open-source components such as PyTorch, Hugging Face diffusers, and TVM Unity. Users can import, optimize, build, and deploy models locally with native GPU runtime or on the web with WebGPU runtime. The workflow for deploying ML models is Python-first and universally deployable, enabling seamless integration of new optimizations and models. The project also acknowledges the contributions of various open-source communities and individuals involved in its development.
+
+Link: https://github.com/mlc-ai/web-stable-diffusion
+
+<img src="/img/7ab3840f-e413-4d1f-ac48-9184800d8eab.png" width="400" />
+<br/><br/>
+
 ## Documentation page for Langchain not found
 Summary: The requested documentation page for langchain was not found due to changes over time and the movement of pages. Users are advised to navigate to the project's index page or use the search feature to find similar pages. The text also provides tips to address 404 errors, such as using a custom 404 page and creating redirects when moving content.
 
