@@ -1,3 +1,11 @@
+## Read the Docs documentation page not found
+Summary: The provided text describes a "404 Not Found" error encountered while browsing the documentation of "langchain" on "Read the Docs." It suggests navigating to the project's index page or using the search function to find similar information. Additionally, tips for addressing 404 errors, such as creating custom 404 pages and setting up redirects, are mentioned. The site also encourages readers to sign up for a newsletter to receive blog updates and provides links to the company's job listings, advertising opportunities, and various resources including a tutorial, team, documentation, and support.
+
+Link: https://langchain.readthedocs.io/en/latest/modules/indexes/chain_examples/vector_db_qa.html
+
+<img src="/img/77390653-55b8-4f6c-96a0-b1ef19f4a174.png" width="400" />
+<br/><br/>
+
 ## Vid2Avatar: A Self-supervised Approach for Reconstructing 3D Avatars from Videos in the Wild via Scene Decomposition
 Summary: Vid2Avatar is a method that reconstructs detailed 3D avatars from monocular in-the-wild videos by performing self-supervised scene decomposition. This approach utilizes two separate neural fields to model the human and background in the scene, and leverages a temporally consistent human representation in canonical space. It introduces novel objectives for clean separation of dynamic human and static background, resulting in detailed and robust 3D human geometry reconstructions. Compared to existing methods, Vid2Avatar outperforms them due to its superior decoupling of humans from the background.
 
