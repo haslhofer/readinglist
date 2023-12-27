@@ -1,3 +1,11 @@
+## The ChatGPT Family and Its Impact on Public Perception of Large Language Models
+Summary: The ChatGPT model family, including GPT-1, GPT-2, GPT-3, and their derived models, has transformed public perception of Large Language Models (LLMs). The GPT-3 models vary in size, data used, and training strategy, with options such as Davinci, Curie, Babbage, and Cushman. OpenAI has also developed specialized models like Codex for code generation and InstructGPT for text generation with human-labeled data. GPT-3.5 models are trained on a blend of text and code, and ChatGPT is a sibling model to InstructGPT, likely using Text-davinci-003 as a seed. Despite similarities in architecture, GPT-1, GPT-2, and GPT-3 differ in training data size and the number of transformer blocks.
+
+Link: https://newsletter.theaiedge.io/p/the-chatgpt-models-family?utm_source=substack&utm_medium=email
+
+<img src="/img/2116d0d7-b4ec-4a9f-87f0-623b45539efd.png" width="400" />
+<br/><br/>
+
 ## TextReducer: A Tool for Summarization and Information Extraction Powered by SentenceTransformer
 Summary: TextReducer is a tool for summarization and information extraction. It takes a large text and a target text and returns a summary of the input text that is most similar to the target text. It also has a method to summarize a text without a target text, and a method to summarize a PDF file. TextReducer can be used for summarization, information extraction, question answering, and GPT3/ChatGPT prompting.
 
