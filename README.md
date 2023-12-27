@@ -1,3 +1,11 @@
+## Unlock Your Professional Potential with LinkedIn
+Summary: I am sorry, I do not have access to the internet to get the context from the given URL and am unable to provide you with a summary of the text.
+
+Link: https://www.linkedin.com/feed/hashtag/?keywords=bigdata&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7018092928241721344
+
+<img src="/img/d88aed1e-cdec-4668-afd2-5b81cd8caf9e.png" width="400" />
+<br/><br/>
+
 ## Unlock your Professional Destiny with LinkedIn.
 Summary: Unfortunately, I do not have access to the internet to get the context from the given URL. Therefore, I am unable to extract the information required to complete your request.
 
