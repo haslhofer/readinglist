@@ -1,3 +1,11 @@
+## New Method Proposed to Evaluate Models Trained with Synthetic Data for Real-World Applications
+Summary: A study introduces a framework for training credit scoring models using synthetic data while analyzing their performance on real-world data and ability to handle data drift. The findings suggest that models trained on synthetic data perform well, but there is a loss of predictive power compared to models trained on real-world data. TVAE outperformed CTGAN as a synthetic data generator, and the performance cost of using synthetic data was approximately 3% and 6% when measured in AUC and KS, respectively. This approach enabled research on credit scoring while protecting borrowers' privacy.
+
+Link: https://www.marktechpost.com/2023/01/21/a-new-method-to-evaluate-the-performance-of-models-trained-with-synthetic-data-when-they-are-applied-to-real-world-data/
+
+<img src="/img/cbb21840-8818-48c1-8dbb-3a566f087fdc.png" width="400" />
+<br/><br/>
+
 ## Sure, here is a one line headline describing the text you provided.
 
 **Headline:** Technology is changing the way we work, live, and play.
