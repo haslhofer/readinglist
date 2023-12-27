@@ -1,3 +1,11 @@
+## Cerebras releases open-source GPT-3 model with 111MB to 13B parameters
+Summary: Cerebras and Hugging Face released the training recipe and pre-trained checkpoints of their version of GPT-3, ranging from 111MB to 13B parameters, under an Apache 2.0 license, making them open-source and royalty-free for both research and commercial applications. This marks an important milestone in the development of large-scale language models and will allow researchers and developers to explore and utilize the model's capabilities more freely.
+
+Link: https://www.linkedin.com/posts/ebarsoum_cerebras-cerebras-activity-7046571544940064768-amSS?utm_source=share&utm_medium=member_android
+
+<img src="/img/da8f00a1-b102-498f-b239-e48345d56c1b.png" width="400" />
+<br/><br/>
+
 ## Hugging Face Models: Explore and Discover State-of-the-Art Machine Learning Models
 Summary: The Hugging Face Model Hub is an open-source repository of machine learning models, with a focus on natural language processing. It includes models for various tasks such as text classification, text generation, question answering, and more. The models are trained on various datasets and can be fine-tuned on specific tasks. Developers can explore, share, and use these models for their own projects.
 
