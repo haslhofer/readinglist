@@ -1,3 +1,11 @@
+## Vid2Avatar: A Self-supervised Approach for Reconstructing 3D Avatars from Videos in the Wild via Scene Decomposition
+Summary: Vid2Avatar is a method that reconstructs detailed 3D avatars from monocular in-the-wild videos by performing self-supervised scene decomposition. This approach utilizes two separate neural fields to model the human and background in the scene, and leverages a temporally consistent human representation in canonical space. It introduces novel objectives for clean separation of dynamic human and static background, resulting in detailed and robust 3D human geometry reconstructions. Compared to existing methods, Vid2Avatar outperforms them due to its superior decoupling of humans from the background.
+
+Link: https://moygcc.github.io/vid2avatar/
+
+<img src="/img/eb49287f-6952-49f7-8527-f349a593d2c9.png" width="400" />
+<br/><br/>
+
 ## Semantic Kernel: Integrate cutting-edge LLM technology quickly and easily into your apps
 Summary: The Semantic Kernel SDK allows developers to integrate Large Language Models (LLMs) like OpenAI, Azure OpenAI, and Hugging Face into their applications using conventional programming languages such as C#, Python, and Java. It enables automatic orchestration of plugins using AI and provides features like plan generation, simplified function chaining, and the ability to create native and semantic functions. The SDK offers an intuitive Visual Studio Code extension for designing and testing semantic functions. The project is open-source, licensed under MIT, and offers extensive documentation, tutorials, and community engagement opportunities.
 
