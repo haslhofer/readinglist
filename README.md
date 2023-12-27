@@ -1,3 +1,11 @@
+## Muse: Text-To-Image Generation Model Achieves State-of-the-Art Performance with Enhanced Efficiency
+Summary: The research paper introduces Muse, a text-to-image generation model based on a masked generative Transformer. Trained on a masked modeling task in discrete token space, Muse efficiently translates text embeddings into high-fidelity images. Compared to diffusion and autoregressive models, Muse stands out for its efficiency due to discrete token usage and parallel decoding. Additionally, the integration of a pre-trained large language model enhances its fine-grained language comprehension, leading to improved image generation and visual concept understanding. The model showcases state-of-the-art performance on CC3M and COCO, and enables image editing applications like inpainting, outpainting, and mask-free editing without further fine-tuning.
+
+Link: https://arxiv.org/abs/2301.00704
+
+<img src="/img/bf357ba3-62ef-4869-9e16-63c2566b4b4c.png" width="400" />
+<br/><br/>
+
 ## Unified Image- and Language-Understanding Model Trained Only with Contrastive Losses
 Summary: Researchers introduce CLIPPO, a multimodal model composed entirely of pixel-based components, demonstrating its impressive performance on various tasks. Trained solely with contrastive loss, CLIPPO processes both images and text rendered as images using a single encoder. It excels at image-based tasks such as retrieval and classification, rivalling CLIP-style models but with fewer parameters and no text-specific components. CLIPPO's proficiency extends to natural language understanding tasks, outperforming prior pixel-based methods without word-level loss. Surprisingly, it handles visual question answering by simply presenting the question and image together. Additionally, CLIPPO showcases its multilingual capabilities in multimodal retrieval without modifications, highlighting its versatility.
 
