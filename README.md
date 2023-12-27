@@ -1,3 +1,11 @@
+## "Artificial Corner" is a websi
+Summary: "Artificial Corner" is a website that publishes articles and blog posts on the topic of artificial intelligence (AI). The website covers various aspects of AI, including AI technology news, tool reviews, opinions on AI ethics and predictions, and AI-related tutorials and guides. Some of the topics discussed in recent posts include the use of AI in job interviews, comparing different AI models, exploring AI animation tools, and creating custom versions of AI chatbots. The website also provides information on upcoming AI-related events and conferences.
+
+Link: https://link.medium.com/fLrtiEHDhAb
+
+<img src="/img/e0888deb-4cce-4300-86d7-d64ba27331fe.png" width="400" />
+<br/><br/>
+
 ## Falcon Models by TII Are Now Open-Source Under the Apache 2.0 License
 Summary: The Falcon Models (7B/40B) from TII are now licensed under the Apache 2.0 License. This licensing change brings clarity and greater permissiveness, especially for commercial use. Users can now leverage the best-performing open source in open-source and commercial projects. Models are available on Hugging Face.
 
