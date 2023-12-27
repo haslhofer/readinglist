@@ -1,3 +1,11 @@
+## Join LinkedIn to Build Your Professional Network
+Summary: Unfortunately, I do not have access to the internet and am unable to summarize the text provided.
+
+Link: https://www.linkedin.com/feed/hashtag/?keywords=dataanalytics&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7018092928241721344
+
+<img src="/img/0fd5bf22-1dd9-4ff7-9e12-fe91ef188539.png" width="400" />
+<br/><br/>
+
 ## LinkedIn: Make the most of your professional life
 Summary: The provided text does not contain any information to summarize. Please provide the actual text you want me to summarize.
 
