@@ -1,3 +1,11 @@
+## Microsoft AI DeBERTaV3: Novel Pretraining Paradigm for Better Natural Language Understanding
+Summary: Researchers from Microsoft AI introduced DeBERTaV3, an improved version of the DeBERTa language model, which leverages replaced token detection and gradient-disentangled embedding sharing for enhanced pre-training. DeBERTaV3 demonstrates superior performance compared to previous models on various NLU tasks, establishing a solid foundation for future language understanding research.
+
+Link: https://www.marktechpost.com/2023/03/23/microsoft-ai-introduce-deberta-v3-a-novel-pre-training-paradigm-for-language-models-based-on-the-combination-of-deberta-and-electra/
+
+<img src="/img/cdae8a3e-8103-44bd-b045-c022e140194d.png" width="400" />
+<br/><br/>
+
 ## Databricks Introduces Dolly: An Open Source Language Model with ChatGPT-like Capabilities, Democratizing Access to Advanced AI
 Summary: Databricks introduces Dolly, a cost-effective large language model (LLM) that democratizes instruction-following capabilities like those seen in ChatGPT. By fine-tuning an existing open-source model with a small dataset of instruction training data, Dolly exhibits remarkable interactive behaviors, including text generation, brainstorming, and open Q&A. Databricks emphasizes the importance of companies owning their models and provides an open-source notebook to build Dolly on their platform. The release of Dolly marks the beginning of a series of announcements focused on harnessing the power of LLMs for organizations, with more details to be shared at upcoming events like the Data and AI Summit.
 
