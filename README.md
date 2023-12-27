@@ -1,3 +1,11 @@
+## Deepmind's LASER-NV: Conditional Generative Model for Efficient Inference of Large 3D Scenes with Partial Observability
+Summary: Deepmind proposed LASER-NV, a generative model of Neural Radiance Fields (NeRF) that can generate large and complex scenes with few arbitrary viewpoints. It infers a set-valued latent from image and camera pairs using an encoder and combines it with local features back-projected from context views to generate color and density. LASER-NV can generate diverse plausible views for unobserved areas while maintaining consistency with the observed ones. It shows promising results on ShapeNet, Multi-ShapeNet, and a novel "City" dataset, demonstrating its ability to model scenes of different scales and uncertainty structures.
+
+Link: https://www.marktechpost.com/2023/01/24/deepmind-proposes-laser-nv-a-conditional-generative-model-of-neural-radiance-fields-capable-of-efficient-inference-of-large-and-complex-scenes-under-partial-observability-conditions/
+
+<img src="/img/a3b7df3c-e510-4dcf-a1ff-18be06c94094.png" width="400" />
+<br/><br/>
+
 ## Researchers Propose Cold Diffusion: A Diffusion Model with Deterministic Perturbations
 Summary: Researchers at the University of Maryland have proposed a new diffusion model called Cold Diffusion. Cold Diffusion replaces additive Gaussian noise in diffusion models with deterministic and arbitrary transformations like blur, subsampling, and snowification. The model is trained as an autoencoder in which the parameters of the encoder that applies a degradation are fixed during training. While the model generates convincing samples, the researchers found that adding a small Gaussian perturbation to the initial sample is necessary to obtain a generative model. The idea of using transformations other than white Gaussian noise is interesting and could lead to a better understanding of the generative capacity of diffusion models.
 
