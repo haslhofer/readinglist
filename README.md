@@ -1,3 +1,11 @@
+## Docker Partners With Hugging Face to Democratize AI
+Summary: Hugging Face and Docker, Inc. have partnered to make cutting-edge machine learning (ML) accessible to all software engineers. The partnership aims to simplify the process of using ML in software development, enabling developers to easily integrate pre-trained models and optimize ML workflows. The collaboration includes the development of Docker images for Hugging Face models, making them easily deployable in various environments. Furthermore, Docker Compose is used to simplify the management of complex multi-container ML applications, enhancing productivity and reducing the time required for ML projects.
+
+Link: https://www.linkedin.com/posts/julienchaumond_super-excited-to-announce-this-partnership-activity-7047181961877942272-Vpl5?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/e1f40c25-b826-42a4-adc6-c442f277b2f6.png" width="400" />
+<br/><br/>
+
 ## Run ChatGPT-like models on your local computer with LLaMA and Alpaca
 Summary: A tutorial on running large language models, such as LLaMA and Alpaca, on your local computer using the dalai library. LLaMA is a foundational language model that can predict the next token in a sequence of words, while Alpaca is a fine-tuned version of LLaMA capable of following instructions. They both achieve comparable or better results than their GPT counterparts while being small enough to run locally.
 
