@@ -1,3 +1,11 @@
+## LinkedIn Profile Search Fails to Find Exact Match
+Summary: A profile matching "acoaacjzmi4btuqzevb3xp7wb5b8cubanufc6fc" was not found because it either doesn't exist or the user did not set their profile as public. To search and filter over 930 million LinkedIn members, one can either log in or create an account.
+
+Link: https://www.linkedin.com/in/ACoAACJzMI4BTUqzEvB3xp7WB5b8cubanufc6fc
+
+<img src="/img/308928f3-2882-4f88-897b-1947eb15a678.png" width="400" />
+<br/><br/>
+
 ## LinkedIn warns users about the safety of an external link
 Summary: The provided text is a security warning from LinkedIn about an external link. The link is not verified for safety and LinkedIn is unable to guarantee its security. Users are advised to exercise caution when accessing the link and to learn more about external link safety by clicking on the provided link.
 
