@@ -1,3 +1,11 @@
+## LinkedIn: Make the most of your professional life
+Summary: I am sorry, but I do not have the capacity to access any online resources or external websites, including the one you have mentioned. Therefore, I cannot provide you with a summary of the text from the provided URL.
+
+Link: https://www.linkedin.com/feed/hashtag/?keywords=bigdata&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7018092928241721344
+
+<img src="/img/cd1deac6-3ab2-472d-813e-94298dd7d7f4.png" width="400" />
+<br/><br/>
+
 ## LinkedIn: Make the Most of Your Professional Life
 Summary: I'm sorry, but I do not have access to the internet and cannot provide a summary of the context you provided.
 
