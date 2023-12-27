@@ -1,3 +1,11 @@
+## A New Method for Evaluating the Performance of Models Trained with Synthetic Data When Applied to Real-World Data
+Summary: A new method for evaluating the performance of models trained with synthetic data when applied to real-world data has been proposed. This method involves training models on synthetic data and then applying them to real-world data while analyzing their ability to handle data drift. The results show that models trained on synthetic data can perform well, but with a loss of predictive power compared to models trained on real-world data.
+
+Link: https://www.marktechpost.com/2023/01/21/a-new-method-to-evaluate-the-performance-of-models-trained-with-synthetic-data-when-they-are-applied-to-real-world-data/
+
+<img src="/img/bc25b14e-d499-429a-a3da-ad514d67092f.png" width="400" />
+<br/><br/>
+
 ## Sure, here is a one-line headline describing the text you provided:
 
 **The history, discovery, and controversy surrounding the mysterious Voynich Manuscript.**
