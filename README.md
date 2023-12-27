@@ -1,3 +1,11 @@
+## Large-Scale Dataset with Images, Point Clouds, and Text Descriptions for Outdoor Scene Generation and Reconstruction
+Summary: OMMO is a large-scale outdoor multimodal dataset featuring real-world urban and natural scenes, captured using a fly-view video collection and quality review process. It includes calibrated images, point clouds, and prompt annotations, enabling novel view synthesis, surface reconstruction, and multi-modal NeRF tasks. The dataset showcases various scales, camera trajectories, and lighting conditions, enriching existing NeRF datasets.
+
+Link: https://ommo.luchongshan.com/
+
+<img src="/img/86d1a81b-78b6-4855-b511-d482beb3eef6.png" width="400" />
+<br/><br/>
+
 ## A Comprehensive Review of the Most Notable Deep Learning Papers Published in 2022
 Summary: In 2022, the field of Deep Learning witnessed remarkable advancements, with generative models and models' sizes, intelligence, and accuracy reaching unprecedented levels. Researchers focused on self-supervised learning to harness the potential of unlabeled data, addressing challenges such as training difficulties, accuracy gaps, and collapse. VicReg emerged as a prominent method to tackle these issues, demonstrating the ability to enforce separation between positive and negative examples and prevent collapse.
 
