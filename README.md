@@ -1,3 +1,11 @@
+## Hugging Face Adds Support for BLIP-2, a Vision and Language Model for Deep Conversations Involving Images
+Summary: Multimodal models have emerged as an exciting new frontier in artificial intelligence, combining vision and language understanding for deeper conversations. BLIP-2, a state-of-the-art vision and language model from Salesforce, has been integrated into Hugging Face Transformers. It outperforms the 80-billion parameter Flamingo model showcasing impressive capabilities. Users can now experiment with BLIP-2 for image-related conversations and explore its potential applications in fields like medicine, art, and education.
+
+Link: https://www.linkedin.com/posts/niels-rogge-a3b7a3127_chatgpt-flamingo-ai-activity-7029788888449609729-lXVt?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/a7a36431-0c53-453a-9a07-4ac6ca29abc2.png" width="400" />
+<br/><br/>
+
 ## ChatGPT: A Deep Dive into the Model Behind the Revolutionary Chatbot
 Summary: ChatGPT is a Large Language Model (LLM) trained on vast amounts of text data. LLMs digest text data and infer relationships between words, increasing their capability as their input datasets and parameter space increase. The basic training involves predicting a word in a sequence, but sequential modeling has limitations, such as the inability to value surrounding words differently. Advancements in computational power have enabled the training of large LLMs like GPT-3, which uses the self-attention mechanism and was further enhanced by Reinforcement Learning from Human Feedback, making it exceptional.
 
