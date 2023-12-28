@@ -1,3 +1,11 @@
+## AI Revolutionizes Short Film Production with Virtual Environments and 3D Sets
+Summary: The provided text is a collection of video titles from a playlist titled "AI ANIMATION TUTORIALS" on YouTube. The videos cover a range of topics related to using AI tools for creating 3D environments, generating 3D elements, converting 2D images to 3D models, creating AI-generated short films, and using AI for 3D animations. The playlist offers a comprehensive guide for individuals interested in exploring the use of AI in filmmaking and animation.
+
+Link: https://youtu.be/t-8I7EkIL8c
+
+<img src="/img/7cb06fdf-f35e-4c94-bb2c-cdd8cf8d2538.png" width="400" />
+<br/><br/>
+
 ## Vicuna: Open-source AI model offering offline performance comparable to ChatGPT and Bard
 Summary: Vicuna, a powerful open-source AI model based on LLaMa and trained with GPT-4, offers offline capabilities and impressive quality comparable to OpenAI ChatGPT and Google Bard. With a one-click installation script, it integrates with Oobabooga, a UI for running various large language models, enabling features like chat, persona creation, parameter tuning, and limitations. It is accessible for local computer installation and suitable for users concerned about data privacy or performance issues associated with sending large data sets over the internet.
 
