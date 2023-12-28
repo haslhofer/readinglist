@@ -1,3 +1,11 @@
+## LLaMA-Adapter: A Lightweight Approach for Fine-tuning LLaMA with Zero-init Attention
+Summary: LLaMA-Adapter is a lightweight method that efficiently fine-tunes LLaMA, a large language model, for instruction-following tasks. It introduces a small number of learnable parameters and uses a zero-initialized attention mechanism to inject instructional cues into LLaMA while preserving its pre-trained knowledge. LLaMA-Adapter can generate high-quality responses comparable to models with fully fine-tuned parameters and can be extended to multi-modal instructions for learning image-conditioned LLaMA models.
+
+Link: https://paperswithcode.com/paper/llama-adapter-efficient-fine-tuning-of
+
+<img src="/img/932a36f0-41d4-4a99-ac62-dee110693d84.png" width="400" />
+<br/><br/>
+
 ## Accessing a Cerebras Model via Transformers for Integration with LangChain
 Summary: In this guide, Bartosz Mikulski demonstrates how to utilize an open-source Cerebras model with LangChain, an AI-powered tool. He provides step-by-step instructions for loading the model using HuggingFace Transformers, creating prompt templates, and integrating it with LangChain Agents. The article explores the capabilities and limitations of the Cerebras model in comparison to larger language models like GPT-3. Additionally, Mikulski emphasizes the importance of carefully crafting prompt templates to effectively instruct the model and extract the desired information.
 
