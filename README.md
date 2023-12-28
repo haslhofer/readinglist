@@ -1,3 +1,11 @@
+## Bishop Book: A Comprehensive Introduction to Deep Learning for Everyone
+Summary: The book provides a comprehensive introduction to deep learning ideas for both beginners and experts in machine learning. It covers key concepts, architectures, and techniques, focusing on enduring ideas. The book is structured into bite-sized chapters, following a linear progression suitable for teaching a two-semester course or for self-study. It includes a self-contained introduction to probability theory and presents complex concepts from multiple perspectives to enhance understanding. The book is available in hardback, PDF-based eBook, Kindle eBook, or as a free online version.
+
+Link: https://www.bishopbook.com/
+
+<img src="/img/40be318f-2fb2-4bb7-abc6-8793ff12a50f.png" width="400" />
+<br/><br/>
+
 ## Multi-Modal Retrieval and Generation with Large Language Models
 Summary: Multimodal models refers to large language models involving both text and images, specifically GPT-4V, which can accept both images and text as inputs and produce text outputs. To use LlamaIndex with multimodal models, one can load image documents, build a multimodal vector store or index, construct a multimodal retriever and query engine, and then query the system with multimodal inputs. Supported multimodal LLM models include OpenAI GPT-4V, Google's Gemini, and models from Replicate such as LLaVA, Fuyu-8B, MiniGPT-4, and CogVLM.  Multimodal vector stores are available through the LlamaIndex self-built multimodal index and third-party options like Chroma and Weaviate. Evaluation of multimodal RAG systems is also supported to assess performance.
 
