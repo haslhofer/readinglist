@@ -1,3 +1,11 @@
+## Guidance is a programming paradigm for large language models which allows for constrained generation with selects, regular expressions, and context-free grammars, as well as allowing users to interleave control and generation with conditional logic and loops.
+Summary: Guidance is a programming paradigm that offers greater control and efficiency compared to conventional prompting and chaining. It allows users to constrain generation with regular expressions, CFGs, and select options, as well as seamlessly interleave control and generation. Guidance offers several key features: pure Python syntax with additional LM functionality, constrained generation, rich templates with f-strings, stateful control plus generation, abstract chat interface, reusable components, pre-built components like substring, easy tool use, and support for speed, token healing, streaming, and multi-modality. Moreover, Guidance works with various models and endpoints, including Transformers, Llama C++, VertexAI, and OpenAI.
+
+Link: https://github.com/microsoft/guidance
+
+<img src="/img/cf0d94c1-3acd-4c36-b898-50990ee1d0c9.png" width="400" />
+<br/><br/>
+
 ## Large Language Models Create Reusable Tools for Improved Problem Solving
 Summary: The paper presents a novel framework called LLMs As Tool Makers (LATM) that empowers large language models (LLMs) to create reusable tools for problem-solving. Unique to this work is that the LLMs not only use tools but also generate them, removing the dependency on pre-existing tools. The framework comprises two phases: tool making and tool using, enabling LLMs to craft their own tools and apply them to tackle different tasks. The study showcases the effectiveness of LATM across complex reasoning tasks, such as those found in the Big-Bench benchmark, demonstrating its capability to achieve performance comparable to using LLMs for both tool making and tool using, while substantially reducing the inference cost.
 
