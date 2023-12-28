@@ -1,3 +1,8 @@
+MosaicML, a leading platform for training and deploying large language models, has acquired Databricks, a cloud-based data analytics platform.
+
+___
+
+
 Two new 7B LLM models, MosaicML and Together, are released as open-source under the Apache 2.0 license.
 
 ___
