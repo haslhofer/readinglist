@@ -1,3 +1,11 @@
+## DeepMind proposes LASER-NV, a generative model for efficient inference of large and complex scenes in partial observability conditions
+Summary: Deepmind's LASER-NV is a conditional generative model of Neural Radiance Fields (NeRF) that efficiently infers large and complex scenes from a few arbitrary viewpoints. It generates diverse and plausible views for unobserved areas consistent with observed ones. LASER-NV uses a geometry-informed attention mechanism for maintaining consistency. Experimental results show that LASER-NV models scenes of different scales and uncertainty structures.
+
+Link: https://www.marktechpost.com/2023/01/24/deepmind-proposes-laser-nv-a-conditional-generative-model-of-neural-radiance-fields-capable-of-efficient-inference-of-large-and-complex-scenes-under-partial-observability-conditions/
+
+<img src="/img/e5f5ff9f-4c53-4dc7-8538-bd1f2d95088c.png" width="400" />
+<br/><br/>
+
 ## University of Maryland researchers introduce Cold Diffusion, a diffusion model with deterministic perturbations
 Summary: Researchers at the University of Maryland introduce a new approach called "Cold Diffusion," which replaces additive Gaussian noise in diffusion models with deterministic and arbitrary transformations. This leads to a generative model capable of reconstructing realistic samples from degraded images efficiently. While the idea of using transformations other than white Gaussian noise is interesting, it requires further investigation to understand its implications for understanding the generative capacity of diffusion models.
 
