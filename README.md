@@ -1,3 +1,11 @@
+## Web Stable Diffusion: A Revolutionary Machine Learning Project Bringing AI Models to Web Browsers
+Summary: Web Stable Diffusion is a project that brings stable diffusion models onto web browsers, allowing users to generate photorealistic images and images in various styles based on text input entirely within the browser, without the need for server support. The project leverages machine learning compilation (MLC) techniques, the open-source ecosystem, and the capabilities of WebGPU to achieve this. It provides a repeatable, hackable, and composable workflow that enables developers to easily develop and optimize ML models in a Python-first environment and universally deploy them everywhere, including the web. While the project demonstrates the potential of running ML models in the browser, it also acknowledges the limitations and opportunities for further performance improvements as WebGPU matures.
+
+Link: https://github.com/mlc-ai/web-stable-diffusion
+
+<img src="/img/91866f6b-a7b5-42e2-a79c-35a58d6249a2.png" width="400" />
+<br/><br/>
+
 ## Read the Docs 404 Page Offers Tips for Addressing Errors
 Summary: The provided text is an error page for Read the Docs, indicating that the documentation page being searched for cannot be found. It suggests navigating to the project's index page, using the search function, or creating redirects when moving content to address 404 errors. Additionally, it includes links to the Read the Docs newsletter, resources, and company information.
 
