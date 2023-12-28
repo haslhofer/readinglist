@@ -1,3 +1,11 @@
+## Transformers Agents Gets Local Agent Option for Private LLM Deployment
+Summary: Transformers Agents 4.30 introduces Local Agents, allowing users to load large language models (LLMs) locally, eliminating the need for remote APIs. This update enhances data security, particularly for organizations dealing with sensitive data. It also provides flexibility in incorporating local multimodal tools, improving control over data privacy and revolutionizing AI initiatives.
+
+Link: https://www.linkedin.com/posts/lysandredebut_transformers-agents-got-a-massive-overhaul-activity-7074747116765507584-WDW6?utm_source=share&utm_medium=member_android
+
+<img src="/img/91f121cc-197c-49e3-9181-c9731f484d3a.png" width="400" />
+<br/><br/>
+
 ## Practical Steps to Mitigate Hallucinations and Enhance Performance of Systems Utilizing Large Language Models
 Summary: Large Language Models (LLMs) are prone to producing nonsensical or incorrect output, known as hallucination, which is particularly problematic in non-creative tasks such as search. To address this issue, practical steps can be taken, such as lowering the temperature and providing context to reduce hallucination, decomposing complex prompts into manageable steps, verifying self-consistency among diverse model outputs, enabling models to identify the limits of their knowledge, and implementing defensive systems for error checking and explanations.
 
