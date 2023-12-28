@@ -1,3 +1,8 @@
+AWS data lakes can be queried using natural language with generative AI
+
+___
+
+
 A new large language model, Fa
 
 ___
