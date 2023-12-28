@@ -1,3 +1,11 @@
+## Unleash the Full Potential of LLaMA 2 with Enhanced Techniques
+Summary: João Gante, a Machine Learning expert at Hugging Face, shared pro tips for unlocking the true potential of LLaMA 2 from the start. These tips include enabling arbitrarily long inputs by using RoPE scaling, implementing 4-bit quantization for faster local deployment, and exploring advanced model deployment and fine-tuning techniques. Relevant examples, references, and helpful resources are provided in the comments.
+
+Link: https://www.linkedin.com/posts/gante_unleash-the-true-llama-2-potential-from-day-activity-7087363261666328577-38jV?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/198601a0-eabc-44ae-b930-b35c9d771b76.png" width="400" />
+<br/><br/>
+
 ## This script is used to fine-tune the pre-trained Llama v2 model (meta-llama/Llama-2-7b-hf) on the Guanaco dataset using QLoRA. The script can be run by setting the appropriate arguments. The arguments include local_rank, per-device_train_batch_size, per_device_eval_batch_size, gradient_accumulation_steps, learning_rate, max_grad_norm, weight_decay, lora_alpha, lora_dropout, lora_r, max_seq_length, model_name, dataset_name, use_4bit, use_nested_quant, bnb_4bit_compute_dtype, bnb_4bit_quant_type, num_train_epochs, fp16, bf16, packing, gradient_checkpointing, optim, lr_scheduler_type, max_steps, warmup_ratio, group_by_length, save_steps, logging_steps, and merge_and_push.
 Summary: This script is a fine-tuned version of the Llama v2 model on the Guanaco Dataset using QLoRA. It leverages 4-bit precision for base models and applies nested quantization for 4-bit base models. This enables faster training, especially with limited computational resources. The script utilizes a specific tokenizer and data collator to group sequences with the same length. FP16 and BF16 training options are available to accelerate training on compatible GPUs. Furthermore, the script features gradient checkpointing and optimizes hyperparameters for enhanced performance. After training, it optionally merges and pushes weights to a hub for sharing. Key steps include creating and preparing the model, defining training arguments, loading the dataset, and initializing the trainer. Upon successful training, the script merges weights if specified, allowing for efficient model sharing.
 
