@@ -1,3 +1,8 @@
+Visualizing Word Embeddings as 2D Vectors
+
+___
+
+
 Fine-tuning Llama 2 with DPO simplifies training LLMs using preference data
 
 ___
