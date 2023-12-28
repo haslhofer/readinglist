@@ -1,3 +1,8 @@
+Guidance is a programming paradigm for large language models which allows for constrained generation with selects, regular expressions, and context-free grammars, as well as allowing users to interleave control and generation with conditional logic and loops.
+
+___
+
+
 Large Language Models Create Reusable Tools for Improved Problem Solving
 
 ___
