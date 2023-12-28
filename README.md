@@ -1,3 +1,11 @@
+## Visualizing Word Embeddings as 2D Vectors
+Summary: The provided text is a link to a file on GitHub, and I do not have the ability to access or analyze the content of that file. Therefore, I am unable to provide a summary of the text as requested.
+
+Link: https://github.com/openai/openai-cookbook/blob/main/examples/Visualizing_embeddings_in_2D.ipynb
+
+<img src="/img/81292c16-7436-4ffe-84e4-844c92624948.png" width="400" />
+<br/><br/>
+
 ## Fine-tuning Llama 2 with DPO simplifies training LLMs using preference data
 Summary: Hugging Face introduces a new method called Direct Preference Optimization (DPO) for fine-tuning large language models (LLMs) using human feedback. DPO simplifies the typical RLHF (Reinforcement Learning from Human Feedback) pipeline by directly optimizing the LLM on preference data via a binary cross-entropy loss. This eliminates the need for a reward model and the complex RL optimization process. Embracing the benefits of TRL and other libraries, Hugging Face demonstrates how to train a 7B-parameter Llama v2 model with DPO on the stack-exchange preference dataset, achieving promising results. This development eases the alignment of LLMs with human preferences, making them more effective and appropriate for real-world applications.
 
