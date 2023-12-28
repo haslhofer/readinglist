@@ -1,3 +1,11 @@
+## Autoencoder: An Unsupervised Neural Network for Data Compression and Reconstruction
+Summary: Autoencoders are unsupervised artificial neural networks designed to efficiently compress and reconstruct data by learning to encode data into a reduced representation and then reconstruct it to be as close to the original input as possible. They consist of an encoder, bottleneck, decoder, and reconstruction loss function. Autoencoders can be used for various tasks such as dimensionality reduction, noise removal, data generation, and feature extraction. They are commonly implemented using FeedForward, LSTM, or Convolutional Neural Networks, depending on the specific application.
+
+Link: https://towardsdatascience.com/auto-encoder-what-is-it-and-what-is-it-used-for-part-1-3e5c6f017726
+
+<img src="/img/176507cf-bb36-4ce5-9215-71ae1c4bd6da.png" width="400" />
+<br/><br/>
+
 ## Actions, not arguments, are persuasive and build credibility
 Summary: David Heinemeier Hansson argues that actions are more persuasive than arguments in changing someone's mind. He believes that people are more likely to listen to those who have taken risks and seen them through, as these individuals have earned credibility through their actions. He emphasizes the importance of "skin in the game," where one invests their efforts and resources into an idea, demonstrating their commitment to it. This approach, according to Heinemeier Hansson, is more effective in unlocking minds and advancing collective knowledge and understanding.
 
