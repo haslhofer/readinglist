@@ -1,3 +1,8 @@
+Databricks Course Explores Applications, Development, and Impact of Large Language Models
+
+___
+
+
 Falcon 40B: Unveiling the Best Open Source Large Language Model
 
 ___
