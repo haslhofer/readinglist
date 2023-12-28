@@ -1,3 +1,11 @@
+## Documentation page not found on Read the Docs
+Summary: The given text is a custom 404 error page displayed when a user tries to access a non-existent page on the Read the Docs website. It provides instructions on how to handle 404 errors, including using a custom 404 page and creating redirects when moving content. The page also includes links to the company's blog, resources, and company information.
+
+Link: https://langchain.readthedocs.io/en/latest/modules/indexes/chain_examples/vector_db_qa.html
+
+<img src="/img/2efce7ed-accc-456c-856f-3449362a6428.png" width="400" />
+<br/><br/>
+
 ## Vid2Avatar: Creating Detailed 3D Avatar Reconstructions from Wild Videos
 Summary: Vid2Avatar is a novel approach to reconstruct detailed 3D avatars from monocular in-the-wild videos. It solves the tasks of scene decomposition and surface reconstruction directly in 3D, modeling both the human and background implicitly via two separate neural fields. The method utilizes self-supervised scene decomposition to better decouple humans from the background, resulting in superior performance compared to existing state-of-the-art methods. It can reconstruct detailed geometry and appearance of the avatars, generalize to different human shapes and clothing styles, and handle challenging poses and complex environments.
 
