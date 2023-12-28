@@ -1,3 +1,10 @@
+LinkedIn warns users about safety of external links
+
+Filename:6cd634dd-befa-471e-af89-9e2342db3f84.png
+
+___
+
+
 Unverified external link: LinkedIn cannot vouch for safety
 
 Filename:3c114a21-20a1-47ff-b061-389e794adb82.png
