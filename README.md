@@ -1,3 +1,11 @@
+## Digital artists create immersive 3D scenes from 2D images with NVIDIA Instant NeRF
+Summary: Digital artists utilize NVIDIA Instant NeRF, an inverse rendering tool, to transform 2D images into immersive 3D scenes, enabling them to create captivating visuals and tell stories from unique perspectives. The process involves capturing multiple images, training the AI model, and rendering the 3D space. Notable artists like Hugues Bruyère, Karen X. Cheng, Franc Lucent, James Perlman, and Jonathan Stephens have showcased their remarkable creations using Instant NeRF, ranging from cultural preservation projects to surreal and immersive experiences.
+
+Link: https://nvda.ws/3Id3KuT
+
+<img src="/img/e983e8f0-5bea-4dcd-8a8d-7eef789a9812.png" width="400" />
+<br/><br/>
+
 ## Karen Cheng creates a tutorial for a dolly zoom effect using NeRF technology on your phone
 Summary: This post contains a tutorial on filmmaking shots using NeRF (Neural Radiance Fields). The author starts by recommending that viewers familiarize themselves with NeRFs in general and provides tips for shooting and editing. They then discuss two modes in the Luma AI app: guided capture and uploading your own footage. The author prefers uploading their own footage because they find the guided capture mode difficult to use. The author also provides tips for shooting, including capturing the sky and the ground if you want them in the shot. For Android users, they recommend using the web version of Luma AI for better control over the Dolly Zoom effect. The author also discusses troubleshooting tips for the Dolly Zoom effect, such as setting more keyframe points to maintain the same body size throughout the shot.
 
