@@ -1,3 +1,8 @@
+Buster the Dog Clocks 32 MPH on Treadmill
+
+___
+
+
 Stanford Researcher develops new prompting strategy for LLMs, achieving better performance with fewer parameters
 
 ___
