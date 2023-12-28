@@ -1,3 +1,11 @@
+## Large Language Models Are Not as Effective in Tasks That Require Long Context
+Summary: A recent study analyzed the comprehension capabilities of large language models (LLMs) when provided with long text. Researchers evaluated open-source and closed-source LLMs using multi-document question answering and key-value pair retrieval tasks. The findings revealed that these models performed best when relevant information was provided at the beginning of the context and that performance gradually decreased as the context length increased. The excessive retrieval of documents was detrimental to performance. The combination of retrieval and ranking methods could potentially enhance question-answering performance. Extended-context models demonstrated no significant advantage when the prompt was well-suited to the original context. The study highlighted the potential of augmented retrieval methods for improving the performance of LLMs in long-context comprehension tasks.
+
+Link: https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_are-vector-databases-here-to-stay-yes-activity-7085908435686285312-QVfB?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/2d6d4ab0-9311-48a9-b7d0-c2e71e5fd74c.png" width="400" />
+<br/><br/>
+
 ## Data Entrepreneur Publishes Practical Series on Using Large Language Models in Practice
 Summary: Shawhin Talebi, a data entrepreneur, is about to begin a series on utilizing Large Language Models (LLMs) for practical use. Some of the topics he plans to include in the series are OpenAI's Python API, the Hugging Face Transformers library, fine-tuning LLMs, and even creating an LLM from scratch. He encourages readers to share their thoughts on what they would like to see included in the series.
 
