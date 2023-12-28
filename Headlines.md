@@ -1,3 +1,10 @@
+Sure, here is a one-line headline describing the following text you provided:
+
+**Headline:** Study Finds Sleep Deprivation Linked to Increased Risk of Heart Disease and Stroke**
+
+___
+
+
 Google Brain and Tel Aviv Researchers Propose Text-to-Image Model Guided by Sketches
 
 ___
