@@ -1,3 +1,11 @@
+## Hugging Face Endpoints Enables Efficient Deployment of Open-Source Large Language Models
+Summary: A new blog post explains how to deploy open-source LLMs using Hugging Face Inference Endpoints. This tool simplifies the deployment process, optimizes performance for language models, and offers advanced security features. The post provides instructions for deploying the Falcon 40B instruct model, testing the LLM endpoint, and getting responses in Javascript and Python. Hugging Face Inference Endpoints is a user-friendly solution for deploying machine learning models as production-ready APIs, making it easy to deploy LLMs in minutes.
+
+Link: https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_deploy-llms-with-hugging-face-inference-endpoints-activity-7081984765410603009-6w4H?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/8925a2e1-6555-4412-8d7c-31b5b21e900b.png" width="400" />
+<br/><br/>
+
 ## 12-Month MBA for PMs: A more affordable and effective alternative to traditional MBA programs
 Summary: This post introduces a 12-month curriculum for developing essential skills and knowledge as a product manager. Each month focuses on different areas such as leadership, business models, product discovery, growth, and strategy. It provides a structured learning path with recommended books, courses, and resources. The key takeaway is that with dedication and consistent effort, individuals can acquire valuable knowledge and skills within a year to excel in their product management career.
 
