@@ -1,3 +1,11 @@
+## Use "references" to text chunks for improved Retrieval-Augmented Generation (RAG)
+Summary: A new trick for improving retrieval in RAG is to embed "references" to each text chunk instead of the chunk itself. During query time, references are fetched by embedding similarity, and the actual chunk is pulled in during the LLM synthesis stage. This can lead to a ~10-20% improvement in retrieval metrics.
+
+Link: https://www.linkedin.com/posts/llamaindex_heres-a-simple-brand-new-trick-to-improve-activity-7104518411820433408-DwTO?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/12c65eef-9632-4ff2-ac1b-a988ba07ecc3.png" width="400" />
+<br/><br/>
+
 ## Translate Text Between Languages with txtai and Hugging Face Models
 Summary: This article discusses machine translation using Hugging Face models and the txtai library. It explains how to install dependencies, create a Translation instance, translate text between languages, handle multiple languages in a single call, and use different model types. The article highlights the high quality of machine translation and provides examples for various use cases. It also emphasizes the local hosting advantage and support for low-resource languages.
 
