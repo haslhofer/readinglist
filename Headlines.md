@@ -1,3 +1,8 @@
+Run Mistral AI's Mixtral 8x7b retrieval-augmented generation model locally with Ollama and LlamaIndex
+
+___
+
+
 LLM Inference on Limited Memory Devices Using Flash Memory
 
 ___
