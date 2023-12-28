@@ -1,3 +1,11 @@
+## NeRF: Neural Radiance Fields for View Synthesis
+Summary: NeRF (Neural Radiance Fields) is a novel method for synthesizing photorealistic novel views of complex scenes. It outperforms previous work on neural rendering and view synthesis. The algorithm represents a scene using a fully-connected deep network, whose input is a continuous 5D coordinate (spatial location and viewing direction) and whose output is the volume density and view-dependent emitted radiance at that spatial location. Views are synthesized by querying 5D coordinates along camera rays and using classic volume rendering techniques to project the output colors and densities into an image.
+
+Link: https://arxiv.org/abs/2003.08934
+
+<img src="/img/4c9b7334-ca94-47ed-9351-2154ac983b62.png" width="400" />
+<br/><br/>
+
 ## Text-To-4D: Generating 3D Dynamic Scenes from Text Descriptions
 Summary: MAV3D, a novel method for generating three-dimensional dynamic scenes from text descriptions, is introduced. MAV3D employs a 4D dynamic Neural Radiance Field (NeRF), optimized using a Text-to-Video (T2V) diffusion-based model, to create scenes consistent in appearance, density, and motion. The generated dynamic videos, viewable from any camera location and angle, can be integrated into any 3D environment. MAV3D, trained solely on Text-Image pairs and unlabeled videos, outperforms existing internal baselines. To the best of the authors' knowledge, MAV3D is the first method to generate 3D dynamic scenes from text descriptions.
 
