@@ -1,3 +1,11 @@
+## Google Research: Language, Vision, and Generative Models
+Summary: 
+
+Link: https://ai.googleblog.com/2023/01/google-research-2022-beyond-language.html
+
+<img src="/img/f3ad8daf-e530-4bdd-ba89-7d7a539af7f0.png" width="400" />
+<br/><br/>
+
 ## Midjourney and Unreal Engine 5: Transform AI Generated Images into Realistic 3D MetaHumans
 Summary: There are many videos available online that provide tutorials on how to create 3D characters using various software, such as Midjourney AI, Unreal Engine 5, and Metahuman. These tutorials cover a wide range of topics, including how to generate AI images, convert images to 3D models, animate facial expressions, and create realistic skin textures. With the help of these tutorials, users can learn how to create their own custom 3D characters for use in games, animations, and other digital projects.
 
