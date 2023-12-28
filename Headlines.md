@@ -1,3 +1,8 @@
+Kosmos-1: A Multimodal Large Language Model that Can See, Reason, and Act
+
+___
+
+
 The Informer model is introduced as an AAAI21 best paper which is now available in 🤗 Transformers. This blog illustrates how to use the Informer model for multivariate probabilistic forecasting.
 
 ___
