@@ -1,3 +1,8 @@
+"ChatGPT Retrieval Plugin lets you search personal or organizational documents using natural language queries through OpenAI's text-embedding-ada-002 model."
+
+___
+
+
 MiniGPT-v2 and MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models
 
 ___
