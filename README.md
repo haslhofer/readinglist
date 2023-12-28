@@ -1,3 +1,11 @@
+## Generative AI: Infrastructure Triumphs in the Battle for Value
+Summary: The generative artificial intelligence (AI) market is rapidly developing, with companies competing to own different parts of the stack that includes infrastructure, models, and applications. The article emphasizes that while there is a lot of growth and hype, it is still unclear where the long-term value will accrue. Infrastructure vendors, such as cloud platforms and hardware manufacturers, currently capture the most significant share of the market. Application companies face challenges with retention, product differentiation, and gross margins. Model providers, despite being responsible for the existence of the market, have not yet achieved large-scale commercial success. The article raises questions about whether there will be a winner-take-all dynamic, suggesting the potential for multiple players and horizontal and vertical companies to succeed. It concludes by highlighting the transformative nature of generative AI and the need for continued learning and adaptation in the rapidly evolving landscape.
+
+Link: https://a16z.com/2023/01/19/who-owns-the-generative-ai-platform/
+
+<img src="/img/c2d82201-41be-49f8-be9c-74d327db0c47.png" width="400" />
+<br/><br/>
+
 ## Researchers Custom-Train Diffusion Models to Generate Personalized Text-to-Image
 Summary: Researchers from Carnegie Mellon University, Tsinghua University, and Adobe Research have developed a fine-tuning technique called Custom Diffusion for text-to-image diffusion models to personalize them for specific concepts without retraining the entire model. This technique enables users to augment existing text-to-image models with new concepts given only a few examples and compose multiple concepts together in novel settings. By fine-tuning only a small subset of model weights, the method is highly efficient and memory-efficient, making it a practical approach for personalizing text-to-image models.
 
