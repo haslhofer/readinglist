@@ -1,3 +1,11 @@
+## New AI Assistant Can Answer Complex Questions By Integrating External Knowledge and Reasoning Multi-step
+Summary: Researchers propose a novel approach to enhance the performance of multi-step reasoning large language models (LLMs) by combining reinforcement learning with AI feedback. The ReAct-style LLM agent, equipped with the capacity to reason and act upon external knowledge, is refined through a ReST-like method involving iterative training on previous trajectories. This process leads to significant improvements in efficiency, allowing fine-tuning of a small model with comparable performance to the prompted large model, using two orders of magnitude fewer parameters.
+
+Link: https://arxiv.org/abs/2312.10003
+
+<img src="/img/38c244d3-14b3-4e44-94c4-d38bb0bb9627.png" width="400" />
+<br/><br/>
+
 ## Run Mistral language models locally or via APIs using LLM
 Summary: Simon Willison discusses various methods for using Mistral AI's language models locally on personal devices using the LLM command-line tool. He provides detailed instructions for using Mistral 8x7B and Mistral 7B models via different plugins and API providers, including llama.cpp, llm-llama-cpp, llm-mistral, and more. Additionally, he mentions the availability of Mistral models on the La plateforme API and explores options for using the OpenAI API endpoint through Llamafile. Willison highlights the convenience and flexibility of LLM plugins for supporting diverse language models and encourages users to explore the available options based on their needs.
 
