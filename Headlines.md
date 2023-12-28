@@ -1,3 +1,8 @@
+EleutherAI lab, CarperAI, plans to release the first open-source language model trained with Reinforcement Learning from Human Feedback.
+
+___
+
+
 Open Assistant, a conversational AI accessible to all, has concluded its operations.
 
 ___
