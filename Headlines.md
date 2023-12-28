@@ -1,3 +1,8 @@
+Open-source Python package EasyLLM simplifies working with open LLMs
+
+___
+
+
 ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs
 
 ___
