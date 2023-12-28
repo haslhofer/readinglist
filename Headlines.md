@@ -1,3 +1,8 @@
+LongLoRA enables open-source large language models with 100k token context
+
+___
+
+
 Course announcement: Enroll in Reinforcement Learning from Human Feedback to learn how to build AI systems that improve through human feedback
 
 ___
