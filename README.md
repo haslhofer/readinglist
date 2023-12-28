@@ -1,3 +1,11 @@
+## New open-source NSQL foundation model from Numbers Station AI outperforms ChatGPT and GPT-4 in text-SQL tasks.
+Summary: Numbers Station AI released NSQL, a series of text to SQL models pre-trained on SQL queries and further instruction tuned on text/SQL pairs. Available in 350m, 2b, and 6b checkpoints, NSQL is licensed under bsd-3, making it fully commercially usable. This open-source release could provide enterprises a cost-effective way to integrate text-to-SQL capabilities into their data applications.
+
+Link: https://www.linkedin.com/posts/activity-7082776409361838080-U4oo?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/d55a9a3d-8915-4526-98bf-80a0fab669a4.png" width="400" />
+<br/><br/>
+
 ## Dan Hockenmaier shares February's best long-form reads on important topics like AI, great work, and tech bets.
 Summary: Dan Hockenmaier, the Head of Strategy and Analytics at Faire, curated a list of five long-form reads written in the last 30 days. The essays cover a variety of topics such as the current narratives on AI, how to do great work, Big Tech's biggest bets, the real story behind Facebook's almost-acquisition of Waze, and the revised sources of defensibility in AI.
 
