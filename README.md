@@ -1,3 +1,11 @@
+## DeepMind's Dramatron: An AI Tool for Co-Authoring Film Scripts
+Summary: DeepMind presents Dramatron, an AI tool utilizing hierarchical language models to generate film scripts, combining features like editing, compiling, and filtering capabilities. Through user evaluations and expert opinions, Dramatron demonstrates promising results in collaborative creation while addressing ethical concerns related to bias, plagiarism, and privacy in AI-generated content.
+
+Link: https://www.marktechpost.com/2022/12/20/meet-dramatron-an-artificial-intelligence-ai-tool-from-deepmind-to-write-film-scripts/
+
+<img src="/img/e18e1401-efcb-4eee-b177-601c97400287.png" width="400" />
+<br/><br/>
+
 ## 13 Rules for Success from the Founder of Chat GPT
 Summary: Sam Altman shares his 13 powerful rules for business success that he learned from observing thousands of founders. These rules include focusing on exponential improvement, having almost too much self-belief, learning to think independently, getting good at sales, making it easy to take risks, focusing on the right things, working hard, being bold, being willful, being hard to compete with, building a network, owning things, and being internally driven.
 
