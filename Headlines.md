@@ -1,3 +1,8 @@
+Google PyTorch/XLA team achieves ultra-low latency inference with LLaMA 65B for TPUs and GPUs using PyTorch/XLA and Dynamo.
+
+___
+
+
 Helper scripts and examples for exploring the Falcon LLM models
 
 ___
