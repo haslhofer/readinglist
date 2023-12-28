@@ -1,3 +1,8 @@
+PrivateGPT: Access the power of GPT, 100% privately, with no data leaks.
+
+___
+
+
 LLMTools: Library for running and finetuning large language models on consumer GPUs
 
 ___
