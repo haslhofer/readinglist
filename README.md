@@ -1,3 +1,11 @@
+## Hugging Face introduces IGEL, a German-tuned large language model for tasks like sentiment analysis, translation, and question answering
+Summary: IGEL is an instruction-tuned Large Language Model designed for German language understanding tasks, like sentiment analysis, language translation, and question answering. It is built on top of BigScience BLOOM and adapted to German. Researchers can try the model on the Hugging Face platform and collaborate to learn more about the potential of LLMs for German language modeling.
+
+Link: https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_introducing-igel-an-instruction-tuned-german-activity-7049044236955971584-N9Mx?utm_source=share&utm_medium=member_android
+
+<img src="/img/cf9cc00f-cb2d-494c-8530-435629898ce1.png" width="400" />
+<br/><br/>
+
 ## LangChain: A Framework for Building Applications Around Large Language Models
 Summary: LangChain, a library built around Large Language Models (LLMs), allows for building advanced tools and applications. It enables "chaining" together different components to create more complex use cases, including chatbots, question-answering, summarization, and more. The library includes customizable prompt templates and various LLM options, such as Hugging Face Hub or OpenAI models. This article introduces LangChain and demonstrates how to use it with prompt templates and LLMs. Future articles will cover other features of the library.
 
