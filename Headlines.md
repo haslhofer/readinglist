@@ -1,3 +1,8 @@
+GPT4All: Open-Source Large Language Models That Run Locally on CPUs and GPUs
+
+___
+
+
 Normcore LLM: A Comprehensive Reading List for Understanding Large Language Models
 
 ___
