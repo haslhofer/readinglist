@@ -1,3 +1,8 @@
+Open Assistant, a conversational AI accessible to all, has concluded its operations.
+
+___
+
+
 Together Releases OpenChatKit: A Collaborative Open-Source Project for Chatbot Development
 
 ___
