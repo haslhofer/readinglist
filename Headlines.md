@@ -1,3 +1,8 @@
+Hugging Face integrates SpanMarker NER with its hosted inference API
+
+___
+
+
 404 - Page not found: LLaMA-Adapter/llama_adapter_v2_chat65b
 
 ___
