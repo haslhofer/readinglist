@@ -1,3 +1,11 @@
+## Join LinkedIn to make the most of your professional life
+Summary: 
+
+Link: https://www.linkedin.com/feed/hashtag/?keywords=datawarehouse&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7018092928241721344
+
+<img src="/img/d16e3b4c-7470-4447-b138-8db0e4b3c821.png" width="400" />
+<br/><br/>
+
 ## LinkedIn: The Professional Network
 Summary: Professional life entails numerous opportunities for personal and career growth, networking, gaining knowledge and skills, making meaningful contributions, and receiving recognition for achievements. Maximizing professional life involves setting goals, developing skills, building relationships, contributing to society, and striving for fulfillment and balance.
 
