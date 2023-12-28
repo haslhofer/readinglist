@@ -1,3 +1,11 @@
+## Accessing a Cerebras Model via Transformers for Integration with LangChain
+Summary: In this guide, Bartosz Mikulski demonstrates how to utilize an open-source Cerebras model with LangChain, an AI-powered tool. He provides step-by-step instructions for loading the model using HuggingFace Transformers, creating prompt templates, and integrating it with LangChain Agents. The article explores the capabilities and limitations of the Cerebras model in comparison to larger language models like GPT-3. Additionally, Mikulski emphasizes the importance of carefully crafting prompt templates to effectively instruct the model and extract the desired information.
+
+Link: https://www.mikulskibartosz.name/alternatives-to-open-ai-gpt-using-open-source-models-with-langchain/
+
+<img src="/img/5acdaba5-a457-4c08-8551-7b45098a53c7.png" width="400" />
+<br/><br/>
+
 ## Create your own unique ChatGPT bot with a custom knowledge base
 Summary: ChatGPT is a context-aware AI model with limited context and zero context on some niche topics. This article explores how to extend ChatGPT by feeding it custom data sources and discusses the practical issues of prompt engineering and the manual approach. Creating a custom ChatGPT with a custom knowledge base involves leveraging data sources like confluence wiki pages, company knowledge bases, Reddit, and Stack Overflow. The article highlights the challenges of manually extending ChatGPT and introduces the concept of feeding data via prompt engineering, which requires appending the original document content before the actual questions. It also mentions the limitations of GPT-3 and introduces GPT-4, highlighting its improved capability to process more words but facing similar fundamental data issues.
 
