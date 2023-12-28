@@ -1,3 +1,11 @@
+## Microsoft reveals HuggingGPT, a system linking ChatGPT with public ML communities to solve complex AI tasks
+Summary: Microsoft introduced a groundbreaking AI model that combines the strengths of large language models (LLMs) with public machine learning (ML) communities. This model, called HuggingGPT, leverages the ChatGPT interface to execute various expert text and visual models from HuggingFace. It follows a four-stage process: task planning, model selection, task execution, and response generation. The extensive range of models on HuggingFace offers significant potential applications and marks a major step toward achieving artificial general intelligence.
+
+Link: https://www.linkedin.com/posts/orlevi_ai-llms-chatgpt-activity-7048344013367652353-qsXR?utm_source=share&utm_medium=member_android
+
+<img src="/img/027512cb-1b65-4453-9831-0ce8f7389d62.png" width="400" />
+<br/><br/>
+
 ## Future of AI: Move from closed API models to customized Foundation Models (FMs) for specific data and workloads
 Summary: Foundation models (FMs) like GPT-4 will be used widely in the future, but they will be trained on users' data and workloads, resulting in "GPT-You" instead of "GPT-X." Closed APIs are indefensible because recent demonstrations show that cloning FMs like ChatGPT is possible for a few hundred dollars. The durable moat lies in data, as training on open web data has limitations for complex, enterprise-specific tasks. The last mile, fine-tuning the model with labeled data, generates real value and accuracy for production use cases.
 
