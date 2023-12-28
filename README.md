@@ -1,3 +1,11 @@
+## Language Models Learn to Use External Tools for Improved Zero-Shot Performance
+Summary: Researchers have developed Toolformer, a type of AI model called a language model, that can learn to use external tools like calculators, search engines, translation systems, and Q&A systems to enhance its capabilities. It does this by deciding which tool to call, when to call it, what data to input, and how to incorporate the results into its language model predictions. This enables Toolformer to achieve improved performance on various downstream tasks such as question answering, machine translation, and summarization without sacrificing fundamental language modeling capabilities.
+
+Link: https://arxiv.org/abs/2302.04761
+
+<img src="/img/b8f8ef10-c773-459b-acec-e66625fcb780.png" width="400" />
+<br/><br/>
+
 ## Hugging Face adds support for BLIP-2, a state-of-the-art multi-modal model that allows for deeper conversations involving images.
 Summary: Multimodal models, like BLIP-2, are emerging in the field of machine learning to enable deeper conversations that involve both text and images. These models leverage open-source large language models and outperform models with higher parameter counts, as demonstrated by BLIP-2's superior performance compared to DeepMind's Flamingo model. This integration of BLIP-2 into Hugging Face Transformers offers exciting opportunities for exploring deeper and more meaningful conversations that incorporate visual elements.
 
