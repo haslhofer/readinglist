@@ -1,3 +1,11 @@
+## Falcon: Two New 7B and 40B Open-Source LLMs Make Their Debut
+Summary: TII has released Falcon, a new open-source Large Language Model (LLM) with two versions: 7B trained on 1.5 trillion tokens and 40B trained on 1 trillion tokens. Falcon outperforms comparable open-source models thanks to its training on refined web data, uses FlashAttention and multi-query Attention, has a 2048 context window, comes with a license allowing commercial use, and was trained on Amazon SageMaker. The 40B model is multilingual, including German, Spanish, and French. The models are available on Hugging Face.
+
+Link: https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_new-open-source-llms-the-falcon-has-landed-activity-7067841408451104768-BAqq?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/4ba6c006-833e-4e07-a2f2-baf791d748b2.png" width="400" />
+<br/><br/>
+
 ## Interactive Social Media Generation Based on a Podcast
 Summary: PodcastSocialMediaCopilot.py is a Python script that generates social media posts from podcast transcripts. It uses the OpenAI GPT-3 API to extract key insights from the transcript and craft engaging social media posts. The script can be customized to generate posts for specific social media platforms like Twitter, Facebook, or Instagram. It offers an efficient way for podcasters to promote their content on social media and engage with their audience.
 
