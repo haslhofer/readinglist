@@ -1,3 +1,8 @@
+New Amazon course dives into generative AI and large language models
+
+___
+
+
 MobileSAM and MobileSAMv2: Faster Segment Anything for Mobile Applications and Beyond
 
 ___
