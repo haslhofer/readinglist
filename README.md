@@ -1,3 +1,11 @@
+## Deploy FLAN-T5 XXL Language Model on Amazon SageMaker for Inference
+Summary: This guide demonstrates how to deploy the FLAN-T5-XXL model on Amazon SageMaker for real-time inference. It includes creating a custom inference script with bnb quantization, creating the SageMaker model.tar.gz artifact, deploying the model to SageMaker, and running inference using the deployed model with code examples and explanations. The guide also covers how to create a Hugging Face Model Class and deploy it as a real-time inference endpoint using the HuggingFacePredictor object. Additionally, it provides examples of using the deployed model to summarize text and answer questions with step-by-step explanations, including some simple math. It also shows how to delete the model and endpoint for cleanup.
+
+Link: https://www.philschmid.de/deploy-flan-t5-sagemaker
+
+<img src="/img/8667e605-3da7-4c8d-974d-d9006093cd13.png" width="400" />
+<br/><br/>
+
 ## There is no text provided to s
 Summary: There is no text provided to summarize.
 
