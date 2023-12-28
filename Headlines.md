@@ -1,3 +1,8 @@
+Training Credit Scoring Models on Synthetic Data and Applying Them to Real-World Data
+
+___
+
+
 Sure, here is a one-line headline describing the following text you provided:
 
 **Headline:** Study Finds Sleep Deprivation Linked to Increased Risk of Heart Disease and Stroke**
