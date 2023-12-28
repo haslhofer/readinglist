@@ -1,3 +1,11 @@
+## Wolfram Prompt Repository: Curating and Unleashing the Power of Human-Engineered Language Models
+Summary: Stephen Wolfram, the creator of Wolfram Language, has introduced the Wolfram Prompt Repository, a collection of community-contributed prompts to guide LLMs (Large Language Models) for various purposes. These prompts can be used in Chat Notebooks and LLM functions to perform a variety of tasks and generate creative content. Users can submit their own prompts to the repository for curation and public access or keep them private. The repository currently contains around 200 prompts, ranging from personas to functional and modifier prompts.
+
+Link: https://writings.stephenwolfram.com/2023/06/prompts-for-work-play-launching-the-wolfram-prompt-repository/
+
+<img src="/img/69b55839-9216-49bd-913a-0ab13b6c2cbc.png" width="400" />
+<br/><br/>
+
 ## Hugging Face Endpoints Enables Efficient Deployment of Open-Source Large Language Models
 Summary: A new blog post explains how to deploy open-source LLMs using Hugging Face Inference Endpoints. This tool simplifies the deployment process, optimizes performance for language models, and offers advanced security features. The post provides instructions for deploying the Falcon 40B instruct model, testing the LLM endpoint, and getting responses in Javascript and Python. Hugging Face Inference Endpoints is a user-friendly solution for deploying machine learning models as production-ready APIs, making it easy to deploy LLMs in minutes.
 
