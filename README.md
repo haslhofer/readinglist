@@ -1,3 +1,11 @@
+## Hugging Face: Latest Research Papers on 26th December 2022
+Summary: Hugging Face is a platform that provides state-of-the-art natural language processing (NLP) models and tools. It enables users to train their custom models, deploy them in production, and explore a variety of NLP tasks such as text generation, translation, and summarization. With just a few lines of code, users can leverage the power of large language models like GPT-3 and BERT, making NLP tasks more accessible and efficient. Hugging Face also offers a vibrant community of NLP enthusiasts and researchers who contribute to the platform's development and share their experiences and insights.
+
+Link: https://huggingface.co/papers
+
+<img src="/img/74dfebe8-6c15-4cf8-8ef5-e766d1cb639b.png" width="400" />
+<br/><br/>
+
 ## Open-Source, Commercially Licensed Large Language Models (LLMs) for Commercial and Research Use
 Summary: Open LLMs are a repository of large language models (LLMs) licensed for commercial use. These include T5, UL2, Cerebras-GPT, Open Assistant, Pythia, Dolly, DLite, RWKV, GPT-J-6B, GPT-NeoX-20B, Bloom, StableLM-Alpha, FastChat-T5, h2oGPT, MPT-7B, RedPajama-INCITE, OpenLLaMA, Falcon, MPT-30B, LLaMA 2, OpenLM, Mistral 7B, OpenHermes. The repository also includes datasets for pre-training, instruction-tuning, and alignment-tuning, as well as evaluations on open LLMs.
 
