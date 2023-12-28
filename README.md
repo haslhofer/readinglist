@@ -1,3 +1,11 @@
+## FastChat: Open Platform for Training, Serving, and Evaluating Large Language Model Chatbots
+Summary: FastChat is an open-source platform for training, serving, and evaluating large language models (LLMs), particularly those based on the Llama architecture. It powers Chatbot Arena, a platform that has served over 6 million chat requests for more than 50 LLMs and compiled an online LLM Elo leaderboard based on human votes from side-by-side LLM battles. Its core features include training and evaluation code for state-of-the-art models, a distributed multi-model serving system with a web interface and OpenAI-compatible RESTful APIs, and additional resources like datasets, fine-tuning instructions, and evaluation methods. It supports various models, including Vicuna, FastChat-T5, and Llama, and provides detailed instructions for training, serving, and evaluating these models. The platform is designed to facilitate research and development in the field of LLMs and offers tools and resources for researchers, developers, and enthusiasts interested in working with LLMs.
+
+Link: https://github.com/lm-sys/FastChat
+
+<img src="/img/d3ef83c0-21c9-4772-a17d-b7b05a17eb98.png" width="400" />
+<br/><br/>
+
 ## GPT-4 successfully extracts knowledge from a video transcript to create a knowledge graph
 Summary: This article demonstrates how to utilize GPT-4 to extract meaningful information from video transcripts and construct a comprehensive knowledge graph stored in Neo4j. The process involves analyzing a video transcript, sectioning the transcript into manageable parts, employing GPT-4 to extract entities and relationships, importing the extracted data into Neo4j, disambiguating entities, and evaluating the results. The outcome is a knowledge graph containing the extracted entities, relationships, and timestamps for easy exploration and analysis. The article highlights the benefits of GPT-4 in information extraction tasks, particularly in domains where dedicated NLP models may not be readily available.
 
