@@ -1,3 +1,8 @@
+ChatGPT Explained: A Dive Into the Large Language Model Behind the Revolutionary Chatbot
+
+___
+
+
 Here's a one-line headline describing the text:
 
 Understanding the Intuition and Methodology Behind the Popular Chat Bot ChatGPT
