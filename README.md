@@ -1,3 +1,11 @@
+## Unverified external link: LinkedIn cannot vouch for safety
+Summary: The provided context does not contain any text or information about LinkedIn; therefore, I cannot summarize or extract the requested data from the provided context.
+
+Link: https://lnkd.in/g8u9UkY4
+
+<img src="/img/3c114a21-20a1-47ff-b061-389e794adb82.png" width="400" />
+<br/><br/>
+
 ## LinkedIn warns of unverified external link
 Summary: The provided text is a warning message from LinkedIn indicating that the user is about to access an external link that LinkedIn cannot verify for safety. The user is advised to learn more about the risks associated with accessing external links before proceeding.
 
