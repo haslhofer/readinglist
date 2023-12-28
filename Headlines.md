@@ -1,3 +1,8 @@
+Sure, here's a summary of the 
+
+___
+
+
 I apologize for not being able
 
 ___
