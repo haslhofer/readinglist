@@ -1,3 +1,11 @@
+## AutoTrain Advanced: Fine-tuning Any LLM on Custom Datasets Locally without Coding
+Summary: AutoTrain Advanced, a tool from Hugging Face, allows users to fine-tune any LLM available on the Hugging Face Hub on any custom dataset locally without coding. The tool can be installed using 'pip install autotrain-advanced'. Documentation for using it locally is not yet available, but the tool is expected to be able to train on Hugging Face Spaces soon.
+
+Link: https://www.linkedin.com/posts/abhi1thakur_now-you-can-use-autotrain-advanced-to-finetune-activity-7084132568438124544-mBf7?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/eb56477d-fe4b-44d4-a66e-bba933a05cc2.png" width="400" />
+<br/><br/>
+
 ## Train Your Own Language Model with Minimal Code
 Summary: In this video, Abhishek Thakur demonstrates how to train or fine-tune your own Large Language Model (LLM) with minimal code. He also provides a bonus method for doing so without writing any code. The video offers a simple and accessible approach to training LLMs, making it easier for individuals to customize language models for specific tasks or applications.
 
