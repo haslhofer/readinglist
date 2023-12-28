@@ -1,3 +1,11 @@
+## LlamaIndex Releases New Best Retrieval Algorithm Inspired by ChatGPT
+Summary: LlamaIndex released AutoMergingRetriever, a retrieval algorithm inspired by ChatGPT. It divides a document into chunks, further dividing "parent" chunks into "child" chunks. Queries are initiated by retrieving smaller chunks based on embedding similarity. This approach aids language models in generating improved outcomes by retrieving cohesive and extensive contextual sections flexibly and avoiding overloading with excessive context.
+
+Link: https://www.linkedin.com/posts/analytics-vidhya_chatgpt-llms-generativeai-activity-7102507748361142273-4w4P?utm_source=share&utm_medium=member_android
+
+<img src="/img/81bb60b6-d70b-49f0-a989-ff8263388147.png" width="400" />
+<br/><br/>
+
 ## LlamaIndex offers 4 Core Techniques to Improve RAG Pipeline Performance
 Summary: LlamaIndex has curated a list of four core techniques to improve the performance of Retrieval-Augmented Generation (RAG) pipelines in LlamaIndex. These techniques include decoupling chunks used for retrieval and synthesis, structured retrieval for larger document sets, dynamically retrieving chunks based on the task, and optimizing context embeddings. The guide, titled "Building Performant RAG Applications for Production," consolidates these techniques and provides a comprehensive resource for building performant RAG applications.
 
