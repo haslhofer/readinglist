@@ -1,3 +1,11 @@
+## LLM Inference on Limited Memory Devices Using Flash Memory
+Summary: Large language models (LLMs), crucial for natural language processing tasks, have intensive computational and memory requirements, making their deployment challenging on devices with limited DRAM capacity. To address this, a novel method is proposed, efficiently running LLMs that exceed the available DRAM by storing model parameters on flash memory and selectively loading them into DRAM. This method involves an inference cost model, optimized to minimize data transfer from flash and maximize data chunk sizes. Two key techniques are introduced: "windowing" reuses previously activated neurons, and "row-column bundling" exploits flash memory's sequential data access strengths. These techniques enable running models twice the DRAM size, with significant speed improvements compared to naive loading approaches. The integration of sparsity awareness, context-adaptive loading, and a hardware-oriented design paves the way for effective LLM inference on limited memory devices.
+
+Link: https://arxiv.org/abs/2312.11514v1
+
+<img src="/img/de143ecf-a2e1-463e-af33-3de37919f073.png" width="400" />
+<br/><br/>
+
 ## New AI Assistant Can Answer Complex Questions By Integrating External Knowledge and Reasoning Multi-step
 Summary: Researchers propose a novel approach to enhance the performance of multi-step reasoning large language models (LLMs) by combining reinforcement learning with AI feedback. The ReAct-style LLM agent, equipped with the capacity to reason and act upon external knowledge, is refined through a ReST-like method involving iterative training on previous trajectories. This process leads to significant improvements in efficiency, allowing fine-tuning of a small model with comparable performance to the prompted large model, using two orders of magnitude fewer parameters.
 
