@@ -1,3 +1,11 @@
+## Open-Source Large Language Models (LLMs): A Snapshot for Builders
+Summary: 
+
+Link: https://www.linkedin.com/feed/update/urn:li:activity:7049789761728770049?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/acf7becd-bf3e-4571-a4d8-98136e206b42.png" width="400" />
+<br/><br/>
+
 ## Build advanced applications using LLMs with LangChain
 Summary: LangChain is a library for building powerful and complex applications around Large Language Models (LLMs), enabling developers to connect different components such as prompt templates and LLMs into advanced use cases. Developers can leverage LangChain to create conversational AI, question-answering systems, and other applications seamlessly.
 
