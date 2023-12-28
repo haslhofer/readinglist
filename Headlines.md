@@ -1,3 +1,8 @@
+Multimodal agents that interact with smartphone apps like humans
+
+___
+
+
 Run Mistral AI's Mixtral 8x7b retrieval-augmented generation model locally with Ollama and LlamaIndex
 
 ___
