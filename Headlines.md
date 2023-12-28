@@ -1,3 +1,8 @@
+2022's Top Deep Learning Papers: A Comprehensive Review
+
+___
+
+
 Mask2Former and OneFormer: Universal Image Segmentation Models Now Available in Transformers
 
 ___
