@@ -1,3 +1,8 @@
+Tech Influencer Creates Tutorial for NeRF Shot Using Luma AI
+
+___
+
+
 Top Deep Learning Papers of 2022: A Comprehensive Review
 
 ___
