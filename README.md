@@ -1,3 +1,11 @@
+## Hugging Face adds support for BLIP-2, a state-of-the-art multi-modal model that allows for deeper conversations involving images.
+Summary: Multimodal models, like BLIP-2, are emerging in the field of machine learning to enable deeper conversations that involve both text and images. These models leverage open-source large language models and outperform models with higher parameter counts, as demonstrated by BLIP-2's superior performance compared to DeepMind's Flamingo model. This integration of BLIP-2 into Hugging Face Transformers offers exciting opportunities for exploring deeper and more meaningful conversations that incorporate visual elements.
+
+Link: https://www.linkedin.com/posts/niels-rogge-a3b7a3127_chatgpt-flamingo-ai-activity-7029788888449609729-lXVt?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/e0970dd2-c4e3-4b6f-8918-e1681a683497.png" width="400" />
+<br/><br/>
+
 ## ChatGPT Explained: A Dive Into the Large Language Model Behind the Revolutionary Chatbot
 Summary: ChatGPT is a Large Language Model (LLM) that uses self-attention mechanisms and Reinforcement Learning from Human Feedback to process and generate text. It is able to understand and respond to complex queries in a conversational manner, making it a powerful tool for natural language processing tasks such as question answering, summarization, and dialogue generation.
 
