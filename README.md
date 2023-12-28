@@ -1,3 +1,11 @@
+## Youtube videos explaining the basics of machine learning
+Summary: This series of 100 videos provides a comprehensive exploration of machine learning, covering a wide range of topics from fundamental concepts to advanced techniques. Each video offers clear explanations, practical insights, and real-world examples to help viewers gain a deep understanding of machine learning and its applications across various domains.
+
+Link: http://bit.ly/mf-ml
+
+<img src="/img/54fb6bf5-9248-463c-9ff4-f826477c265e.png" width="400" />
+<br/><br/>
+
 ## Professor Alexander Amini, PhD
 Summary: Professor Alexander Amini, PhD, from MIT, is offering a free introductory course on deep learning, with applications in computer vision, natural language processing, biology, and more. The course, which includes foundational knowledge of deep learning algorithms and practical experience in building neural networks using TensorFlow, is designed for students with prior knowledge in calculus (derivatives) and linear algebra (matrix multiplication). The content is up-to-date and based on the latest trends in deep learning, and the course concludes with a project proposal competition with feedback from staff and a panel of industry sponsors. More information is available on the dedicated website, which includes slides of presentations and links to lectures transmitted on YouTube. No previous experience in Python is necessary, but it is helpful.
 
