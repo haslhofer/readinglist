@@ -1,3 +1,11 @@
+## LinkedIn: Join the Professional Networking Platform
+Summary: I am sorry, I do not have access to the internet to get the context from the given URL and am unable to summarize the text.
+
+Link: https://www.linkedin.com/feed/hashtag/?keywords=etl&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7018092928241721344
+
+<img src="/img/3be925bd-71a6-47d5-bf41-712afa3e8dc3.png" width="400" />
+<br/><br/>
+
 ## LinkedIn: Unlocking Your Professional Potential
 Summary: I am sorry, I do not have access to the internet to get the context from the given URL and am unable to summarize the text for you.
 
