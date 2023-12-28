@@ -1,3 +1,11 @@
+## Navigating Libraries for Generative AI Projects: Considerations and Recommendations
+Summary: The author shares insights on factors to consider when selecting Python libraries for generative AI projects. These factors include the size and complexity of the dataset, the experience level of the user, the level of community support, and the ease of understanding and accessibility of documentation. The author also mentions that it is important to choose libraries that are regularly updated with new features and bug fixes.
+
+Link: https://www.linkedin.com/posts/alexwang2911_those-are-just-a-few-of-the-many-great-and-activity-7118559698915627009-5tiS?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/f6de7eae-af7b-4098-a484-45982a602fed.png" width="400" />
+<br/><br/>
+
 ## LongLoRA enables open-source large language models with 100k token context
 Summary: Hugging Face announces the release of LongLoRA, a new training technique that enables the training of open-source large language models (LLMs) with context windows of up to 100k tokens. This breakthrough addresses the limitations of current open LLMs, which typically have context windows of 2k to 4k, making them unsuitable for certain use cases such as question answering and summarization. LongLoRA offers comparable accuracy to full model fine-tuning, significantly reduces training costs, and can extend LLaMA 2 to 100k token context without degradation. It leverages short shift attention (S2-Attn) and trains embedding and normalization layers, making it compatible with FlashAttention 2 and DeepSpeed. Additionally, a LongQA training dataset for extending context is also released.
 
