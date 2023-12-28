@@ -1,3 +1,11 @@
+## Meta AI's New Data2vec 2.0 Algorithm Achieves High Efficiency in Self-Supervised Learning Across Vision, Speech, and Text
+Summary: Meta AI has developed data2vec 2.0, a self-supervised learning algorithm that is 16x faster than existing algorithms for computer vision, 11x faster for speech recognition, and achieves the same accuracy as RoBERTa for natural language processing in half the training time. The algorithm predicts contextualized representations of data, reuses target representations for masked versions, skips encoding blanked-out parts, and uses a more efficient decoder model, leading to significant efficiency gains. The code and pretrained models are available open-source, aiming to advance research in building more general and efficient self-supervised algorithms that can learn from different modalities with a single learning objective.
+
+Link: https://bit.ly/3XBob9r
+
+<img src="/img/3acf4742-ce6d-4d0b-8be8-5037473f15fe.png" width="400" />
+<br/><br/>
+
 ## Tech Trends: Generative AI, Mobile Development, Low Code, and Unreal Engine
 Summary: Matt MacLaurin, a creative coder with extensive experience in tech companies, shares his personal list of excellent learning investments for those preparing for a new chapter in the tech industry. Generative AI, mobile development, low-code platforms, and the Unreal Engine are among the areas he recommends exploring.
 
