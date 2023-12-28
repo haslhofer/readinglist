@@ -1,3 +1,8 @@
+NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis
+
+___
+
+
 MAV3D: Generating Dynamic 3D Scenes from Text Descriptions
 
 ___
