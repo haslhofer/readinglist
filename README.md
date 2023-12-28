@@ -1,3 +1,11 @@
+## Foundation Models and the Future of AI Applications
+Summary: Foundation models are advancing rapidly, leading to proliferating applications and evolving capabilities. However, the future progress is hindered by challenges in striking a balance between ease of building and defensibility of applications. The current state of the foundation model stack reveals opportunities in building novel applications, finding differentiation, and developing tooling to empower a broader population of builders. The tension between proprietary and open-source models resembles the iPhone/Android debate, with strengths in performance and ease of use versus flexibility and cost efficiency, respectively. The evolution of foundation model science brings forth the need for hot information retrieval, data sources and actions, and robust evaluation methods. Advances in training, deployment, and inference optimizations aim to address compute costs and operational constraints. The ethical implications of foundation model use cases also demand attention. Collaboration among big tech, founders, academics, and investors is crucial for driving innovation and realizing the full potential of foundation models.
+
+Link: https://www.madrona.com/foundation-models/?utm_source=Foundation+Model+Share+Link&amp;utm_medium=Social&amp;utm_campaign=Foundation+model+update+Jan+2023
+
+<img src="/img/5df05689-7285-4af1-8fa0-2f089f825715.png" width="400" />
+<br/><br/>
+
 ## Google Research shares exciting progress in 2022 and presents its vision for 2023 and beyond in Language, Vision, Generative Models, Multimodal Models, and Responsible AI.
 Summary: Google Research has made significant advancements in language, computer vision, multimodal models, and generative models.
 
