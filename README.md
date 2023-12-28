@@ -1,3 +1,11 @@
+## 404 Error: Page Not Found
+Summary: The specified notebook, cerebras_lora_int8.ipynb, is not found within the main branch of the xTuring repository on GitHub.
+
+Link: https://github.com/stochasticai/xturing/blob/main/examples/cerebras/cerebras_lora_int8.ipynb
+
+<img src="/img/1a1a3060-88ba-4398-be36-f33d87840f46.png" width="400" />
+<br/><br/>
+
 ## xTuring: Easily Build, Customize, and Control Your Own Language Models
 Summary: xTuring is a library that allows users to build, customize, and control their personalized large language models (LLMs). It provides an easy-to-use interface for fine-tuning LLMs, such as LLaMA, GPT-J, and Galactica, on their own data and applications. xTuring enables users to ingest and preprocess data, scale fine-tuning from single to multiple GPUs, explore different fine-tuning methods, and evaluate fine-tuned models. The library supports various models, including LLaMA, GPT-J, GPT-2, OPT, Cerebras-GPT, Galactica, and Bloom, and offers features like low-precision fine-tuning, evaluation metrics, and a UI playground for interactive fine-tuning and inference.
 
