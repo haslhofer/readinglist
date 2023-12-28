@@ -1,3 +1,11 @@
+## Researchers at Hugging Face cr
+Summary: Researchers at Hugging Face created Whisper JAX, an optimized version of the Whisper speech recognition model that runs 70 times faster on both GPUs and TPUs. The speedup is achieved through a combination of batching, switching from PyTorch to JAX, and using TPUs instead of GPUs. The batching algorithm chunks audio samples and transcribes them in batches, leading to a 7x gain over the original Whisper model. JAX is an automatic differentiation library for high-performance machine learning research, and using it results in a 2x speedup compared to PyTorch on GPU. Finally, TPUs are ML accelerators designed by Google that give a 5x speedup over NVIDIA A100 GPUs. The researchers have released the code for Whisper JAX and all pre-trained OpenAI checkpoints are compatible.
+
+Link: https://www.linkedin.com/feed/update/urn:li:activity:7054823001292177408?utm_source=share&utm_medium=member_android
+
+<img src="/img/c19ede99-8078-48ab-9b35-6f1bff837842.png" width="400" />
+<br/><br/>
+
 ## Meta's groundbreaking Segment Anything Model (SAM) now available on Hugging Face transformers
 Summary: Meta's groundbreaking Segment Anything Model (SAM) is now available on Hugging Face Transformers, enabling easy loading and prediction with just a few lines of code. The model offers automatic mask generation and can be utilized for various segmentation tasks. However, there have been some reported issues with the code, leading to errors when post-processing masks.
 
