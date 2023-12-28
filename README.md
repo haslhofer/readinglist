@@ -1,3 +1,11 @@
+## GPT4All: Open-Source Large Language Models That Run Locally on CPUs and GPUs
+Summary: GPT4All is an open-source system that allows users to run trained large language models (LLMs) locally on both CPUs and GPUs. It provides a variety of tools and resources, including a desktop chat client, Python, Typescript, GoLang, C#, and Java bindings, and documentation for building and running chat clients. GPT4All also offers GGUF format support and Nomic Vulkan support, enabling local LLM inference on AMD, Intel, Samsung, Qualcomm, and NVIDIA GPUs.
+
+Link: https://github.com/nomic-ai/gpt4all
+
+<img src="/img/dccb26c0-2819-4034-b73e-36b11906aedb.png" width="400" />
+<br/><br/>
+
 ## Normcore LLM: A Comprehensive Reading List for Understanding Large Language Models
 Summary: Here's a summary of the text: This document is a continuously updated reading list on large language models (LLMs) covering topics such as foundational concepts, significant OSS models, LLMs in 2023, training data, pre-training, prompt engineering, GPUs, deployment, and production, evaluation, UX, and the future of LLMs. It aims to provide a comprehensive collection of resources for those interested in delving deeper into the realm of LLMs, ranging from foundational papers and building blocks to practical insights and applications.
 
