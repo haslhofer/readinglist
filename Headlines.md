@@ -1,3 +1,8 @@
+This script is used to fine-tune the pre-trained Llama v2 model (meta-llama/Llama-2-7b-hf) on the Guanaco dataset using QLoRA. The script can be run by setting the appropriate arguments. The arguments include local_rank, per-device_train_batch_size, per_device_eval_batch_size, gradient_accumulation_steps, learning_rate, max_grad_norm, weight_decay, lora_alpha, lora_dropout, lora_r, max_seq_length, model_name, dataset_name, use_4bit, use_nested_quant, bnb_4bit_compute_dtype, bnb_4bit_quant_type, num_train_epochs, fp16, bf16, packing, gradient_checkpointing, optim, lr_scheduler_type, max_steps, warmup_ratio, group_by_length, save_steps, logging_steps, and merge_and_push.
+
+___
+
+
 Open-Source Text Generation & LLM Ecosystem Blossoms at Hugging Face
 
 ___
