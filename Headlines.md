@@ -1,3 +1,8 @@
+Google Research: Language, Vision, and Generative Models
+
+___
+
+
 Midjourney and Unreal Engine 5: Transform AI Generated Images into Realistic 3D MetaHumans
 
 ___
