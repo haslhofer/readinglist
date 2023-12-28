@@ -1,3 +1,8 @@
+LlamaIndex and Wey Gu unveil the world's most comprehensive short course on utilizing LLMs with Knowledge Graphs
+
+___
+
+
 Outlines 〰️: Revolutionize Your LLM Text Generation with Seamless Neural Text Generation
 
 ___
