@@ -1,3 +1,11 @@
+## LinkedIn: Make the Most of Your Professional Life
+Summary: I am unable to summarize the provided text, as there is no text included for me to summarize.
+
+Link: https://www.linkedin.com/feed/hashtag/?keywords=dataanalytics&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7018092928241721344
+
+<img src="/img/62fd8c69-d24c-4ac6-ab56-7d453f0911ec.png" width="400" />
+<br/><br/>
+
 ## LinkedIn: Make the most of your professional life
 Summary: Unfortunately, I do not have access to the internet to get the context from the given URL. Therefore, I am unable to summarize the text provided.
 
