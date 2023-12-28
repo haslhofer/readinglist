@@ -1,3 +1,11 @@
+## LinkedIn: Make the most of your professional life
+Summary: I apologize, but I do not have access to the internet to get the context from the given URL, thus I cannot provide a summary of the text "Make the most of your professional life."
+
+Link: https://www.linkedin.com/feed/hashtag/?keywords=python&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7018092928241721344
+
+<img src="/img/ad17dc18-0066-477a-bff0-9056350178fe.png" width="400" />
+<br/><br/>
+
 ## LinkedIn Profile Not Found: User Agreement, Privacy Policy, and Cookie Policy Apply
 Summary: The LinkedIn profile with the given URL is either not publicly available or doesn't exist. To access the full LinkedIn profile search and filter feature, you can log in or create a LinkedIn account.
 
