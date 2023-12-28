@@ -1,3 +1,8 @@
+Fine-tuning a 20B+ LLM with Amazon SageMaker using PyTorch FSDP and Hugging Face
+
+___
+
+
 Fine-tune 20B+ language models with Amazon SageMaker, PyTorch FSDP, and Hugging Face
 
 ___
