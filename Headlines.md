@@ -1,3 +1,8 @@
+LlamaIndex Releases New Best Retrieval Algorithm Inspired by ChatGPT
+
+___
+
+
 LlamaIndex offers 4 Core Techniques to Improve RAG Pipeline Performance
 
 ___
