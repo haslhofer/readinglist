@@ -1,3 +1,8 @@
+Microsoft Researcher Explores How Multi-Way Transformers Work and How They Help in Multimodal Pretraining of Microsoft’s BEiT-3 Model
+
+___
+
+
 Fast Document Similarity Detection Using MinHash and LSH
 
 ___
