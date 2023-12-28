@@ -1,3 +1,11 @@
+## Example Domain: Available for Use in Illustrative Examples
+Summary: Example Domain is used solely for illustrative purposes in documents and can be freely employed in literature without the need for prior coordination or permission.
+
+Link: https://www.example.com/about-us/
+
+<img src="/img/982f7e44-cbe0-4c06-b499-f5acdf9b2c64.png" width="400" />
+<br/><br/>
+
 ## LangChain integrates with GPT Researcher, enabling easy usage of other LLM models and integration with LangSmith
 Summary: LangChain has announced its integration with GPT Researcher, an open-source research assistant that generates research questions, scrapes online resources, summarizes them, and creates a report. This integration allows for easy usage of other large language models (LLMs), such as Anthropic's Claude model, and enables seamless integration with LangSmith, a platform for debugging, logging, and monitoring LLM calls. LangChain believes that this integration will enhance the capabilities of GPT Researcher and promote the development of more focused and effective LLM applications.
 
