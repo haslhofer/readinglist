@@ -1,3 +1,11 @@
+## The future of AI: "GPT-You" not "GPT-X"
+Summary: In the near future, people will be utilizing foundation models (FMs) trained on their own data and workloads. Closed APIs are not secure. Proprietary data will serve as a durable moat, with data development generating substantial value. Fine-tuning outperforms zero-shot learning/prompt approaches, and while pre-training generates value, the last mile extracts it. Ultimately, the future will be characterized by "GPT-You," not "GPT-X."
+
+Link: https://www.linkedin.com/posts/alexander-ratner-038ba239_tatsunori-hashimoto-on-twitter-activity-7048435669366427648-KPTv?utm_source=share&utm_medium=member_android
+
+<img src="/img/2561575d-4fab-46df-a05a-f298a727ba8d.png" width="400" />
+<br/><br/>
+
 ## LLaMA-Adapter: A Lightweight Approach for Fine-tuning LLaMA with Zero-init Attention
 Summary: LLaMA-Adapter is a lightweight method that efficiently fine-tunes LLaMA, a large language model, for instruction-following tasks. It introduces a small number of learnable parameters and uses a zero-initialized attention mechanism to inject instructional cues into LLaMA while preserving its pre-trained knowledge. LLaMA-Adapter can generate high-quality responses comparable to models with fully fine-tuned parameters and can be extended to multi-modal instructions for learning image-conditioned LLaMA models.
 
