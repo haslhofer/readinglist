@@ -1,3 +1,11 @@
+## Ski purists can still find old-school resorts with affordable prices
+Summary: Skiing has become increasingly expensive due to extravagant additions at resorts. For those seeking a more affordable experience, four highly regarded resorts offer world-class skiing at attainable prices: Purgatory Resort in Colorado, Okemo Mountain Resort in Vermont, Ski Cooper in Colorado, and Mount Snow in Vermont. These resorts provide well-groomed slopes, reasonable lift ticket prices, and a friendly ski village atmosphere, allowing skiers to enjoy the sport without breaking the bank.
+
+Link: https://www.wsj.com/articles/affordable-ski-resorts-11674060010
+
+<img src="/img/7c63a173-d8ae-4b7d-90de-777e6cc4069d.png" width="400" />
+<br/><br/>
+
 ## OMMO: A Large-Scale Outdoor Multi-Modal Dataset and Benchmark for Novel View Synthesis and Implicit Scene Reconstruction
 Summary: The OMMO dataset offers a large-scale outdoor multimodal dataset for NeRF-based tasks like novel view synthesis and scene reconstruction. It provides calibrated images, point clouds, and textual annotations for diverse real-world scenes, such as cities, buildings, and natural areas. The dataset is accompanied by a benchmark for novel view synthesis, comparing several state-of-the-art methods and presenting additional sub-benchmarks for different scene types, camera trajectories, and lighting conditions.
 
