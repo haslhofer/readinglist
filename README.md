@@ -1,3 +1,11 @@
+## Databricks releases Dolly 2.0, an open-source instruction-tuned large language model
+Summary: Databricks has released Dolly 2.0, an open-source, instruction-following large language model (LLM) that is fine-tuned on a human-generated instruction dataset licensed for research and commercial use. Dolly 2.0 is based on the EleutherAI pythia model family and is trained on a new, high-quality human-generated instruction following dataset created by Databricks employees. The model weights, training code, and dataset are available for download, enabling organizations to create, own, and customize powerful LLMs without paying for API access or sharing data with third parties.
+
+Link: https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm
+
+<img src="/img/e9a1370b-d5e2-4ef1-858e-2948d0f6f6d8.png" width="400" />
+<br/><br/>
+
 ## Challenges in building production-ready Large Language Model applications
 Summary: Large Language Models (LLMs), such as ChatGPT or Google Bard, have opened new possibilities for production-ready applications. However, the journey from a fascinating prototype to a fully functional product deployed at scale comes with several challenges. These challenges stem from the ambiguity of natural languages, the stochastic nature of LLMs leading to inconsistent user experiences, and the rapidly evolving landscape that demands continuous analysis and decision-making on cost-latency, build versus buy, and prompting versus fine-tuning techniques. Companies are actively addressing these challenges by developing strategies and techniques to mitigate ambiguity, improve consistency, and optimize resource allocation.
 
