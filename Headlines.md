@@ -1,3 +1,8 @@
+Free sample domain for illustrative examples
+
+___
+
+
 Example Domain: Available for Illustrative Use Without Permission
 
 ___
