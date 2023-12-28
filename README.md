@@ -1,3 +1,11 @@
+## Cerebras Releases Trained Version of GPT-3, Highest Accuracy Models Open-Source
+Summary: Emad Barsoum announces the release of a trained version of GPT-3 with improved accuracy using Cerebras Wafer-Scale Clusters, available open-source under the Apache 2.0 license. This milestone marks a significant advancement in natural language processing and deep learning, potentially enabling royalty-free use for research and commercial applications.
+
+Link: https://www.linkedin.com/posts/ebarsoum_cerebras-cerebras-activity-7046571544940064768-amSS?utm_source=share&utm_medium=member_android
+
+<img src="/img/47f24419-fbc3-44fe-83f3-9aed5ca059e2.png" width="400" />
+<br/><br/>
+
 ## Hugging Face's Available Pix2struct Models
 Summary: Hugging Face offers a diverse range of models, including Visual Question Answering, Image-to-Text, and Text2Text Generation models. These models can handle tasks such as understanding the content of images or charts, generating natural language descriptions, and translating between languages. Users can access detailed information about each model, including performance metrics, training datasets, and example outputs.
 
