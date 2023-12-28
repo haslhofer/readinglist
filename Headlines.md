@@ -1,3 +1,8 @@
+Hugging Face's GPT-NeoXT-Chat-Base-20B: A 20B parameter open-source chatbot model fine-tuned for dialog-style interactions.
+
+___
+
+
 Fine-tuning a 20B+ LLM with Amazon SageMaker using PyTorch FSDP and Hugging Face
 
 ___
