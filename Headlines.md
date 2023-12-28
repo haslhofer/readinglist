@@ -1,3 +1,8 @@
+Get Free Self-Paced Courses on AI From Fortune 500 Companies Including Microsoft, Google and Harvard
+
+___
+
+
 Hugging Face releases an impressive vision-language model that outperforms larger closed-source models
 
 ___
