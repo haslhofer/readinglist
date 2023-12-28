@@ -1,3 +1,11 @@
+## Survey of Advances in Techniques and Applications of Large Language Models
+Summary: This paper presents a comprehensive survey of the recent advances and techniques associated with Large Language Models (LLMs). It delves into the background, key findings, and mainstream techniques used in LLMs, focusing on pre-training, adaptation tuning, utilization, and capacity evaluation. The paper also provides an overview of available resources and discusses remaining issues and future directions in the field of LLMs.
+
+Link: https://arxiv.org/abs/2303.18223
+
+<img src="/img/7d88b23c-4e67-49ff-8ffb-ccbaa9f9d5b8.png" width="400" />
+<br/><br/>
+
 ## Young Geng's Koala 13B GPTQ model files for inference with various quantization parameters, including 4-bit and 8-bit options.
 Summary: These are the GPTQ model files for Young Geng's Koala 13B. Multiple GPTQ parameter permutations are provided, allowing users to choose the best one for their hardware and requirements. These models were quantised using hardware kindly provided by Latitude.sh. The files include GPTQ models for GPU inference, GGML models for CPU+GPU inference, and an unquantised fp16 model for GPU inference and further conversions. A prompt template, instructions on how to download and use the model in text-generation-webui and Python code, and compatibility information are also provided. The model is intended for academic research only and can be used with AutoGPTQ, GPTQ-for-LLaMa, and Occ4m's GPTQ-for-LLaMa fork. If interested in contributing to this project, there are various ways to donate, including Patreon and Ko-Fi.
 
