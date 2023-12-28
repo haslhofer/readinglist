@@ -1,3 +1,11 @@
+## Young Geng's Koala 13B GPTQ model files for inference with various quantization parameters, including 4-bit and 8-bit options.
+Summary: These are the GPTQ model files for Young Geng's Koala 13B. Multiple GPTQ parameter permutations are provided, allowing users to choose the best one for their hardware and requirements. These models were quantised using hardware kindly provided by Latitude.sh. The files include GPTQ models for GPU inference, GGML models for CPU+GPU inference, and an unquantised fp16 model for GPU inference and further conversions. A prompt template, instructions on how to download and use the model in text-generation-webui and Python code, and compatibility information are also provided. The model is intended for academic research only and can be used with AutoGPTQ, GPTQ-for-LLaMa, and Occ4m's GPTQ-for-LLaMa fork. If interested in contributing to this project, there are various ways to donate, including Patreon and Ko-Fi.
+
+Link: https://huggingface.co/TheBloke/koala-13B-GPTQ-4bit-128g
+
+<img src="/img/8da01844-0a67-4ba0-a95c-9449d3f4aad3.png" width="400" />
+<br/><br/>
+
 ## FastChat: Open Platform for Training, Serving, and Evaluating Large Language Model Chatbots
 Summary: FastChat is an open-source platform for training, serving, and evaluating large language models (LLMs), particularly those based on the Llama architecture. It powers Chatbot Arena, a platform that has served over 6 million chat requests for more than 50 LLMs and compiled an online LLM Elo leaderboard based on human votes from side-by-side LLM battles. Its core features include training and evaluation code for state-of-the-art models, a distributed multi-model serving system with a web interface and OpenAI-compatible RESTful APIs, and additional resources like datasets, fine-tuning instructions, and evaluation methods. It supports various models, including Vicuna, FastChat-T5, and Llama, and provides detailed instructions for training, serving, and evaluating these models. The platform is designed to facilitate research and development in the field of LLMs and offers tools and resources for researchers, developers, and enthusiasts interested in working with LLMs.
 
