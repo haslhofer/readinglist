@@ -1,3 +1,11 @@
+## Microsoft's E5 Model Outperforms OpenAI's Embedding Model in Speed, Cost, and Tunability
+Summary: The text discusses evaluating and hosting text embedding models, comparing the performance and costs of the OpenAI embedding model to the E-5 model. The E-5 model outperforms the OpenAI model on various benchmarks. It is also faster, cheaper to host, and has the advantage of being fine-tunable. The author emphasizes that open-source solutions like the E-5 model can often provide better results and control compared to commercial models.
+
+Link: https://medium.com/@kelvin.lu.au/hosting-a-text-embedding-model-that-is-better-cheaper-and-faster-than-openais-solution-7675d8e7cab2
+
+<img src="/img/b95590ec-9cc9-4bd3-846e-278664ab3d45.png" width="400" />
+<br/><br/>
+
 ## Local LLM and LlamaIndex Allow Offline Summarization of YouTube Videos
 Summary: This article discusses utilizing LlamaIndex and a local Large Language Model (LLM) to summarize YouTube videos. The setup process for the LLM is outlined in detail, including prerequisites and installation steps. It highlights the creation of a vector index for efficient search using the local embedding model. Practical examples demonstrate how to query the created index and retrieve summarized responses. The article emphasizes the time taken for local LLM to generate responses compared to OpenAI. It concludes by mentioning potential improvements, such as using more powerful hardware.
 
