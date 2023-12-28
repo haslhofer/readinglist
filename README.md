@@ -1,3 +1,11 @@
+## Panicked Silicon Valley workers are panic-selling tech stocks post-layoffs
+Summary: The tech industry is downsizing as 90,000 workers were laid off in 2022, and companies like Amazon, Microsoft, and Google continue to announce job cuts. The affected employees are selling their shares in tech start-ups, causing valuations to fall further. Record-low interest rates encouraged investments in risky tech companies, leading to inflated valuations. The compensation of tech workers was largely stock-based, resulting in a drop in total compensation as valuations decline. The article recommends considering stocks of companies with stable business models and actual profitability.
+
+Link: https://finance.yahoo.com/news/laid-off-silicon-valley-workers-150000073.html
+
+<img src="/img/07a47982-f44f-4cf0-8c07-03fc782b40b4.png" width="400" />
+<br/><br/>
+
 ## Training Credit Scoring Models on Synthetic Data and Applying Them to Real-World Data
 Summary: A new framework is proposed for training credit scoring models on synthetic data and applying them to real-world data, and analyzing the model's ability to handle data drift. The results show that models trained on synthetic data can perform well, but with a loss of predictive power. TVAE had better performance than CTGAN, and there's a cost in terms of a loss of predictive power when using synthetic data.
 
