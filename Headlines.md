@@ -1,3 +1,8 @@
+Web Stable Diffusion: A Revolutionary Machine Learning Project Bringing AI Models to Web Browsers
+
+___
+
+
 Read the Docs 404 Page Offers Tips for Addressing Errors
 
 ___
