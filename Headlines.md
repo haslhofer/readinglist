@@ -1,3 +1,8 @@
+Wolfram Prompt Repository: Curating and Unleashing the Power of Human-Engineered Language Models
+
+___
+
+
 Hugging Face Endpoints Enables Efficient Deployment of Open-Source Large Language Models
 
 ___
