@@ -1,3 +1,11 @@
+## How to train a ControlNet for Stable Diffusion and Create Your Own Custom Image Editing Conditions
+Summary: ControlNet, a structure that allows fine-grained control of diffusion models, has been used to train a model called Uncanny Faces, which can follow real face poses. This model was trained using a dataset of synthetic faces and facial landmarks. The training process is detailed, including tips for fitting the training on GPUs with different VRAM sizes. The resulting model can be used to generate images of faces in various poses, but it has a unique characteristic of creating uncanny 3D-looking faces due to being trained on a synthetic face dataset.
+
+Link: https://huggingface.co/blog/train-your-controlnet
+
+<img src="/img/ad8bf6ab-e110-4484-b076-3dbfba74c7f5.png" width="400" />
+<br/><br/>
+
 ## Hugging Face releases an Open-Domain Text-to-Video Synthesis Model
 Summary: The "Text-to-Video" model generates videos from English text descriptions using a multi-stage diffusion model that consists of three sub-networks: text feature extractor, text feature-to-video latent space diffusion model, and video latent space to video visual space model. The model's parameters total around 1.7 billion. It has a wide range of applications and can be used for research purposes, but is limited in its ability to generate clear text, handle complex compositional tasks, and perfectly replicate film and television quality.
 
