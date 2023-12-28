@@ -1,3 +1,8 @@
+MosaicML Introduces MPT-30B, a 30B Parameter LLM, Competing with LLaMA and Falcon in the Open Source Arena
+
+___
+
+
 Open-Source LLMs: Extending Context Length with Blog Post Recommendations
 
 ___
