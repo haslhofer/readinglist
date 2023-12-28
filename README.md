@@ -1,3 +1,11 @@
+## Diffusion Models Class Unit 4: Latest Research in Diffusion Models
+Summary: Unit 4 of the Hugging Face Diffusion Models Course covers advanced topics in diffusion models, including faster sampling techniques, training improvements, methods for enhancing control over generation and editing, applications in video and audio generation, new architectures and approaches such as iterative refinement, and hands-on notebooks for experimenting with specific techniques. The unit encourages exploration of new ideas and projects within the field of diffusion models.
+
+Link: https://github.com/huggingface/diffusion-models-class/tree/main/unit4
+
+<img src="/img/b273fad6-87cf-443c-a161-e1425526a7dc.png" width="400" />
+<br/><br/>
+
 ## Top Deep Learning Papers of 2022 Reviewed
 Summary: In the realm of deep learning, 2022 witnessed significant breakthroughs, particularly in generative models. AI models continued to grow in size and intelligence, with some rivaling the GDPs of entire countries. This comprehensive review highlights key developments in the field, including Self-Supervised Learning techniques, the prevention of embedding collapse, and architectural advancements like Vision Transformer.
 
