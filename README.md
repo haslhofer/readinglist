@@ -1,3 +1,11 @@
+## New Amazon course dives into generative AI and large language models
+Summary: A newly launched course delves into generative AI and large language models (LLMs), exploring their applications, the Transformer architecture, prompting techniques, the generative AI project lifecycle, fine-tuning, scaling laws, PEFT/LoRA, and RLHF. Join experts to learn the skills necessary to leverage this emerging technology.
+
+Link: https://www.linkedin.com/posts/mikegchambers_generatieveai-largelanguagemodels-activity-7084455366893191168-0LeI?utm_source=share&utm_medium=member_android
+
+<img src="/img/5e0fd56e-80b2-483e-8c94-2c83e44a8d3a.png" width="400" />
+<br/><br/>
+
 ## MobileSAM and MobileSAMv2: Faster Segment Anything for Mobile Applications and Beyond
 Summary: MobileSAM and MobileSAMv2 are lightweight versions of SAM designed for faster and more efficient image segmentation on mobile devices. They achieve this by replacing the original SAM's heavyweight image encoder with a smaller and faster Tiny-ViT encoder. MobileSAM also introduces object-aware prompt sampling for faster segmenting of various objects, while MobileSAMv2 keeps the same pipeline as SAM but replaces the grid-search prompt sampling with object-aware prompt sampling. Both MobileSAM and MobileSAMv2 demonstrate comparable performance to the original SAM while being significantly faster and smaller.
 
