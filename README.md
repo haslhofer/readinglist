@@ -1,3 +1,11 @@
+## How to build your own private ChatGPT with your own data
+Summary: The article discusses the architecture and data requirements for creating a private ChatGPT that leverages your own data. It emphasizes the importance of separating the language model from the knowledge base to ensure factual correctness and traceability. The approach involves finding the most relevant data, chunking and splitting it, retrieving the most relevant data using search methods like semantic search, and writing a concise prompt to avoid hallucination. The article provides links to various resources and projects to help with building such a solution.
+
+Link: https://medium.com/@imicknl/how-to-create-a-private-chatgpt-with-your-own-data-15754e6378a1
+
+<img src="/img/7a59edea-591b-407f-89b3-cf6998bc016c.png" width="400" />
+<br/><br/>
+
 ## Hugging Face has launched a ne
 Summary: Hugging Face has launched a new "Run with Docker, Inc" feature that enables users to run any of the >30,000 ML apps from Spaces locally or on their own infrastructure. This integration makes it easy to deploy ML applications from Hugging Face to Docker, allowing for seamless integration and execution of machine learning models in various environments.
 
