@@ -1,3 +1,11 @@
+## 
+Summary: 
+
+Link: https://adobeacrobat.app.link/o0SiKn1MPxb
+
+<img src="/img/3968afa9-12e1-46f5-a060-793837bd300a.png" width="400" />
+<br/><br/>
+
 ## MosaicML Releases MPT-30B, a Large Language Model Surpassing GPT-3's Performance
 Summary: MosaicML released MPT-30B, a 30 billion parameter Large Language Model (LLM) that outperforms the original 175 billion parameter GPT-3 model. The MPT-30B model is fully open-source for commercial use and comes with two fine-tuned variants, MPT-30B-Instruct and MPT-30B-Chat, designed for single-turn instruction following and multi-turn conversations, respectively. Users can play around with the MPT-30B-Chat variant on Hugging Face, powered by MosaicML Inference. Additionally, enterprises can customize and deploy MPT-30B in production using MosaicML's training and inference services. The release has garnered positive responses from the ML community, with users praising its performance and accessibility.
 
