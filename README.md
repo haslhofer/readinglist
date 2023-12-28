@@ -1,3 +1,11 @@
+## There are over 50 different la
+Summary: There are over 50 different large language models (LLMs) with 1 billion+ parameters accessible via open-source or proprietary APIs, including GPT-J, GPT-Neo, Pythia, Polyglot, J1, LLaMa, OPT, Fairseq, Cerebras-GPT, GLM-130B, YaLM, UL2 20B, PanGu-α, Cohere, Claude, CodeGen, NeMo, and RWKV, as well as fine-tuned models like Alpaca, Convo, J1-Grande-Instruct, InstructGPT, BLOOMZ, Flan-UL2, Flan-T5, T0, and Galactica.
+
+Link: https://matt-rickard.com/a-list-of-1-billion-parameter-llms
+
+<img src="/img/ef3e95ff-1ad8-473f-8c67-ca52dbb33108.png" width="400" />
+<br/><br/>
+
 ## ScaleAI introduces Automotive Foundation Model
 Summary: Scale AI offers an automotive AI foundation model that aids enterprises in building and customizing machine learning models using their own data. With Scale's Generative AI platform, companies can access leading AI models, integrate their data, and leverage features like fine-tuning and RLHF to create sustainable and successful AI programs. The platform offers a range of applications, including data labeling, data curation, and generative AI applications like Scale Donovan for decision-making. Scale has partnered with AI leaders such as OpenAI and Anthropic and notable clients including Toyota, Microsoft, and OpenAI.
 
