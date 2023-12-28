@@ -1,3 +1,10 @@
+Text-To-4D: Generating 3D Dynamic Scenes from Text Descriptions
+
+Filename:a72733e6-a7ef-4960-a37a-b32a90a1e69b.png
+
+___
+
+
 Transformers in NLP: Understanding Context and Applications in Language
 
 Filename:1d68b972-873f-4138-8608-86121f9d4c65.png
