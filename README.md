@@ -1,3 +1,11 @@
+## LinkedIn warns users about external links
+Summary: The provided text contains a link to an external YouTube video. However, LinkedIn is unable to verify the safety of the link and recommends users to visit the LinkedIn Help Center to learn more about external links.
+
+Link: https://lnkd.in/g_WWQSk7
+
+<img src="/img/e21d0f39-f9c0-4e5a-8031-c4a5360c95fa.png" width="400" />
+<br/><br/>
+
 ## DeepMind's Dramatron: An AI Tool for Co-Authoring Film Scripts
 Summary: DeepMind presents Dramatron, an AI tool utilizing hierarchical language models to generate film scripts, combining features like editing, compiling, and filtering capabilities. Through user evaluations and expert opinions, Dramatron demonstrates promising results in collaborative creation while addressing ethical concerns related to bias, plagiarism, and privacy in AI-generated content.
 
