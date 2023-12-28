@@ -1,3 +1,10 @@
+Harvard University's CS50: An Introduction to Computer Science for Everyone
+
+Filename:3e47e7e3-0b77-4842-b289-c39513cf531e.png
+
+___
+
+
 Researchers Replace Gaussian Noise with Deterministic Perturbations in Diffusion Models
 
 Filename:537335c2-607c-4191-8901-e89c8f1829cc.png
