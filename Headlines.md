@@ -1,3 +1,8 @@
+Mistral AI: Unleashing an Uncensored, Open-Source Language Model for Local Use and Customized Training
+
+___
+
+
 Andrej Karpathy Builds a Generatively Pretrained Transformer from Scratch
 
 ___
