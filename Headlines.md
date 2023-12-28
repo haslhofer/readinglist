@@ -1,3 +1,8 @@
+LLMOps: A New Paradigm for Managing the Lifecycle of Large Language Model-Powered Applications
+
+___
+
+
 A discussion thread regarding 
 
 ___
