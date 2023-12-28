@@ -1,3 +1,10 @@
+Google Brain and Tel Aviv University Researchers Introduce a Text-to-Image Model Guided by Sketches
+
+Filename:38eacdc8-8002-4605-8aef-5bbe9992c846.png
+
+___
+
+
 Ski Resorts That Are Affordable and Offer World-Class Skiing
 
 Filename:a7339a91-284e-46da-9900-11a8289c584b.png
