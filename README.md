@@ -1,3 +1,11 @@
+## Top Deep Learning Papers of 2022 Reviewed
+Summary: In 2022, significant breakthroughs were made in deep learning, and generative models achieved remarkable advancements. Models continued to expand in size and intelligence, while also becoming more computationally expensive. The focus on computer vision and unsupervised learning led to notable developments, and the author tried to explain the concepts in simple terms, while acknowledging potential biases. Among the key papers discussed were VicReg, which tackled the challenge of collapse in self-supervised learning, and BigBird, an impressive model with superior performance in natural language processing tasks.
+
+Link: https://medium.com/@diegobonila/top-deep-learning-papers-of-2022-a4826e0aac4
+
+<img src="/img/6dec56a6-6106-4742-a595-719e6ac880bc.png" width="400" />
+<br/><br/>
+
 ## Universal Segmentation: Masks and Panoptic Results with Mask2Former and OneFormer in Transformers
 Summary: 
 
