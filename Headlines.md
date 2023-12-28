@@ -1,3 +1,8 @@
+Andrej Karpathy Builds a Generatively Pretrained Transformer from Scratch
+
+___
+
+
 Ferret: A Multimodal Large Language Model for Refer and Ground Anything Anywhere at Any Granularity
 
 ___
