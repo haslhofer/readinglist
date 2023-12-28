@@ -1,3 +1,8 @@
+Vid2Avatar: Creating Detailed 3D Avatar Reconstructions from Wild Videos
+
+___
+
+
 Semantic Kernel: Integrate Cutting-edge LLM Technology Quickly and Easily into Your Apps
 
 ___
