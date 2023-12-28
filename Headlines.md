@@ -1,3 +1,10 @@
+Karen Cheng creates a tutorial for a dolly zoom effect using NeRF technology on your phone
+
+Filename:f9df6af3-feef-4e26-a898-9b5e442b7ab8.png
+
+___
+
+
 Diffusion Models Class Unit 4: Latest Research in Diffusion Models
 
 Filename:b273fad6-87cf-443c-a161-e1425526a7dc.png
