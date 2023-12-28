@@ -1,3 +1,8 @@
+New course: Introduction to Transformers for LLMs now available
+
+___
+
+
 html2text is a Python script t
 
 ___
