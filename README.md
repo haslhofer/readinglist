@@ -1,3 +1,11 @@
+## Midjourney and Unreal Engine 5: Transform AI Generated Images into Realistic 3D MetaHumans
+Summary: There are many videos available online that provide tutorials on how to create 3D characters using various software, such as Midjourney AI, Unreal Engine 5, and Metahuman. These tutorials cover a wide range of topics, including how to generate AI images, convert images to 3D models, animate facial expressions, and create realistic skin textures. With the help of these tutorials, users can learn how to create their own custom 3D characters for use in games, animations, and other digital projects.
+
+Link: https://www.youtube.com/watch?v=iubhFsKZBP0
+
+<img src="/img/8266c37a-727c-4efe-924c-783e1d4c6bb1.png" width="400" />
+<br/><br/>
+
 ## Text2Poster: Laying Out Stylized Texts on Retrieved Images
 Summary: Text2Poster is a technique for laying out stylized texts on retrieved images. It involves using a text-image retrieval model to extract text and image embeddings, then using a pre-trained model to predict the layout distribution of the text on the image. Finally, a layout refinement model is used to generate the final layout of the text on the image. Text2Poster allows for the creation of visually appealing posters with customized text and images.
 
