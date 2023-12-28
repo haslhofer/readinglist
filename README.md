@@ -1,3 +1,11 @@
+## Researchers Replace Gaussian Noise with Deterministic Perturbations in Diffusion Models
+Summary: Researchers at the University of Maryland introduce a new diffusion model called "Cold Diffusion" that replaces additive Gaussian noise with deterministic perturbations to generate realistic images. The model is trained as an autoencoder, and its sampling method allows it to overcome the effect of fixed degradation, leading to convincing samples. Experimental results show that Cold Diffusion performs well in image generation tasks like inpainting and super-resolution.
+
+Link: https://www.marktechpost.com/2023/01/23/researchers-at-the-university-of-maryland-propose-cold-diffusion-a-diffusion-model-with-deterministic-perturbations/
+
+<img src="/img/537335c2-607c-4191-8901-e89c8f1829cc.png" width="400" />
+<br/><br/>
+
 ## ChatGPT Raises Concerns in Academia Over Implications for MBA Education
 Summary: ChatGPT's impressive performance on the final exam of a Wharton MBA core course, Operations Management, has sparked concerns among educators and business leaders about the implications for MBA programs and the value of an MBA education. While the AI chatbot exhibited strengths in basic operations management and process analysis questions, it faced challenges with more advanced concepts. Experts suggest that the use of AI tools like ChatGPT by students and professionals may reshape the value of skills taught in MBA programs and necessitate investments in education and adaptation to emerging technologies.
 
