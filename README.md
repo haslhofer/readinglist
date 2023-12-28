@@ -1,3 +1,11 @@
+## Error 404: The Requested Page Does Not Exist
+Summary: I am sorry, I do not have access to the internet to get the context from the given URL and am unable to summarize the text for you.
+
+Link: https://www.srijitmukherjee.com/the-math-behind-transformers/
+
+<img src="/img/3672f18b-09c5-4e3d-9bc1-8e91bc446ec8.png" width="400" />
+<br/><br/>
+
 ## Run as a service using Github package go-wkhtmltox
 Summary: This project provides a web service for wkhtmltopdf and wkhtmltoimage. It offers functionalities such as converting HTML to PDF and images, rendering templates, and using different fetchers (e.g., HTTP, data) to obtain input data. The service is configurable through a JSON configuration file and supports various output formats, including PNG, JPEG, and PDF. It also features a RESTful API for easy integration and allows you to run it as a Docker service or locally.
 
