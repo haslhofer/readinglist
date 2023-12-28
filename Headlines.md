@@ -1,3 +1,10 @@
+ChatGPT Demystified: Understanding the Architecture and Methodology of the Revolutionary Language Model
+
+Filename:771cc95b-1e17-452c-ac1c-39ec80f374d3.png
+
+___
+
+
 Deploy FLAN-T5 XXL Language Model on Amazon SageMaker for Inference
 
 Filename:8667e605-3da7-4c8d-974d-d9006093cd13.png
