@@ -1,3 +1,11 @@
+## Karen Cheng creates a tutorial for a dolly zoom effect using NeRF technology on your phone
+Summary: This post contains a tutorial on filmmaking shots using NeRF (Neural Radiance Fields). The author starts by recommending that viewers familiarize themselves with NeRFs in general and provides tips for shooting and editing. They then discuss two modes in the Luma AI app: guided capture and uploading your own footage. The author prefers uploading their own footage because they find the guided capture mode difficult to use. The author also provides tips for shooting, including capturing the sky and the ground if you want them in the shot. For Android users, they recommend using the web version of Luma AI for better control over the Dolly Zoom effect. The author also discusses troubleshooting tips for the Dolly Zoom effect, such as setting more keyframe points to maintain the same body size throughout the shot.
+
+Link: https://www.linkedin.com/posts/karenxcheng_using-nerf-for-creative-filmmaking-shots-ugcPost-7025885182251438080-1snf?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/f9df6af3-feef-4e26-a898-9b5e442b7ab8.png" width="400" />
+<br/><br/>
+
 ## Diffusion Models Class Unit 4: Latest Research in Diffusion Models
 Summary: Unit 4 of the Hugging Face Diffusion Models Course covers advanced topics in diffusion models, including faster sampling techniques, training improvements, methods for enhancing control over generation and editing, applications in video and audio generation, new architectures and approaches such as iterative refinement, and hands-on notebooks for experimenting with specific techniques. The unit encourages exploration of new ideas and projects within the field of diffusion models.
 
