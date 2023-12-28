@@ -1,3 +1,8 @@
+Next-Generation AI and the Design of the Copilot Experience in Microsoft 365
+
+___
+
+
 Microsoft research reveals an AI model that combines capabilities of large language models with public machine-learning communities to tackle complex AI tasks.
 
 ___
