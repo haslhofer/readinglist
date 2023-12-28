@@ -1,3 +1,11 @@
+## 12-Month MBA for PMs: A more affordable and effective alternative to traditional MBA programs
+Summary: This post introduces a 12-month curriculum for developing essential skills and knowledge as a product manager. Each month focuses on different areas such as leadership, business models, product discovery, growth, and strategy. It provides a structured learning path with recommended books, courses, and resources. The key takeaway is that with dedication and consistent effort, individuals can acquire valuable knowledge and skills within a year to excel in their product management career.
+
+Link: https://www.linkedin.com/posts/pawel-huryn_12-month-mba-for-pms-better-than-any-123k-activity-7081646067326287873-hdNc?utm_source=share&utm_medium=member_android
+
+<img src="/img/3f0adbf2-79e8-412f-853f-5277c48c3e34.png" width="400" />
+<br/><br/>
+
 ## Serverless GPU Providers in 2023: A Look at the Landscape
 Summary: The serverless GPU landscape has experienced changes with some companies shutting down and others changing names. Notable startups in this domain include Modal, Banana, Replicate.com, Tiyaro.ai, and Beam.cloud. These platforms offer features such as fast bootup, job parallelization, ready-to-use models, good customer support, and user-friendly interfaces for training and deployment. Serverless GPU providers are gaining popularity due to their flexibility and scalability for applications like image and text generation.
 
