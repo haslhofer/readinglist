@@ -1,3 +1,11 @@
+## ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs
+Summary: ToolLLM is a general framework for facilitating large language models (LLMs) in mastering real-world APIs. It solves the significant limitations of open-source LLMs in tool-use capabilities. It introduces ToolBench, an instruction-tuning dataset for tool use, constructed automatically using ChatGPT. To enhance the reasoning capabilities of LLMs, ToolLLM develops a novel depth-first search-based decision tree algorithm. The framework also includes ToolEval, an automatic evaluator for tool-use capabilities of LLMs. Through experiments, ToolLLM effectively fine-tunes LLMs, enabling them to execute complex instructions, generalize to unseen APIs, and achieve performance comparable to state-of-the-art closed-source LLMs like ChatGPT.
+
+Link: https://arxiv.org/abs/2307.16789
+
+<img src="/img/64f819a4-2fee-4ad7-890a-d7fd23b5e6ab.png" width="400" />
+<br/><br/>
+
 ## HTTP 404 error for a missing file in a git repository.
 Summary: Unfortunately, I cannot summarize the provided text because it contains an error message indicating that the path "auto_chapter_title/wf.py" does not exist in the "main" branch of the "examples" repository. As a result, it is not possible to extract meaningful information from the text.
 
