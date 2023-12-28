@@ -1,3 +1,8 @@
+Coding ChatGPT from Scratch: A Mini-Series on Reinforcement Learning with Human Feedback
+
+___
+
+
 
 
 ___
