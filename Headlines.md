@@ -1,3 +1,10 @@
+Here's a one-line headline describing the text:
+
+Understanding the Intuition and Methodology Behind the Popular Chat Bot ChatGPT
+
+___
+
+
 Deploy FLAN-T5 XXL on Amazon SageMaker
 
 ___
