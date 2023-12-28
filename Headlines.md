@@ -1,3 +1,10 @@
+An In-Depth Guide to Denoising Diffusion Probabilistic Models – From Theory to Implementation
+
+Diffusion probabilistic models are an exciting new area of research showing great promise in image generation. In retrospect, diffusion-based generative models were first introduced in 2015 and popularized in 2020 when Ho et al. published the paper “Denoising Diffusion Probabilistic Models” (DDPMs). DDPMs are responsible for making diffusion models practical. In this article, we will highlight the key concepts and techniques behind DDPMs and train DDPMs from scratch on a “flowers” dataset for unconditional image generation.
+
+___
+
+
 Keras Dreambooth Sprint: Fine-Tuning Stable Diffusion on Custom Concepts with KerasCV
 
 ___
