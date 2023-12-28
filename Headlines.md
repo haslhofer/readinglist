@@ -1,3 +1,8 @@
+Harvard University Is Giving Away Free Knowledge
+
+___
+
+
 New course: Introduction to Transformers for LLMs now available
 
 ___
