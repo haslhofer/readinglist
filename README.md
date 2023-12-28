@@ -1,3 +1,11 @@
+## Serverless GPU Providers in 2023: A Look at the Landscape
+Summary: The serverless GPU landscape has experienced changes with some companies shutting down and others changing names. Notable startups in this domain include Modal, Banana, Replicate.com, Tiyaro.ai, and Beam.cloud. These platforms offer features such as fast bootup, job parallelization, ready-to-use models, good customer support, and user-friendly interfaces for training and deployment. Serverless GPU providers are gaining popularity due to their flexibility and scalability for applications like image and text generation.
+
+Link: https://ramsrigoutham.medium.com/the-landscape-of-serverless-gpu-providers-in-2023-a21b0ff18901
+
+<img src="/img/b0bc67fc-52c7-44ae-8e74-48794a1ad9b0.png" width="400" />
+<br/><br/>
+
 ## MosaicML joins forces with Databricks to accelerate data-driven AI
 Summary: MosaicML, a leading provider of AI training and deployment tools, has released MPT-30B, a new open-source foundation model with significantly improved performance compared to its predecessor, MPT-7B. MPT-30B is specifically designed for commercial use and outperforms the original GPT-3 in various tasks. It also includes two fine-tuned variants: MPT-30B-Instruct for single-turn instruction following and MPT-30B-Chat for multi-turn conversations. MosaicML offers customization and deployment options for MPT-30B through its platform, including fine-tuning, domain-specific pre-training, and training from scratch. Additionally, the company has open-sourced its production-ready training code as LLM Foundry, enabling users to train custom language models efficiently. MPT-30B offers advantages such as a large context window of 8k tokens, efficient inference and training performance, and strong coding abilities. For evaluation, MosaicML presents a fast in-context learning evaluation framework that significantly outperforms other harnesses in terms of speed.
 
