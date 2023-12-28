@@ -1,3 +1,8 @@
+LLaMA 2: the new state-of-the-art open large language model
+
+___
+
+
 New tutorial shows how to finetune LLM 'llama-v2' on local machine
 
 ___
