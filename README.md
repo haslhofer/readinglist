@@ -1,3 +1,11 @@
+## 404 Error: Page Not Found
+Summary: The page you are looking for does not exist. This may be due to an error in the URL entered into your web browser or the page has been moved or deleted. You can return to the homepage or try searching for the content you are seeking.
+
+Link: https://masterpiecestudio.com/blog/announcing-generative-animations
+
+<img src="/img/17d39f44-fda0-406e-b617-e6f139653b5e.png" width="400" />
+<br/><br/>
+
 ## A Catalog of Transformer Models for Different Tasks
 Summary: The paper presents a catalog of popular Transformer models, along with an introduction to their key aspects and innovations. These models have shown remarkable capabilities in various natural language processing tasks, including text generation, understanding, and translation. The catalog includes both self-supervised and human-in-the-loop models, such as BERT and GPT3, providing a comprehensive overview of the Transformer family.
 
