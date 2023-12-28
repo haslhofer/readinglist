@@ -1,3 +1,11 @@
+## Falcon 40B: Exploring the Capabilities of the Largest Open Source Language Model
+Summary: Falcon 40B is an open-source large language model (LLM) that has been developed by the Technology Innovation Institute (TII). It is considered to be the largest and most powerful open-source LLM available, with 40 billion parameters. Falcon 40B is able to perform a wide range of natural language processing (NLP) tasks, including text generation, translation, summarization, and question answering. It has been trained on a massive dataset of text and code, and it is able to learn and adapt to new information. Falcon 40B has the potential to be used in a variety of applications, including customer service, language translation, and content generation.
+
+Link: https://www.youtube.com/watch?v=-IV1NTGy6Mg&amp;t=108s
+
+<img src="/img/455c71d0-88ab-4f8a-958b-c9bcaa0e9186.png" width="400" />
+<br/><br/>
+
 ## Large Language Models Are Not as Effective in Tasks That Require Long Context
 Summary: A recent study analyzed the comprehension capabilities of large language models (LLMs) when provided with long text. Researchers evaluated open-source and closed-source LLMs using multi-document question answering and key-value pair retrieval tasks. The findings revealed that these models performed best when relevant information was provided at the beginning of the context and that performance gradually decreased as the context length increased. The excessive retrieval of documents was detrimental to performance. The combination of retrieval and ranking methods could potentially enhance question-answering performance. Extended-context models demonstrated no significant advantage when the prompt was well-suited to the original context. The study highlighted the potential of augmented retrieval methods for improving the performance of LLMs in long-context comprehension tasks.
 
