@@ -1,3 +1,11 @@
+## GPT4All: Open-source large language models that run locally on your CPU and nearly any GPU
+Summary: GPT4All is an open-source ecosystem that enables the local execution of powerful and customizable large language models (LLMs) on consumer-grade CPUs and GPUs. It offers a variety of tools and resources, including a chat client, bindings for various programming languages, and integrations with other software. The latest version, v2.5.4, introduces support for the GGUF file format, Nomic Vulkan support for specific quantizations in GGUF, and offline build support for older versions of the local LLM chat client.
+
+Link: https://github.com/nomic-ai/gpt4all
+
+<img src="/img/dbcc18ea-a461-4ad3-a566-19af3cc0bfbb.png" width="400" />
+<br/><br/>
+
 ## Hugging Face introduces IGEL, a German-tuned large language model for tasks like sentiment analysis, translation, and question answering
 Summary: IGEL is an instruction-tuned Large Language Model designed for German language understanding tasks, like sentiment analysis, language translation, and question answering. It is built on top of BigScience BLOOM and adapted to German. Researchers can try the model on the Hugging Face platform and collaborate to learn more about the potential of LLMs for German language modeling.
 
