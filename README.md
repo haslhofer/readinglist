@@ -1,3 +1,11 @@
+## Top Deep Learning Papers of 2022: A Comprehensive Review
+Summary: In this article, the author discusses the top papers in deep learning published in 2022. The article focuses on self-supervised learning, which is a method for training neural networks using unlabeled data. The author highlights the advantages and challenges of self-supervised learning, and provides examples of successful applications of this technique. The author also discusses recent advances in generative models and the increasing size and complexity of neural networks. The article concludes with a brief mention of the ethical implications of artificial general intelligence.
+
+Link: https://link.medium.com/Iei0OAG10wb
+
+<img src="/img/92717e91-0de3-4b9d-8aea-6517e739609b.png" width="400" />
+<br/><br/>
+
 ## NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis
 Summary: 
 
