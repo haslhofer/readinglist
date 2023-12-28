@@ -1,3 +1,11 @@
+## LlamaIndex and Wey Gu unveil the world's most comprehensive short course on utilizing LLMs with Knowledge Graphs
+Summary: LlamaIndex has partnered with Wey Gu to create a comprehensive short course on using Large Language Models (LLMs) with Knowledge Graphs (KGs). The course covers key query techniques, automated KG construction, and vector database RAG vs KG RAG. There is also a full video tutorial. Additionally, there are discussions among users regarding the advantages and disadvantages of using KG RAG, methods for evaluating the quality of LLM and KG answers, and handling graph maintenance over time.
+
+Link: https://www.linkedin.com/posts/llamaindex_google-colaboratory-activity-7101315253833011200-zEOX?utm_source=share&utm_medium=member_android
+
+<img src="/img/40f759c4-90ea-4664-b61c-b39b06c68488.png" width="400" />
+<br/><br/>
+
 ## Outlines 〰️: Revolutionize Your LLM Text Generation with Seamless Neural Text Generation
 Summary: Outlines 〰️ is a Python library designed to enhance text generation tasks using neural models. It provides a Domain Specific Language (DSL) for easy prompting and constrained text generation. Outlines 〰️ enables users to craft robust interfaces, ensure regex perfection, explore dynamic stopping, and enhance their creations with the power of Jinja-based primitives and HuggingFace's models.
 
