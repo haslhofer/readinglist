@@ -1,3 +1,11 @@
+## LinkedIn Influencer Daliana Liu discusses the increasing use of multimodal AI for customer support and highlights the capabilities of LlamaIndex in extracting structured data from images.
+Summary: Over 70% of businesses are predicted to use multimodal AI for customer support by 2025. LlamaIndex's new features allow users to extract information from images using a multi-modal model, unlocking use cases such as product reviews and OCR. The provided workshop can assist in building multi-model apps with LlamaIndex.
+
+Link: https://www.linkedin.com/posts/dalianaliu_over-70-of-businesses-will-use-multimodal-activity-7141894982306525184-saES?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/4c49ffce-5891-4764-b2a7-8e289b7977f8.png" width="400" />
+<br/><br/>
+
 ## Meta AI Advances Seamless Communication with Expressive, Fast, and High-Quality Translation Models
 Summary: Meta's AI research project, Seamless Communication, aims to bridge language barriers through expressive, fast, and high-quality AI translation. It introduced a suite of models, including SeamlessExpressive for preserving speech nuances, SeamlessStreaming for near real-time translation, and SeamlessM4T v2 as a foundational multilingual and multitask model. Additionally, the project emphasizes open innovation, releasing the models publicly along with safety measures to ensure responsible AI practices. Resources like the research paper, technical overview, and blog posts provide further details about the project.
 
