@@ -1,3 +1,11 @@
+## 
+Summary: 
+
+Link: https://www.marktechpost.com/2023/07/01/meet-toolqa-a-new-dataset-that-evaluates-the-ability-of-large-language-models-llms-to-use-external-tools-for-question-answering/
+
+<img src="/img/b0d3dc00-6cef-4b5a-8411-3d567f5dc41a.png" width="400" />
+<br/><br/>
+
 ## Wolfram Prompt Repository: Curating and Unleashing the Power of Human-Engineered Language Models
 Summary: Stephen Wolfram, the creator of Wolfram Language, has introduced the Wolfram Prompt Repository, a collection of community-contributed prompts to guide LLMs (Large Language Models) for various purposes. These prompts can be used in Chat Notebooks and LLM functions to perform a variety of tasks and generate creative content. Users can submit their own prompts to the repository for curation and public access or keep them private. The repository currently contains around 200 prompts, ranging from personas to functional and modifier prompts.
 
