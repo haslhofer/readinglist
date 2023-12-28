@@ -1,3 +1,11 @@
+## MobileSAM and MobileSAMv2: Faster Segment Anything for Mobile Applications and Beyond
+Summary: MobileSAM and MobileSAMv2 are lightweight versions of SAM designed for faster and more efficient image segmentation on mobile devices. They achieve this by replacing the original SAM's heavyweight image encoder with a smaller and faster Tiny-ViT encoder. MobileSAM also introduces object-aware prompt sampling for faster segmenting of various objects, while MobileSAMv2 keeps the same pipeline as SAM but replaces the grid-search prompt sampling with object-aware prompt sampling. Both MobileSAM and MobileSAMv2 demonstrate comparable performance to the original SAM while being significantly faster and smaller.
+
+Link: https://github.com/ChaoningZhang/MobileSAM
+
+<img src="/img/2720c123-f7c7-4944-8a3a-1d1f064d4a86.png" width="400" />
+<br/><br/>
+
 ## Databricks Course Explores Applications, Development, and Impact of Large Language Models
 Summary: This course, comprising 67 videos, introduces developers, data scientists, and engineers to building LLM-centric applications. It covers topics such as LLM introduction, applications with LLMs, embeddings, vector databases, and search, multi-stage reasoning, fine-tuning and evaluating LLMs, society and LLMs, and LLMOps. The course includes module overviews, notebook demos, and guest lectures.
 
