@@ -1,3 +1,11 @@
+## Run as a service using Github package go-wkhtmltox
+Summary: This project provides a web service for wkhtmltopdf and wkhtmltoimage. It offers functionalities such as converting HTML to PDF and images, rendering templates, and using different fetchers (e.g., HTTP, data) to obtain input data. The service is configurable through a JSON configuration file and supports various output formats, including PNG, JPEG, and PDF. It also features a RESTful API for easy integration and allows you to run it as a Docker service or locally.
+
+Link: https://github.com/gogap/go-wkhtmltox
+
+<img src="/img/246647f3-d4ef-4561-8aef-746e4ef08b0f.png" width="400" />
+<br/><br/>
+
 ## Docker Strengthens DevOps by Shifting Testing Left with AtomicJar Acquisition
 Summary: Docker's acquisition of AtomicJar signifies a shift towards "Shifting Left" in the software development lifecycle, emphasizing earlier testing and quality assurance. AtomicJar's technology enables developers to test and iterate code changes quickly and efficiently, reducing the time and resources spent on manual testing. This integration with Docker's platform further strengthens the testing capabilities and enhances the overall development and deployment processes.
 
