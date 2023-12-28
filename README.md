@@ -1,3 +1,11 @@
+## Unlock Your Professional Potential with LinkedIn
+Summary: Professional growth requires a proactive approach. Set goals, seek feedback, stay informed, network effectively, and maintain your online presence. Consider further education and courses to enhance your skill set. Manage your time efficiently and prioritize tasks to achieve a work-life balance. Stay updated on industry trends and news to remain competitive. Finally, be adaptable to change and embrace challenges as opportunities for learning and development.
+
+Link: https://www.linkedin.com/posts/metaai_introducing-segment-anything-working-toward-activity-7049369344484519936-mrJN?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/75ff2b03-e297-49b2-bf11-93d357578d1c.png" width="400" />
+<br/><br/>
+
 ## GPT4All: Open-source large language models that run locally on your CPU and nearly any GPU
 Summary: GPT4All is an open-source ecosystem that enables the local execution of powerful and customizable large language models (LLMs) on consumer-grade CPUs and GPUs. It offers a variety of tools and resources, including a chat client, bindings for various programming languages, and integrations with other software. The latest version, v2.5.4, introduces support for the GGUF file format, Nomic Vulkan support for specific quantizations in GGUF, and offline build support for older versions of the local LLM chat client.
 
