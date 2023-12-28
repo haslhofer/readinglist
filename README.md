@@ -1,3 +1,11 @@
+## TextReducer: A Tool for Summarization and Information Extraction Using Sentence Similarity
+Summary: TextReducer is a tool for summarization and information extraction that allows users to specify a target text to focus the summary around, resulting in more fluent and grammatically coherent summaries compared to traditional extractive summarization techniques. The tool offers several methods, including reducing a large text to a summary based on a target text and extracting similar sentences to a given text prompt or question. It has applications in summarization, information extraction, question answering, and GPT3/ChatGPT prompting, and can be installed via pip.
+
+Link: https://github.com/helliun/targetedSummarization
+
+<img src="/img/daef3777-689f-4646-b522-d8e7797385ec.png" width="400" />
+<br/><br/>
+
 ## Digital Artists Use NVIDIA Instant NeRF to Create Immersive 3D Scenes
 Summary: NVIDIA Instant NeRF is a tool that allows digital artists to create immersive 3D scenes from static 2D images in minutes. Using a set of photos taken from different perspectives, the tool generates a neural radiance field (NeRF) that represents the scene in 3D. This NeRF can then be used to render the scene from any viewpoint, allowing users to explore and interact with it realistically. The tool has been used to create beautiful and immersive scenes that can be used for a variety of applications, including online libraries, museums, virtual-reality experiences, and heritage-conservation projects.
 
