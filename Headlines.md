@@ -1,3 +1,8 @@
+Transformers are a type of neu
+
+___
+
+
 Meta AI's New Data2vec 2.0 Algorithm Achieves High Efficiency in Self-Supervised Learning Across Vision, Speech, and Text
 
 ___
