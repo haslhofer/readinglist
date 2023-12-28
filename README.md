@@ -1,3 +1,11 @@
+## Microsoft research reveals an AI model that combines capabilities of large language models with public machine-learning communities to tackle complex AI tasks.
+Summary: Microsoft announced a breakthrough in artificial intelligence by combining large language models (LLMs) with public machine learning communities. This integration allows for solving complex AI tasks by leveraging both massive generalized LLMs and smaller expert models. By utilizing numerous text and visual expert models, this system can execute a variety of tasks including task planning, model selection, task execution, and response generation. With over 120k models available on HuggingFace, this has the potential to revolutionize artificial intelligence and bring it closer to achieving artificial general intelligence.
+
+Link: https://www.linkedin.com/posts/orlevi_ai-llms-chatgpt-activity-7048344013367652353-qsXR?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/80d05f45-3e27-4619-a8bf-472048e90514.png" width="400" />
+<br/><br/>
+
 ## The future of AI: "GPT-You" not "GPT-X"
 Summary: In the near future, people will be utilizing foundation models (FMs) trained on their own data and workloads. Closed APIs are not secure. Proprietary data will serve as a durable moat, with data development generating substantial value. Fine-tuning outperforms zero-shot learning/prompt approaches, and while pre-training generates value, the last mile extracts it. Ultimately, the future will be characterized by "GPT-You," not "GPT-X."
 
