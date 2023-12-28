@@ -1,3 +1,8 @@
+Segmind-Vega Sets a New Standard as the World's Fastest High-Quality Image Generator
+
+___
+
+
 Top 10 Machine Learning GitHub Repositories Curated for Data Enthusiasts
 
 ___
