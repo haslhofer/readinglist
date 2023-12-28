@@ -1,3 +1,11 @@
+## Open-Source LLMs: Extending Context Length with Blog Post Recommendations
+Summary: Open-source LLMs like Meta LLaMa have smaller context lengths compared to commercial models like OpenAI's GPT-3.5 and Anthropic's Claude. However, there are methods to extend the context length of open-source models either during pre-training or post-pre-training. Two blog posts provide insights into these methods, exploring techniques for extending the context length of LLaMa. Extending context length can improve the performance of open-source LLMs, enabling them to handle longer inputs and generate more coherent and contextually relevant responses.
+
+Link: https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_open-source-llms-are-behind-commercial-models-activity-7078287712683708416-ZtQz?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/0510984d-1289-45af-ba24-037db75a72b9.png" width="400" />
+<br/><br/>
+
 ## A16Z Introduces a Simple Getting Started Template for AI Development in JavaScript
 Summary: The article by Yoko Li, Jennifer Li, and Martin Casado introduces a simple "getting started with AI" template for developers who want to explore generative AI technologies without dealing with complex ancillary concerns. The template includes components such as authentication with Clerk, app logic with Next.js, a vector database like Pinecone or Supabase pgvector, LLM orchestration with Langchain.js, image model hosting with Replicate, text model access through OpenAI, and deployment on Fly.io. The authors aim to expand the stack with more options, including an interactive CLI, transactional databases, and additional deployment platforms. They encourage open source contributions and provide a roadmap for future improvements.
 
