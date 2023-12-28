@@ -1,3 +1,11 @@
+## The ChatGPT Models Family: A Comprehensive Overview
+Summary: The ChatGPT language model family has revolutionized public perception of large language models (LLMs). The GPT-3 family includes various models like Davinci, Curie, Babbage, and Cushman, which differ in size, data used, and training strategy. GPT-3 models can be fine-tuned for specific tasks, such as code generation or text summarization. The GPT-1, GPT-2, and GPT-3 architectures are similar, but the training data and number of transformer blocks vary. Additionally, ChatGPT, a sibling model to InstructGPT, is trained on a blend of text and code data and leverages the text-davinci-003 model as its seed.
+
+Link: https://newsletter.theaiedge.io/p/the-chatgpt-models-family?utm_source=substack&utm_medium=email
+
+<img src="/img/5fecb0a2-42cd-4f66-a88e-17e838f95a27.png" width="400" />
+<br/><br/>
+
 ## TextReducer: A Tool for Summarization and Information Extraction Using Sentence Similarity
 Summary: TextReducer is a tool for summarization and information extraction that allows users to specify a target text to focus the summary around, resulting in more fluent and grammatically coherent summaries compared to traditional extractive summarization techniques. The tool offers several methods, including reducing a large text to a summary based on a target text and extracting similar sentences to a given text prompt or question. It has applications in summarization, information extraction, question answering, and GPT3/ChatGPT prompting, and can be installed via pip.
 
