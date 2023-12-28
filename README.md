@@ -1,3 +1,11 @@
+## AutoTrain: Introducing the Easiest Way to Fine-Tune Language Models
+Summary: A new user interface (UI) has been developed for fine-tuning large language models (LLMs) using Hugging Face Hub. Users can upload a CSV file, select parameters, and click a button to start fine-tuning. The trained models are saved as private repositories in the user's account. Pricing is based on per-minute usage during training.
+
+Link: https://www.linkedin.com/posts/abhi1thakur_the-easiest-llm-fine-tuning-ui-just-landed-activity-7099410569908137984-SaD-?utm_source=share&utm_medium=member_android
+
+<img src="/img/d176e7bb-1a7f-4827-b916-ac2c1c65aec7.png" width="400" />
+<br/><br/>
+
 ## summarization strategies with large language models
 Summary: Summarizing text with a large language model (LLM) like LangChain can be done using various strategies. If the whole text fits in the context window, it can be fed directly to the LLM. For larger texts, breaking them into chunks and summarizing each chunk separately, then combining the summaries, is a common approach. Another strategy is to start with an initial summary and refine it as new chunks of text are added. These strategies can be used for various tasks like document summarization, question answering, and even generating code comments.
 
