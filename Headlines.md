@@ -1,3 +1,8 @@
+Accessing a Cerebras Model via Transformers for Integration with LangChain
+
+___
+
+
 Create your own unique ChatGPT bot with a custom knowledge base
 
 ___
