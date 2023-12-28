@@ -1,3 +1,8 @@
+Criteria for Choosing a Vector Database in the Crowded Market of Vector Databases
+
+___
+
+
 Hugging Face Releases IDEFICS, an Open Multimodal ChatGPT-Style Model for Generative Image-Text Conversations
 
 ___
