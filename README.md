@@ -1,3 +1,11 @@
+## Microsoft Researchers Develop TaskMatrix.AI, an AI Ecosystem Connecting Foundation Models with Millions of APIs for Complex Task Completion
+Summary: Microsoft researchers have created TaskMatrix.AI, an ecosystem connecting foundation models with millions of APIs to perform various tasks in digital and physical domains. TaskMatrix.AI utilizes a central foundation model for user communication and API execution, while a unified API platform stores millions of APIs with consistent documentation. The system leverages reinforcement learning with human feedback to enhance its performance and is demonstrated to generate PowerPoint slides based on user instructions. By connecting foundation models with existing APIs, TaskMatrix.AI enhances task performance and has the potential to increase productivity and creativity in the future.
+
+Link: https://www.marktechpost.com/2023/04/06/microsoft-researchers-introduce-taskmatrix-ai-a-new-ai-ecosystem-that-connects-foundation-models-with-millions-of-apis-for-task-completion/
+
+<img src="/img/df2fba85-192e-4fa1-a4ef-957e4ef46936.png" width="400" />
+<br/><br/>
+
 ## LinkedIn: Make the most of your professional life
 Summary: I am sorry, I do not have access to the internet to get the context from the given URL.
 
