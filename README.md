@@ -1,3 +1,11 @@
+## Multi-Modal Retrieval and Generation with Large Language Models
+Summary: Multimodal models refers to large language models involving both text and images, specifically GPT-4V, which can accept both images and text as inputs and produce text outputs. To use LlamaIndex with multimodal models, one can load image documents, build a multimodal vector store or index, construct a multimodal retriever and query engine, and then query the system with multimodal inputs. Supported multimodal LLM models include OpenAI GPT-4V, Google's Gemini, and models from Replicate such as LLaVA, Fuyu-8B, MiniGPT-4, and CogVLM.  Multimodal vector stores are available through the LlamaIndex self-built multimodal index and third-party options like Chroma and Weaviate. Evaluation of multimodal RAG systems is also supported to assess performance.
+
+Link: https://docs.llamaindex.ai/en/latest/module_guides/models/multi_modal.html#multi-modal-llm-models
+
+<img src="/img/65d2c261-d0f0-44f5-958b-2189c6faeae4.png" width="400" />
+<br/><br/>
+
 ## Train a classifier with prompts and (optionally) data using Llama 2 LLM
 Summary: LaminiClassifier is a Python library that allows users to train and use an LLM-based classifier without labeling data. Users can define classes using prompts, optionally add training examples, and then train the classifier. The classifier can then be used to classify new data, and the probabilities for each class can be retrieved. While the classifier is not perfect, it is a useful tool for quickly and easily classifying data without the need for labeled data or hyperparameter tuning.
 
