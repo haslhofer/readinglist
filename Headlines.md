@@ -1,3 +1,8 @@
+Researchers develop a new programming language, LMQL, to enhance interaction with large language models like ChatGPT.
+
+___
+
+
 "ChatGPT Retrieval Plugin lets you search personal or organizational documents using natural language queries through OpenAI's text-embedding-ada-002 model."
 
 ___
