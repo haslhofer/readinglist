@@ -1,3 +1,11 @@
+## "PowerInfer: Fast Large Language Model Serving on Consumer-Grade GPUs"
+Summary: PowerInfer is a fast Large Language Model (LLM) inference engine designed for personal computers equipped with a single consumer-grade GPU. It exploits the locality in LLM inference, characterized by a power-law distribution in neuron activation, to design a hybrid GPU-CPU inference engine that significantly reduces GPU memory usage and CPU-GPU data transfers. PowerInfer also incorporates adaptive predictors and neuron-aware sparse operators for improved efficiency. Experiments show that PowerInfer achieves high token generation rates and outperforms existing methods on a single NVIDIA RTX 4090 GPU.
+
+Link: https://arxiv.org/abs/2312.12456
+
+<img src="/img/a75f8084-a1a3-46a6-a1dc-51f26c83010e.png" width="400" />
+<br/><br/>
+
 ## Efficient Large Language Model Inference with Limited Memory
 Summary: The provided text introduces a novel approach for efficient inference of Large Language Models (LLMs) on devices with limited DRAM capacity. The method involves storing model parameters on flash memory and bringing them on demand to DRAM, guided by an inference cost model that optimizes data transfer and utilizes the strengths of flash memory. Two techniques, "windowing" and "row-column bundling," are introduced to reduce data transfer and increase data chunk sizes. Integration of sparsity awareness, context-adaptive loading, and a hardware-oriented design enables effective inference of LLMs on devices with restricted memory, resulting in significant speed improvements.
 
