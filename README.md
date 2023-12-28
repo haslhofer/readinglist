@@ -1,3 +1,11 @@
+## xTuring: Easily Build, Customize, and Control Your Own Language Models
+Summary: xTuring is a library that allows users to build, customize, and control their personalized large language models (LLMs). It provides an easy-to-use interface for fine-tuning LLMs, such as LLaMA, GPT-J, and Galactica, on their own data and applications. xTuring enables users to ingest and preprocess data, scale fine-tuning from single to multiple GPUs, explore different fine-tuning methods, and evaluate fine-tuned models. The library supports various models, including LLaMA, GPT-J, GPT-2, OPT, Cerebras-GPT, Galactica, and Bloom, and offers features like low-precision fine-tuning, evaluation metrics, and a UI playground for interactive fine-tuning and inference.
+
+Link: https://github.com/stochasticai/xturing
+
+<img src="/img/d5fb5601-3d54-4820-8100-6bd4ce6ef826.png" width="400" />
+<br/><br/>
+
 ## Next-Generation AI and the Design of the Copilot Experience in Microsoft 365
 Summary: The article discusses the introduction of Microsoft 365 Copilot, a revolutionary AI-powered tool that transforms user interaction with technology. It highlights the transition from AI as an autopilot to AI as a co-pilot, where users collaborate with the AI to create powerful productivity tools. Copilot empowers users to communicate more effectively and enhances creativity by refining outputs and sparking fresh ideas. The article emphasizes ethical considerations, transparency, and appropriate trust as key principles in designing the Copilot experience. It presents a three-part framework for full-spectrum productivity, addressing immersive, assistive, and embedded experiences across multiple altitudes of work. The article stresses the importance of user education, visual identity, and intentional friction to ensure human agency and responsible use. Finally, it highlights the need for agile design and engineering processes to adapt to emerging technologies and customer feedback, fostering a learn-it-all mindset for continuous improvement and collaboration.
 
