@@ -1,3 +1,8 @@
+Hugging Face's Distil-Whisper small model brings fast, private speech transcription to Macs with limited VRAM.
+
+___
+
+
 LinkedIn Influencer Daliana Liu discusses the increasing use of multimodal AI for customer support and highlights the capabilities of LlamaIndex in extracting structured data from images.
 
 ___
