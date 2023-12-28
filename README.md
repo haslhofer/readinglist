@@ -1,3 +1,11 @@
+## Unlock Your Professional Potential with LinkedIn
+Summary: Unfortunately, I do not have the ability to access external URLS and am unable to summarize the text provided.
+
+Link: https://www.linkedin.com/feed/hashtag/?keywords=etl&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7018092928241721344
+
+<img src="/img/e8069053-8fa4-4b49-b41a-a83298398132.png" width="400" />
+<br/><br/>
+
 ## Join LinkedIn to make the most of your professional life
 Summary: 
 
