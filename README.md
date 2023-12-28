@@ -1,3 +1,11 @@
+## Two new 7B LLM models, MosaicML and Together, are released as open-source under the Apache 2.0 license.
+Summary: MosaicML and Together have released new 7B LLM models under the Apache 2.0 license, making LLM models available for commercial use and providing early checkpoints for instruction models and chat. These models are available on Hugging Face. The open-source community is rapidly advancing, catching up to commercial organizations, and making more resources available.
+
+Link: https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_opensourcellms-mosaicml-together-activity-7060516903479324673-Zz4e?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/f9019bfa-8b91-4863-8f94-88a02f015348.png" width="400" />
+<br/><br/>
+
 ## Hugging Face integrates SpanMarker NER with its hosted inference API
 Summary: SpanMarker, a named entity recognition (NER) model, has been integrated with the Hugging Face Inference API. This enables users to utilize the hosted inference API widget on all SpanMarker NER model pages and deploy a SpanMarker NER model via Hugging Face inference endpoints. The integration was developed as part of a thesis at Argilla and has been released with the help of Omar Sanseviero and Nicolas Patry.
 
