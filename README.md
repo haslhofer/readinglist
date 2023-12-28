@@ -1,3 +1,11 @@
+## Researchers compare the benefits and drawbacks of bitsandbytes and GPTQ, two quantization methods supported in Transformers
+Summary: The post shares a comparison between the two quantization schemes supported in the transformers library, bitsandbytes and auto-gptq. Bitsandbytes is easier to use but slower for text generation compared to auto-gptq. Auto-gptq, on the other hand, allows for quantization up to 2 bits, but it requires a calibration dataset and works only for language models as of now. The blog concludes that bitsandbytes is better suited for fine-tuning, while auto-gptq is better for text generation, and provides a possible workflow for achieving the best of both worlds.
+
+Link: https://huggingface.co/blog/overview-quantization-transformers
+
+<img src="/img/8c0a6859-17db-4260-a06b-189e5a48af65.png" width="400" />
+<br/><br/>
+
 ## OpenAI's Embedding Model May Not Be the Best Option for Everyone: Here's Why
 Summary: The article compares the OpenAI embedding model with the E5 model, a Microsoft-developed text embedding model. It highlights the advantages of the E5 model over the OpenAI model in terms of speed, affordability, and tunability. The article also provides instructions on how to host and use the E5 model on a GCP compute engine instance. The author concludes that open-source solutions like the E5 model can provide better results and more control compared to commercial embedding models.
 
