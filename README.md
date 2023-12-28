@@ -1,3 +1,11 @@
+## Transformers in NLP: Understanding Context and Applications in Language
+Summary: Transformers are neural network architectures that understand the context by tracking relationships in sequential data like text. They were developed to address sequence transduction, such as translating one language to another. Transformers consist of encoders and decoders, each with self-attention and feed-forward components. Applications include natural language processing, computer vision, and DNA sequence analysis. Common transformers include BERT, RoBERTa, GPT-3, CLIP, and DALL-E-2.
+
+Link: https://www.marktechpost.com/2023/01/24/what-are-transformers-concept-and-applications-explained/
+
+<img src="/img/1d68b972-873f-4138-8608-86121f9d4c65.png" width="400" />
+<br/><br/>
+
 ## Data2vec 2.0: A Highly Efficient Self-Supervised Learning Algorithm for Vision, Speech, and Text
 Summary: 
 
