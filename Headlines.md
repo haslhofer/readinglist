@@ -1,3 +1,8 @@
+Helper scripts and examples for exploring the Falcon LLM models
+
+___
+
+
 Falcon 40B: Exploring the Capabilities of the Largest Open Source Language Model
 
 ___
