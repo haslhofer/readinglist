@@ -1,3 +1,8 @@
+Fine-tuning Llama 2 with DPO simplifies training LLMs using preference data
+
+___
+
+
 Microsoft Researcher Explores How Multi-Way Transformers Work and How They Help in Multimodal Pretraining of Microsoft’s BEiT-3 Model
 
 ___
