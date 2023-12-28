@@ -1,3 +1,11 @@
+## How to Build an Autonomous LLM Agent in Six Easy Steps with LangFlow
+Summary: A video demonstrates the creation of an autonomous LLM Agent using LangFlow in six steps. The agent is based on OpenAI's text-davinci-003 model with search and math tools. It decomposes an ambiguous question into a chain-of-thought reasoning process and employs the most appropriate tool at each step.
+
+Link: https://www.linkedin.com/posts/cobusgreyling_largelanguagemodels-langchain-langflow-ugcPost-7061682557523828736-1TG5?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/29c2b625-eb33-45a9-9b74-bcc05b828b18.png" width="400" />
+<br/><br/>
+
 ## Hugging Face: Latest Research Papers on 26th December 2022
 Summary: Hugging Face is a platform that provides state-of-the-art natural language processing (NLP) models and tools. It enables users to train their custom models, deploy them in production, and explore a variety of NLP tasks such as text generation, translation, and summarization. With just a few lines of code, users can leverage the power of large language models like GPT-3 and BERT, making NLP tasks more accessible and efficient. Hugging Face also offers a vibrant community of NLP enthusiasts and researchers who contribute to the platform's development and share their experiences and insights.
 
