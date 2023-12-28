@@ -1,3 +1,8 @@
+Stability AI releases an open-source LLM, StableLM, with 3B and 7B parameters, with a larger 15-65B model to follow soon.
+
+___
+
+
 DeepSpeed-Chat: Easy, Fast and Affordable RLHF Training of ChatGPT-like Models at All Scales
 
 ___
