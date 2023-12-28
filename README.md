@@ -1,3 +1,11 @@
+## ChatGPT Raises Concerns in Academia Over Implications for MBA Education
+Summary: ChatGPT's impressive performance on the final exam of a Wharton MBA core course, Operations Management, has sparked concerns among educators and business leaders about the implications for MBA programs and the value of an MBA education. While the AI chatbot exhibited strengths in basic operations management and process analysis questions, it faced challenges with more advanced concepts. Experts suggest that the use of AI tools like ChatGPT by students and professionals may reshape the value of skills taught in MBA programs and necessitate investments in education and adaptation to emerging technologies.
+
+Link: https://fortune.com/2023/01/21/chatgpt-passed-wharton-mba-exam-one-professor-is-sounding-alarm-artificial-intelligence/
+
+<img src="/img/69c96eb4-5146-4260-be80-ea939699f796.png" width="400" />
+<br/><br/>
+
 ## Panicked Silicon Valley workers sell start-up shares as valuations plummet
 Summary: Laid-off tech workers, facing plunging valuations, are selling their start-up shares, exacerbating the decline. Companies like Amazon, Microsoft, and Google have announced significant layoffs, impacting the financial stability of employees heavily compensated with stock options. This trend affects not only individuals but also the overall tech industry and portfolio composition.
 
