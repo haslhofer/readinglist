@@ -1,3 +1,8 @@
+To successfully use RAG in your LLM applications for adding context to prompts about private datasets, your vector DB requires constant updates with the latest data. This article explains how to implement a streaming pipeline to maintain synchronization between your vector DB and datasets.
+
+___
+
+
 Mistral AI: Unleashing an Uncensored, Open-Source Language Model for Local Use and Customized Training
 
 ___
