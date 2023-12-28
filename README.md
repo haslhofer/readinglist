@@ -1,3 +1,11 @@
+## Open-Source Large Language Models Landscape: A Vital Resource for Builders and Researchers
+Summary: A list of open-source large language models (LLMs) is provided for commercial and research purposes. Commercial use models include Flan-UL2, OpenChatKit, Ceresbra-GPT, Pythia, and Bloom & mTO. Research use models include Baize, Vicuna, Koala, GPT4All, Lit-LLaMA, Dolly, Dalai, Alpaca.cpp, Alpaca-LORA, llama.cpp, ColossalChat, and FlaN-UL2.
+
+Link: https://www.linkedin.com/feed/update/urn:li:activity:7049789761728770049?utm_source=share&utm_medium=member_android
+
+<img src="/img/c0b209e7-bef4-4234-b576-f0c00802a28b.png" width="400" />
+<br/><br/>
+
 ## Hugging Face releases two new vision-language models: DePlot and MatCha
 Summary: Hugging Face announces the release of two new vision-language models in their Transformers library: DePlot, a plot-to-text model that allows LLMs to reason about charts and plots, and MatCha, which enhances Pix2Struct's performance on visual language reasoning tasks by leveraging math reasoning and chart derendering objectives. These models enhance the reasoning abilities of LLMs related to charts, plots, and infographics.
 
