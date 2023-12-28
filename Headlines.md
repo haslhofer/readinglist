@@ -1,3 +1,8 @@
+ChatGPT's Impressive Performance on Wharton MBA Exam Raises Concerns About the Future of Education
+
+___
+
+
 Panicked Silicon Valley workers are panic-selling tech stocks post-layoffs
 
 ___
