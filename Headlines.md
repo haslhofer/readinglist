@@ -1,3 +1,8 @@
+OpenAI's Embedding Model May Not Be the Best Option for Everyone: Here's Why
+
+___
+
+
 Microsoft's E5 Model Outperforms OpenAI's Embedding Model in Speed, Cost, and Tunability
 
 ___
