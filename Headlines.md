@@ -1,3 +1,8 @@
+Microsoft's E5 Model Outperforms OpenAI's Embedding Model in Speed, Cost, and Tunability
+
+___
+
+
 Local LLM and LlamaIndex Allow Offline Summarization of YouTube Videos
 
 ___
