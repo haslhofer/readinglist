@@ -1,3 +1,11 @@
+## Text-To-4D: Generating 3D Dynamic Scenes from Text Descriptions
+Summary: MAV3D, a novel method for generating three-dimensional dynamic scenes from text descriptions, is introduced. MAV3D employs a 4D dynamic Neural Radiance Field (NeRF), optimized using a Text-to-Video (T2V) diffusion-based model, to create scenes consistent in appearance, density, and motion. The generated dynamic videos, viewable from any camera location and angle, can be integrated into any 3D environment. MAV3D, trained solely on Text-Image pairs and unlabeled videos, outperforms existing internal baselines. To the best of the authors' knowledge, MAV3D is the first method to generate 3D dynamic scenes from text descriptions.
+
+Link: https://make-a-video3d.github.io/
+
+<img src="/img/a72733e6-a7ef-4960-a37a-b32a90a1e69b.png" width="400" />
+<br/><br/>
+
 ## Transformers in NLP: Understanding Context and Applications in Language
 Summary: Transformers are neural network architectures that understand the context by tracking relationships in sequential data like text. They were developed to address sequence transduction, such as translating one language to another. Transformers consist of encoders and decoders, each with self-attention and feed-forward components. Applications include natural language processing, computer vision, and DNA sequence analysis. Common transformers include BERT, RoBERTa, GPT-3, CLIP, and DALL-E-2.
 
