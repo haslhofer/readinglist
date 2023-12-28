@@ -1,3 +1,8 @@
+GPT memory layer creation using function calling and Chroma vector store
+
+___
+
+
 MosaicML Introduces MPT-30B, a 30B Parameter LLM, Competing with LLaMA and Falcon in the Open Source Arena
 
 ___
