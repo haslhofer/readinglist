@@ -1,3 +1,10 @@
+Universal Segmentation: Masks and Panoptic Results with Mask2Former and OneFormer in Transformers
+
+Filename:91203915-6855-4df6-8caa-5640cea223c9.png
+
+___
+
+
 NVIDIA Broadcast 1.4 Adds Eye Contact, Vignette Effects and More
 
 Filename:71483099-341d-45e2-8a5a-5a6bb640d0ea.png
