@@ -1,3 +1,11 @@
+## Hugging Face has launched a ne
+Summary: Hugging Face has launched a new "Run with Docker, Inc" feature that enables users to run any of the >30,000 ML apps from Spaces locally or on their own infrastructure. This integration makes it easy to deploy ML applications from Hugging Face to Docker, allowing for seamless integration and execution of machine learning models in various environments.
+
+Link: https://www.linkedin.com/posts/huggingface_this-is-big-its-now-possible-to-take-activity-7046845707504254976-xsCg?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/2dcf7722-6ca3-4f20-a2bf-fb312af33b3f.png" width="400" />
+<br/><br/>
+
 ## I Conducted Experiments With the Alpaca/LLaMA 7B Language Model: Here Are the Results
 Summary: In a series of six tests, the author compared the performance of the Alpaca/LLaMA 7B language model, running on a Macbook Pro, to that of ChatGPT 3.5. The author found that while Alpaca/LLaMA 7B is competent and can handle most prompts, it is not yet as sophisticated as ChatGPT 3.5. However, given its smaller size and ability to run on a local device, the author believes Alpaca/LLaMA 7B has great potential.
 
