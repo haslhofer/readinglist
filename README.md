@@ -1,3 +1,11 @@
+## Open Source 'Chatbot Service' to Chat with 'OpenAI Models' as Assistants
+Summary: This repository introduces a service that converts instruction-following fine-tuned Large Language Models to chatbots. It includes an easy-to-use Gradio UI and Discord bot integration. The service supports various models and allows for internet search capability with a Serper API key. To run the Gradio application, use the command `python app.py` and for the Discord bot, use `python discord_app.py --token [discord-token] --model-name [model-name]`. Currently, it supports 2-3 past conversations for context management. The project is open-sourced under the Apache-2.0 license and is hosted on GitHub.
+
+Link: https://github.com/deep-diver/LLM-As-Chatbot
+
+<img src="/img/22178db6-a6e8-4a6b-a389-ab53e88cc58d.png" width="400" />
+<br/><br/>
+
 ## Build a Retrieval-Augmented Generation System from Scratch Using LlamaIndex
 Summary: LlamaIndex, a platform for building retrieval-augmented generation (RAG) applications, introduces a new initiative to teach AI engineers how to create RAG systems from scratch. The program consists of low-level tutorials covering data ingestion, retrieval, response synthesis, advanced retrieval algorithms, and agent loops. Additionally, LlamaIndex showcases its MultiDocAutoRetrieverPack, a RAG template that indexes documents with metadata dictionaries, enabling structured retrieval over metadata properties. Lastly, they offer insights into running open-source models through LlamaIndex integrations and demonstrate how to implement hybrid search from scratch.
 
