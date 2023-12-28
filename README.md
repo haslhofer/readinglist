@@ -1,3 +1,11 @@
+## Tech Influencer Creates Tutorial for NeRF Shot Using Luma AI
+Summary: Karen X. Cheng, an influencer, shares her creative experiments using NeRF (Neural Radiance Field) for filmmaking shots. She provides detailed instructions and tips for using NeRF, including shooting and editing techniques, and troubleshooting advice. Cheng also highlights the challenges and learning curve involved in using NeRF, emphasizing the importance of patience and persistence. She offers a tutorial for creating a "Dolly Zoom" effect using NeRF on both Android and iPhone devices, as well as a link to her web version tutorial. Cheng encourages users to experiment with different camera moves and techniques, such as fake drone shots, to enhance their creative filmmaking skills.
+
+Link: https://www.linkedin.com/posts/karenxcheng_using-nerf-for-creative-filmmaking-shots-ugcPost-7025885182251438080-1snf?utm_source=share&utm_medium=member_android
+
+<img src="/img/3c302678-4158-45e1-af3e-4a4cb60e724b.png" width="400" />
+<br/><br/>
+
 ## Top Deep Learning Papers of 2022: A Comprehensive Review
 Summary: In this article, the author discusses the top papers in deep learning published in 2022. The article focuses on self-supervised learning, which is a method for training neural networks using unlabeled data. The author highlights the advantages and challenges of self-supervised learning, and provides examples of successful applications of this technique. The author also discusses recent advances in generative models and the increasing size and complexity of neural networks. The article concludes with a brief mention of the ethical implications of artificial general intelligence.
 
