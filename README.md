@@ -1,3 +1,11 @@
+## ChatGPT's Prompts for Creativity and Efficiency
+Summary: This post shares a tool developed by Zain Kahn that provides a collection of prompts that can be used with ChatGPT to get more done and save time. The prompts cover various tasks such as getting ideas for a blog post, writing a sales landing page description, translating text, reviewing a resume, and creating an email draft.
+
+Link: https://www.linkedin.com/posts/awaiskhanli_chatgpt-is-your-247-free-personal-assistant-activity-7083057900465602560-cJ_2?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/5ac9d6cb-280b-484c-990a-66b9bfcac4f7.png" width="400" />
+<br/><br/>
+
 ## New open-source NSQL foundation model from Numbers Station AI outperforms ChatGPT and GPT-4 in text-SQL tasks.
 Summary: Numbers Station AI released NSQL, a series of text to SQL models pre-trained on SQL queries and further instruction tuned on text/SQL pairs. Available in 350m, 2b, and 6b checkpoints, NSQL is licensed under bsd-3, making it fully commercially usable. This open-source release could provide enterprises a cost-effective way to integrate text-to-SQL capabilities into their data applications.
 
