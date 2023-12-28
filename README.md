@@ -1,3 +1,11 @@
+## Chroma: The open-source embedding database for building LLM applications with memory
+Summary: Chroma, an open-source embedding database, provides a fast and efficient way to build Python or JavaScript LLM apps with memory. It offers a simple API with only four functions, integrations with various platforms, and scalability from development to production. Chroma features querying, filtering, density estimation, and support for custom embeddings. Users can contribute to the project, join the community on Discord, and review the roadmap for upcoming developments.
+
+Link: https://github.com/chroma-core/chroma
+
+<img src="/img/415935d7-9a8a-4701-9daf-eb5cb2bad1d0.png" width="400" />
+<br/><br/>
+
 ## Documentation page not found on Read the Docs
 Summary: The given text is a custom 404 error page displayed when a user tries to access a non-existent page on the Read the Docs website. It provides instructions on how to handle 404 errors, including using a custom 404 page and creating redirects when moving content. The page also includes links to the company's blog, resources, and company information.
 
