@@ -1,3 +1,11 @@
+## 2022's Top Deep Learning Papers: A Comprehensive Review
+Summary: In 2022, deep learning saw significant advancements, with generative models making huge breakthroughs. Notably, VicReg, a self-supervised learning model, introduced techniques to prevent the model from collapsing, resulting in improved accuracy. Additionally, advances were made in image classification through ViT-B/16, which achieved state-of-the-art performance in various tasks. Attention-based models like Swin Transformer and PVT introduced transformer-based architectures for image classification and segmentation. Furthermore, research in natural language processing yielded impressive results, such as the integration of diffusion models in language generation and the introduction of instruction fine-tuning in NLP models.
+
+Link: https://medium.com/@diegobonila/top-deep-learning-papers-of-2022-a4826e0aac4
+
+<img src="/img/92d4d39e-6789-427d-890e-528933331146.png" width="400" />
+<br/><br/>
+
 ## Mask2Former and OneFormer: Universal Image Segmentation Models Now Available in Transformers
 Summary: Mask2Former and OneFormer are state-of-the-art neural networks for image segmentation that can handle instance, semantic, and panoptic segmentation tasks. They use a unified architecture and the "binary mask classification" paradigm, which has proven effective for both instance and semantic segmentation. These models are available in the Hugging Face Transformers library, making them easy to use for inference and fine-tuning on custom datasets.
 
