@@ -1,3 +1,8 @@
+MAV3D: Generating Dynamic 3D Scenes from Text Descriptions
+
+___
+
+
 Transformers are a type of neu
 
 ___
