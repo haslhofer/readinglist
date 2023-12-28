@@ -1,3 +1,8 @@
+ChatGPT Retrieval Plugin allows users to search for personal or organizational documents using natural language queries. It employs OpenAI's text-embedding model to create embeddings for document chunks, which are then stored and searched in a vector database. A FastAPI server provides endpoints for upserting, querying, and deleting documents. Metadata filters enable refined search results, and plugins can be hosted on various cloud platforms. Plugins can also be personalized by adding a logo and adjusting settings. Authentication methods include no authentication, HTTP Bearer (user or service level), and OAuth. Deployment instructions are provided for various cloud providers, and webhooks can be used to keep the vector database up-to-date. Scripts are available for batch upserting and processing text documents. Lastly, potential future enhancements and contributions are discussed.
+
+___
+
+
 Sure, here's a summary of the 
 
 ___
