@@ -1,3 +1,11 @@
+## Top Deep Learning Papers of 2022 Reviewed
+Summary: In the realm of deep learning, 2022 witnessed significant breakthroughs, particularly in generative models. AI models continued to grow in size and intelligence, with some rivaling the GDPs of entire countries. This comprehensive review highlights key developments in the field, including Self-Supervised Learning techniques, the prevention of embedding collapse, and architectural advancements like Vision Transformer.
+
+Link: https://link.medium.com/Iei0OAG10wb
+
+<img src="/img/2efc8961-3e71-4d2f-8743-37a7bdaae096.png" width="400" />
+<br/><br/>
+
 ## NeRF: Neural Radiance Fields for View Synthesis
 Summary: NeRF (Neural Radiance Fields) is a novel method for synthesizing photorealistic novel views of complex scenes. It outperforms previous work on neural rendering and view synthesis. The algorithm represents a scene using a fully-connected deep network, whose input is a continuous 5D coordinate (spatial location and viewing direction) and whose output is the volume density and view-dependent emitted radiance at that spatial location. Views are synthesized by querying 5D coordinates along camera rays and using classic volume rendering techniques to project the output colors and densities into an image.
 
