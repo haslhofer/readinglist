@@ -1,3 +1,8 @@
+MosaicML releases 30B OpenAI GPT-3-like model, MPT-30B, under Apache 2.0 license
+
+___
+
+
 LLM-Blender: Combining Diverse Strengths of Large Language Models for Superior Performance
 
 ___
