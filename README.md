@@ -1,3 +1,11 @@
+## Learn to Code ChatGPT from Scratch in a Mini-Series
+Summary: This course introduces ChatGPT and the method of reinforcement learning with human feedback (RLHF). It involves building a minimal but efficient RLHF pipeline from scratch using PyTorch. The course intends to help learners understand the theory behind PPO (Proximal Policy Optimization), a popular reinforcement learning algorithm, and then implement it in code. The pipeline will be tested on a limited dataset to evaluate its performance.
+
+Link: https://youtu.be/p7JYu65lDyY
+
+<img src="/img/5e9cb00e-654d-4e0b-ab17-a541ca7edf2b.png" width="400" />
+<br/><br/>
+
 ## Carnegie Mellon University releases new Multimodal Machine Learning course
 Summary: Carnegie Mellon University professor Louis-Philippe Morency offers a new course titled "Multimodal Machine Learning" that delves into the mathematical foundations of machine and deep learning. The course materials, including lecture videos, code, and slides, are available online for public access.
 
