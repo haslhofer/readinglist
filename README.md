@@ -1,3 +1,11 @@
+## ChatGPT's Impressive Performance on Wharton MBA Exam Raises Concerns About the Future of Education
+Summary: ChatGPT, an AI chatbot, performed well on a Wharton MBA exam, earning a B- grade. Its abilities have raised concerns about cheating in academia and the potential impact on MBA education's value. Experts believe ChatGPT will continue to improve and may even pass the bar exam in the future. The development of AI tools like ChatGPT highlights the need for educators and businesses to adapt and invest in AI education to thrive in the changing landscape.
+
+Link: https://fortune.com/2023/01/21/chatgpt-passed-wharton-mba-exam-one-professor-is-sounding-alarm-artificial-intelligence/
+
+<img src="/img/791c9bda-14c8-41a1-92e8-2f86557661ac.png" width="400" />
+<br/><br/>
+
 ## Panicked Silicon Valley workers are panic-selling tech stocks post-layoffs
 Summary: The tech industry is downsizing as 90,000 workers were laid off in 2022, and companies like Amazon, Microsoft, and Google continue to announce job cuts. The affected employees are selling their shares in tech start-ups, causing valuations to fall further. Record-low interest rates encouraged investments in risky tech companies, leading to inflated valuations. The compensation of tech workers was largely stock-based, resulting in a drop in total compensation as valuations decline. The article recommends considering stocks of companies with stable business models and actual profitability.
 
