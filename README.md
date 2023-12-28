@@ -1,3 +1,11 @@
+## Artificial Intelligence Blog Page Not Found
+Summary: 
+
+Link: https://link.medium.com/SsCISkCSmAb
+
+<img src="/img/c898bdf6-a98e-46c8-984a-9beec29906d4.png" width="400" />
+<br/><br/>
+
 ## Google Offers Free Generative AI Learning Path with 9 Courses
 Summary: 
 
