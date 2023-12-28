@@ -1,3 +1,11 @@
+## Open-source LLMs see surge in popularity as they offer commercial use licenses
+Summary: The field of large language models (LLMs) has seen a surge in open-source developments, challenging the dominance of gated LLMs from big companies. Models like Dolly 2, StableLM, and CerebrasGPT offer commercial usability with open-source licenses, allowing businesses to leverage AI without compromising data security and privacy. This trend encourages more innovation, pushing the boundaries of AI capabilities and democratizing access to advanced language technologies.
+
+Link: https://www.linkedin.com/posts/activity-7057451653334999040-HA3D?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/2217eb65-8ce5-4830-b565-a06cf196cee2.png" width="400" />
+<br/><br/>
+
 ## Open multimodal models enable text and imagery interactions.
 Summary: In recent weeks, multimodal AI models have gained popularity with their capability to transform drawings into websites, images into detailed descriptions, and pictures into emotional poems. Examples of these state-of-the-art models include LLaVA, MiniGPT-4, and Open Flamingo, which excel in various tasks such as language-image instruction-following, image captioning, and reasoning about images, videos, and text.
 
