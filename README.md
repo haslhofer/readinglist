@@ -1,3 +1,11 @@
+## Massively Scalable Inverse Reinforcement Learning for Improved Routing in Google Maps
+Summary: Researchers at Google have developed a new method for scaling inverse reinforcement learning (IRL) to world-sized routing problems with hundreds of millions of states and demonstration trajectories. They achieved this by using graph compression, spatial parallelization, problem initialization based on dominant eigenvectors and a new generalization of classic IRL algorithms called Receding Horizon Inverse Planning (RHIP). The resulting policy achieved a 16-24% improvement in global route quality and represents the largest instance of IRL in a real-world setting to date. This method can be particularly beneficial for promoting sustainable modes of transportation by considering factors beyond journey time in route recommendations.
+
+Link: https://arxiv.org/abs/2305.11290
+
+<img src="/img/9427b534-056c-49bf-bb54-480d83df91cd.png" width="400" />
+<br/><br/>
+
 ## How to Do Great Work
 Summary: This text is an exploration of the intersection of various techniques and qualities that contribute to doing great work in diverse fields. It argues that this intersection takes a definite shape rather than encompassing every possible approach, and that ambition is a key factor in identifying the most promising path to excellence.
 
