@@ -1,3 +1,11 @@
+## 
+Summary: 
+
+Link: https://www.databricks.com/blog/2023/03/20/fine-tuning-large-language-models-hugging-face-and-deepspeed.html
+
+<img src="/img/1da6422e-ede8-4ac6-ad3f-bcd66de799bb.png" width="400" />
+<br/><br/>
+
 ## ModelScope: A Unified Platform for Model Inference, Training, and Evaluation Across Diverse Domains
 Summary: ModelScope is a "Model-as-a-Service" (MaaS) platform that seeks to bring together advanced machine learning models, streamline the process of leveraging AI models in real-world applications, and offer unified experience to explore a wide range of models across various domains. The library provides interfaces and implementations for model inference, training and evaluation, with rich layers of API-abstraction that offer unified experience to explore state-of-the-art models. It also interacts with ModelScope backend services, facilitating management of various entities and enabling flexible customization of components in model applications. The platform hosts hundreds of publicly available models, covering NLP, CV, Audio, Multi-Modality, AI for Science, and provides online experience and access to development environment for immediate developer-experience. The library also offers unified interface for inference, fine-tuning and evaluation, simplifying the process of exploring models in different fields and building MLOps based on the ModelScope ecosystem.
 
