@@ -1,3 +1,8 @@
+Dan Hockenmaier shares February's best long-form reads on important topics like AI, great work, and tech bets.
+
+___
+
+
 Combine edge computing with machine learning to build efficient AI systems
 
 ___
