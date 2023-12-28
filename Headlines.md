@@ -1,3 +1,8 @@
+Digital Artists Use NVIDIA Instant NeRF to Create Immersive 3D Scenes
+
+___
+
+
 Tech Influencer Creates Tutorial for NeRF Shot Using Luma AI
 
 ___
