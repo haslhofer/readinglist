@@ -1,3 +1,8 @@
+Artificial Corner, a popular Substack publication, covers the latest news and developments in the field of artificial intelligence
+
+___
+
+
 Falcon Models Now Open Source Under Apache 2.0 License
 
 ___
