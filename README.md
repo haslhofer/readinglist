@@ -1,3 +1,11 @@
+## Gorilla: A Finetuned Large Language Model for Effective API Utilization
+Summary: The research paper titled "Gorilla: Large Language Model Connected with Massive APIs" presents Gorilla, a fine-tuned LLaMA-based model that outperforms state-of-the-art language models like GPT-4 in writing API calls. Gorilla is designed to effectively use tools via API calls, mitigating hallucination issues commonly encountered when prompting LLMs directly. The model is evaluated using a comprehensive dataset of APIs and demonstrates a strong capability to adapt to test-time document changes. The successful integration of a retrieval system with Gorilla showcases the potential for LLMs to utilize tools more accurately, enhancing the reliability and applicability of their outputs.
+
+Link: https://arxiv.org/abs/2305.15334
+
+<img src="/img/e20b30c9-36e3-4501-b024-47824853dae9.png" width="400" />
+<br/><br/>
+
 ## Azure AI Introduces Responsible Deployment of Large Language Models (LLMs) Like Meta's Llama 2
 Summary: Sarah Bird, a Microsoft employee, provided a comprehensive analysis of the responsible deployment of large language models (LLMs) like Meta's Llama 2 in Azure AI. Bird emphasized the importance of utilizing a comprehensive approach that includes technical mitigations, metaprompt design, user-centric design, and thorough testing. She highlighted the value of Azure AI features such as the model catalog, safety system, prompt flow, and evaluation capabilities in aiding responsible LLM development. The article underscores Microsoft's commitment to responsible AI principles and provides guidance for organizations seeking to deploy LLMs while addressing potential risks.
 
