@@ -1,3 +1,11 @@
+## MosaicML Introduces MPT-30B, a 30B Parameter LLM, Competing with LLaMA and Falcon in the Open Source Arena
+Summary: MosaicML has launched its second big language model (LLM), called MPT-30B, which follows on from the smaller MPT-7B model it debuted in May. The new model is designed to handle even longer sequences in practice, making it a perfect fit for data-heavy enterprise applications. MosaicML claims that its new 30B parameter model also compares favorably to both LLaMA and Falcon in performance.
+
+Link: https://thenewstack.io/mosaicml-launches-30b-model-takes-on-llama-falcon-and-gpt/
+
+<img src="/img/8417ba5b-acaf-43be-b83e-6f4e128f0fe3.png" width="400" />
+<br/><br/>
+
 ## Open-Source LLMs: Extending Context Length with Blog Post Recommendations
 Summary: Open-source LLMs like Meta LLaMa have smaller context lengths compared to commercial models like OpenAI's GPT-3.5 and Anthropic's Claude. However, there are methods to extend the context length of open-source models either during pre-training or post-pre-training. Two blog posts provide insights into these methods, exploring techniques for extending the context length of LLaMa. Extending context length can improve the performance of open-source LLMs, enabling them to handle longer inputs and generate more coherent and contextually relevant responses.
 
