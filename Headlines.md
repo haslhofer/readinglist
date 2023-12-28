@@ -1,3 +1,8 @@
+MobileSAM and MobileSAMv2: Faster Segment Anything for Mobile Applications and Beyond
+
+___
+
+
 Databricks Course Explores Applications, Development, and Impact of Large Language Models
 
 ___
