@@ -1,3 +1,8 @@
+New course shows how to fine-tune GPT-3.5 for specific needs
+
+___
+
+
 Criteria for Choosing a Vector Database in the Crowded Market of Vector Databases
 
 ___
