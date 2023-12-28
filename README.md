@@ -1,3 +1,11 @@
+## LLMTools: Library for running and finetuning large language models on consumer GPUs
+Summary: LLMTools is a Python library that provides an interface to run and fine-tune large language models (LLMs) like OPT, BLOOM, and LLAMA on consumer GPUs. It offers low-precision quantization (2-bit, 3-bit, and 4-bit) using the LP-LoRA algorithm, allowing users to fine-tune quantized LLMs on tasks with limited computational resources. The library includes a patched version of the PEFT library, enabling the use of the LoRA finetuning method with quantized models. Documentation, tutorials, and examples are provided to assist users in performing model quantization, inference, and fine-tuning. LLMTools is also accompanied by pre-quantized LLM weights released on the Hugging Face Hub.
+
+Link: https://github.com/kuleshov-group/llmtune?utm_source=marktechpost-newsletter.beehiiv.com&amp;utm_medium=newsletter&amp;utm_campaign=exciting-ai-updates-unleash-the-power-of-llms-offline-for-document-queries-discover-the-latest-advancement-in-llms-with-consumer-gpus-introducing-stability-ai-s-open-source-text-to-animation-tool
+
+<img src="/img/00fba9c5-cd84-439e-93b7-6136f72a86ae.png" width="400" />
+<br/><br/>
+
 ## Hugging Face releases 5x faster Whisper fine-tuning with almost no degradation in WER
 Summary: Hugging Face has made Whisper, an open-source automatic speech recognition model, five times faster to fine-tune with slight degradation in WER. This enables larger batch sizes and fitting the Whisper-large checkpoint in less than 8GB of VRAM. The improvement is driven by LoRA and the Hugging Face's PEFT.
 
