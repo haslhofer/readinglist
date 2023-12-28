@@ -1,3 +1,11 @@
+## Mistral AI: Unleashing an Uncensored, Open-Source Language Model for Local Use and Customized Training
+Summary: Mistral, a newly released AI model, outperforms ChatGPT 3.5 while being completely open-source and capable of running locally. Users can leverage dolphin-mistral, a modified version that removes constraints, and train it with their data by creating a Hugging Face account. Running mistral requires substantial system resources, and training on a home computer may pose challenges due to hardware requirements.
+
+Link: https://hackernoon.com/how-to-use-an-uncensored-ai-model-and-train-it-with-your-data
+
+<img src="/img/610606f1-8598-453d-b6f5-ca06832ff90a.png" width="400" />
+<br/><br/>
+
 ## Andrej Karpathy Builds a Generatively Pretrained Transformer from Scratch
 Summary: In this video, Andrej Karpathy walks through the process of building a Generatively Pretrained Transformer (GPT) model from scratch, explaining the concepts behind attention mechanisms and their application in natural language processing. He also discusses the connections between GPT and models like ChatGPT, showcasing how GitHub Copilot, a GPT-based tool, can assist in writing code for building a GPT model.
 
