@@ -1,3 +1,8 @@
+Hugging Face Releases IDEFICS, an Open Multimodal ChatGPT-Style Model for Generative Image-Text Conversations
+
+___
+
+
 AutoTrain: Introducing the Easiest Way to Fine-Tune Language Models
 
 ___
