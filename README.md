@@ -1,3 +1,11 @@
+## HuggingGPT: Enabling ChatGPT to Access External Tools for Efficient Language Processing
+Summary: HuggingGPT is a platform that allows ChatGPT models to access existing AI models to perform various tasks without receiving prior training, improving their flexibility, efficiency, and capabilities in natural language processing.
+
+Link: https://mpost.io/hugginggpt-giving-chatgpt-models-the-ability-to-use-external-tools/
+
+<img src="/img/78ef1e43-0bc0-4485-b7db-6bf291caaf6a.png" width="400" />
+<br/><br/>
+
 ## Unlock Your Professional Potential with LinkedIn
 Summary: Professional growth requires a proactive approach. Set goals, seek feedback, stay informed, network effectively, and maintain your online presence. Consider further education and courses to enhance your skill set. Manage your time efficiently and prioritize tasks to achieve a work-life balance. Stay updated on industry trends and news to remain competitive. Finally, be adaptable to change and embrace challenges as opportunities for learning and development.
 
