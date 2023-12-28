@@ -1,3 +1,11 @@
+## LinkedIn: Make the most of your professional life
+Summary: The text lists various tips for making the most of your professional life. It suggests staying current with industry trends, building a strong network, seeking out mentorship opportunities, setting achievable goals, being willing to take risks, adopting a positive attitude, and maintaining a healthy work-life balance.
+
+Link: https://www.linkedin.com/posts/skalskip-profile_how-to-train-object-detection-transformer-activity-7037364110438600704-QYK8?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/f6c3c6c6-da07-48c9-b81e-0cf1e1ae2422.png" width="400" />
+<br/><br/>
+
 ## Inference Stable Diffusion with C# and ONNX Runtime
 Summary: This repository contains a C# implementation for inferencing the Stable Diffusion deep learning model, which generates images from text prompts. To use the model, one needs to download the ONNX Stable Diffusion models from Hugging Face, copy the ONNX files to the project folder, and set the build for x64. The project includes a tutorial and provides resources for further exploration.
 
