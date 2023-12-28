@@ -1,3 +1,8 @@
+MosaicML Releases MPT-30B, a Large Language Model Surpassing GPT-3's Performance
+
+___
+
+
 MosaicML releases 30B OpenAI GPT-3-like model, MPT-30B, under Apache 2.0 license
 
 ___
