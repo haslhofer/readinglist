@@ -1,3 +1,8 @@
+Normcore LLM: A Comprehensive Reading List for Understanding Large Language Models
+
+___
+
+
 LlamaIndex and Wey Gu unveil the world's most comprehensive short course on utilizing LLMs with Knowledge Graphs
 
 ___
