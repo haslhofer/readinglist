@@ -1,3 +1,11 @@
+## PrivateGPT: Access the power of GPT, 100% privately, with no data leaks.
+Summary: PrivateGPT empowers you to apply the capabilities of Large Language Models (LLMs) to your documents in a private and offline setting, ensuring full data control. This production-ready AI project, accessible through an API, offers a high-level interface for document ingestion and context-aware conversation. Its low-level API enables advanced users to construct custom pipelines. For support, join the Twitter and Discord communities.
+
+Link: https://github.com/imartinez/privateGPT?utm_source=marktechpost-newsletter.beehiiv.com&amp;utm_medium=newsletter&amp;utm_campaign=exciting-ai-updates-unleash-the-power-of-llms-offline-for-document-queries-discover-the-latest-advancement-in-llms-with-consumer-gpus-introducing-stability-ai-s-open-source-text-to-animation-tool
+
+<img src="/img/a8082148-99b0-4deb-a720-5dede8b7d044.png" width="400" />
+<br/><br/>
+
 ## LLMTools: Library for running and finetuning large language models on consumer GPUs
 Summary: LLMTools is a Python library that provides an interface to run and fine-tune large language models (LLMs) like OPT, BLOOM, and LLAMA on consumer GPUs. It offers low-precision quantization (2-bit, 3-bit, and 4-bit) using the LP-LoRA algorithm, allowing users to fine-tune quantized LLMs on tasks with limited computational resources. The library includes a patched version of the PEFT library, enabling the use of the LoRA finetuning method with quantized models. Documentation, tutorials, and examples are provided to assist users in performing model quantization, inference, and fine-tuning. LLMTools is also accompanied by pre-quantized LLM weights released on the Hugging Face Hub.
 
