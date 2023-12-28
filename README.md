@@ -1,3 +1,11 @@
+## New tutorial shows how to finetune LLM 'llama-v2' on local machine
+Summary: Abhishek Thakur, a renowned AI expert with a substantial following on LinkedIn and YouTube, has created a new tutorial demonstrating an easy method to fine-tune the advanced language model llama-v2 on a local machine using a customized dataset. This tutorial is applicable to other LLMs as well and can be utilized even with the free Google Colab version.
+
+Link: https://www.linkedin.com/posts/abhi1thakur_new-tutorial-alert-the-easiest-way-activity-7087769851993165824-th78?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/817428bd-feaf-49b0-8089-7d09c99fa5dd.png" width="400" />
+<br/><br/>
+
 ## Unleash the Full Potential of LLaMA 2 with Enhanced Techniques
 Summary: João Gante, a Machine Learning expert at Hugging Face, shared pro tips for unlocking the true potential of LLaMA 2 from the start. These tips include enabling arbitrarily long inputs by using RoPE scaling, implementing 4-bit quantization for faster local deployment, and exploring advanced model deployment and fine-tuning techniques. Relevant examples, references, and helpful resources are provided in the comments.
 
