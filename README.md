@@ -1,3 +1,26 @@
+## Subscribe
+Sign in
+Discover more from Ahead of AI
+Ahead of AI specializes in Machine Learning & AI research and is read by tens of thousands of researchers and practitioners who want to stay ahead in the ever-evolving field.
+Over 42,000 subscribers
+Subscribe
+Continue reading
+Sign in
+Ahead of AI #6: TrAIn Differently
+SEBASTIAN RASCHKA, PHD
+MAR 7, 2023
+36
+3
+Share
+
+This newsletter will get deep into training paradigms for transformers, integration of human feedback into large language models, along with research papers, news, and notable announcements.
+Summary: This newsletter focuses on recent developments in the field of machine learning and artificial intelligence, with a particular emphasis on training paradigms for transformer models. It discusses the integration of human feedback into large language models and presents research papers that propose different approaches to training these models. The newsletter also highlights noteworthy open-source libraries and announcements. Additionally, it provides tips on reading research papers effectively and explores the scaling of vision transformers to accommodate billions of parameters.
+
+Link: https://open.substack.com/pub/sebastianraschka/p/ahead-of-ai-6-train-differently?r=6h2ps&amp;utm_campaign=post&amp;utm_medium=email
+
+<img src="/img/ba0611a9-332b-478f-9ca1-1ca4e1d5310a.png" width="400" />
+<br/><br/>
+
 ## ControlNet training and inference with the StableDiffusionControlNetPipeline
 Summary: ControlNet, a framework that allows for supporting various spatial contexts as additional conditionings to Diffusion models, has been integrated into Diffusers. The StableDiffusionControlNetPipeline exposes the controlnet argument to provide a trained ControlNetModel instance while keeping the pre-trained diffusion model weights the same. It supports conditioning with depth maps, segmentation maps, scribbles, keypoints, Canny edges, Openpose poses, and more. Combinations of multiple conditionings are also possible, with the flexibility to mask conditionings and vary conditioning scales. The pipeline leverages a fast scheduler, smart model offloading, and Xformers attention layer acceleration for efficient and memory-friendly inference. Combining these techniques results in faster generation times and lower VRAM consumption compared to the original ControlNet implementation. Examples and a Colab notebook are provided to explore the pipeline and showcase its capabilities.
 
