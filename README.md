@@ -1,3 +1,11 @@
+## Muse is a groundbreaking text-
+Summary: Muse is a groundbreaking text-to-image Transformer model that outperforms existing image generation models while being more efficient. Trained on a masked modeling task in discrete token space, Muse leverages the understanding of pre-trained large language models to translate text embeddings into high-fidelity images. It showcases state-of-the-art performance, achieving a new SOTA on CC3M with an FID score of 6.06 and impressive results on zero-shot COCO evaluation. Muse also enables various image editing applications, including inpainting, outpainting, and mask-free editing, without the need for fine-tuning or inversion.
+
+Link: https://arxiv.org/abs/2301.00704
+
+<img src="/img/6f257b4f-0592-4dd8-9a2c-ccfdc8c98b2e.png" width="400" />
+<br/><br/>
+
 ## CLIPPO: A Unified Image-and-Language Model Trained Only with Pixels
 Summary: CLIPPO, a unified multimodal model, utilizes a single encoder to process both regular images and text rendered as images. Trained with contrastive loss, CLIPPO performs image-based tasks competitively, requires fewer parameters, and excels in natural language understanding tasks without word-level loss. Additionally, it demonstrates strong performance on multilingual multimodal retrieval without modifications.
 
