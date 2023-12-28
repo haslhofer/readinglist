@@ -1,3 +1,10 @@
+Stanford Researcher Develops Prompting Technique Enabling Smaller Language Models to Surpass GPT3
+
+Filename:85d9fedd-4a38-49dc-9b9c-5daca8fd4503.png
+
+___
+
+
 LinkedIn: Your Professional Life, Maximized
 
 Filename:b4e544a8-d43d-4a98-b4a2-730174ca0993.png
