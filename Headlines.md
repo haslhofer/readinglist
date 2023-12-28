@@ -1,3 +1,8 @@
+Enrico Shippole released LLongMA-2 13b, a Llama-2 model trained at 8k context length using linear positional interpolation scaling, in collaboration with Jeff of NousResearch and Kaiokendev.
+
+___
+
+
 Gorilla: A Finetuned Large Language Model for Effective API Utilization
 
 ___
