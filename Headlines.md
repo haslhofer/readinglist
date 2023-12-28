@@ -1,3 +1,10 @@
+ChatGPT Raises Concerns in Academia Over Implications for MBA Education
+
+Filename:69c96eb4-5146-4260-be80-ea939699f796.png
+
+___
+
+
 Panicked Silicon Valley workers sell start-up shares as valuations plummet
 
 Filename:29ee9a49-3b97-4247-ae35-d3324852ed01.png
