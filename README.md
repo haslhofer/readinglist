@@ -1,3 +1,11 @@
+## Elevate Your Professional Journey with LinkedIn
+Summary: The provided text is not available, therefore the summary of the text in one paragraph cannot be extracted.
+
+Link: https://www.linkedin.com/posts/denis-rothman-0b034043_hugginggpt-a-beautiful-mind-blowing-innovation-ugcPost-7051834906556915712-sQLU?utm_source=share&amp;utm_medium=member_desktop
+
+<img src="/img/cd853ded-d6d8-4431-a6bf-1bef7a5e1328.png" width="400" />
+<br/><br/>
+
 ## Researchers introduce PlatoNeRF, a new approach to 3D reconstruction using lidar and neural radiance fields
 Summary: Researchers from MIT, Meta, and Codec Avatars Lab have presented PlatoNeRF, an AI approach for single-view 3D reconstruction using lidar and neural radiance fields. Additionally, researchers from Microsoft and Georgia Tech have developed VCoder, versatile vision encoders for multimodal large language models, while Cohere AI scientists have explored overcoming quantization cliffs in large-scale machine learning models through optimization techniques.
 
