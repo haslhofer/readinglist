@@ -1,3 +1,8 @@
+GPT-4 Extracts Entities and Relationships from Nature Documentary Transcripts to Generate a Knowledge Graph
+
+___
+
+
 Microsoft Researchers Introduce TaskMatrix.AI: AI Ecosystem Connects Foundation Models with Millions of APIs
 
 ___
