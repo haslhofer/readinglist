@@ -1,3 +1,8 @@
+Colossal-AI enables efficient ChatGPT training with open-source code, reducing hardware costs by 50% and accelerating training by 7.73x.
+
+___
+
+
 404 Error: Page Not Found
 
 ___
