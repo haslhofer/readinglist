@@ -1,3 +1,11 @@
+## Google PyTorch/XLA team achieves ultra-low latency inference with LLaMA 65B for TPUs and GPUs using PyTorch/XLA and Dynamo.
+Summary: In this series of LinkedIn posts, Michael Gschwind celebrates the work of his team at Meta on advancements in AI technology, including accelerating LLM inference, democratizing access to foundation LLMs, continuously improving PyTorch, and promoting open and collaborative research. He highlights partnerships with organizations such as Google, AMD, and Hugging Face, and encourages sharing and discussing the optimization techniques used in their projects. Gschwind emphasizes the importance of diversity and inclusion in the field of AI and expresses concerns about the lack of women on the new OpenAI board.
+
+Link: https://www.linkedin.com/posts/michael-gschwind-3704222_pytorch-pytorchxla-acceleratedai-activity-7086137386794979328-aIyr?utm_source=share&utm_medium=member_android
+
+<img src="/img/c64bd98a-95ab-41fa-9a83-12e6d157e85f.png" width="400" />
+<br/><br/>
+
 ## Helper scripts and examples for exploring the Falcon LLM models
 Summary: The Falcon-LLM repository created by Sentdex contains helper scripts and examples for exploring the Falcon LLM models. It includes an API server and client for easy model access, along with a notebook example for loading the Falcon 40B model with various data types. A setup script is also provided for convenient requirements setup. The repository offers insights into the model's use cases, and its resources include explanations of the license and activity details.
 
