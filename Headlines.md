@@ -1,3 +1,10 @@
+Researchers Replace Gaussian Noise with Deterministic Perturbations in Diffusion Models
+
+Filename:537335c2-607c-4191-8901-e89c8f1829cc.png
+
+___
+
+
 ChatGPT Raises Concerns in Academia Over Implications for MBA Education
 
 Filename:69c96eb4-5146-4260-be80-ea939699f796.png
