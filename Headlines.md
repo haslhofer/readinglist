@@ -1,3 +1,8 @@
+Local LLM and LlamaIndex Allow Offline Summarization of YouTube Videos
+
+___
+
+
 Use LlamaIndex and a Local LLM to Summarize YouTube Videos
 
 ___
