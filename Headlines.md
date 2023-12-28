@@ -1,3 +1,8 @@
+Together Releases OpenChatKit, An Open-Source Foundation for Chatbots with Customizable and General-Purpose Applications
+
+___
+
+
 OpenChatKit releases GPT-NeoXT-Chat-Base-20B, a fine-tuned language model for enhanced conversations
 
 ___
