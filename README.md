@@ -1,3 +1,11 @@
+## Professor Alexander Amini, PhD
+Summary: Professor Alexander Amini, PhD, from MIT, is offering a free introductory course on deep learning, with applications in computer vision, natural language processing, biology, and more. The course, which includes foundational knowledge of deep learning algorithms and practical experience in building neural networks using TensorFlow, is designed for students with prior knowledge in calculus (derivatives) and linear algebra (matrix multiplication). The content is up-to-date and based on the latest trends in deep learning, and the course concludes with a project proposal competition with feedback from staff and a panel of industry sponsors. More information is available on the dedicated website, which includes slides of presentations and links to lectures transmitted on YouTube. No previous experience in Python is necessary, but it is helpful.
+
+Link: https://www.linkedin.com/feed/update/urn:li:activity:7042896105734344704?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/abd31039-75b3-473b-80d9-38378d15f8ea.png" width="400" />
+<br/><br/>
+
 ## Instruct GPT-J is a fine-tuned
 Summary: Instruct GPT-J is a fine-tuned version of the GPT-J model optimized for "instruct" tasks. It demonstrates GPT-J's capability as an "instruct" model when appropriately fine-tuned and can be used in natural language for tasks like text correction and instruction generation. The model is available in fp16 format, making it easier to deploy on entry-level GPUs like NVIDIA Tesla T4. The fine-tuning process involved reworking a dataset created by the Stanford Alpaca team and utilizing few-shot learning techniques for advanced use cases. The model can be used with either a text generation pipeline or the generate() function, and special attention should be paid to using new lines at the end of instructions for optimal results.
 
