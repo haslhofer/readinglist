@@ -1,3 +1,11 @@
+## OpenChatKit releases GPT-NeoXT-Chat-Base-20B, a fine-tuned language model for enhanced conversations
+Summary: 
+
+Link: https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B
+
+<img src="/img/65eaeaaf-07a2-442d-8372-498154372640.png" width="400" />
+<br/><br/>
+
 ## Autoencoder: An Unsupervised Neural Network for Data Compression and Reconstruction
 Summary: Autoencoders are unsupervised artificial neural networks designed to efficiently compress and reconstruct data by learning to encode data into a reduced representation and then reconstruct it to be as close to the original input as possible. They consist of an encoder, bottleneck, decoder, and reconstruction loss function. Autoencoders can be used for various tasks such as dimensionality reduction, noise removal, data generation, and feature extraction. They are commonly implemented using FeedForward, LSTM, or Convolutional Neural Networks, depending on the specific application.
 
