@@ -1,3 +1,11 @@
+## Translate Text Between Languages with txtai and Hugging Face Models
+Summary: This article discusses machine translation using Hugging Face models and the txtai library. It explains how to install dependencies, create a Translation instance, translate text between languages, handle multiple languages in a single call, and use different model types. The article highlights the high quality of machine translation and provides examples for various use cases. It also emphasizes the local hosting advantage and support for low-resource languages.
+
+Link: https://neuml.hashnode.dev/translate-text-between-languages
+
+<img src="/img/be166fa4-49c8-470b-be6a-5226732e5947.png" width="400" />
+<br/><br/>
+
 ## Yarn-Llama-2-13b-128k: A Model Trained for Extreme Context Length Released by Enrico Shippole
 Summary: Enrico Shippole, an ML Engineer, announced the release of a new Yarn-Llama-2-13b-128k model, trained for 128k context length using YaRN scaling. Collaborators Bowen, Jeff, and Honglu contributed to the model's development. The model can be found on HuggingFace and surpasses the performance of previous methodologies in all evaluations while maintaining perplexity at 128k extrapolation. Additionally, Yarn-Llama-2-7b models trained for 128k and 64k context lengths are also available. The team open-sourced all the code for full reproducibility of the results. The models perform similarly to the base LLaMA 2 models on Open LLM benchmarks while directly scaling context length to 128k. The compute resources were generously sponsored by CarperAI, Emad Mostaque, and Stability AI. The team appreciates the support of Dakota Mahan, Jon tow, and Honglu for their contributions.
 
