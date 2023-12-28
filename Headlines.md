@@ -1,3 +1,8 @@
+Build a Retrieval-Augmented Generation System from Scratch Using LlamaIndex
+
+___
+
+
 Researchers compare the benefits and drawbacks of bitsandbytes and GPTQ, two quantization methods supported in Transformers
 
 ___
