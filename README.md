@@ -1,3 +1,11 @@
+## Hugging Face releases an Open-Domain Text-to-Video Synthesis Model
+Summary: The "Text-to-Video" model generates videos from English text descriptions using a multi-stage diffusion model that consists of three sub-networks: text feature extractor, text feature-to-video latent space diffusion model, and video latent space to video visual space model. The model's parameters total around 1.7 billion. It has a wide range of applications and can be used for research purposes, but is limited in its ability to generate clear text, handle complex compositional tasks, and perfectly replicate film and television quality.
+
+Link: https://huggingface.co/damo-vilab/text-to-video-ms-1.7b
+
+<img src="/img/dff3cffc-eae6-4812-b672-6d9371e85996.png" width="400" />
+<br/><br/>
+
 ## Microsoft AI Introduces DeBERTaV3: An Enhanced Language Model for Natural Language Processing
 Summary: Microsoft's AI research team has introduced DeBERTaV3, an enhanced version of the DeBERTa language model, for improved Natural Language Processing (NLP) tasks. The model combines DeBERTa and ELECTRA architectures to better understand language context and word order through self-attention mechanisms. It offers increased efficiency and performance compared to previous models, demonstrating strong accuracy and F1 scores across various NLU benchmarks.
 
