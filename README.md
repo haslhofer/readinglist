@@ -1,3 +1,11 @@
+## Fine-tuning Llama 2 with DPO simplifies training LLMs using preference data
+Summary: Hugging Face introduces a new method called Direct Preference Optimization (DPO) for fine-tuning large language models (LLMs) using human feedback. DPO simplifies the typical RLHF (Reinforcement Learning from Human Feedback) pipeline by directly optimizing the LLM on preference data via a binary cross-entropy loss. This eliminates the need for a reward model and the complex RL optimization process. Embracing the benefits of TRL and other libraries, Hugging Face demonstrates how to train a 7B-parameter Llama v2 model with DPO on the stack-exchange preference dataset, achieving promising results. This development eases the alignment of LLMs with human preferences, making them more effective and appropriate for real-world applications.
+
+Link: https://huggingface.co/blog/dpo-trl
+
+<img src="/img/f8d75811-a7f6-45e4-9f05-96a1e0f47820.png" width="400" />
+<br/><br/>
+
 ## Microsoft Researcher Explores How Multi-Way Transformers Work and How They Help in Multimodal Pretraining of Microsoft’s BEiT-3 Model
 Summary: This post discusses recent advancements in multimodal pretraining with Microsoft's BEiT-3 model and its use in various applications. It highlights the increasing complexity of multimodality, with models like ImageBind and Meta-Transformer supporting up to 6 and 12 modalities, respectively. The post also mentions Composable Diffusion as a real generator and discusses the benefits of extreme multimodality in different fields. Additionally, it mentions the author's YouTube channel, which provides tutorials on multimodal-NLP, covering topics like vision-language understanding, text generation, image generation, and multimodal generation. The author also discusses the potential benefits of industry-academia collaboration in the tech industry and shares videos on various topics related to multimodal pretraining and AI.
 
