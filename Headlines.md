@@ -1,3 +1,8 @@
+Mask2Former and OneFormer: Universal Image Segmentation Models Now Available in Transformers
+
+___
+
+
 NVIDIA Broadcast 1.4 Adds Eye Contact, Vignette, and Enhanced Virtual Background Effects
 
 ___
