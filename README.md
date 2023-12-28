@@ -1,3 +1,11 @@
+## Researchers introduce PlatoNeRF, a new approach to 3D reconstruction using lidar and neural radiance fields
+Summary: Researchers from MIT, Meta, and Codec Avatars Lab have presented PlatoNeRF, an AI approach for single-view 3D reconstruction using lidar and neural radiance fields. Additionally, researchers from Microsoft and Georgia Tech have developed VCoder, versatile vision encoders for multimodal large language models, while Cohere AI scientists have explored overcoming quantization cliffs in large-scale machine learning models through optimization techniques.
+
+Link: https://www.marktechpost.com/2023/04/11/meet-lmql-an-open-source-programming-language-and-platform-for-large-language-model-llm-interaction/
+
+<img src="/img/4c71f9d1-6057-4e3e-9265-10e48f6cee73.png" width="400" />
+<br/><br/>
+
 ## Learn to Code ChatGPT from Scratch in a Mini-Series
 Summary: This course introduces ChatGPT and the method of reinforcement learning with human feedback (RLHF). It involves building a minimal but efficient RLHF pipeline from scratch using PyTorch. The course intends to help learners understand the theory behind PPO (Proximal Policy Optimization), a popular reinforcement learning algorithm, and then implement it in code. The pipeline will be tested on a limited dataset to evaluate its performance.
 
