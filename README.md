@@ -1,3 +1,11 @@
+## LinkedIn warns users of potential safety risks when clicking external links
+Summary: The provided text contains a link to an external website that LinkedIn cannot verify for safety reasons.
+
+Link: https://lnkd.in/g_WWQSk7
+
+<img src="/img/8fd5f920-98e2-4a07-b45c-296402f015e3.png" width="400" />
+<br/><br/>
+
 ## DeepMind's Dramatron: An AI Tool for Writing Cohesive Film Scripts with Hierarchical Structures
 Summary: DeepMind's Dramatron is an AI tool designed to assist writers in generating film scripts. It utilizes hierarchical language models with structural context to create cohesive scripts and screenplays. Through prompt chaining, Dramatron can generate a title, characters, story beats, locations, and dialogues. Its primary strength lies in its ability to develop coherent writing, especially for theater scripts and screenplays, due to its defined narrative structures and characters.
 
