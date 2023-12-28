@@ -1,3 +1,10 @@
+Digital artists create immersive 3D scenes from 2D images with NVIDIA Instant NeRF
+
+Filename:e983e8f0-5bea-4dcd-8a8d-7eef789a9812.png
+
+___
+
+
 Karen Cheng creates a tutorial for a dolly zoom effect using NeRF technology on your phone
 
 Filename:f9df6af3-feef-4e26-a898-9b5e442b7ab8.png
