@@ -1,3 +1,8 @@
+Ferret: A Multimodal Large Language Model for Refer and Ground Anything Anywhere at Any Granularity
+
+___
+
+
 "PowerInfer: Fast Large Language Model Serving on Consumer-Grade GPUs"
 
 ___
