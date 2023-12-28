@@ -1,3 +1,8 @@
+PyLLMs: Minimal Python Library for Connecting to LLMs with Benchmarking
+
+___
+
+
 Cookbook for Solving Common Problems in Building GPT/LLM Apps
 
 ___
