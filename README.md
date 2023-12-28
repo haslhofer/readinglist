@@ -1,3 +1,11 @@
+## DeepSpeed-Chat: Easy, Fast and Affordable RLHF Training of ChatGPT-like Models at All Scales
+Summary: DeepSpeed-Chat is an easy-to-use, fast, and affordable RLHF training pipeline that democratizes the creation of ChatGPT-like models. It features an intuitive single-script interface for training and inference, a robust RLHF pipeline replicating the InstructGPT training steps, and the DeepSpeed Hybrid Engine combining inference and training capabilities for efficient RLHF training. DeepSpeed Chat enables efficient RLHF training at scale, training OPT-13B in 9 hours and OPT-30B in 18 hours for under $300 and $600, respectively, and supporting models with hundreds of billions of parameters. It also facilitates democratization of RLHF training, enabling training of models with over 13 billion parameters on a single GPU. DeepSpeed Chat accelerates RLHF training, achieving over 10x improvement in throughput compared to existing systems, and scales well on multi-GPU systems, training even a 175B model in under a day.
+
+Link: https://msft.it/6048gzvhC
+
+<img src="/img/c187fa29-3004-4fe3-9ccf-51f8d41b3b82.png" width="400" />
+<br/><br/>
+
 ## There are over 50 different la
 Summary: There are over 50 different large language models (LLMs) with 1 billion+ parameters accessible via open-source or proprietary APIs, including GPT-J, GPT-Neo, Pythia, Polyglot, J1, LLaMa, OPT, Fairseq, Cerebras-GPT, GLM-130B, YaLM, UL2 20B, PanGu-α, Cohere, Claude, CodeGen, NeMo, and RWKV, as well as fine-tuned models like Alpaca, Convo, J1-Grande-Instruct, InstructGPT, BLOOMZ, Flan-UL2, Flan-T5, T0, and Galactica.
 
