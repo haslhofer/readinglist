@@ -1,3 +1,8 @@
+Fine-tune 20B+ language models with Amazon SageMaker, PyTorch FSDP, and Hugging Face
+
+___
+
+
 Video as a Document: Turning a Long Video into a Doc with Visual and Audio Info for Improved Chatting
 
 ___
