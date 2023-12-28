@@ -1,3 +1,8 @@
+LinkedIn Influencer Daliana Liu discusses the increasing use of multimodal AI for customer support and highlights the capabilities of LlamaIndex in extracting structured data from images.
+
+___
+
+
 Meta AI Advances Seamless Communication with Expressive, Fast, and High-Quality Translation Models
 
 ___
