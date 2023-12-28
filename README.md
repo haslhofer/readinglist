@@ -1,3 +1,11 @@
+## Actions, not arguments, are persuasive and build credibility
+Summary: David Heinemeier Hansson argues that actions are more persuasive than arguments in changing someone's mind. He believes that people are more likely to listen to those who have taken risks and seen them through, as these individuals have earned credibility through their actions. He emphasizes the importance of "skin in the game," where one invests their efforts and resources into an idea, demonstrating their commitment to it. This approach, according to Heinemeier Hansson, is more effective in unlocking minds and advancing collective knowledge and understanding.
+
+Link: https://world.hey.com/dhh/actions-beat-arguments-2aa1da34
+
+<img src="/img/38063c68-1b3c-4fa2-9cba-07740ea0f03b.png" width="400" />
+<br/><br/>
+
 ## Atomic Git Commits Are Key to Productivity and Make Your Job More Enjoyable
 Summary: Writing atomic git commits can enhance productivity by ensuring that each commit addresses a single, simple task. These commits make it easier to revert changes, maintain a clean history, enhance code reviews, and improve workflow by breaking complex tasks into manageable steps. Emphasizing the simplicity of complexity as the core of software development, the article encourages practicing atomic commits to experience the benefits firsthand.
 
