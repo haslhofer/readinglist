@@ -1,3 +1,11 @@
+## Docker and Hugging Face Partner to Democratize AI
+Summary: Hugging Face and Docker, Inc. have announced a partnership to make cutting-edge ML more accessible to software engineers. They will collaborate to integrate Docker's containerization platform with Hugging Face's Hub, a central repository for ML models and datasets. This will simplify the process of deploying and running ML models, making it easier for developers to build and deploy AI applications.
+
+Link: https://www.linkedin.com/posts/julienchaumond_super-excited-to-announce-this-partnership-activity-7047181961877942272-Vpl5?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/2f03e09e-b572-48f7-a41e-619ba83e7268.png" width="400" />
+<br/><br/>
+
 ## Run ChatGPT-like Language Models on Your Local Computer with Dalai Library
 Summary: The article introduces the dalai library, which allows users to run the foundational language model LLaMA and the instruction-following model Alpaca on their local computers. These models, smaller than their GPT counterparts, achieve comparable or better results. The article highlights the significance of the LLaMA model, which outperforms GPT-3 despite being 13 times smaller, and mentions its availability for research purposes, although model checkpoints require a request to Meta. The author also showcases the ability to run the LLaMA model on a Raspberry Pi, demonstrating its efficiency.
 
