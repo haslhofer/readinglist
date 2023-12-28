@@ -1,3 +1,11 @@
+## 
+Summary: 
+
+Link: https://www.linkedin.com/posts/riti2409_systemdesign-github-interviewpreparation-activity-7045739460189196288-FLuy?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/14ea18e7-2fca-4f41-8d3c-ef62b6895ef1.png" width="400" />
+<br/><br/>
+
 ## 404: Oops, File Not Found!
 Summary: The provided URL or file path leads to a 404 error, indicating that the requested file or page was not found. This can occur due to incorrect filename casing, improper file permissions, or the absence of an index.html file for root URLs. Refer to GitHub Pages documentation for further guidance.
 
