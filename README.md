@@ -1,3 +1,11 @@
+## Google Brain and Tel Aviv University Researchers Introduce a Text-to-Image Model Guided by Sketches
+Summary: Researchers from Google Brain and Tel Aviv University collaborated to develop a method for guiding the inference process of a pre-trained text-to-image diffusion model with a sketch predictor, named Latent Edge Predictor (LEP), which operates on the internal activations of the diffusion model's core network. This method effectively aligns the generated image's edges with a reference sketch while preserving the semantic content specified in the text prompt. Experiments show promising results in generating realistic images guided by both text and sketch inputs.
+
+Link: https://www.marktechpost.com/2023/01/19/google-brain-and-tel-aviv-university-researchers-proposed-a-text-to-image-model-guided-by-sketches/
+
+<img src="/img/38eacdc8-8002-4605-8aef-5bbe9992c846.png" width="400" />
+<br/><br/>
+
 ## Ski Resorts That Are Affordable and Offer World-Class Skiing
 Summary: Due to the rising cost of lavish amenities at ski resorts, some skiers are seeking affordable alternatives. Four resorts that offer world-class skiing at attainable prices are Purgatory Resort in Colorado, Aspen Snowmass in Colorado, Sugarloaf in Maine, and Mount Hood Meadows in Oregon. These resorts provide well-maintained slopes, affordable lift tickets, and a friendly ski village atmosphere, catering to skiers who value traditional skiing experiences without the expensive extras.
 
