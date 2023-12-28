@@ -1,3 +1,11 @@
+## Example Domain: Available for Illustrative Use Without Permission
+Summary: The Example Domain is a placeholder domain name used in illustrative examples in documents. It can be freely used in literature without any prior coordination or permission.
+
+Link: https://www.example.com/contact-us/
+
+<img src="/img/306c1dc7-c840-4dac-ae02-7121c365c0a9.png" width="400" />
+<br/><br/>
+
 ## Example Domain: Available for Use in Illustrative Examples
 Summary: Example Domain is used solely for illustrative purposes in documents and can be freely employed in literature without the need for prior coordination or permission.
 
