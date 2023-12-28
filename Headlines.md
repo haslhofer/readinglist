@@ -1,3 +1,8 @@
+Hugging Face adds support for BLIP-2, a state-of-the-art multi-modal model that allows for deeper conversations involving images.
+
+___
+
+
 ChatGPT Explained: A Dive Into the Large Language Model Behind the Revolutionary Chatbot
 
 ___
