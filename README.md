@@ -1,3 +1,11 @@
+## Harvard University's CS50: An Introduction to Computer Science for Everyone
+Summary: CS50x, offered by Harvard University, is an introductory course to computer science and programming, designed for both majors and non-majors, with or without prior programming experience. Taught by David J. Malan, the course covers topics such as abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development, using languages like C, Python, SQL, JavaScript, CSS, and HTML. Students can earn a certificate by completing 9 problem sets and a final project, and the course is self-paced, allowing learners to proceed at their own convenience.
+
+Link: https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0
+
+<img src="/img/3e47e7e3-0b77-4842-b289-c39513cf531e.png" width="400" />
+<br/><br/>
+
 ## Researchers Replace Gaussian Noise with Deterministic Perturbations in Diffusion Models
 Summary: Researchers at the University of Maryland introduce a new diffusion model called "Cold Diffusion" that replaces additive Gaussian noise with deterministic perturbations to generate realistic images. The model is trained as an autoencoder, and its sampling method allows it to overcome the effect of fixed degradation, leading to convincing samples. Experimental results show that Cold Diffusion performs well in image generation tasks like inpainting and super-resolution.
 
