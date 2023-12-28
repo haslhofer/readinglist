@@ -1,3 +1,8 @@
+Provide the text you would like summarized so I can provide an accurate headline.
+
+___
+
+
 Muse is a groundbreaking text-
 
 ___
