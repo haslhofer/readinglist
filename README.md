@@ -1,3 +1,11 @@
+## Hugging Face provides a platfo
+Summary: Hugging Face provides a platform with diverse models for various tasks like Visual Question Answering, Image-to-Text, and Text2Text Generation. With over 94 models to choose from, including pix2struct-base, pix2struct-docvqa-base, and pix2struct-textcaps-base, each model is updated frequently and has been used by many users, ranging from a few to over 100,000 times.
+
+Link: https://huggingface.co/models?other=pix2struct
+
+<img src="/img/40424170-2c93-4a5f-89ce-1582ddd0a06b.png" width="400" />
+<br/><br/>
+
 ## 
 Summary: 
 
