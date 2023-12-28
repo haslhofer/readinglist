@@ -1,3 +1,10 @@
+Foundation Models and the Future of AI Applications
+
+Filename:5df05689-7285-4af1-8fa0-2f089f825715.png
+
+___
+
+
 Google Research shares exciting progress in 2022 and presents its vision for 2023 and beyond in Language, Vision, Generative Models, Multimodal Models, and Responsible AI.
 
 Filename:4e19824f-f633-49d4-a2fb-ae6792510870.png
