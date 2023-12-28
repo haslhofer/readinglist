@@ -1,3 +1,8 @@
+Hugging Face CTO builds machine translation app using Meta's NLLB model in browser
+
+___
+
+
 Foundation models' performance lacks calibration with human preferences in data labeling
 
 ___
