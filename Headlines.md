@@ -1,3 +1,8 @@
+Researchers compare the benefits and drawbacks of bitsandbytes and GPTQ, two quantization methods supported in Transformers
+
+___
+
+
 OpenAI's Embedding Model May Not Be the Best Option for Everyone: Here's Why
 
 ___
