@@ -1,3 +1,8 @@
+BERTopic Now Supports Hugging Face Hub Integration for Easier Topic Model Deployment and Sharing
+
+___
+
+
 Artificial Intelligence Blog Page Not Found
 
 ___
