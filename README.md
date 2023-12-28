@@ -1,3 +1,12 @@
+## Prompt Engineering: A Guide to Effective Communication with Generative AI Models for Developers
+Summary: Prompt Engineering in LLM Applications: A Practical Guide
+Prompt engineering is the art of communicating with generative AI models. This article focuses on approaching prompt engineering at GitHub and how to use it to build LLM-based applications. It covers topics such as the importance of context, the role of large language models, the prompt engineering pipeline, and the challenges and tradeoffs involved in implementing prompt engineering techniques. The article also provides insights into the techniques used in GitHub Copilot to deliver high-quality suggestions to developers.
+
+Link: https://github.blog/2023-07-17-prompt-engineering-guide-generative-ai-llms/
+
+<img src="/img/685e6562-907f-45b3-ad62-465bede3b10f.png" width="400" />
+<br/><br/>
+
 ## Google PyTorch/XLA team achieves ultra-low latency inference with LLaMA 65B for TPUs and GPUs using PyTorch/XLA and Dynamo.
 Summary: In this series of LinkedIn posts, Michael Gschwind celebrates the work of his team at Meta on advancements in AI technology, including accelerating LLM inference, democratizing access to foundation LLMs, continuously improving PyTorch, and promoting open and collaborative research. He highlights partnerships with organizations such as Google, AMD, and Hugging Face, and encourages sharing and discussing the optimization techniques used in their projects. Gschwind emphasizes the importance of diversity and inclusion in the field of AI and expresses concerns about the lack of women on the new OpenAI board.
 
