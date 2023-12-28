@@ -1,3 +1,11 @@
+## Multimodal agents that interact with smartphone apps like humans
+Summary: Researchers have introduced a new multimodal agent framework called AppAgent, which utilizes large language models (LLMs) to operate smartphone applications through a simplified action space. This novel approach enables the agent to interact with apps like a human user, tapping and swiping to navigate and perform tasks. The agent's learning process involves autonomous exploration or observing human demonstrations to generate a knowledge base for executing complex tasks across different apps. Extensive testing over 50 tasks in 10 diverse applications demonstrated the agent's proficiency in handling a wide variety of high-level tasks.
+
+Link: https://arxiv.org/abs/2312.13771
+
+<img src="/img/026272fc-03d4-4779-9679-9645e09a03f7.png" width="400" />
+<br/><br/>
+
 ## Run Mistral AI's Mixtral 8x7b retrieval-augmented generation model locally with Ollama and LlamaIndex
 Summary: LlamaIndex has created a blog post detailing how to use Ollama with LlamaIndex to set up a fully functional retrieval-augmented generation app locally. The app features an API and includes an option to fine-tune the model. The blog post also discusses the hardware requirements for running the app, as well as the availability of a quantized version of the model for those with limited RAM.
 
