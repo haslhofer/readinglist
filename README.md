@@ -1,3 +1,11 @@
+## Muse, a text-to-image Transfor
+Summary: Muse, a text-to-image Transformer model, excels in image generation while boasting greater efficiency compared to diffusion and autoregressive models. Trained on a masked modeling task, Muse leverages discrete token space and requires fewer sampling iterations, leading to faster performance. This model, empowered by a pre-trained large language model, excels in understanding visual concepts and relationships, resulting in high-fidelity image generation. Muse enables various image editing applications, including inpainting, outpainting, and mask-free editing, without additional fine-tuning or inversion of the model.
+
+Link: https://arxiv.org/abs/2301.00704
+
+<img src="/img/7552c4a6-58c1-4592-b3b6-b0ac9c9e6358.png" width="400" />
+<br/><br/>
+
 ## CLIP-Pixels Only: A Pixel-based Model for Image-and-Language Understanding
 Summary: The research paper titled "CLIPPO: Image-and-Language Understanding from Pixels Only" introduces CLIP-Pixels Only (CLIPPO), a unified multimodal model that excels in image-based tasks, natural language understanding tasks, and multilingual multimodal retrieval, all trained solely with contrastive loss. CLIPPO employs a single encoder to process images and text rendered as images, resulting in a compact model with half the parameters of typical CLIP-style models. The model achieves strong performance on visual question answering tasks by simply rendering the question and image together, demonstrating its versatility.
 
