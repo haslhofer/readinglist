@@ -1,3 +1,11 @@
+## Design Eye-Catching Posters with Ease: Text2Poster: Laying Out Stylized Texts on Retrieved Images
+Summary: Text2Poster is an AI-powered tool that enables users to easily create visually appealing posters by laying out stylized texts on retrieved images. By providing input text elements, including the text, font size, and a sentence to retrieve background images, users can quickly generate posters using pre-trained models for layout distribution prediction and layout refinement. The tool offers an API for quick starts without resource download, and users can also run the tool from source code by installing the necessary dependencies and downloading specific resources. Text2Poster supports background image retrieval through an API or from the source code and allows for the generation of posters in various languages by incorporating a machine translation API.
+
+Link: https://github.com/chuhaojin/Text2Poster-ICASSP-22
+
+<img src="/img/e951a3e9-eed5-47ed-9a42-e7419d6b2ccd.png" width="400" />
+<br/><br/>
+
 ## You Can Now Have a Chatbot Talk Intelligently About Your Website
 Summary: A new version of Aista Magic Cloud allows users to integrate ChatGPT with their websites by copying and pasting a JavaScript tag. The model is fine-tuned by automatically crawling and scraping the website data to generate a custom AI that can answer intelligent questions relevant to the site. It initially has a 50% accuracy rate, but improves over time as the user reinforces it with questions and corrections. This integration potentially saves companies time and resources by providing quick and relevant answers to users' queries.
 
