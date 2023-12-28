@@ -1,3 +1,11 @@
+## Hugging Face releases an impressive vision-language model that outperforms larger closed-source models
+Summary: Researchers at Tsinghua University in China have developed CogVLM, an impressive vision-language model that rivals and even outperforms larger closed-source models like Google's PaLi-X 55B on several benchmarks. CogVLM is available for commercial use and is compatible with the Hugging Face Transformers library, making it accessible to a wide range of developers and researchers. The model achieves state-of-the-art or second-best performance on 14 classic cross-modal benchmarks, despite being significantly smaller than other models, with only 17 billion parameters.
+
+Link: https://www.linkedin.com/posts/huggingface_gpt-4-with-vision-is-cool-but-it-has-some-activity-7134204742364196865-k_26?utm_source=share&utm_medium=member_android
+
+<img src="/img/a1c21de3-fa18-4a7d-a745-edae2a3e4205.png" width="400" />
+<br/><br/>
+
 ## Deploy Idefics 9B & 80B Visual Language Models on Amazon SageMaker
 Summary: An open-access visual language model called IDEFICS can generate text based on pictures and texts. It comes in two sizes: 9B and 80B. You can deploy Idefics to Amazon SageMaker using the Hugging Face LLM DLC. You can set up your development environment, get the new Hugging Face LLM DLC, deploy the model to SageMaker, run inference and chat with it, and clean up afterward. Hardware requirements depend on the model size and instance type.
 
