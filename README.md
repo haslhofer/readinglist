@@ -1,3 +1,11 @@
+## PyLLMs: Minimal Python Library for Connecting to LLMs with Benchmarking
+Summary: PyLLMs is a Python library that allows users to connect to various large language models (LLMs), including those from OpenAI, Anthropic, AI21, Cohere, Aleph Alpha, HuggingfaceHub, and Google. It features an automated benchmark system to evaluate models based on quality, speed, and cost. Additionally, PyLLMs supports multi-model usage, async completions, and streaming from compatible models, making it ideal for fast prototyping and evaluating different models.
+
+Link: https://github.com/kagisearch/pyllms
+
+<img src="/img/6da304ac-db99-48a1-987a-c784eb86401e.png" width="400" />
+<br/><br/>
+
 ## Cookbook for Solving Common Problems in Building GPT/LLM Apps
 Summary: Building AI applications with large language models (LLMs) presents challenges in managing intra-conversation memory for chatbots and long-term memory for question answering and semantic search. Solutions include buffering messages in chatbots, using vector databases for question answering, output formatting to save tokens, caching LLM responses, and deploying LLMs locally.
 
