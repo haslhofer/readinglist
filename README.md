@@ -1,3 +1,11 @@
+## LinkedIn: Build Your Professional Network
+Summary: I apologize, as I do not have access to the internet to get the context from the given URL. Therefore, I am unable to summarize the text in one paragraph.
+
+Link: https://www.linkedin.com/posts/metaai_token-merging-your-vit-but-faster-meta-activity-7030988781688160258--WpO?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/e0e29fea-e77e-49e6-b9f0-4a2fbe44d317.png" width="400" />
+<br/><br/>
+
 ## Language Models Learn to Use External Tools for Improved Zero-Shot Performance
 Summary: Researchers have developed Toolformer, a type of AI model called a language model, that can learn to use external tools like calculators, search engines, translation systems, and Q&A systems to enhance its capabilities. It does this by deciding which tool to call, when to call it, what data to input, and how to incorporate the results into its language model predictions. This enables Toolformer to achieve improved performance on various downstream tasks such as question answering, machine translation, and summarization without sacrificing fundamental language modeling capabilities.
 
