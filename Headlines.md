@@ -1,3 +1,8 @@
+AI Advancements, Partnerships, and Legal Debates Shape the Landscape of 2023
+
+___
+
+
 Small LLMs Under-13B: The Rising Stars of Open Language Models
 
 ___
