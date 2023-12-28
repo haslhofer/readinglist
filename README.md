@@ -1,3 +1,11 @@
+## Challenges in building production-ready Large Language Model applications
+Summary: Large Language Models (LLMs), such as ChatGPT or Google Bard, have opened new possibilities for production-ready applications. However, the journey from a fascinating prototype to a fully functional product deployed at scale comes with several challenges. These challenges stem from the ambiguity of natural languages, the stochastic nature of LLMs leading to inconsistent user experiences, and the rapidly evolving landscape that demands continuous analysis and decision-making on cost-latency, build versus buy, and prompting versus fine-tuning techniques. Companies are actively addressing these challenges by developing strategies and techniques to mitigate ambiguity, improve consistency, and optimize resource allocation.
+
+Link: https://www.linkedin.com/posts/chiphuyen_llms-promptengineering-mlops-activity-7051955337221844992-oG7a?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/ce049e56-8366-45bf-8648-50fe708a92e0.png" width="400" />
+<br/><br/>
+
 ## Coding ChatGPT from Scratch: A Mini-Series on Reinforcement Learning with Human Feedback
 Summary: The YouTube playlist titled "Coding chatGPT from Scratch | Mini-Series" consists of five videos that introduce the concept of ChatGPT and reinforcement learning with human feedback (RLHF). The user will learn how to implement a minimal but efficient RLHF pipeline from scratch using PyTorch, a popular deep learning library. By following the series, the user can gain insights into the theory and practical implementation of RLHF, and test the pipeline on a limited dataset.
 
