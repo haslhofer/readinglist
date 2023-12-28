@@ -1,3 +1,11 @@
+## Course announcement: Enroll in Reinforcement Learning from Human Feedback to learn how to build AI systems that improve through human feedback
+Summary: There's a new course called ChatGPT Prompt Engineering for Developers, which teaches how to use a large language model (LLM) to quickly build new and powerful applications. The course is taught by Isa Fulford from OpenAI and Andrew Ng from DeepLearning.AI and is suitable for beginners with a basic understanding of Python as well as advanced machine learning engineers. Course access is free for a limited time during the DeepLearning.AI learning platform beta.
+
+Link: https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
+
+<img src="/img/57be4ee7-ec8f-4df9-a720-5a4f205dbc1c.png" width="400" />
+<br/><br/>
+
 ## Open Source 'Chatbot Service' to Chat with 'OpenAI Models' as Assistants
 Summary: This repository introduces a service that converts instruction-following fine-tuned Large Language Models to chatbots. It includes an easy-to-use Gradio UI and Discord bot integration. The service supports various models and allows for internet search capability with a Serper API key. To run the Gradio application, use the command `python app.py` and for the Discord bot, use `python discord_app.py --token [discord-token] --model-name [model-name]`. Currently, it supports 2-3 past conversations for context management. The project is open-sourced under the Apache-2.0 license and is hosted on GitHub.
 
