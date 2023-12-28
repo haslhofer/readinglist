@@ -1,3 +1,11 @@
+## 
+Summary: 
+
+Link: https://www.linkedin.com/posts/rami-krispin_machinelearning-deeplearning-datascience-activity-7050477779120766976-6PZa?utm_source=share&utm_medium=member_android
+
+<img src="/img/5c922f5d-73f9-494c-b656-3f114053aff2.png" width="400" />
+<br/><br/>
+
 ## AI Tools Can Generate Entire 3D Sets For Your Film Projects
 Summary: The provided text is a list of YouTube videos related to the use of AI tools for creating 3D environments, animations, and short films. The videos cover a range of topics, including generating 3D models from 2D images, creating AI-generated characters, and using AI for virtual production.
 
