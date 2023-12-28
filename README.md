@@ -1,3 +1,11 @@
+## Behind-the-Scene with Copilot: Microsoft's Next Generation User Experience
+Summary: Microsoft Design introduces a new AI tool, Copilot, that utilizes large language models to enhance productivity experiences within Microsoft 365. The tool aims to provide assistance in a collaborative, conversational manner, making it a co-pilot rather than a fully automated system. To ensure responsible use and appropriate trust, Copilot's design emphasizes user control, education, visual identity, and ethical considerations. The article highlights the unique challenges and opportunities of designing for next-generation AI and the importance of agility and open learning to incorporate new insights and feedback.
+
+Link: https://medium.com/microsoft-design/behind-the-design-meet-copilot-2c68182a0e70
+
+<img src="/img/77e00551-b386-4056-8d74-53caffbb8e83.png" width="400" />
+<br/><br/>
+
 ## Microsoft reveals HuggingGPT, a system linking ChatGPT with public ML communities to solve complex AI tasks
 Summary: Microsoft introduced a groundbreaking AI model that combines the strengths of large language models (LLMs) with public machine learning (ML) communities. This model, called HuggingGPT, leverages the ChatGPT interface to execute various expert text and visual models from HuggingFace. It follows a four-stage process: task planning, model selection, task execution, and response generation. The extensive range of models on HuggingFace offers significant potential applications and marks a major step toward achieving artificial general intelligence.
 
