@@ -1,3 +1,11 @@
+## Local LLM and LlamaIndex Allow Offline Summarization of YouTube Videos
+Summary: This article discusses utilizing LlamaIndex and a local Large Language Model (LLM) to summarize YouTube videos. The setup process for the LLM is outlined in detail, including prerequisites and installation steps. It highlights the creation of a vector index for efficient search using the local embedding model. Practical examples demonstrate how to query the created index and retrieve summarized responses. The article emphasizes the time taken for local LLM to generate responses compared to OpenAI. It concludes by mentioning potential improvements, such as using more powerful hardware.
+
+Link: https://medium.com/@bSharpML/use-llamaindex-and-a-local-llm-to-summarize-youtube-videos-29817440e671
+
+<img src="/img/54e724c9-e657-46e6-8f28-abdf2e743e8f.png" width="400" />
+<br/><br/>
+
 ## Use LlamaIndex and a Local LLM to Summarize YouTube Videos
 Summary: This article displays how to summarize YouTube videos using LlamaIndex and a local LLM. The setup involves installing Llamacpp along with LlamaIndex and sentence-transformers in a Python environment. Additionally, a local LLM model from Huggingface is utilized. The system's capabilities are demonstrated by requesting information about the Ancient Aliens TV series, creating a vector index for transcripts, loading the vector index, querying the index with prompts, and viewing the source nodes for the generated responses. The outcomes are promising, although the latency is considerably longer than when using OpenAI. However, this approach offers an offline solution for summarization and opens up the possibility of integrating the technology with a Neo4j vector index.
 
