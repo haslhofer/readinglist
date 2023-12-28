@@ -1,3 +1,11 @@
+## 13 Rules for Success from the Founder of Chat GPT
+Summary: Sam Altman shares his 13 powerful rules for business success that he learned from observing thousands of founders. These rules include focusing on exponential improvement, having almost too much self-belief, learning to think independently, getting good at sales, making it easy to take risks, focusing on the right things, working hard, being bold, being willful, being hard to compete with, building a network, owning things, and being internally driven.
+
+Link: https://www.forbes.com/sites/jodiecook/2023/04/12/how-to-be-successful-chat-gpt-founder-sam-altmans-13-powerful-rules-for-business/
+
+<img src="/img/fd08d95c-125e-4913-887d-c0e53d5d96ae.png" width="400" />
+<br/><br/>
+
 ## Over 50 Different 1 Billion+ Parameter Language Models Available
 Summary: As of April 2023, there are over 50 publicly accessible large language models (LLMs) with at least 1 billion parameters. Some notable examples include GPT-J, GPT-Neo, Pythia, Polyglot, J1, LLaMa, OPT, Fairseq, Cerebras-GPT, GLM-130B, YaLM, and several others. Additionally, fine-tuned models like Alpaca, InstructGPT, BLOOMZ, Flan-UL2, and Galactica have been developed based on these large foundational models.
 
