@@ -1,3 +1,11 @@
+## MosaicML introduces its optimi
+Summary: MosaicML introduces its optimized MosaicBERT architecture, claiming that a competitive BERT-Base model can be pretraining from scratch on the Mosaic ML platform for only $20. The MosaicBERT architecture includes modifications to the attention mechanism and feedforward layers, resulting in improved performance and training efficiency. Benchmarking against Hugging Face's BERT-Base, MosaicBERT-Base reaches a similar average GLUE score in less time and at a lower cost. MosaicBERT also demonstrates promising results for larger models like BERT-Large, achieving an average GLUE score of 83.2 in 15.85 hours compared to 23.35 hours for Hugging Face's BERT-Large. These advancements enable researchers and engineers to pretrain custom BERT models on their own data without time and cost restrictions.
+
+Link: https://www.mosaicml.com/blog/mosaicbert
+
+<img src="/img/384985a9-744b-44a2-85e2-78c04f1a1e99.png" width="400" />
+<br/><br/>
+
 ## EleutherAI lab, CarperAI, plans to release the first open-source language model trained with Reinforcement Learning from Human Feedback.
 Summary: CarperAI, an EleutherAI lab, has plans to release the first open-source "instruction-tuned" large language model (LLM) created in collaboration with industry leaders in training and labeling. This model aims to improve the performance and safety of LLMs by incorporating reinforcement learning from human feedback, enabling better search, writing assistance, code generation, and generalist tasks. The open-source release is crucial for enabling academics, researchers, and startups to advance AI research and build upon state-of-the-art models.
 
