@@ -1,3 +1,10 @@
+NeRF: Neural Radiance Fields for View Synthesis
+
+Filename:4c9b7334-ca94-47ed-9351-2154ac983b62.png
+
+___
+
+
 Text-To-4D: Generating 3D Dynamic Scenes from Text Descriptions
 
 Filename:a72733e6-a7ef-4960-a37a-b32a90a1e69b.png
