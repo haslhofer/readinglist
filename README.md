@@ -1,3 +1,11 @@
+## Next-Generation AI and the Design of the Copilot Experience in Microsoft 365
+Summary: The article discusses the introduction of Microsoft 365 Copilot, a revolutionary AI-powered tool that transforms user interaction with technology. It highlights the transition from AI as an autopilot to AI as a co-pilot, where users collaborate with the AI to create powerful productivity tools. Copilot empowers users to communicate more effectively and enhances creativity by refining outputs and sparking fresh ideas. The article emphasizes ethical considerations, transparency, and appropriate trust as key principles in designing the Copilot experience. It presents a three-part framework for full-spectrum productivity, addressing immersive, assistive, and embedded experiences across multiple altitudes of work. The article stresses the importance of user education, visual identity, and intentional friction to ensure human agency and responsible use. Finally, it highlights the need for agile design and engineering processes to adapt to emerging technologies and customer feedback, fostering a learn-it-all mindset for continuous improvement and collaboration.
+
+Link: https://medium.com/microsoft-design/behind-the-design-meet-copilot-2c68182a0e70
+
+<img src="/img/29797449-f291-41b2-99aa-9024ca255d0f.png" width="400" />
+<br/><br/>
+
 ## Microsoft research reveals an AI model that combines capabilities of large language models with public machine-learning communities to tackle complex AI tasks.
 Summary: Microsoft announced a breakthrough in artificial intelligence by combining large language models (LLMs) with public machine learning communities. This integration allows for solving complex AI tasks by leveraging both massive generalized LLMs and smaller expert models. By utilizing numerous text and visual expert models, this system can execute a variety of tasks including task planning, model selection, task execution, and response generation. With over 120k models available on HuggingFace, this has the potential to revolutionize artificial intelligence and bring it closer to achieving artificial general intelligence.
 
