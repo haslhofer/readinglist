@@ -1,3 +1,11 @@
+## Stanford Researcher develops new prompting strategy for LLMs, achieving better performance with fewer parameters
+Summary: A novel prompting strategy called "Ask Me Anything" (AMA) has been developed by a Stanford researcher to enhance the performance of open-source language models with fewer parameters, enabling them to rival and even surpass the performance of larger models like GPT3-175B in few-shot scenarios across various benchmarks. This approach involves identifying effective prompt properties, creating a two-step question-answering prompting pipeline, and aggregating multiple imperfect prompts using weak supervision, leading to improved prompting performance without fine-tuning.
+
+Link: https://www.marktechpost.com/2023/02/01/researchers-at-stanford-university-introduce-the-ask-me-anything-prompting-ama-a-simple-approach-that-surprisingly-enables-open-source-llms-with-30x-fewer-parameters-to-exceed-the-few-shot-perf/
+
+<img src="/img/6cf80de5-27ea-4c83-9413-558890551df7.png" width="400" />
+<br/><br/>
+
 ## The ChatGPT Models Family: A Comprehensive Overview
 Summary: The ChatGPT language model family has revolutionized public perception of large language models (LLMs). The GPT-3 family includes various models like Davinci, Curie, Babbage, and Cushman, which differ in size, data used, and training strategy. GPT-3 models can be fine-tuned for specific tasks, such as code generation or text summarization. The GPT-1, GPT-2, and GPT-3 architectures are similar, but the training data and number of transformer blocks vary. Additionally, ChatGPT, a sibling model to InstructGPT, is trained on a blend of text and code data and leverages the text-davinci-003 model as its seed.
 
