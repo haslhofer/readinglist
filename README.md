@@ -1,3 +1,11 @@
+## GPT memory layer creation using function calling and Chroma vector store
+Summary: By utilizing Open AI's GPT 3.5 / 4 and Chroma, a vector store, a method for constructing a memory layer was developed. This involves defining functions to save and retrieve memories, using vector embeddings for semantic similarity, and enabling GPT to decide when to access these functions. The article demonstrates how the model can automatically remember and retrieve information as needed, which has implications for building applications that interact with GPT.
+
+Link: https://simonattard.substack.com/p/building-a-memory-layer-for-gpt-using
+
+<img src="/img/a83e169a-b602-48df-8c93-e9b82454b577.png" width="400" />
+<br/><br/>
+
 ## MosaicML Introduces MPT-30B, a 30B Parameter LLM, Competing with LLaMA and Falcon in the Open Source Arena
 Summary: MosaicML has launched its second big language model (LLM), called MPT-30B, which follows on from the smaller MPT-7B model it debuted in May. The new model is designed to handle even longer sequences in practice, making it a perfect fit for data-heavy enterprise applications. MosaicML claims that its new 30B parameter model also compares favorably to both LLaMA and Falcon in performance.
 
