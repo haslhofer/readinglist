@@ -1,3 +1,11 @@
+## I apologize for not being able
+Summary: I apologize for not being able to summarize the text as I do not have access to the internet to retrieve the context from the given URL.
+
+Link: https://www.linkedin.com/posts/chatgpt-generative-ai_this-week-alone-more-than-200-new-ai-tools-activity-7045374653816610816-xBij?utm_source=share&amp;utm_medium=member_desktop
+
+<img src="/img/6a8d5394-209e-474c-8bd4-7448059e22dc.png" width="400" />
+<br/><br/>
+
 ## How to train a ControlNet for Stable Diffusion and Create Your Own Custom Image Editing Conditions
 Summary: ControlNet, a structure that allows fine-grained control of diffusion models, has been used to train a model called Uncanny Faces, which can follow real face poses. This model was trained using a dataset of synthetic faces and facial landmarks. The training process is detailed, including tips for fitting the training on GPUs with different VRAM sizes. The resulting model can be used to generate images of faces in various poses, but it has a unique characteristic of creating uncanny 3D-looking faces due to being trained on a synthetic face dataset.
 
