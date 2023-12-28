@@ -1,3 +1,8 @@
+ChatGPT's Prompts for Creativity and Efficiency
+
+___
+
+
 New open-source NSQL foundation model from Numbers Station AI outperforms ChatGPT and GPT-4 in text-SQL tasks.
 
 ___
