@@ -1,3 +1,11 @@
+## Carnegie Mellon University releases new Multimodal Machine Learning course
+Summary: Carnegie Mellon University professor Louis-Philippe Morency offers a new course titled "Multimodal Machine Learning" that delves into the mathematical foundations of machine and deep learning. The course materials, including lecture videos, code, and slides, are available online for public access.
+
+Link: https://www.linkedin.com/posts/rami-krispin_machinelearning-deeplearning-datascience-activity-7050477779120766976-6PZa?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/672993f2-57ca-4067-9ceb-425886d76161.png" width="400" />
+<br/><br/>
+
 ## AI Revolutionizes Short Film Production with Virtual Environments and 3D Sets
 Summary: The provided text is a collection of video titles from a playlist titled "AI ANIMATION TUTORIALS" on YouTube. The videos cover a range of topics related to using AI tools for creating 3D environments, generating 3D elements, converting 2D images to 3D models, creating AI-generated short films, and using AI for 3D animations. The playlist offers a comprehensive guide for individuals interested in exploring the use of AI in filmmaking and animation.
 
