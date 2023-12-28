@@ -1,3 +1,11 @@
+## Google Gemini and OpenAI Q*: Reshaping Generative AI Research
+Summary: The survey explores the evolving landscape of generative AI, focusing on Mixture of Experts (MoE), multimodal learning, and progress towards Artificial General Intelligence (AGI). It examines the impacts of Google's Gemini and the anticipated OpenAI Q* project, assessing computational challenges, scalability, real-world implications, and the emerging academic challenges of AI-themed and AI-generated preprints. The study highlights the importance of ethical and human-centric approaches in AI development and outlines a strategy for future AI research that emphasizes balanced and conscientious use of MoE, multimodality, and AGI.
+
+Link: https://arxiv.org/abs/2312.10868
+
+<img src="/img/088c6891-b0b4-4734-a52d-06d8c690e93c.png" width="400" />
+<br/><br/>
+
 ## Massively Scalable Inverse Reinforcement Learning for Improved Routing in Google Maps
 Summary: Researchers at Google have developed a new method for scaling inverse reinforcement learning (IRL) to world-sized routing problems with hundreds of millions of states and demonstration trajectories. They achieved this by using graph compression, spatial parallelization, problem initialization based on dominant eigenvectors and a new generalization of classic IRL algorithms called Receding Horizon Inverse Planning (RHIP). The resulting policy achieved a 16-24% improvement in global route quality and represents the largest instance of IRL in a real-world setting to date. This method can be particularly beneficial for promoting sustainable modes of transportation by considering factors beyond journey time in route recommendations.
 
