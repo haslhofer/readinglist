@@ -1,3 +1,11 @@
+## Introducing Scale's Automotive Foundation Model: A Comprehensive Tool for Autonomous Vehicle Development
+Summary: Scale AI introduces the Automotive Foundation Model, a groundbreaking solution for the automotive industry. This model combines Scale's automotive expertise with the power of generative AI and reinforcement learning to create a comprehensive solution for autonomous vehicles, robotics, AR/VR, and content and language tasks. The model's capabilities include natural language processing, code generation, and text summarization, making it a powerful tool for improving efficiency and innovation in the automotive sector.
+
+Link: https://scale.com/blog/chatgpt-vs-claude#What%20is%20%E2%80%9CConstitutional%20AI%E2%80%9D
+
+<img src="/img/ebbf601c-9eaf-435a-af21-ebb1598fb87f.png" width="400" />
+<br/><br/>
+
 ## Generative AI: Infrastructure Triumphs in the Battle for Value
 Summary: The generative artificial intelligence (AI) market is rapidly developing, with companies competing to own different parts of the stack that includes infrastructure, models, and applications. The article emphasizes that while there is a lot of growth and hype, it is still unclear where the long-term value will accrue. Infrastructure vendors, such as cloud platforms and hardware manufacturers, currently capture the most significant share of the market. Application companies face challenges with retention, product differentiation, and gross margins. Model providers, despite being responsible for the existence of the market, have not yet achieved large-scale commercial success. The article raises questions about whether there will be a winner-take-all dynamic, suggesting the potential for multiple players and horizontal and vertical companies to succeed. It concludes by highlighting the transformative nature of generative AI and the need for continued learning and adaptation in the rapidly evolving landscape.
 
