@@ -1,3 +1,8 @@
+A new large language model, Fa
+
+___
+
+
 AI21 Labs Launches AI21 Studio and Jurassic-1 Language Models
 
 ___
