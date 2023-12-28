@@ -1,3 +1,11 @@
+## A Catalog of Transformer Models for Different Tasks
+Summary: The paper presents a catalog of popular Transformer models, along with an introduction to their key aspects and innovations. These models have shown remarkable capabilities in various natural language processing tasks, including text generation, understanding, and translation. The catalog includes both self-supervised and human-in-the-loop models, such as BERT and GPT3, providing a comprehensive overview of the Transformer family.
+
+Link: https://arxiv.org/abs/2302.07730
+
+<img src="/img/940ea5ed-a5ee-4d1b-b800-bafe90bd578c.png" width="400" />
+<br/><br/>
+
 ## Ted Chiang: ChatGPT is a Blurry JPEG of the Web
 Summary: Ted Chiang compares OpenAI's chatbot ChatGPT to a blurry jpeg of the web. He argues that while ChatGPT can provide paraphrases and summarize information, it lacks the ability to quote exact sources like a search engine. Due to its lossy compression, ChatGPT may provide inaccurate or fabricated answers, particularly for factual questions, which Chiang refers to as "compression artifacts." He suggests that the blurry nature of ChatGPT might make it appear more intelligent than it actually is, as paraphrasing information can sometimes be mistaken for original thought. Chiang also expresses skepticism about the use of large language models like ChatGPT for tasks such as content creation, arguing that their output is often unoriginal and may hinder the development of writing skills. He concludes by emphasizing that writing involves more than simply reproducing existing content and that the struggle to express oneself through writing is a necessary part of the creative process.
 
