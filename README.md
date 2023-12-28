@@ -1,3 +1,11 @@
+## Together Releases OpenChatKit: A Collaborative Open-Source Project for Chatbot Development
+Summary: Together released OpenChatKit, an open-source chatbot foundation that serves as the basis for both specialized and general-purpose chatbots. It includes a tuned language model, customization recipes, an extensible retrieval system, and a moderation model. The kit allows community contributions, feedback, and ongoing development. EleutherAI's GPT-NeoX-20B model was fine-tuned for the chatbot, which excels in tasks like text summarization, question answering, text classification, and knowledge-based question answering. OpenChatKit is customizable for specific applications and includes retrieval capabilities for incorporating regularly updated information. A moderation model helps filter inappropriate user input. Together emphasizes sustainability, with the fine-tuning process occurring in a 100% carbon-negative zone of the Together Decentralized Cloud. Feedback and dataset contributions are encouraged through the Hugging Face app and GitHub repository.
+
+Link: https://www.together.xyz/blog/openchatkit
+
+<img src="/img/8791a276-7665-4a8d-b5cb-4dcf961fb902.png" width="400" />
+<br/><br/>
+
 ## Self-Instruct: Aligning Language Models with Self-Generated Instructions
 Summary: Self-Instruct presents a framework to enhance the instruction-following abilities of pretrained language models by utilizing their own generated instructions, input, and output samples. Instead of relying on limited and diverse human-written instruction data, our model bootstraps off its own generations, resulting in a 33% absolute improvement on Super-NaturalInstructions and outperforms InstructGPT-001 on a set of expert-written instructions for novel tasks. Self-Instruct provides an efficient and effective method for aligning language models with instructions, and we make our synthetic dataset and code publicly available.
 
