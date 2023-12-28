@@ -1,3 +1,8 @@
+Google Offers Free Generative AI Learning Path with 9 Courses
+
+___
+
+
 Data Pre-Processing for AI Applications Powered by Large Language Models: A Key Step to Ensure Accurate and Efficient Results
 
 ___
