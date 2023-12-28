@@ -1,3 +1,11 @@
+## Langflow: Build and experiment with LangChain pipelines effortlessly through a user-friendly interface
+Summary: Langflow is a user interface for LangChain, a library for building and prototyping large language model (LLM) pipelines. Langflow enables users to create and export flows that involve combining LLMs, prompt serializers, agents, and chains with minimal code. Its deployment options include Google Cloud Platform and Railway. Furthermore, it encourages contributions to the open-source project, promotes engagement on Discord, and offers documentation, guides, and tutorials for easy setup and usage.
+
+Link: https://github.com/logspace-ai/langflow
+
+<img src="/img/820e1530-a532-4ea6-bd3b-1386fdc4bff4.png" width="400" />
+<br/><br/>
+
 ## BERTopic Now Supports Hugging Face Hub Integration for Easier Topic Model Deployment and Sharing
 Summary: The integration of BERTopic with the Hugging Face Hub allows users to seamlessly push and pull trained topic models, enabling easy sharing, versioning, and collaboration. This integration simplifies the deployment and management of BERTopic models across different environments, making it easier to use BERTopic in production settings. It also enables users to explore the possibilities of BERTopic and share trained models on the Hub.
 
