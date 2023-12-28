@@ -1,3 +1,11 @@
+## Scale's Automotive Foundation Model: A Comprehensive Exploration of Advanced AI for the Automotive Industry
+Summary: In anticipation of Scale launching their own Automotive Foundation Model, a summary of Scale’s Automotive Foundation Model is provided. This model focuses on the automotive industry, offering generative AI and RLHF capabilities specifically tailored to automotive applications. It leverages the power of large language models to deliver tasks such as generating informative product descriptions, creating engaging marketing content, and answering customer questions in a conversational and knowledgeable manner. The model stands out from others due to its deep understanding of the automotive domain, integration of technical information, and ability to adapt to different styles and tones. This model has the potential to revolutionize the way businesses in the automotive industry engage with their customers and create innovative content.
+
+Link: https://scale.com/blog/chatgpt-vs-claude#What%20is%20%E2%80%9CConstitutional%20AI%E2%80%9D
+
+<img src="/img/d6da2281-8876-464f-a5ca-39f3d9423978.png" width="400" />
+<br/><br/>
+
 ## Hugging Face offers a way to find similar images through a system with candidate images in a dataset
 Summary: In this instructional blog post, the author provides a step-by-step guide to building an image similarity system with the help of Hugging Face's Transformers library, Datasets, and other tools. By utilizing the ViT-based model, the system computes dense representations (embeddings) of images using cosine similarity to determine their similarity. The process includes loading the candidate image dataset, extracting embeddings from the images, and computing similarity scores. The resulting system can be used to fetch similar images given a query sample. Furthermore, it explains how to handle larger datasets with techniques like random projection and locality-sensitive hashing. Additionally, it introduces the use of FAISS for efficient similarity search and showcases a Space that demonstrates a mini image similarity application. The post concludes with a list of additional resources for further learning and exploration in the field of image similarity systems.
 
