@@ -1,3 +1,11 @@
+## Google Offers Free Generative AI Learning Path with 9 Courses
+Summary: 
+
+Link: https://www.linkedin.com/posts/akshay-pachaar_google-has-created-a-generative-ai-learning-activity-7071100802882297856-PvhI?utm_source=share&utm_medium=member_android
+
+<img src="/img/3a20b3be-df94-46a0-a6c8-f3c876655ddc.png" width="400" />
+<br/><br/>
+
 ## Data Pre-Processing for AI Applications Powered by Large Language Models: A Key Step to Ensure Accurate and Efficient Results
 Summary: To build an AI application powered by Large Language Models (LLMs), data pre-processing is crucial. The author highlights the importance of data pre-processing by presenting a scenario of creating a patent idea generator using Google Patents Public Data. The scenario emphasizes the hefty costs and time spent on embedding the patent data due to unnecessary footer citations and references. This underscores the significance of data pre-processing to ensure accurate and efficient results in AI applications.
 
