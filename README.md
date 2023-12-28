@@ -1,3 +1,11 @@
+## New machine learning deployment solution from Hugging Face eases the deployment of models to product.
+Summary: Hugging Face, a company known for its NLP solutions, offers Inference Endpoints, a deployment platform that lets users deploy models to an endpoint, a stable URL that can handle model requests. These endpoints run on powerful CPUs and GPUs for efficient performance. The article showcases how to deploy a Bloom-3B model for storytelling and generate stories from Tolkien's "The Lord of the Rings" using this platform. The project was built with Streamlit, an app framework, to assist users in their writing process. The model was deployed on GPUs for faster inferences. The author highlights the benefits of the platform, such as simplified model deployment, and acknowledges Philipp Schmid's contribution to this user-friendly solution. It also invites readers to explore the project repository shared in the comments section.
+
+Link: https://www.linkedin.com/posts/jeremy-arancio_deploy-your-llm-with-inference-endpoints-activity-7071444247555551232-Zn_P?utm_source=share&utm_medium=member_android
+
+<img src="/img/86c666b2-d660-4bb4-82f5-07d1817205e8.png" width="400" />
+<br/><br/>
+
 ## Langflow: Build and experiment with LangChain pipelines effortlessly through a user-friendly interface
 Summary: Langflow is a user interface for LangChain, a library for building and prototyping large language model (LLM) pipelines. Langflow enables users to create and export flows that involve combining LLMs, prompt serializers, agents, and chains with minimal code. Its deployment options include Google Cloud Platform and Railway. Furthermore, it encourages contributions to the open-source project, promotes engagement on Discord, and offers documentation, guides, and tutorials for easy setup and usage.
 
