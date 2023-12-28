@@ -1,3 +1,8 @@
+External Link Warning: LinkedIn Cannot Verify Safety of Website
+
+___
+
+
 LinkedIn warns of potential safety risk with external link
 
 ___
