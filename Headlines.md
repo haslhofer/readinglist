@@ -1,3 +1,8 @@
+Research paper explores combining large language models and knowledge graphs for more reliable and practical AI applications
+
+___
+
+
 AI Advancements, Partnerships, and Legal Debates Shape the Landscape of 2023
 
 ___
