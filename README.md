@@ -5,29 +5,29 @@ The author emphasizes the importance of choosing a field of work that aligns wit
 
 The text highlights four fundamental steps for doing great work: choosing a field, acquiring sufficient knowledge to reach the frontier, actively seeking gaps in knowledge, and exploring promising ones. The author emphasizes the importance of hard work, curiosity, delight, and the desire to create something impressive as key motivators. They also suggest focusing on exciting and ambitious projects, and aiming to discover new fractal buds by prying open cracks in the surface of knowledge.
 
-The author acknowledges the challenges faced by young and ambitious individuals in choosing a suitable field of work, and suggests strategies for navigating this uncertainty. They emphasize the importance of taking action, trying out different things, and making oneself a big target for luck by being curious and open to new experiences.
+The author acknowledges the challenges faced by young and ambitious individuals in choosing a suitable field of work, and suggests strategies for navigating this uncertainty. They emphasize the importance of taking action, trying out different things, and **making oneself a big target for luck** by being curious and open to new experiences.
 
 The text emphasizes the significance of following one's interests and being willing to switch fields if a more exciting opportunity arises. It also underscores the importance of tailoring products or services to the actual desires of the target audience, rather than relying on imaginary, sophisticated audiences.
 
 The author cautions against pretentiousness, fashion, fear, money, politics, and other external influences that can lead one astray in choosing a field of work. They advocate for following one's genuine interests, even if they seem odd or peculiar, as this can lead to productive and fulfilling work.
 
-The author recognizes that working on exciting projects can be challenging at times, and suggests techniques for overcoming initial inertia and creative blocks. They emphasize the importance of preserving certain invariants, such as consistency and persistence, rather than relying solely on detailed planning.
+The author recognizes that working on exciting projects can be challenging at times, and suggests techniques for overcoming initial inertia and creative blocks. They emphasize the importance of preserving certain invariants, such as **consistency and persistence**, rather than relying solely on detailed planning.
 
-The text highlights the value of undirected thinking, daydreaming, and allowing the mind to wander as a source of inspiration and problem-solving. It also stresses the importance of deliberately cultivating one's taste in the work done in one's field, as this informs one's aspirations and helps set higher standards for oneself.
+The text highlights the value of undirected thinking, daydreaming, and **allowing the mind to wander** as a source of inspiration and problem-solving. It also stresses the importance of deliberately cultivating one's taste in the work done in one's field, as this informs one's aspirations and helps set higher standards for oneself.
 
 The author advises against intentionally trying to develop a distinctive style, emphasizing that style is a natural byproduct of doing good work with integrity. They also caution against affectation and intellectual dishonesty, advocating for earnestness and openness to admitting one's mistakes.
 
-The text highlights the importance of consistency and integrity in creative work, emphasizing the need to avoid incorporating elements simply because they look impressive or cost a lot of effort. It also suggests aiming for mathematical elegance and simplicity whenever possible.
+The text highlights the importance of consistency and integrity in creative work, emphasizing the need to avoid incorporating elements simply because they look impressive or cost a lot of effort. It also suggests **aiming for mathematical elegance and simplicity** whenever possible.
 
-The author emphasizes the importance of originality and creativity, describing them as a habit of mind that some individuals possess to a greater extent than others. They suggest that originality stems from trying to build or understand something slightly too difficult, and that talking or writing about one's interests can help generate new ideas.
+The author emphasizes the importance of originality and creativity, describing them as a habit of mind that some individuals possess to a greater extent than others. They suggest that originality stems from trying to build or understand something slightly too difficult, and that talking or **writing about one's interests can help generate new ideas**.
 
 The author discusses the nature of new ideas, arguing that they often involve seeing things that were right under one's nose. They emphasize the importance of being strict and willing to break rules, as well as having a high tolerance for risk.
 
 The text suggests that overlooked ideas often lose in the semifinals because they are subconsciously shot down due to various concerns. The author encourages exploring unfashionable problems and overlooked ideas by being self-indulgent and letting curiosity have its way.
 
-The author highlights the importance of asking good questions and carrying them around with you, as they can lead to valuable discoveries. They emphasize the significance of being comfortable with puzzlement and confusion, as these can be signs of originality.
+The author highlights the importance of **asking good questions and carrying them around with you**, as they can lead to valuable discoveries. They emphasize the significance of being comfortable with puzzlement and confusion, as these can be signs of originality.
 
-The text stresses the importance of prolificacy and starting small in order to discover new things. It suggests embracing failure as a valuable learning opportunity and using early versions of projects to get feedback and evolve them.
+The text stresses the importance of prolificacy and **starting small in order to discover new things**. It suggests embracing failure as a valuable learning opportunity and using early versions of projects to get feedback and evolve them.
 
 The author advocates for taking calculated risks and using the advantages of youth to explore new possibilities. They also suggest making use of the advantages of age, such as knowledge, efficiency, and power, to complement the advantages of youth.
 
