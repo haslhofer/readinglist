@@ -1,3 +1,11 @@
+## Open Source Model Context Length Extension Method Proves Successful
+Summary: Researchers at UC Berkeley successfully extended the context length of Metas LLaMA from 2048 to 16384 tokens by condensing the Rotary position embedding as suggested by Kaiokendev. The Evaluation toolkit for text long-context capabilities observes reliable performance up to 12k tokens with a small degradation afterwards. A 16K chat model and LongEval Githun are available for further exploration.
+
+Link: https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_%3F%3F%3F%3F%3F%3F-%3F%3F-%3F%3F%3F%3F%3F%3F%3F%3F%3F-%3F%3F-activity-7080432121059667968-skA3?utm_source=share&amp;utm_medium=member_desktop
+
+<img src="/img/e9b1855e-2d1b-41a5-b0b3-34184d35b043.png" width="400" />
+<br/><br/>
+
 ## Hugging Face CTO builds machine translation app using Meta's NLLB model in browser
 Summary: Julien Chaumond, CTO of Hugging Face, showcased his first web application built using transformers.js, a machine translation tool leveraging Meta's NLLB model that operates directly within a browser. He highlighted the user-friendly nature of the library and documentation provided by Joshua Lochner. Chaumond encouraged users to share their next project ideas and invited them to explore his Space.
 
