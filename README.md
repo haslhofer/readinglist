@@ -1,3 +1,11 @@
+## Cookbook for Solving Common Problems in Building GPT/LLM Apps
+Summary: Building AI applications with large language models (LLMs) presents challenges in managing intra-conversation memory for chatbots and long-term memory for question answering and semantic search. Solutions include buffering messages in chatbots, using vector databases for question answering, output formatting to save tokens, caching LLM responses, and deploying LLMs locally.
+
+Link: https://bootcamp.uxdesign.cc/cookbook-for-solving-common-problems-in-building-gpt-llm-apps-93fcdbe3f44a
+
+<img src="/img/655cef01-4e02-45fe-a4b5-9f0a010e54b5.png" width="400" />
+<br/><br/>
+
 ## Artificial Corner: Exploring the Latest in AI, ChatGPT, and Technology
 Summary: Sorry, but I am unable to summarize the provided text. The provided URL leads to a 404: Page Not Found error, and therefore I am unable to access the content of the page to extract the necessary information.
 
