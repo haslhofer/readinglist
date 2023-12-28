@@ -1,3 +1,8 @@
+Google Gemini and OpenAI Q*: Reshaping Generative AI Research
+
+___
+
+
 Massively Scalable Inverse Reinforcement Learning for Improved Routing in Google Maps
 
 ___
