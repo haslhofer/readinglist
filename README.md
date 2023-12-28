@@ -1,3 +1,11 @@
+## All About LLaMA 2: Resources and Details for the New State-of-the-Art Language Model
+Summary: LLaMA 2, a state-of-the-art open large language model developed by Meta, is available for research and commercial use. With various sizes ranging from 7B to 70B parameters, LLaMA 2 offers improvements such as a 4096 context window and support for grouped-query attention in its largest model. It is accessible through playgrounds, benchmark evaluations, and resources for prompting, training, and deployment.
+
+Link: https://www.philschmid.de/llama-2
+
+<img src="/img/9395058e-30e6-4412-beee-3670c9f631f5.png" width="400" />
+<br/><br/>
+
 ## LLaMA 2: the new state-of-the-art open large language model
 Summary: LLaMA 2, developed by Meta, is a new open large language model that outperforms other open-source models in various benchmarks. It comes in three sizes (7B, 13B, and 70B parameters) and is available for commercial use. Playgrounds are available for testing, and the model can be fine-tuned using PEFT techniques. It can be deployed locally, through managed services, or cloud platforms.
 
