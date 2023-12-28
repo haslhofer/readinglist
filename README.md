@@ -1,3 +1,11 @@
+## LangChain: A Framework for Building Applications Around Large Language Models
+Summary: LangChain, a library built around Large Language Models (LLMs), allows for building advanced tools and applications. It enables "chaining" together different components to create more complex use cases, including chatbots, question-answering, summarization, and more. The library includes customizable prompt templates and various LLM options, such as Hugging Face Hub or OpenAI models. This article introduces LangChain and demonstrates how to use it with prompt templates and LLMs. Future articles will cover other features of the library.
+
+Link: https://www.pinecone.io/learn/langchain-intro/
+
+<img src="/img/0302b0e5-e51e-4e48-8826-9c65920e90fd.png" width="400" />
+<br/><br/>
+
 ## Cerebras Lora Int8 Tutorial Not Found
 Summary: The provided URL leads to a 404 error page indicating that the requested path, "examples/cerebras/cerebras_lora_int8.ipynb," does not exist in the main branch of the xTuring repository on GitHub.
 
