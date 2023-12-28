@@ -1,3 +1,10 @@
+Data2vec 2.0: A Highly Efficient Self-Supervised Learning Algorithm for Vision, Speech, and Text
+
+Filename:ac8c06d8-598d-4fa0-9cb1-b94434253f75.png
+
+___
+
+
 Meta Unveils data2vec 2.0, a Highly Efficient Self-Supervised Learning Algorithm for Speech, Vision, and Text
 
 Filename:ac46a6c4-ee79-43ec-b24d-7e2463ceeacd.png
