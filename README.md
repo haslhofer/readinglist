@@ -1,3 +1,11 @@
+## DeepMind's Dramatron: An AI Tool for Writing Cohesive Film Scripts with Hierarchical Structures
+Summary: DeepMind's Dramatron is an AI tool designed to assist writers in generating film scripts. It utilizes hierarchical language models with structural context to create cohesive scripts and screenplays. Through prompt chaining, Dramatron can generate a title, characters, story beats, locations, and dialogues. Its primary strength lies in its ability to develop coherent writing, especially for theater scripts and screenplays, due to its defined narrative structures and characters.
+
+Link: https://www.marktechpost.com/2022/12/20/meet-dramatron-an-artificial-intelligence-ai-tool-from-deepmind-to-write-film-scripts/
+
+<img src="/img/b9ca3ee2-8e33-497f-8452-54ec28d05cb3.png" width="400" />
+<br/><br/>
+
 ## ChatGPT Demystified: Understanding the Architecture and Methodology of the Revolutionary Language Model
 Summary: ChatGPT is a type of Large Language Model (LLM) that has been trained on a massive dataset of text and code. It utilizes a self-attention mechanism that allows it to understand the relationships between words within a sequence and generate human-like text. Additionally, it incorporates Reinforcement Learning From Human Feedback, which enables it to improve its responses based on feedback from human evaluators. This combination of techniques gives ChatGPT its exceptional ability to understand and respond to natural language queries.
 
