@@ -1,3 +1,10 @@
+Top Deep Learning Papers of 2022 Reviewed
+
+Filename:2efc8961-3e71-4d2f-8743-37a7bdaae096.png
+
+___
+
+
 NeRF: Neural Radiance Fields for View Synthesis
 
 Filename:4c9b7334-ca94-47ed-9351-2154ac983b62.png
