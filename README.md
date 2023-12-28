@@ -1,3 +1,11 @@
+## I Conducted Experiments With the Alpaca/LLaMA 7B Language Model: Here Are the Results
+Summary: In a series of six tests, the author compared the performance of the Alpaca/LLaMA 7B language model, running on a Macbook Pro, to that of ChatGPT 3.5. The author found that while Alpaca/LLaMA 7B is competent and can handle most prompts, it is not yet as sophisticated as ChatGPT 3.5. However, given its smaller size and ability to run on a local device, the author believes Alpaca/LLaMA 7B has great potential.
+
+Link: https://hackernoon.com/i-conducted-experiments-with-the-alpacallama-7b-language-model-here-are-the-results
+
+<img src="/img/b88015dc-236c-4462-9469-0bfb68e558eb.png" width="400" />
+<br/><br/>
+
 ## Cerebras Releases Trained Version of GPT-3, Highest Accuracy Models Open-Source
 Summary: Emad Barsoum announces the release of a trained version of GPT-3 with improved accuracy using Cerebras Wafer-Scale Clusters, available open-source under the Apache 2.0 license. This milestone marks a significant advancement in natural language processing and deep learning, potentially enabling royalty-free use for research and commercial applications.
 
