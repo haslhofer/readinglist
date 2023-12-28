@@ -1,3 +1,11 @@
+## Building production-ready LLM applications is challenging due to the ambiguity of natural languages, the stochastic nature of LLMs, and the fast-evolving landscape of LLM technologies.
+Summary: Chip Huyen discusses the challenges of productionizing Large Language Model (LLM) applications and offers insights based on conversations with companies building applications on top of LLMs. The key challenges include the ambiguity of natural language, the stochastic nature of LLMs leading to inconsistent user experiences, and the rapidly evolving nature of the field making it difficult to make business decisions. Complex applications involving task composability, agent, and control flows are also discussed.
+
+Link: https://www.linkedin.com/posts/chiphuyen_llms-promptengineering-mlops-activity-7051955337221844992-oG7a?utm_source=share&utm_medium=member_android
+
+<img src="/img/ae52c7c7-987f-42bb-90bb-1a5772cb7e7f.png" width="400" />
+<br/><br/>
+
 ## Elevate Your Professional Journey with LinkedIn
 Summary: The provided text is not available, therefore the summary of the text in one paragraph cannot be extracted.
 
