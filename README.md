@@ -1,3 +1,11 @@
+## "Vicuna: Local AI Model Offers Offline Access with Performance Comparable to ChatGPT and Google Bard"
+Summary: Vicuna is an open-source AI model that offers many capabilities, including generating high-quality text, summarizing information, answering questions, and creating different AI character personas. It can be installed locally on your computer, allowing you to use it offline. Vicuna can be used via a user interface called Oobabooga, which makes it easy to run different large language models, including Vicuna, LLaMA, and GPT-J.
+
+Link: https://www.nextbigfuture.com/2023/04/vicuna-is-the-current-best-open-source-ai-model-for-local-computer-installation.html#amp_tf=From%20%251%24s&amp;aoh=16811699260970&amp;csi=0&amp;referrer=https%3A%2F%2Fwww.google.com
+
+<img src="/img/c060aa6a-a2ef-493a-bb8d-4e45d693836b.png" width="400" />
+<br/><br/>
+
 ## This survey provides an overvi
 Summary: This survey provides an overview of the recent advances in large language models (LLMs), a rapidly evolving field in natural language processing. LLMs have shown remarkable capabilities in solving various NLP tasks, demonstrating significant performance improvement and unique abilities not seen in smaller-scale language models. The paper covers four major aspects of LLMs: pre-training, adaptation tuning, utilization, and capacity evaluation. It also discusses the available resources for developing LLMs, identifies remaining issues, and explores potential future directions.
 
