@@ -1,3 +1,11 @@
+## Deploy Hugging Face Models on Serverless GPU
+Summary: Hugging Face, a platform and community, aims to make artificial intelligence and data science more accessible. With state-of-the-art machine learning models for different tasks and easy usability, its models can be computationally expensive to deploy due to their large size and complexity. Serverless GPUs address this challenge by providing access to powerful GPUs on demand and offer a cost-effective solution with pay-as-you-go pricing, ease of use, and scalability. This article demonstrates how to deploy Hugging Face models, like the dolly-v2-7b large language model, on serverless GPUs using Beam, a leading serverless GPU provider. The deployment process involves configuring the Beam app, creating a shared volume for model persistence, modifying the model code for API integration, and deploying the application. While serverless GPUs offer benefits, they also have potential drawbacks such as cold starts and higher costs for long-running applications.
+
+Link: https://dev.to/dhanushreddy29/deploy-hugging-face-models-on-serverless-gpu-47am
+
+<img src="/img/56406d5d-ea9f-4a96-8611-b3caa3a2e78e.png" width="400" />
+<br/><br/>
+
 ## Donut: Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG)
 Summary: Donut is a new method of document understanding that uses an OCR-free end-to-end transformer model, which doesn't require off-the-shelf OCR engines/APIs. It shows state-of-the-art performance on tasks like document classification or information extraction. In addition, Donut presents SynthDoG, which helps the model pre-training to be flexible across various languages and domains.
 
