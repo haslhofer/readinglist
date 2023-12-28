@@ -1,3 +1,8 @@
+Yarn-Llama-2-13b-128k: A Model Trained for Extreme Context Length Released by Enrico Shippole
+
+___
+
+
 LlamaIndex Releases New Best Retrieval Algorithm Inspired by ChatGPT
 
 ___
