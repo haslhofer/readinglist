@@ -1,3 +1,11 @@
+## GitHub unveils GitHub Copilot X, an AI-powered developer experience with chat, voice, and GPT-4 integration
+Summary: GitHub Copilot X is the next generation of AI-powered development tools from GitHub, which aims to revolutionize the developer experience. It introduces chat and voice interfaces, support for pull requests, documentation, and the command line, and adopts OpenAI's GPT-4 model for a more personalized and efficient development process. GitHub Copilot X strives to reduce boilerplate and manual tasks, allowing developers to focus on big-picture innovation.
+
+Link: https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/
+
+<img src="/img/f58db896-af41-4890-a70d-225a342ecaa9.png" width="400" />
+<br/><br/>
+
 ## GitHub Engineers Describe Working with Large Language Models Behind GitHub Copilot
 Summary: GitHub engineers recount their experiences working with OpenAI's large language models (LLMs) to develop GitHub Copilot. Initially astonished by the emergent behavior of the model, they recognized its potential and began envisioning an AI-powered chatbot for developers. Through model improvements, prompt crafting, and fine-tuning, they enhanced GitHub Copilot's accuracy and relevance. Over time, as the underlying models from OpenAI became more robust, GitHub Copilot gained new capabilities and improved its understanding of code to provide a more customized coding experience. The team is continuously exploring new applications of generative AI and LLMs to enhance developer productivity and create innovative AI-powered workflows.
 
