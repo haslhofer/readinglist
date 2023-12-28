@@ -1,3 +1,11 @@
+## Efficient Large Language Model Inference with Limited Memory
+Summary: The provided text introduces a novel approach for efficient inference of Large Language Models (LLMs) on devices with limited DRAM capacity. The method involves storing model parameters on flash memory and bringing them on demand to DRAM, guided by an inference cost model that optimizes data transfer and utilizes the strengths of flash memory. Two techniques, "windowing" and "row-column bundling," are introduced to reduce data transfer and increase data chunk sizes. Integration of sparsity awareness, context-adaptive loading, and a hardware-oriented design enables effective inference of LLMs on devices with restricted memory, resulting in significant speed improvements.
+
+Link: https://arxiv.org/abs/2312.11514
+
+<img src="/img/2bab8e78-5af5-4352-a9e0-8bd54da1d830.png" width="400" />
+<br/><br/>
+
 ## Top 10 ML Papers of the Week (Dec 18 - Dec 24)
 Summary: The top 10 ML papers of the week from December 18th to 24th cover various advancements in machine learning, including comparing language models, developing a high-speed inference engine for deploying LLMs locally, utilizing graph deep learning for discovering new antibiotics, introducing a large language model for zero-shot video generation, presenting an LLM-based multimodal agent framework for operating smartphone applications, proposing an efficient approach for running LLMs that exceed available DRAM capacity, suggesting methods for improving long-form question answering with self-critique, demonstrating adversarial attacks on GPT-4, providing an overview of retrieval augmented generation research, and displaying results from the BabyLLM Challenge, which involves sample-efficient pretraining on a developmentally plausible corpus.
 
