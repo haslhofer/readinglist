@@ -1,3 +1,8 @@
+Hugging Face releases an impressive vision-language model that outperforms larger closed-source models
+
+___
+
+
 Deploy Idefics 9B & 80B Visual Language Models on Amazon SageMaker
 
 ___
