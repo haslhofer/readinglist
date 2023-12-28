@@ -1,3 +1,8 @@
+Deploy Idefics 9B & 80B Visual Language Models on Amazon SageMaker
+
+___
+
+
 Navigating Libraries for Generative AI Projects: Considerations and Recommendations
 
 ___
