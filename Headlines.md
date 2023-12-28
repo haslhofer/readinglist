@@ -1,3 +1,8 @@
+Stanford Researcher develops new prompting strategy for LLMs, achieving better performance with fewer parameters
+
+___
+
+
 The ChatGPT Models Family: A Comprehensive Overview
 
 ___
