@@ -1,3 +1,11 @@
+## Semantic Kernel: Integrate Cutting-edge LLM Technology Quickly and Easily into Your Apps
+Summary: Semantic Kernel is an SDK that integrates Large Language Models (LLMs) with programming languages. It allows users to define plugins that can be chained together and orchestrated with AI. With Semantic Kernel planners, users can ask an LLM to generate a plan to achieve a unique goal. The SDK is available in C#, Python, and Java. To get started, users can run one of the provided console applications/scripts or follow the detailed tutorials provided. Additionally, the Semantic Kernel extension for Visual Studio Code simplifies designing and testing semantic functions. Users can join the community through GitHub discussions, contribute to the project, join the Discord community, and attend regular office hours and events.
+
+Link: https://github.com/microsoft/semantic-kernel
+
+<img src="/img/1993995b-f7b9-421f-8841-46e0a271711a.png" width="400" />
+<br/><br/>
+
 ## Web Stable Diffusion: A Revolutionary Machine Learning Project Bringing AI Models to Web Browsers
 Summary: Web Stable Diffusion is a project that brings stable diffusion models onto web browsers, allowing users to generate photorealistic images and images in various styles based on text input entirely within the browser, without the need for server support. The project leverages machine learning compilation (MLC) techniques, the open-source ecosystem, and the capabilities of WebGPU to achieve this. It provides a repeatable, hackable, and composable workflow that enables developers to easily develop and optimize ML models in a Python-first environment and universally deploy them everywhere, including the web. While the project demonstrates the potential of running ML models in the browser, it also acknowledges the limitations and opportunities for further performance improvements as WebGPU matures.
 
