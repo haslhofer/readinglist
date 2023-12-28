@@ -1,3 +1,8 @@
+CLIPPO: A Unified Image-and-Language Model Trained Only with Pixels
+
+___
+
+
 Unlock Your Professional Potential with LinkedIn
 
 ___
