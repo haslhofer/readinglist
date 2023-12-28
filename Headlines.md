@@ -1,3 +1,8 @@
+Hugging Face releases an Open-Domain Text-to-Video Synthesis Model
+
+___
+
+
 Microsoft AI Introduces DeBERTaV3: An Enhanced Language Model for Natural Language Processing
 
 ___
