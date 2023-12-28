@@ -1,3 +1,11 @@
+## Ski Resorts That Are Affordable and Offer World-Class Skiing
+Summary: Due to the rising cost of lavish amenities at ski resorts, some skiers are seeking affordable alternatives. Four resorts that offer world-class skiing at attainable prices are Purgatory Resort in Colorado, Aspen Snowmass in Colorado, Sugarloaf in Maine, and Mount Hood Meadows in Oregon. These resorts provide well-maintained slopes, affordable lift tickets, and a friendly ski village atmosphere, catering to skiers who value traditional skiing experiences without the expensive extras.
+
+Link: https://www.wsj.com/articles/affordable-ski-resorts-11674060010
+
+<img src="/img/a7339a91-284e-46da-9900-11a8289c584b.png" width="400" />
+<br/><br/>
+
 ## OMMO: A Large Outdoor Multimodal Dataset for Novel View Synthesis and Implicit Scene Reconstruction
 Summary: The OMMO dataset is a large-scale outdoor multimodal dataset containing complex objects and scenes with calibrated images, point clouds, and prompt annotations. The dataset is designed for several outdoor NeRF-based tasks, such as novel view synthesis, surface reconstruction, and multi-modal NeRF. The dataset contains abundant real-world urban and natural scenes with various scales, camera trajectories, and lighting conditions. A new benchmark for several outdoor NeRF-based tasks is established based on the dataset, and the performance of six state-of-the-art and representative methods is presented.
 
