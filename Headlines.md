@@ -1,3 +1,8 @@
+Muse is a groundbreaking text-
+
+___
+
+
 CLIPPO: A Unified Image-and-Language Model Trained Only with Pixels
 
 ___
