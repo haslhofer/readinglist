@@ -1,3 +1,10 @@
+Top Deep Learning Papers of 2022 Reviewed
+
+Filename:6dec56a6-6106-4742-a595-719e6ac880bc.png
+
+___
+
+
 Universal Segmentation: Masks and Panoptic Results with Mask2Former and OneFormer in Transformers
 
 Filename:91203915-6855-4df6-8caa-5640cea223c9.png
