@@ -1,3 +1,11 @@
+## FLAML: Lightweight Python library for efficient automation of machine learning and AI operations
+Summary: FLAML is a Python library for developing machine learning and AI operations. It combines large language models and machine learning models to automate workflows and optimize performance. FLAML enables the creation of next-gen GPT-X applications based on multi-agent conversations. It features automatic tuning, easy customization, and support for various machine learning tasks, including classification, regression, and tuning user-defined functions. FLAML also allows for zero-shot AutoML, enabling seamless integration with commonly used classifiers and regressors.
+
+Link: https://microsoft.github.io/FLAML/docs/getting-started
+
+<img src="/img/eeb60a57-3620-4ea8-bb17-b8f628244591.png" width="400" />
+<br/><br/>
+
 ## New course shows how to fine-tune GPT-3.5 for specific needs
 Summary: Andrew Ng, the founder of DeepLearning.AI, announced a new short course on fine-tuning Large Language Models (LLMs) to improve their performance on specific tasks. This course, taught by Sharon Zhou, CEO and Co-founder of Lamini, demonstrates how to recognize when fine-tuning LLMs is beneficial and provides a practical guide to training an open-source LLM using your own data.
 
