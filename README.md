@@ -1,3 +1,11 @@
+## Normcore LLM: A Comprehensive Reading List for Understanding Large Language Models
+Summary: Here's a summary of the text: This document is a continuously updated reading list on large language models (LLMs) covering topics such as foundational concepts, significant OSS models, LLMs in 2023, training data, pre-training, prompt engineering, GPUs, deployment, and production, evaluation, UX, and the future of LLMs. It aims to provide a comprehensive collection of resources for those interested in delving deeper into the realm of LLMs, ranging from foundational papers and building blocks to practical insights and applications.
+
+Link: https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e
+
+<img src="/img/cc465b54-3801-4619-99ed-2b59a3a867bd.png" width="400" />
+<br/><br/>
+
 ## LlamaIndex and Wey Gu unveil the world's most comprehensive short course on utilizing LLMs with Knowledge Graphs
 Summary: LlamaIndex has partnered with Wey Gu to create a comprehensive short course on using Large Language Models (LLMs) with Knowledge Graphs (KGs). The course covers key query techniques, automated KG construction, and vector database RAG vs KG RAG. There is also a full video tutorial. Additionally, there are discussions among users regarding the advantages and disadvantages of using KG RAG, methods for evaluating the quality of LLM and KG answers, and handling graph maintenance over time.
 
