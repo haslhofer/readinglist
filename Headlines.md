@@ -1,3 +1,8 @@
+Course announcement: Enroll in Reinforcement Learning from Human Feedback to learn how to build AI systems that improve through human feedback
+
+___
+
+
 Open Source 'Chatbot Service' to Chat with 'OpenAI Models' as Assistants
 
 ___
