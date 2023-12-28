@@ -1,3 +1,11 @@
+## Databricks Course Explores Applications, Development, and Impact of Large Language Models
+Summary: This course, comprising 67 videos, introduces developers, data scientists, and engineers to building LLM-centric applications. It covers topics such as LLM introduction, applications with LLMs, embeddings, vector databases, and search, multi-stage reasoning, fine-tuning and evaluating LLMs, society and LLMs, and LLMOps. The course includes module overviews, notebook demos, and guest lectures.
+
+Link: https://www.youtube.com/playlist?list=PLTPXxbhUt-YWSR8wtILixhZLF9qB_1yZm
+
+<img src="/img/570e88d2-f8ff-412f-974f-2a45d5c043b5.png" width="400" />
+<br/><br/>
+
 ## Falcon 40B: Unveiling the Best Open Source Large Language Model
 Summary: Falcon 40B is the most powerful open-source Large Language Model (LLM) available, outperforming all other open-source LLMs in terms of performance. This video tutorial demonstrates how to utilize Falcon 40B with Hugging Face Transformers and LangChain to create a chatbot and conversational agent, enabling users to interact with the LLM in a natural language format.
 
