@@ -1,3 +1,8 @@
+12-Month MBA for PMs: A more affordable and effective alternative to traditional MBA programs
+
+___
+
+
 Serverless GPU Providers in 2023: A Look at the Landscape
 
 ___
