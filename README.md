@@ -1,3 +1,11 @@
+## University of Maryland researchers introduce Cold Diffusion, a diffusion model with deterministic perturbations
+Summary: Researchers at the University of Maryland introduce a new approach called "Cold Diffusion," which replaces additive Gaussian noise in diffusion models with deterministic and arbitrary transformations. This leads to a generative model capable of reconstructing realistic samples from degraded images efficiently. While the idea of using transformations other than white Gaussian noise is interesting, it requires further investigation to understand its implications for understanding the generative capacity of diffusion models.
+
+Link: https://www.marktechpost.com/2023/01/23/researchers-at-the-university-of-maryland-propose-cold-diffusion-a-diffusion-model-with-deterministic-perturbations/
+
+<img src="/img/c4302673-f761-465a-a7eb-1887efed6427.png" width="400" />
+<br/><br/>
+
 ## ChatGPT's Impressive Performance on Wharton MBA Exam Raises Concerns About the Future of Education
 Summary: ChatGPT, an AI chatbot, performed well on a Wharton MBA exam, earning a B- grade. Its abilities have raised concerns about cheating in academia and the potential impact on MBA education's value. Experts believe ChatGPT will continue to improve and may even pass the bar exam in the future. The development of AI tools like ChatGPT highlights the need for educators and businesses to adapt and invest in AI education to thrive in the changing landscape.
 
