@@ -1,3 +1,10 @@
+NVIDIA Broadcast 1.4 Adds Eye Contact, Vignette Effects and More
+
+Filename:71483099-341d-45e2-8a5a-5a6bb640d0ea.png
+
+___
+
+
 Scale's Automotive Foundation Model: A Comprehensive Exploration of Advanced AI for the Automotive Industry
 
 Filename:d6da2281-8876-464f-a5ca-39f3d9423978.png
