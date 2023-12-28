@@ -1,3 +1,8 @@
+Stanford Online's CS224N Course: Natural Language Processing with Deep Learning
+
+___
+
+
 Transformers Agents Gets Local Agent Option for Private LLM Deployment
 
 ___
