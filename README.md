@@ -1,3 +1,11 @@
+## PowerInfer: A GPU-CPU Hybrid Inference Engine for Large Language Models
+Summary: The article discusses a new GPU-CPU hybrid inference engine called PowerInfer, which significantly speeds up inference for large language models (LLMs). This engine exploits the locality in LLM inference by preloading hot-activated neurons onto the GPU and computing cold-activated neurons on the CPU. It achieves impressive token generation rates on a single NVIDIA RTX 4090 GPU, outperforming server-grade GPUs and other inference engines. This innovation allows for efficient deployment of LLMs locally, opening up new possibilities for applications and research.
+
+Link: https://www.linkedin.com/posts/omarsar_powerinfer-a-high-speed-inference-engine-ugcPost-7142935384916688896-YGyB?utm_source=share&utm_medium=member_android
+
+<img src="/img/0347e365-02f3-411f-86af-69a760e8d56f.png" width="400" />
+<br/><br/>
+
 ## Hugging Face's Distil-Whisper small model brings fast, private speech transcription to Macs with limited VRAM.
 Summary: Vaibhav Srivastav introduces a new model, distil-whisper small, for the insanely-fast-whisper package, which is a lightweight and fast speech recognition model that can be run locally on a Mac with less than 1.5GB of VRAM. This model is particularly suitable for English transcriptions and can be installed using pipx and run with a simple command. However, it is currently limited to Mac users and does not yet support Linux systems. The model's performance is comparable to other speech recognition models, taking around 8 minutes to transcribe a 56-minute podcast episode on a Mac M1.
 
