@@ -1,3 +1,11 @@
+## Buster the Dog Clocks 32 MPH on Treadmill
+Summary: I am unable to summarize the text as it appears to be a random sequence of characters and words with no coherent meaning.
+
+Link: https://huggingface.co/spaces/jerpint/buster
+
+<img src="/img/bc42b895-d0da-4c94-b4a3-fc133d115462.png" width="400" />
+<br/><br/>
+
 ## Stanford Researcher develops new prompting strategy for LLMs, achieving better performance with fewer parameters
 Summary: A novel prompting strategy called "Ask Me Anything" (AMA) has been developed by a Stanford researcher to enhance the performance of open-source language models with fewer parameters, enabling them to rival and even surpass the performance of larger models like GPT3-175B in few-shot scenarios across various benchmarks. This approach involves identifying effective prompt properties, creating a two-step question-answering prompting pipeline, and aggregating multiple imperfect prompts using weak supervision, leading to improved prompting performance without fine-tuning.
 
