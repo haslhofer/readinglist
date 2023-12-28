@@ -1,3 +1,11 @@
+## LlamaIndex offers 4 Core Techniques to Improve RAG Pipeline Performance
+Summary: LlamaIndex has curated a list of four core techniques to improve the performance of Retrieval-Augmented Generation (RAG) pipelines in LlamaIndex. These techniques include decoupling chunks used for retrieval and synthesis, structured retrieval for larger document sets, dynamically retrieving chunks based on the task, and optimizing context embeddings. The guide, titled "Building Performant RAG Applications for Production," consolidates these techniques and provides a comprehensive resource for building performant RAG applications.
+
+Link: https://www.linkedin.com/posts/llamaindex_building-performant-rag-applications-for-activity-7102748604099964928-EvrA?utm_source=share&utm_medium=member_android
+
+<img src="/img/1dba3dfe-0753-47e3-bf11-ddec682c3952.png" width="400" />
+<br/><br/>
+
 ## GPT4All: Open-Source Large Language Models That Run Locally on CPUs and GPUs
 Summary: GPT4All is an open-source system that allows users to run trained large language models (LLMs) locally on both CPUs and GPUs. It provides a variety of tools and resources, including a desktop chat client, Python, Typescript, GoLang, C#, and Java bindings, and documentation for building and running chat clients. GPT4All also offers GGUF format support and Nomic Vulkan support, enabling local LLM inference on AMD, Intel, Samsung, Qualcomm, and NVIDIA GPUs.
 
