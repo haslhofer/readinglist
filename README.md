@@ -1,3 +1,11 @@
+## Deploy Idefics 9B & 80B Visual Language Models on Amazon SageMaker
+Summary: An open-access visual language model called IDEFICS can generate text based on pictures and texts. It comes in two sizes: 9B and 80B. You can deploy Idefics to Amazon SageMaker using the Hugging Face LLM DLC. You can set up your development environment, get the new Hugging Face LLM DLC, deploy the model to SageMaker, run inference and chat with it, and clean up afterward. Hardware requirements depend on the model size and instance type.
+
+Link: https://www.philschmid.de/sagemaker-idefics
+
+<img src="/img/feb6e7ed-c18e-4001-8a35-5cce36b22d23.png" width="400" />
+<br/><br/>
+
 ## Navigating Libraries for Generative AI Projects: Considerations and Recommendations
 Summary: The author shares insights on factors to consider when selecting Python libraries for generative AI projects. These factors include the size and complexity of the dataset, the experience level of the user, the level of community support, and the ease of understanding and accessibility of documentation. The author also mentions that it is important to choose libraries that are regularly updated with new features and bug fixes.
 
