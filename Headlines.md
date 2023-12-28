@@ -1,3 +1,8 @@
+Small LLMs Under-13B: The Rising Stars of Open Language Models
+
+___
+
+
 To successfully use RAG in your LLM applications for adding context to prompts about private datasets, your vector DB requires constant updates with the latest data. This article explains how to implement a streaming pipeline to maintain synchronization between your vector DB and datasets.
 
 ___
