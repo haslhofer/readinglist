@@ -1,3 +1,8 @@
+ScaleAI introduces Automotive Foundation Model
+
+___
+
+
 Databricks releases Dolly 2.0, an open-source instruction-tuned large language model
 
 ___
