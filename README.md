@@ -1,3 +1,11 @@
+## 20B parameter language model fine-tuned from EleutherAI's GPT-NeoX
+Summary: GPT-NeoXT-Chat-Base-20B-v0.16 is a 20B parameter language model, fine-tuned from EleutherAI’s GPT-NeoX with over 40 million instructions and carbon-negative compute. Based on dialog-style interactions, it excels at tasks like question answering, classification, extraction, and summarization. However, it has limitations, including knowledge-based question answering, coding, and creative writing. The model is intended for research, safe deployment, understanding model limitations, generating art, and educational use. Misuse, malicious use, and out-of-scope use are prohibited and include generating fake news, hate speech, impersonation, or spamming. Training involved 2 x 8 x A100 GPUs, 8bit-AdamW optimizer, and 2 x 2 x 64 x 2048 batch size. The model is available on Together Discord and has been used in 91 Spaces on HuggingFace.
+
+Link: https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B?text=My+name+is+Clara+and+I+am
+
+<img src="/img/ca0d5e0a-2305-43ea-b030-53ace75f8aea.png" width="400" />
+<br/><br/>
+
 ## Hugging Face's GPT-NeoXT-Chat-Base-20B: A 20B parameter open-source chatbot model fine-tuned for dialog-style interactions.
 Summary: GPT-NeoXT-Chat-Base-20B-v0.16 is a 20B parameter open-source chat model, fine-tuned from EleutherAI’s NeoX with over 40 million instructions on 100% carbon-negative compute. It excels at text summarization, question answering, classification, and extraction tasks, with strengths in knowledge-based closed question and answering, coding tasks, repetition, context switching, and creative writing. The model is designed for use in chatbot applications and should not be used for any other purpose.
 
