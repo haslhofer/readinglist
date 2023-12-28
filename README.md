@@ -1,3 +1,11 @@
+## Falcon Models Now Open Source Under Apache 2.0 License
+Summary: TII has released the Falcon Models (7B/40B) under the Apache 2.0 License, bringing clarity and permissiveness, especially for commercial use. The models are available on Hugging Face and can be leveraged for both open-source and commercial projects. This change in licensing allows greater flexibility and wider adoption of these best-performing open-source models.
+
+Link: https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_exciting-news-falcon-models-from-tii-activity-7069750736250621952-GH9U?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/c3f87dc8-f86e-4e6e-a6e1-b95e16e997f2.png" width="400" />
+<br/><br/>
+
 ## Gorilla: Open-Source LLM Able to Utilize 1,600+ APIs
 Summary: 
 
