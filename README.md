@@ -1,3 +1,11 @@
+## ControlNet training and inference with the StableDiffusionControlNetPipeline
+Summary: ControlNet, a framework that allows for supporting various spatial contexts as additional conditionings to Diffusion models, has been integrated into Diffusers. The StableDiffusionControlNetPipeline exposes the controlnet argument to provide a trained ControlNetModel instance while keeping the pre-trained diffusion model weights the same. It supports conditioning with depth maps, segmentation maps, scribbles, keypoints, Canny edges, Openpose poses, and more. Combinations of multiple conditionings are also possible, with the flexibility to mask conditionings and vary conditioning scales. The pipeline leverages a fast scheduler, smart model offloading, and Xformers attention layer acceleration for efficient and memory-friendly inference. Combining these techniques results in faster generation times and lower VRAM consumption compared to the original ControlNet implementation. Examples and a Colab notebook are provided to explore the pipeline and showcase its capabilities.
+
+Link: https://huggingface.co/blog/controlnet
+
+<img src="/img/bad72142-8c29-4286-a0c2-1b489dbede7c.png" width="400" />
+<br/><br/>
+
 ## An In-Depth Guide to Denoising Diffusion Probabilistic Models – From Theory to Implementation
 
 Diffusion probabilistic models are an exciting new area of research showing great promise in image generation. In retrospect, diffusion-based generative models were first introduced in 2015 and popularized in 2020 when Ho et al. published the paper “Denoising Diffusion Probabilistic Models” (DDPMs). DDPMs are responsible for making diffusion models practical. In this article, we will highlight the key concepts and techniques behind DDPMs and train DDPMs from scratch on a “flowers” dataset for unconditional image generation.
