@@ -1,3 +1,11 @@
+## Inference Stable Diffusion with C# and ONNX Runtime
+Summary: This repository contains a C# implementation for inferencing the Stable Diffusion deep learning model, which generates images from text prompts. To use the model, one needs to download the ONNX Stable Diffusion models from Hugging Face, copy the ONNX files to the project folder, and set the build for x64. The project includes a tutorial and provides resources for further exploration.
+
+Link: https://github.com/cassiebreviu/StableDiffusion
+
+<img src="/img/65fca5f4-754d-4395-b9c8-870c7f371e81.png" width="400" />
+<br/><br/>
+
 ## Blackmagic F1 Live Stream Studio Setup Unveiled
 Summary: In this video, Alex Pettitt provides a detailed explanation of the full Blackmagic ATEM live setup he designed and built for The Last Lap Show's Formula One live shows and F1 podcasts. He offers insights into the components of the setup, including the Blackmagic ATEM Mini Extreme switcher, HyperDeck Studio Mini recorders, SmartView 4K monitor, and various cameras. Pettitt emphasizes the importance of planning, cable management, and ensuring a clean signal flow to achieve a professional live streaming studio.
 
