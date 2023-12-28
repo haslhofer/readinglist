@@ -1,3 +1,11 @@
+## Blackmagic F1 Live Stream Studio Setup Unveiled
+Summary: In this video, Alex Pettitt provides a detailed explanation of the full Blackmagic ATEM live setup he designed and built for The Last Lap Show's Formula One live shows and F1 podcasts. He offers insights into the components of the setup, including the Blackmagic ATEM Mini Extreme switcher, HyperDeck Studio Mini recorders, SmartView 4K monitor, and various cameras. Pettitt emphasizes the importance of planning, cable management, and ensuring a clean signal flow to achieve a professional live streaming studio.
+
+Link: https://www.youtube.com/watch?v=2RTXUnkGwAA
+
+<img src="/img/0e8289c6-84ab-4a92-9126-09e8d1d3fdf3.png" width="400" />
+<br/><br/>
+
 ## 
 Summary: 
 
