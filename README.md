@@ -1,3 +1,11 @@
+## Hugging Face Hub: Building Image Similarity Systems with Transformers and Datasets
+Summary: Hugging Face's blog post presents an image similarity system built with the help of the Transformers library. The system uses the concept of dense representations (embeddings) to compress high-dimensional pixel space of images into lower-dimensional vectors. This helps in reducing computation time. To compute embeddings, a vision model is used, which understands the input images and generates the embeddings. The system computes similarity scores between the query image and candidate images using cosine similarity. It leverages FAISS, which offers direct integration with 🤗 Datasets, to build dense indices for efficient retrieval of similar images. The post also discusses potential extensions, such as dimensionality reduction of embeddings using random projection and locality-sensitive hashing.
+
+Link: https://huggingface.co/blog/image-similarity
+
+<img src="/img/ca6be990-146d-4fb7-841e-64accca54205.png" width="400" />
+<br/><br/>
+
 ## Google Research envisions a future where computers assist people by understanding contextually-rich inputs and generating different forms of output such as language, images, speech, or even music. With the advancement of text generation, image and video generation, computer vision techniques, and various multimodal learning models, Google Research aims to build more capable machines that partner with people to solve complex tasks ranging from coding and language-based games to complex scientific and mathematical problems.
 Summary: This blog post by Google Research provides an overview of significant progress and future directions in language, computer vision, multimodal models, generative models, and responsible AI. 
 
