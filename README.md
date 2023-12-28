@@ -1,3 +1,11 @@
+## MosaicML releases 30B OpenAI GPT-3-like model, MPT-30B, under Apache 2.0 license
+Summary: MosaicML released their open-source MPT-30B model under Apache 2.0 license. The model, trained on 1 trillion tokens, has 30 billion parameters, supports partial training on H100, and utilizes techniques like FlashAttention, ALiBi, QK LayerNorm, and more. It has a chat version available on Hugging Face Space and can be found on Hugging Face for download.
+
+Link: https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_new-open-source-model-alertmosaicml-just-activity-7077671783960584192-9HDD?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/258cc020-17b8-4210-a842-3788b3588498.png" width="400" />
+<br/><br/>
+
 ## LLM-Blender: Combining Diverse Strengths of Large Language Models for Superior Performance
 Summary: The paper titled "LLM-Blender: Ensembling Large Language Models with Pairwise Ranking and Generative Fusion" proposes a framework called LLM-Blender. It aims to combine the strengths of various open-source large language models (LLMs) and consistently achieve superior performance. The framework consists of two modules: PairRanker and GenFuser. PairRanker employs a pairwise comparison method to select the better output among candidate outputs, while GenFuser merges the top-ranked candidates to generate an improved output. Experiments on a benchmark dataset demonstrate that LLM-Blender outperforms individual LLMs and baseline methods across various metrics.
 
