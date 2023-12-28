@@ -1,3 +1,8 @@
+Data Entrepreneur Publishes Practical Series on Using Large Language Models in Practice
+
+___
+
+
 AutoTrain Advanced: Fine-tuning Any LLM on Custom Datasets Locally without Coding
 
 ___
