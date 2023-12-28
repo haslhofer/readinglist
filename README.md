@@ -1,3 +1,11 @@
+## Connect with professionals and create opportunities on LinkedIn
+Summary: I apologize, but I cannot access external websites or specific files online, including the one you have provided from LinkedIn. Therefore, I cannot provide a summary of the given text.
+
+Link: https://www.linkedin.com/posts/genai-center_using-the-donotpay-chatgpt-plugin-i-asked-activity-7050092580453187584-WAQF?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/83854891-6cfb-42f9-9e8d-394fa6cdada1.png" width="400" />
+<br/><br/>
+
 ## Open-Source Large Language Models (LLMs): A Snapshot for Builders
 Summary: 
 
