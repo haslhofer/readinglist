@@ -1,3 +1,11 @@
+## Discover the Possibilities of AI: Unveiling its Transformative Potential
+Summary: Futurepedia is an online platform that offers access to various AI tools and resources to help professionals learn and leverage AI in different areas such as marketing, productivity, design, coding, video, research and analysis. With over 5 million users, Futurepedia provides a comprehensive collection of AI tools categorized into eight categories, including AI productivity tools, video generators, text generators, image generators, art generators, audio generators, miscellaneous AI tools, and code generators. Users can explore these tools, learn about their features and applications, and access exclusive deals and discounts. The platform also features YouTube videos, articles, and other resources to help individuals and businesses stay updated on the latest AI advancements and trends.
+
+Link: https://www.futurepedia.io
+
+<img src="/img/1b34d778-9816-400a-b791-59530188ff8f.png" width="400" />
+<br/><br/>
+
 ## DeepMind proposes LASER-NV, a generative model for efficient inference of large and complex scenes in partial observability conditions
 Summary: Deepmind's LASER-NV is a conditional generative model of Neural Radiance Fields (NeRF) that efficiently infers large and complex scenes from a few arbitrary viewpoints. It generates diverse and plausible views for unobserved areas consistent with observed ones. LASER-NV uses a geometry-informed attention mechanism for maintaining consistency. Experimental results show that LASER-NV models scenes of different scales and uncertainty structures.
 
