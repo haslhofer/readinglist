@@ -1,3 +1,21 @@
+## Google Research shares exciting progress in 2022 and presents its vision for 2023 and beyond in Language, Vision, Generative Models, Multimodal Models, and Responsible AI.
+Summary: Google Research has made significant advancements in language, computer vision, multimodal models, and generative models.
+
+In language models, the Transformer model and sequence-to-sequence learning have enabled natural conversations with computers and improved tasks such as translation, coding, and mathematical reasoning. 
+
+Computer vision models have evolved from convolutional neural networks to Transformer architectures, leading to improved performance in image classification, object detection, and 3D understanding. 
+
+Multimodal models can handle multiple modalities simultaneously, such as language and vision, enabling tasks like image captioning and video question answering. 
+
+Generative models have made strides in image generation, with models like Imagen and Parti producing high-resolution images from text prompts. 
+
+Research is also ongoing in generative video and audio models. To address concerns about AI safety and responsibility, Google emphasizes adherence to AI principles and responsible development practices.
+
+Link: https://ai.googleblog.com/2023/01/google-research-2022-beyond-language.html
+
+<img src="/img/4e19824f-f633-49d4-a2fb-ae6792510870.png" width="400" />
+<br/><br/>
+
 ## Design Eye-Catching Posters with Ease: Text2Poster: Laying Out Stylized Texts on Retrieved Images
 Summary: Text2Poster is an AI-powered tool that enables users to easily create visually appealing posters by laying out stylized texts on retrieved images. By providing input text elements, including the text, font size, and a sentence to retrieve background images, users can quickly generate posters using pre-trained models for layout distribution prediction and layout refinement. The tool offers an API for quick starts without resource download, and users can also run the tool from source code by installing the necessary dependencies and downloading specific resources. Text2Poster supports background image retrieval through an API or from the source code and allows for the generation of posters in various languages by incorporating a machine translation API.
 
