@@ -1,3 +1,11 @@
+## Artificial Corner, a popular Substack publication, covers the latest news and developments in the field of artificial intelligence
+Summary: The provided text is an archive of articles related to artificial intelligence, written by an author named Frank Andrade. The articles cover a wide range of topics, including ChatGPT, its capabilities and limitations, industry predictions, comparisons with other AI models like Gemini Pro and GPT-3.5, Google's AI developments and strategies, and AI-related tools and advancements. The author also shares personal experiences and tips on using AI for productivity, learning foreign languages, and career development.
+
+Link: https://link.medium.com/fLrtiEHDhAb
+
+<img src="/img/1e549be9-cb39-4a90-a3b2-24de1a5d93ef.png" width="400" />
+<br/><br/>
+
 ## Falcon Models Now Open Source Under Apache 2.0 License
 Summary: TII has released the Falcon Models (7B/40B) under the Apache 2.0 License, bringing clarity and permissiveness, especially for commercial use. The models are available on Hugging Face and can be leveraged for both open-source and commercial projects. This change in licensing allows greater flexibility and wider adoption of these best-performing open-source models.
 
