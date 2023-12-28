@@ -1,3 +1,11 @@
+## MiniGPT-v2 and MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models
+Summary: MiniGPT-4 and MiniGPT-v2 are large language models that combine vision and language understanding to perform various tasks. MiniGPT-4 is based on LLama-2 Chat 7B and Vicuna V0 13B/7B, while MiniGPT-v2 is based on Llama2 Chat 7B. They provide code for installation, launching demos locally, training, evaluation, and examples of tasks they can perform. Citing these models is encouraged if they are used in research or applications.
+
+Link: https://github.com/Vision-CAIR/MiniGPT-4
+
+<img src="/img/9a114f7b-bfe2-41cc-88f6-813c7e0ee40e.png" width="400" />
+<br/><br/>
+
 ## Conversational AI for everyone
 Summary: Open Assistant is a conversational AI platform that offers a range of language-based services including translation, summarization, and text generation. By signing up, users agree to the platform's Terms of Service and Privacy Policy. Additionally, Open Assistant provides supporting resources such as documentation, frequently asked questions, and community engagement through GitHub, Discord, and HuggingFace.
 
