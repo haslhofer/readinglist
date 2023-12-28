@@ -1,3 +1,8 @@
+Prompt Engineering: A Diagrammatic Guide to Crafting Effective Queries for LLMs
+
+___
+
+
 Guidance is a programming paradigm for large language models which allows for constrained generation with selects, regular expressions, and context-free grammars, as well as allowing users to interleave control and generation with conditional logic and loops.
 
 ___
