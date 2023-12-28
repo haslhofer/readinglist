@@ -1,3 +1,11 @@
+## User account deactivated or deleted
+Summary: 
+
+Link: https://medium.com/codingthesmartway-com-blog/discover-thinkgpt-the-cutting-edge-python-library-that-transforms-ai-into-a-powerful-thinking-c7e588bd28b4
+
+<img src="/img/d065090f-c614-45a5-a7af-cdfb14d914e3.png" width="400" />
+<br/><br/>
+
 ## Finetuning large language mode
 Summary: Finetuning large language models (LLMs) can be expensive in terms of computational resources and time. To address this, parameter-efficient methods have been developed, such as prompt and prefix tuning. This article focuses on the adapter method, which adds tunable layers to the transformer blocks of an LLM. Adapters are parameter-efficient as they only require training a small number of newly added parameters while freezing the parameters of the pretrained LLM. Experiments show that the adapter method can achieve comparable performance to fully finetuned LLMs while requiring significantly fewer parameters.
 
