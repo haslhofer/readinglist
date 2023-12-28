@@ -1,3 +1,11 @@
+## Tech Expert Shares List of Beneficial Investments for Future Tech Preparation
+Summary: In preparation for a new chapter in the tech industry, Matt MacLaurin provides a list of valuable learning investments. Generative AI, mobile development with Swift UI, low-code platforms like Power Apps, and the creative potential of Unreal Engine are highlighted as areas of opportunity for professionals seeking growth and innovation. These recommendations aim to empower individuals with the skills and knowledge required to succeed in the ever-evolving tech landscape.
+
+Link: https://www.linkedin.com/posts/mattmaclaurin_if-i-was-preparing-for-a-new-chapter-in-tech-activity-7023724176410624000-vgNk?utm_source=share&utm_medium=member_android
+
+<img src="/img/aeaa8837-eeb8-4121-9c4b-2208cfc79f0a.png" width="400" />
+<br/><br/>
+
 ## Foundation Models and the Future of AI Applications
 Summary: Foundation models are advancing rapidly, leading to proliferating applications and evolving capabilities. However, the future progress is hindered by challenges in striking a balance between ease of building and defensibility of applications. The current state of the foundation model stack reveals opportunities in building novel applications, finding differentiation, and developing tooling to empower a broader population of builders. The tension between proprietary and open-source models resembles the iPhone/Android debate, with strengths in performance and ease of use versus flexibility and cost efficiency, respectively. The evolution of foundation model science brings forth the need for hot information retrieval, data sources and actions, and robust evaluation methods. Advances in training, deployment, and inference optimizations aim to address compute costs and operational constraints. The ethical implications of foundation model use cases also demand attention. Collaboration among big tech, founders, academics, and investors is crucial for driving innovation and realizing the full potential of foundation models.
 
