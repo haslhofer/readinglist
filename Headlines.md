@@ -1,3 +1,8 @@
+Microsoft research reveals an AI model that combines capabilities of large language models with public machine-learning communities to tackle complex AI tasks.
+
+___
+
+
 The future of AI: "GPT-You" not "GPT-X"
 
 ___
