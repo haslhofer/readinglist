@@ -1,3 +1,8 @@
+Two new 7B LLM models, MosaicML and Together, are released as open-source under the Apache 2.0 license.
+
+___
+
+
 Hugging Face integrates SpanMarker NER with its hosted inference API
 
 ___
