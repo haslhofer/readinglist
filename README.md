@@ -1,3 +1,11 @@
+## Azure AI Introduces Responsible Deployment of Large Language Models (LLMs) Like Meta's Llama 2
+Summary: Sarah Bird, a Microsoft employee, provided a comprehensive analysis of the responsible deployment of large language models (LLMs) like Meta's Llama 2 in Azure AI. Bird emphasized the importance of utilizing a comprehensive approach that includes technical mitigations, metaprompt design, user-centric design, and thorough testing. She highlighted the value of Azure AI features such as the model catalog, safety system, prompt flow, and evaluation capabilities in aiding responsible LLM development. The article underscores Microsoft's commitment to responsible AI principles and provides guidance for organizations seeking to deploy LLMs while addressing potential risks.
+
+Link: https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/deploy-large-language-models-responsibly-with-azure-ai/ba-p/3876792
+
+<img src="/img/b1736218-cb2c-4b52-8347-9ca626657ddb.png" width="400" />
+<br/><br/>
+
 ## How to Run Llama 2 on Runpod Using Oobabooga's Text-Generation-WebUI
 Summary: The guide provides instructions on setting up and running the Llama 2 language model on Runpod using Oobabooga's text-generation-webui and TheBloke's dockerLLM. It includes steps for installing necessary packages, downloading the model, and launching the server. Additionally, it offers tips on prompt templates and links to relevant resources.
 
