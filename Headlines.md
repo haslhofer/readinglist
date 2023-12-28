@@ -1,3 +1,10 @@
+OMMO: A Large Outdoor Multimodal Dataset for Novel View Synthesis and Implicit Scene Reconstruction
+
+Filename:36c36827-8a15-40a1-898d-80b6771da63d.png
+
+___
+
+
 Top Deep Learning Papers of 2022 Reviewed
 
 Filename:6dec56a6-6106-4742-a595-719e6ac880bc.png
