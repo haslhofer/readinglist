@@ -1,3 +1,11 @@
+## AI Advancements, Partnerships, and Legal Debates Shape the Landscape of 2023
+Summary: AI advancements in 2023 primarily focused on refining existing technologies, leading to incremental improvements in areas like image, video, and text generation. OpenAI's GPT-4 showcased significant capabilities, handling image inputs, real-time web browsing, and plugin support. Meta's Pixel Codec Avatars provided photorealistic 3D faces in videos. Stability AI introduced Stable Video Diffusion, a groundbreaking model for generative video, and released SDXL Turbo for real-time text-to-image generation. Collaborations, such as Runway and Getty Images, aimed to revolutionize content generation workflows. Legal discussions pertained to the European AI Act, copyright issues surrounding AI-generated content, and debates about corporate restrictions on ChatGPT and the use of low-paid workers. In summary, 2023 marked a period of incremental AI progress marked by important legal discussions and debates.
+
+Link: https://journal.everypixel.com/2023-the-year-of-ai
+
+<img src="/img/59f7e0cb-498e-473c-8eb8-dd295d96f33c.png" width="400" />
+<br/><br/>
+
 ## Small LLMs Under-13B: The Rising Stars of Open Language Models
 Summary: The emergence of smaller LLMs with impressive performance has reshaped the AI landscape in 2023, challenging the understanding of efficiency and capability in AI. These models have shown remarkable performance despite their reduced scale, exhibiting capabilities in code completion, instruction following, chat, and reasoning tasks, among others. They are also more resource-efficient and accessible to researchers and developers, offering opportunities to explore the power of language in more efficient ways. The article highlights specific smaller LLMs across different parameter sizes, discussing their unique contributions, training data, architecture, performance, and potential applications. These models, including DeciCoder-1B, Phi-1.5, Dolly v2-3b, StableLM Zephyr 3B, DeciLM-7B, Mistral-7B-Instruct-v0.2, Orca 2, Amber, OpenHathi-7B-Hi-v0.1-Base, SOLAR-10.7B-v1.0, and NexusRaven-V2-13B, showcase the diversity and potential of smaller LLMs in advancing the field of natural language processing.
 
