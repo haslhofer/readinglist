@@ -1,3 +1,11 @@
+## Interactive Social Media Generation Based on a Podcast
+Summary: PodcastSocialMediaCopilot.py is a Python script that generates social media posts from podcast transcripts. It uses the OpenAI GPT-3 API to extract key insights from the transcript and craft engaging social media posts. The script can be customized to generate posts for specific social media platforms like Twitter, Facebook, or Instagram. It offers an efficient way for podcasters to promote their content on social media and engage with their audience.
+
+Link: https://github.com/microsoft/PodcastCopilot/blob/main/PodcastSocialMediaCopilot.py
+
+<img src="/img/6a109432-ea65-4ef4-8639-85413406b7af.png" width="400" />
+<br/><br/>
+
 ## LIMA language model demonstrates strong performance with limited instruction tuning
 Summary: Researchers introduced LIMA, a 65B parameter large language model (LLM) trained with supervised learning on 1,000 curated prompts and responses, without reinforcement learning or human preference modeling. LIMA demonstrated remarkable performance, learning to follow specific response formats from a few examples, even for complex queries. It showed good generalization to unseen tasks and was often preferred to other LLMs in a human study. The findings suggest that most knowledge in LLMs is learned during pretraining, emphasizing the importance of pretraining data and techniques.
 
