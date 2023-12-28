@@ -1,3 +1,11 @@
+## LinkedIn Warns Against External Link to YouTube Video
+Summary: The provided text contains a link to a YouTube video with the title "Have questions? Learn more." However, it warns that the link is not on LinkedIn and that they are unable to verify its safety, prompting the user to learn more.
+
+Link: https://lnkd.in/guUVdJKp
+
+<img src="/img/7f92507f-edbc-45ee-986f-9995ec183ca5.png" width="400" />
+<br/><br/>
+
 ## LinkedIn Warns of Safety Concerns with External Link
 Summary: The provided text is a warning message from LinkedIn indicating that the link being shared is an external link and LinkedIn cannot verify its safety. Therefore, users are advised to learn more about the link before proceeding.
 
