@@ -1,3 +1,8 @@
+Donut: Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG)
+
+___
+
+
 Fine-Tune and Deploy Donut Model on Amazon SageMaker for Document Understanding
 
 ___
