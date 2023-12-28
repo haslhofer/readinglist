@@ -1,3 +1,11 @@
+## TPV is a new vision-centric au
+Summary: TPV is a new vision-centric autonomous driving perception system using three perspective views and a transformer-based encoder. It requires less training data and computational resources than Tesla's Occupancy-Net, while achieving comparable performance with LiDAR methods.
+
+Link: https://www.linkedin.com/feed/update/urn:li:ugcPost:7032636372460941312?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7032636372460941312%2C7032636645417828352%29
+
+<img src="/img/533300d3-0d06-41a7-b2c8-ccab890ff783.png" width="400" />
+<br/><br/>
+
 ## Colossal-AI enables efficient ChatGPT training with open-source code, reducing hardware costs by 50% and accelerating training by 7.73x.
 Summary: Colossal-AI, an open-source framework, enables users to replicate the training process of ChatGPT in a cost-effective manner. It reduces GPU memory overhead, accelerates training speed, and simplifies the training process, making it accessible even with limited hardware resources. Colossal-AI provides a user-friendly interface, efficient single-GPU and multi-GPU versions, and detailed documentation, making it suitable for a wide range of users, from beginners to experienced machine learning practitioners.
 
