@@ -1,3 +1,8 @@
+Ski purists can still find old-school resorts with affordable prices
+
+___
+
+
 OMMO: A Large-Scale Outdoor Multi-Modal Dataset and Benchmark for Novel View Synthesis and Implicit Scene Reconstruction
 
 ___
