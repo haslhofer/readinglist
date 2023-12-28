@@ -1,3 +1,11 @@
+## Cerebras Lora Int8 Tutorial Not Found
+Summary: The provided URL leads to a 404 error page indicating that the requested path, "examples/cerebras/cerebras_lora_int8.ipynb," does not exist in the main branch of the xTuring repository on GitHub.
+
+Link: https://github.com/stochasticai/xturing/blob/main/examples/cerebras/cerebras_lora_int8.ipynb
+
+<img src="/img/8f3ad918-6189-4af6-baaa-4e5cf396c4ad.png" width="400" />
+<br/><br/>
+
 ## xTuring: A Library for Building, Customizing, and Controlling Your Own Language Models
 Summary: xTuring is a toolkit that facilitates the fine-tuning of LLMs (Large Language Models) such as LLaMA, GPT-J, Galactica and others. It provides an easy-to-use interface for integrating custom data and applications into these LLMs, enabling users to build, customize, and control their own LLMs. The fine-tuning can be performed on a single GPU or scaled to multiple GPUs for faster processing. It supports memory-efficient methods such as INT4, LoRA fine-tuning to reduce hardware costs. The library allows evaluation of fine-tuned models on well-defined metrics. Additionally, xTuring offers support for INT8, INT4, and CPU inference, as well as batch processing for improved efficiency.
 
