@@ -1,3 +1,11 @@
+## Open Assistant, a conversational AI accessible to all, has concluded its operations.
+Summary: OpenAssistant is a conversational AI that has gathered data from over 13,000 humans and released it to the public, including data, models, and code. It is supported by HuggingFace and serves as a tool for supporting other open-data projects such as LMSYS Chatbot Arena and Open Empathic.
+
+Link: https://open-assistant.io/
+
+<img src="/img/f8a74d96-a413-46ee-93ba-4f3b1e120403.png" width="400" />
+<br/><br/>
+
 ## Together Releases OpenChatKit: A Collaborative Open-Source Project for Chatbot Development
 Summary: Together released OpenChatKit, an open-source chatbot foundation that serves as the basis for both specialized and general-purpose chatbots. It includes a tuned language model, customization recipes, an extensible retrieval system, and a moderation model. The kit allows community contributions, feedback, and ongoing development. EleutherAI's GPT-NeoX-20B model was fine-tuned for the chatbot, which excels in tasks like text summarization, question answering, text classification, and knowledge-based question answering. OpenChatKit is customizable for specific applications and includes retrieval capabilities for incorporating regularly updated information. A moderation model helps filter inappropriate user input. Together emphasizes sustainability, with the fine-tuning process occurring in a 100% carbon-negative zone of the Together Decentralized Cloud. Feedback and dataset contributions are encouraged through the Hugging Face app and GitHub repository.
 
