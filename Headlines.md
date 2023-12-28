@@ -1,3 +1,8 @@
+New open-source NSQL foundation model from Numbers Station AI outperforms ChatGPT and GPT-4 in text-SQL tasks.
+
+___
+
+
 Dan Hockenmaier shares February's best long-form reads on important topics like AI, great work, and tech bets.
 
 ___
