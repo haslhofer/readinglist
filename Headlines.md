@@ -1,3 +1,8 @@
+Try Redis Cloud free for 14 days for your AI projects in AWS Marketplace
+
+___
+
+
 PowerInfer: A GPU-CPU Hybrid Inference Engine for Large Language Models
 
 ___
