@@ -1,3 +1,11 @@
+## A discussion thread regarding 
+Summary: A discussion thread regarding large language models and their effectiveness when measured against standard NLP benchmarks. Feedback from users indicates that these benchmarks may not be sufficient for evaluating models that communicate in a conversational manner.
+
+Link: https://www.linkedin.com/feed/update/urn:li:activity:7071964874351792128?utm_source=share&utm_medium=member_android
+
+<img src="/img/ac2347b1-220e-4769-9215-b00996b2ee25.png" width="400" />
+<br/><br/>
+
 ## New machine learning deployment solution from Hugging Face eases the deployment of models to product.
 Summary: Hugging Face, a company known for its NLP solutions, offers Inference Endpoints, a deployment platform that lets users deploy models to an endpoint, a stable URL that can handle model requests. These endpoints run on powerful CPUs and GPUs for efficient performance. The article showcases how to deploy a Bloom-3B model for storytelling and generate stories from Tolkien's "The Lord of the Rings" using this platform. The project was built with Streamlit, an app framework, to assist users in their writing process. The model was deployed on GPUs for faster inferences. The author highlights the benefits of the platform, such as simplified model deployment, and acknowledges Philipp Schmid's contribution to this user-friendly solution. It also invites readers to explore the project repository shared in the comments section.
 
