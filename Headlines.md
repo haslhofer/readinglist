@@ -1,3 +1,10 @@
+TextReducer: A Tool for Summarization and Information Extraction
+
+Filename:7247fab3-4219-4daf-ba51-b83899a73de2.png
+
+___
+
+
 Digital artists create immersive 3D scenes from 2D images with NVIDIA Instant NeRF
 
 Filename:e983e8f0-5bea-4dcd-8a8d-7eef789a9812.png
