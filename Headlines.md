@@ -1,3 +1,8 @@
+OMMO: A Large-Scale Outdoor Multi-Modal Dataset and Benchmark for Novel View Synthesis and Implicit Scene Reconstruction
+
+___
+
+
 2022's Top Deep Learning Papers: A Comprehensive Review
 
 ___
