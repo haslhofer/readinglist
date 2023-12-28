@@ -1,3 +1,8 @@
+Open multimodal models enable text and imagery interactions.
+
+___
+
+
 Researchers develop a new programming language, LMQL, to enhance interaction with large language models like ChatGPT.
 
 ___
