@@ -1,3 +1,11 @@
+## LongLoRA enables open-source large language models with 100k token context
+Summary: Hugging Face announces the release of LongLoRA, a new training technique that enables the training of open-source large language models (LLMs) with context windows of up to 100k tokens. This breakthrough addresses the limitations of current open LLMs, which typically have context windows of 2k to 4k, making them unsuitable for certain use cases such as question answering and summarization. LongLoRA offers comparable accuracy to full model fine-tuning, significantly reduces training costs, and can extend LLaMA 2 to 100k token context without degradation. It leverages short shift attention (S2-Attn) and trains embedding and normalization layers, making it compatible with FlashAttention 2 and DeepSpeed. Additionally, a LongQA training dataset for extending context is also released.
+
+Link: https://www.linkedin.com/posts/andrew-iain-jardine_opensource-llms-activity-7112405451916398594-tZ_5?utm_source=share&utm_medium=member_android
+
+<img src="/img/16c96c20-e597-47dd-8738-60150690a20e.png" width="400" />
+<br/><br/>
+
 ## Course announcement: Enroll in Reinforcement Learning from Human Feedback to learn how to build AI systems that improve through human feedback
 Summary: There's a new course called ChatGPT Prompt Engineering for Developers, which teaches how to use a large language model (LLM) to quickly build new and powerful applications. The course is taught by Isa Fulford from OpenAI and Andrew Ng from DeepLearning.AI and is suitable for beginners with a basic understanding of Python as well as advanced machine learning engineers. Course access is free for a limited time during the DeepLearning.AI learning platform beta.
 
