@@ -1,3 +1,8 @@
+Translate Text Between Languages with txtai and Hugging Face Models
+
+___
+
+
 Yarn-Llama-2-13b-128k: A Model Trained for Extreme Context Length Released by Enrico Shippole
 
 ___
