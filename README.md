@@ -1,3 +1,11 @@
+## 404 - Page not found: LLaMA-Adapter/llama_adapter_v2_chat65b
+Summary: The provided text describes a 404 error, indicating that the specified path "llama_adapter_v2_chat65b" does not exist within the "main" branch of the "LLaMA-Adapter" repository on GitHub. As a result, the requested resource cannot be found.
+
+Link: https://github.com/ZrrSkywalker/LLaMA-Adapter/tree/main/llama_adapter_v2_chat65b
+
+<img src="/img/e78a6280-5b9e-4b2f-be9c-1b1afcc5e035.png" width="400" />
+<br/><br/>
+
 ## 20B parameter language model fine-tuned from EleutherAI's GPT-NeoX
 Summary: GPT-NeoXT-Chat-Base-20B-v0.16 is a 20B parameter language model, fine-tuned from EleutherAI’s GPT-NeoX with over 40 million instructions and carbon-negative compute. Based on dialog-style interactions, it excels at tasks like question answering, classification, extraction, and summarization. However, it has limitations, including knowledge-based question answering, coding, and creative writing. The model is intended for research, safe deployment, understanding model limitations, generating art, and educational use. Misuse, malicious use, and out-of-scope use are prohibited and include generating fake news, hate speech, impersonation, or spamming. Training involved 2 x 8 x A100 GPUs, 8bit-AdamW optimizer, and 2 x 2 x 64 x 2048 batch size. The model is available on Together Discord and has been used in 91 Spaces on HuggingFace.
 
