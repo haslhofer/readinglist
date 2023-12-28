@@ -1,3 +1,11 @@
+## ChatGPT's Impact on Public Perception of Language Models
+Summary: The ChatGPT model family consists of GPT-1, GPT-2, GPT-3, and their derived versions. The GPT-3 core model has various sizes, ranging from 1 billion to 175 billion parameters. These models can be fine-tuned for specific applications, such as code generation, text summarization, and natural language processing. The GPT-3 models are trained on massive datasets and achieve state-of-the-art performance in various tasks, making them powerful tools for various applications.
+
+Link: https://newsletter.theaiedge.io/p/the-chatgpt-models-family?utm_source=substack&utm_medium=email
+
+<img src="/img/60600c20-353f-435a-a78f-737dbaa242e9.png" width="400" />
+<br/><br/>
+
 ## TextReducer: A Tool for Summarization and Information Extraction
 Summary: TextReducer is a tool designed to summarize large texts and extract specific information based on a provided target. By utilizing the SentenceTransformer library, TextReducer can identify sentences that are most similar to the target text and create a summary. The key feature of TextReducer is its approach to avoid extracting complete sentences and instead, it removes unnecessary sentences, resulting in coherent and grammatically correct summarizations. The tool can be used for summarization, information extraction, question answering, and creating concise prompts for GPT-3 or ChatGPT.
 
