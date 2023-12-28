@@ -1,3 +1,11 @@
+## LinkedIn: Make the most of your professional life
+Summary: I am sorry, I do not have access to the internet to get the context from the given URL.
+
+Link: https://www.linkedin.com/posts/genai-center_using-the-donotpay-chatgpt-plugin-i-asked-activity-7050092580453187584-WAQF?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/3f07aed9-c2d4-4e06-9604-b1ee57507779.png" width="400" />
+<br/><br/>
+
 ## Open-Source Large Language Models Landscape: A Vital Resource for Builders and Researchers
 Summary: A list of open-source large language models (LLMs) is provided for commercial and research purposes. Commercial use models include Flan-UL2, OpenChatKit, Ceresbra-GPT, Pythia, and Bloom & mTO. Research use models include Baize, Vicuna, Koala, GPT4All, Lit-LLaMA, Dolly, Dalai, Alpaca.cpp, Alpaca-LORA, llama.cpp, ColossalChat, and FlaN-UL2.
 
