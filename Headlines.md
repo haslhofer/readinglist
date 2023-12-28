@@ -1,3 +1,8 @@
+Fast Document Similarity Detection Using MinHash and LSH
+
+___
+
+
 PyMinHash: Efficient MinHashing for Similarity Search in Pandas Dataframes
 
 ___
