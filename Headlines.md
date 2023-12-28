@@ -1,3 +1,8 @@
+Actions, not arguments, are persuasive and build credibility
+
+___
+
+
 Atomic Git Commits Are Key to Productivity and Make Your Job More Enjoyable
 
 ___
