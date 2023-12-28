@@ -1,3 +1,8 @@
+AI21 Labs Launches AI21 Studio and Jurassic-1 Language Models
+
+___
+
+
 Falcon: Two New 7B and 40B Open-Source LLMs Make Their Debut
 
 ___
