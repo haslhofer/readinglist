@@ -1,3 +1,10 @@
+CLIP-Pixels Only: A Pixel-based Model for Image-and-Language Understanding
+
+Filename:fb949c80-e83d-4d79-9b7f-9a0bec00e2d0.png
+
+___
+
+
 LinkedIn: Join the Professional Networking Platform
 
 Filename:3be925bd-71a6-47d5-bf41-712afa3e8dc3.png
