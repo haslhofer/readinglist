@@ -1,3 +1,10 @@
+Google Research shares exciting progress in 2022 and presents its vision for 2023 and beyond in Language, Vision, Generative Models, Multimodal Models, and Responsible AI.
+
+Filename:4e19824f-f633-49d4-a2fb-ae6792510870.png
+
+___
+
+
 Design Eye-Catching Posters with Ease: Text2Poster: Laying Out Stylized Texts on Retrieved Images
 
 Filename:e951a3e9-eed5-47ed-9a42-e7419d6b2ccd.png
