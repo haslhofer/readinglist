@@ -1,3 +1,8 @@
+PyMinHash: Efficient MinHashing for Similarity Search in Pandas Dataframes
+
+___
+
+
 Open-source Python package EasyLLM simplifies working with open LLMs
 
 ___
