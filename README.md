@@ -1,3 +1,11 @@
+## Meta's groundbreaking Segment Anything Model (SAM) now available on Hugging Face transformers
+Summary: Meta's groundbreaking Segment Anything Model (SAM) is now available on Hugging Face Transformers, enabling easy loading and prediction with just a few lines of code. The model offers automatic mask generation and can be utilized for various segmentation tasks. However, there have been some reported issues with the code, leading to errors when post-processing masks.
+
+Link: https://www.linkedin.com/posts/huggingface_we-are-excited-to-announce-that-the-groundbreaking-activity-7054870082925006848-OqYf?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/c16672e4-1fb1-46dd-8f12-084800f15c13.png" width="400" />
+<br/><br/>
+
 ## Stability AI releases an open-source LLM, StableLM, with 3B and 7B parameters, with a larger 15-65B model to follow soon.
 Summary: Stability AI has released StableLM, an open-source LLM with 3B and 7B parameter models, with a 15-65B model to come. The models are released under the CC BY-SA license and are available on Hugging Face.
 
