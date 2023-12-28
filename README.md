@@ -1,3 +1,11 @@
+## Build a Retrieval-Augmented Generation System from Scratch Using LlamaIndex
+Summary: LlamaIndex, a platform for building retrieval-augmented generation (RAG) applications, introduces a new initiative to teach AI engineers how to create RAG systems from scratch. The program consists of low-level tutorials covering data ingestion, retrieval, response synthesis, advanced retrieval algorithms, and agent loops. Additionally, LlamaIndex showcases its MultiDocAutoRetrieverPack, a RAG template that indexes documents with metadata dictionaries, enabling structured retrieval over metadata properties. Lastly, they offer insights into running open-source models through LlamaIndex integrations and demonstrate how to implement hybrid search from scratch.
+
+Link: https://www.linkedin.com/posts/llamaindex_every-ai-engineer-should-learn-how-to-build-activity-7108117977715146752-3hpv?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/2cd31f38-93d4-4b35-91bc-66694e530e96.png" width="400" />
+<br/><br/>
+
 ## Researchers compare the benefits and drawbacks of bitsandbytes and GPTQ, two quantization methods supported in Transformers
 Summary: The post shares a comparison between the two quantization schemes supported in the transformers library, bitsandbytes and auto-gptq. Bitsandbytes is easier to use but slower for text generation compared to auto-gptq. Auto-gptq, on the other hand, allows for quantization up to 2 bits, but it requires a calibration dataset and works only for language models as of now. The blog concludes that bitsandbytes is better suited for fine-tuning, while auto-gptq is better for text generation, and provides a possible workflow for achieving the best of both worlds.
 
