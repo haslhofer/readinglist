@@ -1,3 +1,11 @@
+## Microsoft Researcher Explores How Multi-Way Transformers Work and How They Help in Multimodal Pretraining of Microsoft’s BEiT-3 Model
+Summary: This post discusses recent advancements in multimodal pretraining with Microsoft's BEiT-3 model and its use in various applications. It highlights the increasing complexity of multimodality, with models like ImageBind and Meta-Transformer supporting up to 6 and 12 modalities, respectively. The post also mentions Composable Diffusion as a real generator and discusses the benefits of extreme multimodality in different fields. Additionally, it mentions the author's YouTube channel, which provides tutorials on multimodal-NLP, covering topics like vision-language understanding, text generation, image generation, and multimodal generation. The author also discusses the potential benefits of industry-academia collaboration in the tech industry and shares videos on various topics related to multimodal pretraining and AI.
+
+Link: https://www.linkedin.com/posts/manishsgupta_multimodal-pretraining-with-microsofts-beit-activity-7096246246465564672-6H5l?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/56b91cf5-a397-436e-a708-ded60074cdce.png" width="400" />
+<br/><br/>
+
 ## Fast Document Similarity Detection Using MinHash and LSH
 Summary: This article discusses a document similarity detection algorithm that uses MinHash Locality Sensitive Hashing in Python to find similar documents in a database. This is useful for detecting duplicate entries, such as duplicate advertisements on a platform. The algorithm works by transforming documents into sets of shingles (substrings of a specific length), representing each set as a signature using MinHashing, and then employing Locality-Sensitive Hashing to find similar signatures. It is shown that the Jaccard similarity of shingle sets is preserved in the signature matrix, making it possible to approximate document similarity efficiently. The article compares the proposed algorithm with a brute-force approach and demonstrates significant time savings.
 
