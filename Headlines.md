@@ -1,3 +1,8 @@
+The Informer model is introduced as an AAAI21 best paper which is now available in 🤗 Transformers. This blog illustrates how to use the Informer model for multivariate probabilistic forecasting.
+
+___
+
+
 Together Releases OpenChatKit, An Open-Source Foundation for Chatbots with Customizable and General-Purpose Applications
 
 ___
