@@ -1,3 +1,10 @@
+ChatGPT's Impact on Public Perception of Language Models
+
+Filename:60600c20-353f-435a-a78f-737dbaa242e9.png
+
+___
+
+
 TextReducer: A Tool for Summarization and Information Extraction
 
 Filename:7247fab3-4219-4daf-ba51-b83899a73de2.png
