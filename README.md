@@ -1,3 +1,11 @@
+## summarization strategies with large language models
+Summary: Summarizing text with a large language model (LLM) like LangChain can be done using various strategies. If the whole text fits in the context window, it can be fed directly to the LLM. For larger texts, breaking them into chunks and summarizing each chunk separately, then combining the summaries, is a common approach. Another strategy is to start with an initial summary and refine it as new chunks of text are added. These strategies can be used for various tasks like document summarization, question answering, and even generating code comments.
+
+Link: https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascience-artificialintelligence-activity-7097605497570119680-YhmL?utm_source=share&utm_medium=member_android
+
+<img src="/img/d1c0c0f4-f301-4200-81fd-7b46ddac05f2.png" width="400" />
+<br/><br/>
+
 ## Example Domain: Available for Use in Illustrative Examples
 Summary: The example domain is intended for use in illustrative examples in various documents. It can be freely utilized in literature without seeking prior permission or coordination. This domain's purpose is to serve as a placeholder or hypothetical example in written content.
 
