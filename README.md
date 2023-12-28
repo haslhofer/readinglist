@@ -1,3 +1,11 @@
+## LinkedIn warns users about visiting an external link
+Summary: The provided text is a warning message displayed when attempting to access an external link from LinkedIn. It informs users that LinkedIn cannot verify the safety of the external link and recommends learning more about external links.
+
+Link: https://lnkd.in/gjFmVydn
+
+<img src="/img/1f30e661-739b-4f27-9b81-805ccb0ffe04.png" width="400" />
+<br/><br/>
+
 ## LinkedIn Warns of Potential Safety Issues with External Links
 Summary: The provided text is a warning message from LinkedIn, indicating that the user is attempting to access an external link that LinkedIn cannot verify for safety. The message advises the user to reconsider visiting the external link and provides a link to a page where they can learn more about external links and their potential risks.
 
