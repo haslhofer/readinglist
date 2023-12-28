@@ -1,3 +1,8 @@
+MosaicML introduces its optimi
+
+___
+
+
 EleutherAI lab, CarperAI, plans to release the first open-source language model trained with Reinforcement Learning from Human Feedback.
 
 ___
