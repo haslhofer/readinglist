@@ -1,3 +1,8 @@
+Top Deep Learning Papers of 2022: A Comprehensive Review
+
+___
+
+
 NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis
 
 ___
