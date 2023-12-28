@@ -1,3 +1,11 @@
+## ScaleAI introduces Automotive Foundation Model
+Summary: Scale AI offers an automotive AI foundation model that aids enterprises in building and customizing machine learning models using their own data. With Scale's Generative AI platform, companies can access leading AI models, integrate their data, and leverage features like fine-tuning and RLHF to create sustainable and successful AI programs. The platform offers a range of applications, including data labeling, data curation, and generative AI applications like Scale Donovan for decision-making. Scale has partnered with AI leaders such as OpenAI and Anthropic and notable clients including Toyota, Microsoft, and OpenAI.
+
+Link: https://scl.ai/401MQ7x
+
+<img src="/img/99f5afb7-04de-4d7a-bb17-5d29726fa8c1.png" width="400" />
+<br/><br/>
+
 ## Databricks releases Dolly 2.0, an open-source instruction-tuned large language model
 Summary: Databricks has released Dolly 2.0, an open-source, instruction-following large language model (LLM) that is fine-tuned on a human-generated instruction dataset licensed for research and commercial use. Dolly 2.0 is based on the EleutherAI pythia model family and is trained on a new, high-quality human-generated instruction following dataset created by Databricks employees. The model weights, training code, and dataset are available for download, enabling organizations to create, own, and customize powerful LLMs without paying for API access or sharing data with third parties.
 
