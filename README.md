@@ -1,3 +1,11 @@
+## Criteria for Choosing a Vector Database in the Crowded Market of Vector Databases
+Summary: To select a vector database for their customer finding product, the author considered deployment options, ease of getting started, support, and features. They evaluated options such as Milvus, Weaviate, Qdrant, Redis, Langchain, and Llamaindex. The author emphasizes the importance of considering the ease of switching vector databases in the future and provides a summary of the criteria they used to make their decision.
+
+Link: https://www.linkedin.com/posts/somnath-banerjee_we-recently-had-to-pick-a-vector-database-activity-7098773129321218048-ATpZ?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/1b173721-04dc-4e9b-be0e-3f03e16ffb57.png" width="400" />
+<br/><br/>
+
 ## Hugging Face Releases IDEFICS, an Open Multimodal ChatGPT-Style Model for Generative Image-Text Conversations
 Summary: Hugging Face released IDEFICS, the first open multimodal ChatGPT-style model that takes images and text to generate conversational outputs. This model was created by Hugging Face's science team through meticulous data curation and model development. It comes in 80B and 9B parameter variants, supports conversational text outputs, and is built on public data. IDEFICS is integrated into Transformers and can be tested on Hugging Face.
 
