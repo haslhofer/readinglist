@@ -1,3 +1,11 @@
+## Multimodal language models could revolutionize AI by allowing machines to understand both images and text
+Summary: Utilizing images with RAG and LangChain offers several possibilities: embedding images and text together to search for both using similarity search or passing the raw images and text portions to a multimodal LLM for answer synthesis. Another approach entails using a multimodal LLM to create text summaries from images, including embedding and retrieving text, and passing text portions to a LLM for answer synthesis. Additionally, multimodal LLMs can be used to retrieve image summaries with a reference to the raw image, allowing for the passing of raw images and text portions to a multimodal LLM for answer synthesis.
+
+Link: https://www.linkedin.com/posts/dalianaliu_multimodal-llm-is-the-future-here-are-3-activity-7139817400174039040-IB7Z?utm_source=share&utm_medium=member_android
+
+<img src="/img/f50bce41-35c4-4259-b2e3-96cceb009ddf.png" width="400" />
+<br/><br/>
+
 ## Try Redis Cloud free for 14 days for your AI projects in AWS Marketplace
 Summary: Redis and LangChain have collaborated to introduce the LangChain RAG template, a transformative approach for creating and deploying generative AI APIs. Developers can use this template to create factually consistent, LLM-powered chat applications by utilizing Redis as the vector database for rapid context retrieval and grounded prompt construction. The RAG template simplifies AI application development and streamlines the process of deploying production-ready solutions.
 
