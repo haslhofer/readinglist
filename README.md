@@ -1,3 +1,11 @@
+## Google Gemini's Language Abilities Compared to OpenAI GPT
+Summary: A study by Akter et al. analyzes the language capabilities of Google's Gemini models, comparing them to OpenAI's GPT series. The evaluation covers various tasks such as reasoning, knowledge-based questions, math solving, translation, code generation, and instruction following. The results show that Gemini Pro achieves accuracy close to GPT 3.5 Turbo on most tasks, but falls slightly behind in areas like mathematical reasoning and sensitivity to answer ordering. However, Gemini demonstrates comparable performance in non-English language generation and handling longer reasoning chains. The study provides explanations for Gemini's under-performance and highlights its strengths.
+
+Link: https://arxiv.org/abs/2312.11444
+
+<img src="/img/24683d2d-2755-4367-987c-2f56be09cc03.png" width="400" />
+<br/><br/>
+
 ## Sure, here is a one-line headline describing the text you provided:
 
 **SpaceX's Starship Super Heavy Booster 4 Set for Static Fire Test**
