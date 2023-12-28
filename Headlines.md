@@ -1,3 +1,8 @@
+Ted Chiang: ChatGPT is a Blurry JPEG of the Web
+
+___
+
+
 LinkedIn: Build Your Professional Network
 
 ___
