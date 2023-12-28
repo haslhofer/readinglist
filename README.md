@@ -1,3 +1,11 @@
+## Research paper explores combining large language models and knowledge graphs for more reliable and practical AI applications
+Summary: The paper titled "Large Language Models on Graphs" offers a holistic view of the research progress and directions for utilizing knowledge graphs to make large language models (LLMs) more dependable and effective for actual deployment. It discusses the interplay of LLM and knowledge graphs in the context of improving LLM performance and addressing challenges such as hallucination and bias. The paper also highlights the importance of semantics, reasoning capabilities, and ethical considerations in integrating knowledge graphs with LLMs. By combining the knowledge from the two papers, readers can gain a comprehensive understanding of the potential benefits and current research directions in harnessing knowledge graphs to enhance the reliability and practicality of LLMs for real-world applications.
+
+Link: https://www.linkedin.com/posts/jay-jiebing-yu-ph-d-7b97a8_llm-knowledgegraph-rag-activity-7144759108775141376-g5YS?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/1534cd93-09e2-46ff-9a3b-dc8e4fb74237.png" width="400" />
+<br/><br/>
+
 ## AI Advancements, Partnerships, and Legal Debates Shape the Landscape of 2023
 Summary: AI advancements in 2023 primarily focused on refining existing technologies, leading to incremental improvements in areas like image, video, and text generation. OpenAI's GPT-4 showcased significant capabilities, handling image inputs, real-time web browsing, and plugin support. Meta's Pixel Codec Avatars provided photorealistic 3D faces in videos. Stability AI introduced Stable Video Diffusion, a groundbreaking model for generative video, and released SDXL Turbo for real-time text-to-image generation. Collaborations, such as Runway and Getty Images, aimed to revolutionize content generation workflows. Legal discussions pertained to the European AI Act, copyright issues surrounding AI-generated content, and debates about corporate restrictions on ChatGPT and the use of low-paid workers. In summary, 2023 marked a period of incremental AI progress marked by important legal discussions and debates.
 
