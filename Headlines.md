@@ -1,3 +1,10 @@
+Deploy FLAN-T5 XXL Language Model on Amazon SageMaker for Inference
+
+Filename:8667e605-3da7-4c8d-974d-d9006093cd13.png
+
+___
+
+
 There is no text provided to s
 
 Filename:268ace72-e247-49c0-aa00-3a4b8e322bfc.png
