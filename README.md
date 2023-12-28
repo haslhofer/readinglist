@@ -1,3 +1,11 @@
+## New course: Introduction to Transformers for LLMs now available
+Summary: This page contains a collection of blog posts on various topics related to artificial intelligence (AI), machine learning (ML), and natural language processing (NLP). The articles cover topics such as transformers for LLMs, ML system design, the vision transformer, text generation with LLMs, LLMs in education, and the attention mechanism. The blog also includes technical tutorials on building multimodal RAG pipelines, optimizing RAG pipelines, and building ChatGPT/LLama models.
+
+Link: https://newsletter.theaiedge.io/p/introduction-to-hands-on-data-science?utm_medium=email
+
+<img src="/img/eb9e5452-8ec1-49fe-a48e-d988b7dc414d.png" width="400" />
+<br/><br/>
+
 ## html2text is a Python script t
 Summary: html2text is a Python script that converts HTML into Markdown-structured text. It is easy to use, with various options to customize the conversion. Installation is simple via PIP. Originally written by Aaron Swartz, it is distributed under the GPLv3 license. Documentation is available online.
 
