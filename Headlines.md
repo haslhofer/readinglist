@@ -1,3 +1,8 @@
+Researchers at Hugging Face cr
+
+___
+
+
 Meta's groundbreaking Segment Anything Model (SAM) now available on Hugging Face transformers
 
 ___
