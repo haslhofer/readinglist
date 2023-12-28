@@ -1,3 +1,11 @@
+## AI Tools Can Generate Entire 3D Sets For Your Film Projects
+Summary: The provided text is a list of YouTube videos related to the use of AI tools for creating 3D environments, animations, and short films. The videos cover a range of topics, including generating 3D models from 2D images, creating AI-generated characters, and using AI for virtual production.
+
+Link: https://youtu.be/t-8I7EkIL8c
+
+<img src="/img/a3f16e41-e691-4230-809b-4214a262d17c.png" width="400" />
+<br/><br/>
+
 ## "Vicuna: Local AI Model Offers Offline Access with Performance Comparable to ChatGPT and Google Bard"
 Summary: Vicuna is an open-source AI model that offers many capabilities, including generating high-quality text, summarizing information, answering questions, and creating different AI character personas. It can be installed locally on your computer, allowing you to use it offline. Vicuna can be used via a user interface called Oobabooga, which makes it easy to run different large language models, including Vicuna, LLaMA, and GPT-J.
 
