@@ -1,3 +1,8 @@
+TextReducer: A Tool for Summarization and Information Extraction Using Sentence Similarity
+
+___
+
+
 Digital Artists Use NVIDIA Instant NeRF to Create Immersive 3D Scenes
 
 ___
