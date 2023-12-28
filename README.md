@@ -1,3 +1,11 @@
+## Harvard University Is Giving Away Free Knowledge
+Summary: Harvard University is offering 10 free online courses on a variety of topics, including programming, pricing strategy, understanding customer needs, game development, biochemistry, remote work, super-earths, happiness, writing, and philosophy. No application or fees are required to enroll in these courses.
+
+Link: https://www.linkedin.com/posts/iamarifalam_harvarduniversity-writing-coding-activity-7035581774940246016-4kBg?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/b977bf08-47be-46a6-bf35-649ee4766718.png" width="400" />
+<br/><br/>
+
 ## New course: Introduction to Transformers for LLMs now available
 Summary: This page contains a collection of blog posts on various topics related to artificial intelligence (AI), machine learning (ML), and natural language processing (NLP). The articles cover topics such as transformers for LLMs, ML system design, the vision transformer, text generation with LLMs, LLMs in education, and the attention mechanism. The blog also includes technical tutorials on building multimodal RAG pipelines, optimizing RAG pipelines, and building ChatGPT/LLama models.
 
