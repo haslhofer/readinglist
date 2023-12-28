@@ -1,3 +1,11 @@
+## Train Vision Models without Labeling Using Autodistill
+Summary: 
+
+Link: https://blog.roboflow.com/autodistill
+
+<img src="/img/979e220a-b247-41c1-9438-2e60c5044e06.png" width="400" />
+<br/><br/>
+
 ## Stanford Online's CS224N Course: Natural Language Processing with Deep Learning
 Summary: Stanford University's CS224N course, titled "Natural Language Processing with Deep Learning," offers a comprehensive exploration of cutting-edge techniques in natural language processing (NLP) and deep learning. Through a series of video lectures, students delve into topics such as word vectors, neural classifiers, recurrent neural networks, syntactic structure, translation, and self-attention. The course also covers practical considerations like final projects and ethical implications of NLP.
 
