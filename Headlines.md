@@ -1,3 +1,8 @@
+Text2Poster: Laying Out Stylized Texts on Retrieved Images
+
+___
+
+
 ChatGPT-powered website chatbot allows users to have conversations with websites
 
 ___
