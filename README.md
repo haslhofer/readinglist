@@ -1,3 +1,11 @@
+## GPT-4 Extracts Entities and Relationships from Nature Documentary Transcripts to Generate a Knowledge Graph
+Summary: Tomaz Bratanic, a freelance data analyst and engineer, created a knowledge graph from an underwater documentary using GPT-4, a sophisticated AI model. GPT-4 was utilized to extract relevant entities and relationships from the transcript of the video "Deep Sea Wonders," identifying animals, sea creatures, and their interactions. Bratanic then imported the extracted information into Neo4j, a graph database, to create a structured knowledge graph. This knowledge graph allows users to explore the information about the documentary, facilitating searches and analysis. Bratanic's work demonstrates the potential of GPT-4 for extracting knowledge from various domains, such as biology and ecology, and the value of Neo4j in organizing and visualizing this information.
+
+Link: https://neo4j.com/developer-blog/chatgpt-4-knowledge-graph-from-video-transcripts/
+
+<img src="/img/e37e0ddd-c2f0-4816-bd89-aaa2389db3d7.png" width="400" />
+<br/><br/>
+
 ## Microsoft Researchers Introduce TaskMatrix.AI: AI Ecosystem Connects Foundation Models with Millions of APIs
 Summary: Microsoft researchers developed TaskMatrix.AI, a new AI ecosystem that connects foundation models with millions of APIs. The ecosystem is designed to address the challenges in domain-specific tasks faced by foundation models and create a versatile, capable AI system. By integrating foundation models with existing APIs, TaskMatrix.AI can perform digital and physical tasks, understand user goals, generate executable codes, and provide interpretable responses. The system has the potential to enhance productivity and creativity in the future world, in conjunction with the advancement of foundation models, cloud services, robotics, and the Internet of Things.
 
