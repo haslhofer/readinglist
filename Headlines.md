@@ -1,3 +1,8 @@
+University of Maryland researchers introduce Cold Diffusion, a diffusion model with deterministic perturbations
+
+___
+
+
 ChatGPT's Impressive Performance on Wharton MBA Exam Raises Concerns About the Future of Education
 
 ___
