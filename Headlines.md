@@ -1,3 +1,8 @@
+Meta's groundbreaking Segment Anything Model (SAM) now available on Hugging Face transformers
+
+___
+
+
 Stability AI releases an open-source LLM, StableLM, with 3B and 7B parameters, with a larger 15-65B model to follow soon.
 
 ___
