@@ -1,3 +1,11 @@
+## Fine-tuning a 20B+ LLM with Amazon SageMaker using PyTorch FSDP and Hugging Face
+Summary: This blog post discusses how to scale Large Language Model (LLM) workloads to more than 20 billion parameters using Amazon SageMaker, Hugging Face, and PyTorch Fully Sharded Data Parallel (FSDP). The primary focus is on fine-tuning the GPT-NeoX-20B model released by Together with instruction-tuning, making it a large open-source alternative to OpenAI's ChatGPT. The tutorial demonstrates how to set up the environment, load and prepare the chat dataset, and fine-tune the GPT model using FSDP on Amazon SageMaker. It includes detailed instructions, code snippets, and explanations of the key concepts involved. Additionally, it highlights the cost-effectiveness of using Amazon SageMaker and PyTorch FSDP for training LLMs, costing about $200 for the provided example. The blog post emphasizes the efficiency and ease of use of this approach, making it a valuable resource for those interested in training and fine-tuning LLMs for various applications.
+
+Link: https://www.philschmid.de/sagemaker-fsdp-gpt
+
+<img src="/img/39b1e1c7-80ef-48b8-99ed-3f1605d26e4f.png" width="400" />
+<br/><br/>
+
 ## Fine-tune 20B+ language models with Amazon SageMaker, PyTorch FSDP, and Hugging Face
 Summary: Here is a summary of the article:
 
