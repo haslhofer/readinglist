@@ -1,3 +1,8 @@
+New machine learning deployment solution from Hugging Face eases the deployment of models to product.
+
+___
+
+
 Langflow: Build and experiment with LangChain pipelines effortlessly through a user-friendly interface
 
 ___
