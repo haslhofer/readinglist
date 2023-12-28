@@ -1,3 +1,8 @@
+NVIDIA Broadcast 1.4 Adds Eye Contact, Vignette, and Enhanced Virtual Background Effects
+
+___
+
+
 Introducing Scale's Automotive Foundation Model: A Comprehensive Tool for Autonomous Vehicle Development
 
 ___
