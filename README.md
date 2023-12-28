@@ -1,3 +1,11 @@
+## Panicked Silicon Valley workers sell start-up shares as valuations plummet
+Summary: Laid-off tech workers, facing plunging valuations, are selling their start-up shares, exacerbating the decline. Companies like Amazon, Microsoft, and Google have announced significant layoffs, impacting the financial stability of employees heavily compensated with stock options. This trend affects not only individuals but also the overall tech industry and portfolio composition.
+
+Link: https://finance.yahoo.com/news/laid-off-silicon-valley-workers-150000073.html
+
+<img src="/img/29ee9a49-3b97-4247-ae35-d3324852ed01.png" width="400" />
+<br/><br/>
+
 ## Synthetic Data Can Be Used to Train Credit Scoring Models but with a Loss of Predictive Power
 Summary: Researchers explored a new method for evaluating the performance of credit scoring models trained with synthetic data when applied to real-world data. The study demonstrated that models trained on synthetic data can perform well, but with a loss of predictive power compared to models trained on real-world data. The findings suggest that synthetic data can be used to train credit scoring models while protecting borrowers' privacy, but with a potential trade-off in predictive accuracy.
 
