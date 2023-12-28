@@ -1,3 +1,11 @@
+## LLaMA 2: the new state-of-the-art open large language model
+Summary: LLaMA 2, developed by Meta, is a new open large language model that outperforms other open-source models in various benchmarks. It comes in three sizes (7B, 13B, and 70B parameters) and is available for commercial use. Playgrounds are available for testing, and the model can be fine-tuned using PEFT techniques. It can be deployed locally, through managed services, or cloud platforms.
+
+Link: https://www.philschmid.de/llama-2
+
+<img src="/img/4e8696a3-7204-4839-a583-849d806ec935.png" width="400" />
+<br/><br/>
+
 ## New tutorial shows how to finetune LLM 'llama-v2' on local machine
 Summary: Abhishek Thakur, a renowned AI expert with a substantial following on LinkedIn and YouTube, has created a new tutorial demonstrating an easy method to fine-tune the advanced language model llama-v2 on a local machine using a customized dataset. This tutorial is applicable to other LLMs as well and can be utilized even with the free Google Colab version.
 
