@@ -1,3 +1,11 @@
+## Google Brain and Tel Aviv Researchers Propose Text-to-Image Model Guided by Sketches
+Summary: Researchers from Google Brain and Tel Aviv University have developed a novel text-to-image model guided by sketches. This model utilizes a Latent Edge Predictor (LEP) to map the internal activations of a pre-trained diffusion model network into spatial edge maps, allowing for the generation of realistic images that adhere to the sketch outline. The sketch-guided text-to-image synthesis process starts with a latent image representation and involves consecutive denoising steps, where the LEP predicts a sketch based on the internal activations. The model produces natural images aligned with the desired sketch, demonstrating impressive results and versatility in handling various use cases.
+
+Link: https://www.marktechpost.com/2023/01/19/google-brain-and-tel-aviv-university-researchers-proposed-a-text-to-image-model-guided-by-sketches/
+
+<img src="/img/cad2001c-7b6b-48be-b12e-8841c5c08fea.png" width="400" />
+<br/><br/>
+
 ## Ski purists can still find old-school resorts with affordable prices
 Summary: Skiing has become increasingly expensive due to extravagant additions at resorts. For those seeking a more affordable experience, four highly regarded resorts offer world-class skiing at attainable prices: Purgatory Resort in Colorado, Okemo Mountain Resort in Vermont, Ski Cooper in Colorado, and Mount Snow in Vermont. These resorts provide well-groomed slopes, reasonable lift ticket prices, and a friendly ski village atmosphere, allowing skiers to enjoy the sport without breaking the bank.
 
