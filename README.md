@@ -1,3 +1,11 @@
+## Large Language Models Create Reusable Tools for Improved Problem Solving
+Summary: The paper presents a novel framework called LLMs As Tool Makers (LATM) that empowers large language models (LLMs) to create reusable tools for problem-solving. Unique to this work is that the LLMs not only use tools but also generate them, removing the dependency on pre-existing tools. The framework comprises two phases: tool making and tool using, enabling LLMs to craft their own tools and apply them to tackle different tasks. The study showcases the effectiveness of LATM across complex reasoning tasks, such as those found in the Big-Bench benchmark, demonstrating its capability to achieve performance comparable to using LLMs for both tool making and tool using, while substantially reducing the inference cost.
+
+Link: https://arxiv.org/abs/2305.17126
+
+<img src="/img/86c85f63-13be-4edb-ac40-11d7e84af3c0.png" width="400" />
+<br/><br/>
+
 ## Deploy Hugging Face Models on Serverless GPU
 Summary: Hugging Face, a platform and community, aims to make artificial intelligence and data science more accessible. With state-of-the-art machine learning models for different tasks and easy usability, its models can be computationally expensive to deploy due to their large size and complexity. Serverless GPUs address this challenge by providing access to powerful GPUs on demand and offer a cost-effective solution with pay-as-you-go pricing, ease of use, and scalability. This article demonstrates how to deploy Hugging Face models, like the dolly-v2-7b large language model, on serverless GPUs using Beam, a leading serverless GPU provider. The deployment process involves configuring the Beam app, creating a shared volume for model persistence, modifying the model code for API integration, and deploying the application. While serverless GPUs offer benefits, they also have potential drawbacks such as cold starts and higher costs for long-running applications.
 
