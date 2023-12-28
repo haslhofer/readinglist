@@ -1,3 +1,8 @@
+Docker Strengthens DevOps by Shifting Testing Left with AtomicJar Acquisition
+
+___
+
+
 Combine Amazon SageMaker and DeepSpeed to Fine-tune FLAN-T5 XXL for Text Summarization
 
 ___
