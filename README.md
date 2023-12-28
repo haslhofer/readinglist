@@ -1,3 +1,11 @@
+## Provide the text you would like summarized so I can provide an accurate headline.
+Summary: I am unable to summarize the text as there is no text provided.
+
+Link: https://beta.openai.com/docs/guides/embeddings/limitations-risks
+
+<img src="/img/9dcc281a-ef1a-40fc-8681-ea4a35a551df.png" width="400" />
+<br/><br/>
+
 ## Muse is a groundbreaking text-
 Summary: Muse is a groundbreaking text-to-image Transformer model that outperforms existing image generation models while being more efficient. Trained on a masked modeling task in discrete token space, Muse leverages the understanding of pre-trained large language models to translate text embeddings into high-fidelity images. It showcases state-of-the-art performance, achieving a new SOTA on CC3M with an FID score of 6.06 and impressive results on zero-shot COCO evaluation. Muse also enables various image editing applications, including inpainting, outpainting, and mask-free editing, without the need for fine-tuning or inversion.
 
