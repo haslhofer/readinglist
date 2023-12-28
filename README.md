@@ -1,3 +1,11 @@
+## There is no text provided to s
+Summary: There is no text provided to summarize.
+
+Link: https://huggingface.co/spaces/jerpint/buster
+
+<img src="/img/268ace72-e247-49c0-aa00-3a4b8e322bfc.png" width="400" />
+<br/><br/>
+
 ## Stanford Researcher Develops Prompting Technique Enabling Smaller Language Models to Surpass GPT3
 Summary: A Stanford researcher has created AMA, a simple prompting strategy that enables open-source LLMs with 30 times fewer parameters to outperform the few-shot performance of GPT3-175B on 15 out of 20 popular benchmarks. This approach combines multiple imperfect prompts with weak supervision to create predictions for the best inputs and involves identifying effective prompt properties, scaling task inputs, and using weak supervision for prompt aggregation. It improves the prompting performance of off-the-shelf language models without fine-tuning and enables the use of smaller, open-source LLMs.
 
