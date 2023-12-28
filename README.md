@@ -1,3 +1,11 @@
+## Hugging Face releases two new vision-language models: DePlot and MatCha
+Summary: Hugging Face announces the release of two new vision-language models in their Transformers library: DePlot, a plot-to-text model that allows LLMs to reason about charts and plots, and MatCha, which enhances Pix2Struct's performance on visual language reasoning tasks by leveraging math reasoning and chart derendering objectives. These models enhance the reasoning abilities of LLMs related to charts, plots, and infographics.
+
+Link: https://www.linkedin.com/posts/huggingface_ai-google-artificialintelligence-activity-7050155351173718016-No-z?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/9f98622b-4a29-467b-80be-d337cabcfcf0.png" width="400" />
+<br/><br/>
+
 ## HuggingGPT: Enabling ChatGPT to Access External Tools for Efficient Language Processing
 Summary: HuggingGPT is a platform that allows ChatGPT models to access existing AI models to perform various tasks without receiving prior training, improving their flexibility, efficiency, and capabilities in natural language processing.
 
