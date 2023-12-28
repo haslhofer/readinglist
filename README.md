@@ -1,3 +1,11 @@
+## Train Your Own Language Model with Minimal Code
+Summary: In this video, Abhishek Thakur demonstrates how to train or fine-tune your own Large Language Model (LLM) with minimal code. He also provides a bonus method for doing so without writing any code. The video offers a simple and accessible approach to training LLMs, making it easier for individuals to customize language models for specific tasks or applications.
+
+Link: https://www.youtube.com/watch?v=JNMVulH7fCo
+
+<img src="/img/113ce818-4e5c-4030-95e6-415ef84e432b.png" width="400" />
+<br/><br/>
+
 ## New Amazon course dives into generative AI and large language models
 Summary: A newly launched course delves into generative AI and large language models (LLMs), exploring their applications, the Transformer architecture, prompting techniques, the generative AI project lifecycle, fine-tuning, scaling laws, PEFT/LoRA, and RLHF. Join experts to learn the skills necessary to leverage this emerging technology.
 
