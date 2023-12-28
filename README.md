@@ -1,3 +1,11 @@
+## Kosmos-1: A Multimodal Large Language Model that Can See, Reason, and Act
+Summary: Researchers introduced Kosmos-1, a multimodal large language model (MLLM) capable of perceiving general modalities, learning in context, and following instructions. Trained from scratch on web-scale multimodal corpora, Kosmos-1 demonstrated impressive performance on various tasks spanning language understanding, generation, OCR-free NLP, perception-language tasks, and vision tasks. Experiments revealed the benefits of cross-modal transfer between language and multimodal modalities. Furthermore, a new dataset was introduced to assess the nonverbal reasoning capabilities of MLLMs.
+
+Link: https://arxiv.org/abs/2302.14045
+
+<img src="/img/f57bea7e-8a22-4708-bb73-ba8ac600ecdb.png" width="400" />
+<br/><br/>
+
 ## The Informer model is introduced as an AAAI21 best paper which is now available in 🤗 Transformers. This blog illustrates how to use the Informer model for multivariate probabilistic forecasting.
 Summary: The Informer model is a multivariate probabilistic time series forecasting model that achieves state-of-the-art results on the Monash Time Series Forecasting Repository. It is based on the vanilla Transformer model, but with two major improvements: ProbSparse attention and the Distilling operation. ProbSparse attention reduces the computational complexity of the self-attention mechanism from \(O(T^2 D)\) to \(O(T \log T)\), where \(T\) is the time series length and \(D\) is the dimension of the hidden states. The Distilling operation reduces the memory usage of the model from \(O(N T^2)\) to \(O(N \cdot T \log T)\), where \(N\) is the number of encoder/decoder layers. Informer is available in the 🤗 Transformers library and can be trained on custom multivariate time series datasets using the GluonTS library. It is a promising model for tasks such as traffic forecasting, energy demand forecasting, and financial time series forecasting.
 
