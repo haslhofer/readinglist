@@ -1,3 +1,11 @@
+## Table Transformer: A Transformer-Based Model for Table Detection and Structure Recognition
+Summary: The Table Transformer model is used for table extraction from unstructured documents, table structure recognition, and functional analysis. There are two DETR models the authors trained for it: the Table Detection model, and the Table Structure Recognition model. These models attempt to recognize individual rows, columns, and headers in tables. The model was contributed to the Hugging Face library by nielsr.
+
+Link: https://huggingface.co/docs/transformers/model_doc/table-transformer
+
+<img src="/img/43ee1b52-db98-4a7a-9c65-831484ec591f.png" width="400" />
+<br/><br/>
+
 ## Get Free Self-Paced Courses on AI From Fortune 500 Companies Including Microsoft, Google and Harvard
 Summary: 15 reputable organizations, including Microsoft, Google, Harvard University, MIT, and Stanford University, have collaborated to offer 15 free courses on artificial intelligence (AI). These courses provide a comprehensive approach to AI, covering topics such as prompt engineering, responsible AI, data science, language model application development, generative modeling, and more. The courses are designed to cater to different skill levels and interests within the AI field, making them accessible to both beginners and advanced learners. This compilation of courses serves as a valuable resource for individuals seeking to expand their expertise in AI and stay updated on the latest developments in this rapidly evolving field.
 
