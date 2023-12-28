@@ -1,3 +1,8 @@
+Outlines 〰️: Revolutionize Your LLM Text Generation with Seamless Neural Text Generation
+
+___
+
+
 FLAML: Lightweight Python library for efficient automation of machine learning and AI operations
 
 ___
