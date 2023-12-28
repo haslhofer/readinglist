@@ -1,3 +1,8 @@
+LinkedIn warns against safety of external link
+
+___
+
+
 LinkedIn flags safety concerns for external link
 
 ___
