@@ -1,3 +1,11 @@
+## GPT-4 successfully extracts knowledge from a video transcript to create a knowledge graph
+Summary: This article demonstrates how to utilize GPT-4 to extract meaningful information from video transcripts and construct a comprehensive knowledge graph stored in Neo4j. The process involves analyzing a video transcript, sectioning the transcript into manageable parts, employing GPT-4 to extract entities and relationships, importing the extracted data into Neo4j, disambiguating entities, and evaluating the results. The outcome is a knowledge graph containing the extracted entities, relationships, and timestamps for easy exploration and analysis. The article highlights the benefits of GPT-4 in information extraction tasks, particularly in domains where dedicated NLP models may not be readily available.
+
+Link: https://neo4j.com/developer-blog/chatgpt-4-knowledge-graph-from-video-transcripts/
+
+<img src="/img/e77527bc-e574-41dc-8477-72482d43a6a8.png" width="400" />
+<br/><br/>
+
 ## Microsoft Researchers Develop TaskMatrix.AI, an AI Ecosystem Connecting Foundation Models with Millions of APIs for Complex Task Completion
 Summary: Microsoft researchers have created TaskMatrix.AI, an ecosystem connecting foundation models with millions of APIs to perform various tasks in digital and physical domains. TaskMatrix.AI utilizes a central foundation model for user communication and API execution, while a unified API platform stores millions of APIs with consistent documentation. The system leverages reinforcement learning with human feedback to enhance its performance and is demonstrated to generate PowerPoint slides based on user instructions. By connecting foundation models with existing APIs, TaskMatrix.AI enhances task performance and has the potential to increase productivity and creativity in the future.
 
