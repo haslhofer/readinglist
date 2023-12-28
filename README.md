@@ -1,3 +1,11 @@
+## GitHub Engineers Describe Working with Large Language Models Behind GitHub Copilot
+Summary: GitHub engineers recount their experiences working with OpenAI's large language models (LLMs) to develop GitHub Copilot. Initially astonished by the emergent behavior of the model, they recognized its potential and began envisioning an AI-powered chatbot for developers. Through model improvements, prompt crafting, and fine-tuning, they enhanced GitHub Copilot's accuracy and relevance. Over time, as the underlying models from OpenAI became more robust, GitHub Copilot gained new capabilities and improved its understanding of code to provide a more customized coding experience. The team is continuously exploring new applications of generative AI and LLMs to enhance developer productivity and create innovative AI-powered workflows.
+
+Link: https://github.blog/2023-05-17-inside-github-working-with-the-llms-behind-github-copilot/
+
+<img src="/img/438ca0ad-79b0-49b2-a787-2656ecd4cfe9.png" width="400" />
+<br/><br/>
+
 ## Prompt Engineering: A Guide to Effective Communication with Generative AI Models for Developers
 Summary: Prompt Engineering in LLM Applications: A Practical Guide
 Prompt engineering is the art of communicating with generative AI models. This article focuses on approaching prompt engineering at GitHub and how to use it to build LLM-based applications. It covers topics such as the importance of context, the role of large language models, the prompt engineering pipeline, and the challenges and tradeoffs involved in implementing prompt engineering techniques. The article also provides insights into the techniques used in GitHub Copilot to deliver high-quality suggestions to developers.
