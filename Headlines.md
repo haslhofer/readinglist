@@ -1,3 +1,10 @@
+DeepMind's Dramatron: An AI Tool for Writing Cohesive Film Scripts with Hierarchical Structures
+
+Filename:b9ca3ee2-8e33-497f-8452-54ec28d05cb3.png
+
+___
+
+
 ChatGPT Demystified: Understanding the Architecture and Methodology of the Revolutionary Language Model
 
 Filename:771cc95b-1e17-452c-ac1c-39ec80f374d3.png
