@@ -1,3 +1,8 @@
+LangChain integrates with GPT Researcher, enabling easy usage of other LLM models and integration with LangSmith
+
+___
+
+
 Visualizing Word Embeddings as 2D Vectors
 
 ___
