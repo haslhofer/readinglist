@@ -1,3 +1,11 @@
+## Website Connection Security Check by Cloudflare
+Summary: Your connection to chat.lmsys.org is being reviewed for security reasons by the website. You will need to wait while Cloudflare assesses the security of your connection before you can proceed.
+
+Link: https://chat.lmsys.org/
+
+<img src="/img/0a979824-0097-46d5-b2b5-f789411f07f6.png" width="400" />
+<br/><br/>
+
 ## Databricks' Dolly model, train
 Summary: Databricks' Dolly model, trained on a limited corpus of 50k question and answer pairs, surprised researchers by demonstrating high-quality instruction following behavior. The model was fine-tuned for just 30 minutes using the Databricks machine learning platform and exhibits coherent responses to natural language prompts. Currently at version 2, Dolly is under active development and is designed for research purposes, encouraging experimentation with models and engineering. While it exhibits shortcomings in certain areas, it showcases the accessibility and potential for creating powerful AI technologies.
 
