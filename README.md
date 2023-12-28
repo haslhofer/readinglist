@@ -1,3 +1,11 @@
+## Helper scripts and examples for exploring the Falcon LLM models
+Summary: The Falcon-LLM repository created by Sentdex contains helper scripts and examples for exploring the Falcon LLM models. It includes an API server and client for easy model access, along with a notebook example for loading the Falcon 40B model with various data types. A setup script is also provided for convenient requirements setup. The repository offers insights into the model's use cases, and its resources include explanations of the license and activity details.
+
+Link: https://github.com/Sentdex/Falcon-LLM
+
+<img src="/img/a2f31f41-5189-474b-a665-75d7b1c33726.png" width="400" />
+<br/><br/>
+
 ## Falcon 40B: Exploring the Capabilities of the Largest Open Source Language Model
 Summary: Falcon 40B is an open-source large language model (LLM) that has been developed by the Technology Innovation Institute (TII). It is considered to be the largest and most powerful open-source LLM available, with 40 billion parameters. Falcon 40B is able to perform a wide range of natural language processing (NLP) tasks, including text generation, translation, summarization, and question answering. It has been trained on a massive dataset of text and code, and it is able to learn and adapt to new information. Falcon 40B has the potential to be used in a variety of applications, including customer service, language translation, and content generation.
 
