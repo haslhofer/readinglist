@@ -1,3 +1,11 @@
+## ViperGPT: A Framework for Composing Vision-and-Language Models into Subroutines via Python Code Generation
+Summary: ViperGPT, a framework that merges code-generation models with vision-and-language models, is introduced. ViperGPT uses existing APIs to access modules and then assemble them by generating executable Python code. It achieves state-of-the-art results in various complex visual tasks without requiring additional training.
+
+Link: https://paperswithcode.com/paper/vipergpt-visual-inference-via-python
+
+<img src="/img/70d3f492-a001-4a80-be91-c4b882177405.png" width="400" />
+<br/><br/>
+
 ## Chroma: The open-source embedding database for building LLM applications with memory
 Summary: Chroma, an open-source embedding database, provides a fast and efficient way to build Python or JavaScript LLM apps with memory. It offers a simple API with only four functions, integrations with various platforms, and scalability from development to production. Chroma features querying, filtering, density estimation, and support for custom embeddings. Users can contribute to the project, join the community on Discord, and review the roadmap for upcoming developments.
 
