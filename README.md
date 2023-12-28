@@ -1,3 +1,11 @@
+## PyMinHash: Efficient MinHashing for Similarity Search in Pandas Dataframes
+Summary: PyMinHash is a Python library that implements efficient minhashing for Pandas dataframes. It allows users to find similar records in a dataset based on Jaccard similarity. The library can be installed directly from PyPI or through conda-forge. To use it, apply record matching to a column name of a Pandas dataframe, and it will return the row pairs with non-zero Jaccard similarity.
+
+Link: https://pyminhash.readthedocs.io/en/latest/
+
+<img src="/img/9c83e068-9021-4f81-ac69-95216f1f0d12.png" width="400" />
+<br/><br/>
+
 ## Open-source Python package EasyLLM simplifies working with open LLMs
 Summary: EasyLLM is an open-source Python package that provides tools and methods for working with large language models (LLMs). It features clients compatible with OpenAI's Completion API, allowing easy switching between different LLMs. It also offers prompt helpers, streaming support, and planned additions like evolutionary algorithms for instruction data creation and integration with Amazon SageMaker. EasyLLM simplifies the process of using LLMs for tasks such as chat interfaces and text generation.
 
