@@ -1,3 +1,8 @@
+Google Gemini's Language Abilities Compared to OpenAI GPT
+
+___
+
+
 Sure, here is a one-line headline describing the text you provided:
 
 **SpaceX's Starship Super Heavy Booster 4 Set for Static Fire Test**
