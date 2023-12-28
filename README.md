@@ -1,3 +1,11 @@
+## 
+Summary: 
+
+Link: https://ai.googleblog.com/2023/02/a-vision-language-approach-for.html
+
+<img src="/img/ad2b4ccd-6fee-487d-98ac-cdfb06a0b79a.png" width="400" />
+<br/><br/>
+
 ## Ultimate Python and Tensorflow Installation Guide for Apple Silicon Macs (M1 & M2)
 Summary: The provided text offers a detailed guide for setting up Python and TensorFlow on Apple Silicon Macs with M1 and M2 chips. The comprehensive guide covers installing essential tools like Xcode Command Line Tools, using Pyenv to install Python, and setting up TensorFlow appropriately for ARM Macs. The workflow is straightforward, requiring an ARM Mac to get started. Once installed properly, this setup unlocks seamless utilization of Python and TensorFlow, powerful tools for data science and machine learning.
 
