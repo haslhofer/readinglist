@@ -1,3 +1,11 @@
+## Get Free Self-Paced Courses on AI From Fortune 500 Companies Including Microsoft, Google and Harvard
+Summary: 15 reputable organizations, including Microsoft, Google, Harvard University, MIT, and Stanford University, have collaborated to offer 15 free courses on artificial intelligence (AI). These courses provide a comprehensive approach to AI, covering topics such as prompt engineering, responsible AI, data science, language model application development, generative modeling, and more. The courses are designed to cater to different skill levels and interests within the AI field, making them accessible to both beginners and advanced learners. This compilation of courses serves as a valuable resource for individuals seeking to expand their expertise in AI and stay updated on the latest developments in this rapidly evolving field.
+
+Link: https://www.linkedin.com/posts/stevenouri_artificialintelligence-activity-7134495610497363968-E1K5?utm_source=share&utm_medium=member_android
+
+<img src="/img/dee46349-d66f-41fd-89bf-1fa0a2de9088.png" width="400" />
+<br/><br/>
+
 ## Hugging Face releases an impressive vision-language model that outperforms larger closed-source models
 Summary: Researchers at Tsinghua University in China have developed CogVLM, an impressive vision-language model that rivals and even outperforms larger closed-source models like Google's PaLi-X 55B on several benchmarks. CogVLM is available for commercial use and is compatible with the Hugging Face Transformers library, making it accessible to a wide range of developers and researchers. The model achieves state-of-the-art or second-best performance on 14 classic cross-modal benchmarks, despite being significantly smaller than other models, with only 17 billion parameters.
 
