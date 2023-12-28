@@ -1,3 +1,11 @@
+## Researchers Custom-Train Diffusion Models to Generate Personalized Text-to-Image
+Summary: Researchers from Carnegie Mellon University, Tsinghua University, and Adobe Research have developed a fine-tuning technique called Custom Diffusion for text-to-image diffusion models to personalize them for specific concepts without retraining the entire model. This technique enables users to augment existing text-to-image models with new concepts given only a few examples and compose multiple concepts together in novel settings. By fine-tuning only a small subset of model weights, the method is highly efficient and memory-efficient, making it a practical approach for personalizing text-to-image models.
+
+Link: https://www.marktechpost.com/2023/01/16/a-new-artificial-intelligence-ai-research-focuses-on-the-personalization-of-generative-art-by-teaching-a-model-many-new-concepts-at-once-and-combining-them-on-the-fly/
+
+<img src="/img/e9c0922d-9613-443e-8f09-e7cb3c4fb3b5.png" width="400" />
+<br/><br/>
+
 ## Hugging Face Hub: Building Image Similarity Systems with Transformers and Datasets
 Summary: Hugging Face's blog post presents an image similarity system built with the help of the Transformers library. The system uses the concept of dense representations (embeddings) to compress high-dimensional pixel space of images into lower-dimensional vectors. This helps in reducing computation time. To compute embeddings, a vision model is used, which understands the input images and generates the embeddings. The system computes similarity scores between the query image and candidate images using cosine similarity. It leverages FAISS, which offers direct integration with 🤗 Datasets, to build dense indices for efficient retrieval of similar images. The post also discusses potential extensions, such as dimensionality reduction of embeddings using random projection and locality-sensitive hashing.
 
