@@ -1,3 +1,11 @@
+## OpenAI's Embedding Model May Not Be the Best Option for Everyone: Here's Why
+Summary: The article compares the OpenAI embedding model with the E5 model, a Microsoft-developed text embedding model. It highlights the advantages of the E5 model over the OpenAI model in terms of speed, affordability, and tunability. The article also provides instructions on how to host and use the E5 model on a GCP compute engine instance. The author concludes that open-source solutions like the E5 model can provide better results and more control compared to commercial embedding models.
+
+Link: https://medium.com/@kelvin.lu.au/hosting-a-text-embedding-model-that-is-better-cheaper-and-faster-than-openais-solution-7675d8e7cab2
+
+<img src="/img/7cb006ee-36aa-4b46-9b6b-b109cb6c3108.png" width="400" />
+<br/><br/>
+
 ## Microsoft's E5 Model Outperforms OpenAI's Embedding Model in Speed, Cost, and Tunability
 Summary: The text discusses evaluating and hosting text embedding models, comparing the performance and costs of the OpenAI embedding model to the E-5 model. The E-5 model outperforms the OpenAI model on various benchmarks. It is also faster, cheaper to host, and has the advantage of being fine-tunable. The author emphasizes that open-source solutions like the E-5 model can often provide better results and control compared to commercial models.
 
