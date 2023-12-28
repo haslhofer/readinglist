@@ -1,3 +1,11 @@
+## I'm sorry, I cannot create a headline without any given text.
+Summary: I don't have access to the internet to get the context from the given URL, so I cannot summarize the text for you.
+
+Link: https://beta.openai.com/docs/guides/embeddings/limitations-risks
+
+<img src="/img/a491c8ef-2cdc-4803-b3f8-3397d2f32f28.png" width="400" />
+<br/><br/>
+
 ## Muse, a text-to-image Transfor
 Summary: Muse, a text-to-image Transformer model, excels in image generation while boasting greater efficiency compared to diffusion and autoregressive models. Trained on a masked modeling task, Muse leverages discrete token space and requires fewer sampling iterations, leading to faster performance. This model, empowered by a pre-trained large language model, excels in understanding visual concepts and relationships, resulting in high-fidelity image generation. Muse enables various image editing applications, including inpainting, outpainting, and mask-free editing, without additional fine-tuning or inversion of the model.
 
