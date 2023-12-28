@@ -1,3 +1,11 @@
+## To successfully use RAG in your LLM applications for adding context to prompts about private datasets, your vector DB requires constant updates with the latest data. This article explains how to implement a streaming pipeline to maintain synchronization between your vector DB and datasets.
+Summary: To successfully utilize Relevance Augmented Generation (RAG) in your Large Language Model (LLM) applications, it is crucial to maintain an up-to-date vector database with the latest data. This can be achieved by implementing a streaming pipeline. The pipeline consists of two main components: a streaming processing framework like Bytewax and a vector database like Qdrant. Bytewax enables real-time data processing, while Qdrant provides a comprehensive range of features and a seamless experience. The example provided showcases how to implement a streaming pipeline for financial news. This involves populating the vector database with historical data and listening to news in real-time to ingest it into the database. Additionally, the pipeline includes data cleaning, chunking, embedding, and insertion of documents into the vector database. By leveraging RAG with an up-to-date vector database, you can enhance the performance of your LLM applications and address challenges such as hallucinations and the need for frequent fine-tuning.
+
+Link: https://www.linkedin.com/posts/pauliusztin_machinelearning-mlops-deeplearning-activity-7145314823612928001-9rmI?utm_source=share&utm_medium=member_android
+
+<img src="/img/131e1ebb-849c-4bbc-b205-6db39f83555e.png" width="400" />
+<br/><br/>
+
 ## Mistral AI: Unleashing an Uncensored, Open-Source Language Model for Local Use and Customized Training
 Summary: Mistral, a newly released AI model, outperforms ChatGPT 3.5 while being completely open-source and capable of running locally. Users can leverage dolphin-mistral, a modified version that removes constraints, and train it with their data by creating a Hugging Face account. Running mistral requires substantial system resources, and training on a home computer may pose challenges due to hardware requirements.
 
