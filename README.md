@@ -1,3 +1,11 @@
+## FastChat: An Open Platform for Training, Serving, and Evaluating Large Language Model-Based Chatbots
+Summary: 
+
+Link: https://github.com/lm-sys/FastChat
+
+<img src="/img/89738961-0a04-4e4f-81bd-e5f4c5a72824.png" width="400" />
+<br/><br/>
+
 ## GPT-4 Extracts Entities and Relationships from Nature Documentary Transcripts to Generate a Knowledge Graph
 Summary: Tomaz Bratanic, a freelance data analyst and engineer, created a knowledge graph from an underwater documentary using GPT-4, a sophisticated AI model. GPT-4 was utilized to extract relevant entities and relationships from the transcript of the video "Deep Sea Wonders," identifying animals, sea creatures, and their interactions. Bratanic then imported the extracted information into Neo4j, a graph database, to create a structured knowledge graph. This knowledge graph allows users to explore the information about the documentary, facilitating searches and analysis. Bratanic's work demonstrates the potential of GPT-4 for extracting knowledge from various domains, such as biology and ecology, and the value of Neo4j in organizing and visualizing this information.
 
