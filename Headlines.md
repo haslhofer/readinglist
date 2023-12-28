@@ -1,3 +1,8 @@
+Documentation page not found on Read the Docs
+
+___
+
+
 Vid2Avatar: Creating Detailed 3D Avatar Reconstructions from Wild Videos
 
 ___
