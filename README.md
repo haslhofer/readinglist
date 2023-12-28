@@ -1,3 +1,11 @@
+## Finetuning large language mode
+Summary: Finetuning large language models (LLMs) can be expensive in terms of computational resources and time. To address this, parameter-efficient methods have been developed, such as prompt and prefix tuning. This article focuses on the adapter method, which adds tunable layers to the transformer blocks of an LLM. Adapters are parameter-efficient as they only require training a small number of newly added parameters while freezing the parameters of the pretrained LLM. Experiments show that the adapter method can achieve comparable performance to fully finetuned LLMs while requiring significantly fewer parameters.
+
+Link: https://magazine.sebastianraschka.com/p/finetuning-llms-with-adapters
+
+<img src="/img/c4676fe7-db97-4fea-bfee-23e0389e4d7e.png" width="400" />
+<br/><br/>
+
 ## PrivateGPT: Access the power of GPT, 100% privately, with no data leaks.
 Summary: PrivateGPT empowers you to apply the capabilities of Large Language Models (LLMs) to your documents in a private and offline setting, ensuring full data control. This production-ready AI project, accessible through an API, offers a high-level interface for document ingestion and context-aware conversation. Its low-level API enables advanced users to construct custom pipelines. For support, join the Twitter and Discord communities.
 
