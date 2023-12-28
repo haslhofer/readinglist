@@ -1,3 +1,11 @@
+## OMMO: A Large-Scale Outdoor Multi-Modal Dataset and Benchmark for Novel View Synthesis and Implicit Scene Reconstruction
+Summary: The OMMO dataset offers a large-scale outdoor multimodal dataset for NeRF-based tasks like novel view synthesis and scene reconstruction. It provides calibrated images, point clouds, and textual annotations for diverse real-world scenes, such as cities, buildings, and natural areas. The dataset is accompanied by a benchmark for novel view synthesis, comparing several state-of-the-art methods and presenting additional sub-benchmarks for different scene types, camera trajectories, and lighting conditions.
+
+Link: https://ommo.luchongshan.com/
+
+<img src="/img/5a864915-6748-43c7-bded-bbdfd2964d8d.png" width="400" />
+<br/><br/>
+
 ## 2022's Top Deep Learning Papers: A Comprehensive Review
 Summary: In 2022, deep learning saw significant advancements, with generative models making huge breakthroughs. Notably, VicReg, a self-supervised learning model, introduced techniques to prevent the model from collapsing, resulting in improved accuracy. Additionally, advances were made in image classification through ViT-B/16, which achieved state-of-the-art performance in various tasks. Attention-based models like Swin Transformer and PVT introduced transformer-based architectures for image classification and segmentation. Furthermore, research in natural language processing yielded impressive results, such as the integration of diffusion models in language generation and the introduction of instruction fine-tuning in NLP models.
 
