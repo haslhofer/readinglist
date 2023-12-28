@@ -1,3 +1,11 @@
+## ChatGPT Demystified: Understanding the Architecture and Methodology of the Revolutionary Language Model
+Summary: ChatGPT is a type of Large Language Model (LLM) that has been trained on a massive dataset of text and code. It utilizes a self-attention mechanism that allows it to understand the relationships between words within a sequence and generate human-like text. Additionally, it incorporates Reinforcement Learning From Human Feedback, which enables it to improve its responses based on feedback from human evaluators. This combination of techniques gives ChatGPT its exceptional ability to understand and respond to natural language queries.
+
+Link: https://towardsdatascience.com/how-chatgpt-works-the-models-behind-the-bot-1ce5fca96286
+
+<img src="/img/771cc95b-1e17-452c-ac1c-39ec80f374d3.png" width="400" />
+<br/><br/>
+
 ## Deploy FLAN-T5 XXL Language Model on Amazon SageMaker for Inference
 Summary: This guide demonstrates how to deploy the FLAN-T5-XXL model on Amazon SageMaker for real-time inference. It includes creating a custom inference script with bnb quantization, creating the SageMaker model.tar.gz artifact, deploying the model to SageMaker, and running inference using the deployed model with code examples and explanations. The guide also covers how to create a Hugging Face Model Class and deploy it as a real-time inference endpoint using the HuggingFacePredictor object. Additionally, it provides examples of using the deployed model to summarize text and answer questions with step-by-step explanations, including some simple math. It also shows how to delete the model and endpoint for cleanup.
 
