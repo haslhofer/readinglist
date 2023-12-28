@@ -1,3 +1,13 @@
+## Sure, here's a summary of the 
+Summary: Sure, here's a summary of the text:
+
+Ashok Reddy shares his thoughts on the Lex Fridman podcast with OpenAI CEO Sam Altman. They discuss the importance of reasoning ability and wisdom, the qualities of a great leader, the potential of GPT-4, the future of artificial general intelligence, Microsoft's role in AI, potential applications of AI, and advice for young people. Reddy also mentions KX, a vector database and vector search engine company, and their excitement about the future of AI.
+
+Link: https://www.linkedin.com/posts/areddy_sam-altman-openai-ceo-on-gpt-4-chatgpt-activity-7045515114199810049-hYBO?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/3bb2339f-4cb4-49f4-bead-3a7385202e00.png" width="400" />
+<br/><br/>
+
 ## I apologize for not being able
 Summary: I apologize for not being able to summarize the text as I do not have access to the internet to retrieve the context from the given URL.
 
