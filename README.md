@@ -1,3 +1,11 @@
+## Hugging Face offers a way to find similar images through a system with candidate images in a dataset
+Summary: In this instructional blog post, the author provides a step-by-step guide to building an image similarity system with the help of Hugging Face's Transformers library, Datasets, and other tools. By utilizing the ViT-based model, the system computes dense representations (embeddings) of images using cosine similarity to determine their similarity. The process includes loading the candidate image dataset, extracting embeddings from the images, and computing similarity scores. The resulting system can be used to fetch similar images given a query sample. Furthermore, it explains how to handle larger datasets with techniques like random projection and locality-sensitive hashing. Additionally, it introduces the use of FAISS for efficient similarity search and showcases a Space that demonstrates a mini image similarity application. The post concludes with a list of additional resources for further learning and exploration in the field of image similarity systems.
+
+Link: https://huggingface.co/blog/image-similarity
+
+<img src="/img/ee9fe625-77a7-47d3-abba-b4dc14fb7116.png" width="400" />
+<br/><br/>
+
 ## Google Research developers are creating larger and more capable language models that can solve complex mathematical problems, translate text across languages, and even generate new, coherent responses that sound like human speech.
 Summary: This blog post by Jeff Dean gives an overview of some of the exciting advances that Google Research achieved in 2022 in the areas of language models, computer vision, multimodal models, and generative models.
 
