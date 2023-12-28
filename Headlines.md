@@ -1,3 +1,8 @@
+20B parameter language model fine-tuned from EleutherAI's GPT-NeoX
+
+___
+
+
 Hugging Face's GPT-NeoXT-Chat-Base-20B: A 20B parameter open-source chatbot model fine-tuned for dialog-style interactions.
 
 ___
