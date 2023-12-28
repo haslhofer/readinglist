@@ -1,3 +1,11 @@
+## Meta AI Advances Seamless Communication with Expressive, Fast, and High-Quality Translation Models
+Summary: Meta's AI research project, Seamless Communication, aims to bridge language barriers through expressive, fast, and high-quality AI translation. It introduced a suite of models, including SeamlessExpressive for preserving speech nuances, SeamlessStreaming for near real-time translation, and SeamlessM4T v2 as a foundational multilingual and multitask model. Additionally, the project emphasizes open innovation, releasing the models publicly along with safety measures to ensure responsible AI practices. Resources like the research paper, technical overview, and blog posts provide further details about the project.
+
+Link: https://ai.meta.com/research/seamless-communication/#resources
+
+<img src="/img/6258d81e-a9cc-4c10-b33e-658ff7a3d0ec.png" width="400" />
+<br/><br/>
+
 ## Segmind-Vega Sets a New Standard as the World's Fastest High-Quality Image Generator
 Summary: Segmind's announcement introduces Segmind-VegaRT and Segmind-Vega, revolutionary open-source models for image generation. Segmind-VegaRT stands out as the fastest image generator, producing high-quality 1024x1024 images in just 0.1 seconds, setting a new standard in the field. Segmind-Vega, on the other hand, is 70% smaller and 100% faster than SDXL, offering comparable image quality in a compact size. Both models exceed the performance of SD1.5 and are available for commercial use.
 
