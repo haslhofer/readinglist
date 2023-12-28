@@ -1,3 +1,11 @@
+## Open multimodal models enable text and imagery interactions.
+Summary: In recent weeks, multimodal AI models have gained popularity with their capability to transform drawings into websites, images into detailed descriptions, and pictures into emotional poems. Examples of these state-of-the-art models include LLaVA, MiniGPT-4, and Open Flamingo, which excel in various tasks such as language-image instruction-following, image captioning, and reasoning about images, videos, and text.
+
+Link: https://www.linkedin.com/posts/sahar-mor_artificialintelligence-machinelearning-multimodal-activity-7057399123154501632-5qZW?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/7e9a0ff5-8cc6-4d2b-b937-886a7f324b84.png" width="400" />
+<br/><br/>
+
 ## Researchers develop a new programming language, LMQL, to enhance interaction with large language models like ChatGPT.
 Summary: Researchers from ETH Zurich created a new open-source platform and programming language called LMQL, which enables users to interact with large language models like ChatGPT more easily, cheaply, and safely. This programming language combines the power of natural and programming languages, allowing users to control the model's behavior and prevent unwanted outputs. Additionally, it is accessible to users with various skill levels, including those with less experience in coding.
 
