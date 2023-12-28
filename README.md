@@ -1,3 +1,11 @@
+## EleutherAI lab, CarperAI, plans to release the first open-source language model trained with Reinforcement Learning from Human Feedback.
+Summary: CarperAI, an EleutherAI lab, has plans to release the first open-source "instruction-tuned" large language model (LLM) created in collaboration with industry leaders in training and labeling. This model aims to improve the performance and safety of LLMs by incorporating reinforcement learning from human feedback, enabling better search, writing assistance, code generation, and generalist tasks. The open-source release is crucial for enabling academics, researchers, and startups to advance AI research and build upon state-of-the-art models.
+
+Link: https://carper.ai/instruct-gpt-announcement/
+
+<img src="/img/f15ce14d-8a2f-43a4-8b63-f35bc77f96f4.png" width="400" />
+<br/><br/>
+
 ## Open Assistant, a conversational AI accessible to all, has concluded its operations.
 Summary: OpenAssistant is a conversational AI that has gathered data from over 13,000 humans and released it to the public, including data, models, and code. It is supported by HuggingFace and serves as a tool for supporting other open-data projects such as LMSYS Chatbot Arena and Open Empathic.
 
