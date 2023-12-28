@@ -1,3 +1,8 @@
+Google Brain and Tel Aviv Researchers Propose Text-to-Image Model Guided by Sketches
+
+___
+
+
 Ski purists can still find old-school resorts with affordable prices
 
 ___
