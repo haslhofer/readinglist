@@ -1,3 +1,11 @@
+## Run Mistral language models locally or via APIs using LLM
+Summary: Simon Willison discusses various methods for using Mistral AI's language models locally on personal devices using the LLM command-line tool. He provides detailed instructions for using Mistral 8x7B and Mistral 7B models via different plugins and API providers, including llama.cpp, llm-llama-cpp, llm-mistral, and more. Additionally, he mentions the availability of Mistral models on the La plateforme API and explores options for using the OpenAI API endpoint through Llamafile. Willison highlights the convenience and flexibility of LLM plugins for supporting diverse language models and encourages users to explore the available options based on their needs.
+
+Link: https://simonwillison.net/2023/Dec/18/mistral/
+
+<img src="/img/573a7fb1-b272-42d2-a311-4db9f3ddc14c.png" width="400" />
+<br/><br/>
+
 ## Multimodal language models could revolutionize AI by allowing machines to understand both images and text
 Summary: Utilizing images with RAG and LangChain offers several possibilities: embedding images and text together to search for both using similarity search or passing the raw images and text portions to a multimodal LLM for answer synthesis. Another approach entails using a multimodal LLM to create text summaries from images, including embedding and retrieving text, and passing text portions to a LLM for answer synthesis. Additionally, multimodal LLMs can be used to retrieve image summaries with a reference to the raw image, allowing for the passing of raw images and text portions to a multimodal LLM for answer synthesis.
 
