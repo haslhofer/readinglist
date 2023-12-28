@@ -1,3 +1,11 @@
+## The study presents FrugalGPT a
+Summary: The study presents FrugalGPT as a method to make queries to large language models (LLMs) more efficient and cost-effective. By employing LLM adaptation, approximation, and cascading, FrugalGPT can reduce costs by up to 98% or improve accuracy by 4% compared to popular LLM APIs.
+
+Link: https://huggingface.co/papers/2305.05176
+
+<img src="/img/c0b3ba60-ae0e-4c76-9fd1-4256befee74e.png" width="400" />
+<br/><br/>
+
 ## How to Build an Autonomous LLM Agent in Six Easy Steps with LangFlow
 Summary: A video demonstrates the creation of an autonomous LLM Agent using LangFlow in six steps. The agent is based on OpenAI's text-davinci-003 model with search and math tools. It decomposes an ambiguous question into a chain-of-thought reasoning process and employs the most appropriate tool at each step.
 
