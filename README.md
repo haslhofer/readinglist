@@ -1,3 +1,11 @@
+## Top 10 ML Papers of the Week (Dec 18 - Dec 24)
+Summary: The top 10 ML papers of the week from December 18th to 24th cover various advancements in machine learning, including comparing language models, developing a high-speed inference engine for deploying LLMs locally, utilizing graph deep learning for discovering new antibiotics, introducing a large language model for zero-shot video generation, presenting an LLM-based multimodal agent framework for operating smartphone applications, proposing an efficient approach for running LLMs that exceed available DRAM capacity, suggesting methods for improving long-form question answering with self-critique, demonstrating adversarial attacks on GPT-4, providing an overview of retrieval augmented generation research, and displaying results from the BabyLLM Challenge, which involves sample-efficient pretraining on a developmentally plausible corpus.
+
+Link: https://www.linkedin.com/pulse/top-ml-papers-week-dair-ai-ciiye?utm_source=share&amp;utm_medium=member_android&amp;utm_campaign=share_via
+
+<img src="/img/192be556-1b55-4e37-9d00-66034f5bb64a.png" width="400" />
+<br/><br/>
+
 ## Google Gemini's Language Abilities Compared to OpenAI GPT
 Summary: A study by Akter et al. analyzes the language capabilities of Google's Gemini models, comparing them to OpenAI's GPT series. The evaluation covers various tasks such as reasoning, knowledge-based questions, math solving, translation, code generation, and instruction following. The results show that Gemini Pro achieves accuracy close to GPT 3.5 Turbo on most tasks, but falls slightly behind in areas like mathematical reasoning and sensitivity to answer ordering. However, Gemini demonstrates comparable performance in non-English language generation and handling longer reasoning chains. The study provides explanations for Gemini's under-performance and highlights its strengths.
 
