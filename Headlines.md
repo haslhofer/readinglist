@@ -1,3 +1,8 @@
+PowerInfer: A GPU-CPU Hybrid Inference Engine for Large Language Models
+
+___
+
+
 Hugging Face's Distil-Whisper small model brings fast, private speech transcription to Macs with limited VRAM.
 
 ___
