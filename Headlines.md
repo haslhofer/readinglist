@@ -1,3 +1,8 @@
+Hugging Face releases 5x faster Whisper fine-tuning with almost no degradation in WER
+
+___
+
+
 The study presents FrugalGPT a
 
 ___
