@@ -1,3 +1,8 @@
+OpenChatKit releases GPT-NeoXT-Chat-Base-20B, a fine-tuned language model for enhanced conversations
+
+___
+
+
 Autoencoder: An Unsupervised Neural Network for Data Compression and Reconstruction
 
 ___
