@@ -1,3 +1,11 @@
+## Video as a Document: Turning a Long Video into a Doc with Visual and Audio Info for Improved Chatting
+Summary: 
+
+Link: https://github.com/showlab/VLog
+
+<img src="/img/ac0a5400-74d4-47ea-af16-dc2b7773f79d.png" width="400" />
+<br/><br/>
+
 ## Chameleon: Plug-and-Play Compositional Reasoning with GPT-4
 Summary: Chameleon is a plug-and-play compositional reasoning framework that enhances LLMs' capabilities by combining various tools. The tools include LLM models, vision models, web search engines, Python functions, and rule-based modules. Chameleon infers the appropriate sequence of tools to compose and execute, enabling it to generate responses. On ScienceQA, Chameleon with GPT-4 achieves an impressive 86.54% accuracy, surpassing the best published few-shot model by 11.37% and achieving a 98.78% accuracy on TabMWP.
 
