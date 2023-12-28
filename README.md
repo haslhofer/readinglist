@@ -1,3 +1,11 @@
+## Ferret: A Multimodal Large Language Model for Refer and Ground Anything Anywhere at Any Granularity
+Summary: Ferret, a new Multimodal Large Language Model (MLLM), is introduced, which can understand spatial referring of any shape or granularity within an image and accurately ground open-vocabulary descriptions. It employs a hybrid region representation that integrates discrete coordinates and continuous features jointly to represent a region in the image and utilizes a spatial-aware visual sampler to extract continuous features of versatile regions. Ferret is trained on a comprehensive refer-and-ground instruction tuning dataset called GRIT, which includes 1.1 million samples with rich hierarchical spatial knowledge. The model surpasses existing MLLMs in region-based and localization-demanded multimodal chatting and alleviates object hallucination.
+
+Link: https://arxiv.org/abs/2310.07704v1
+
+<img src="/img/d93409ea-bf96-4bc7-a36a-6d2356b4ba97.png" width="400" />
+<br/><br/>
+
 ## "PowerInfer: Fast Large Language Model Serving on Consumer-Grade GPUs"
 Summary: PowerInfer is a fast Large Language Model (LLM) inference engine designed for personal computers equipped with a single consumer-grade GPU. It exploits the locality in LLM inference, characterized by a power-law distribution in neuron activation, to design a hybrid GPU-CPU inference engine that significantly reduces GPU memory usage and CPU-GPU data transfers. PowerInfer also incorporates adaptive predictors and neuron-aware sparse operators for improved efficiency. Experiments show that PowerInfer achieves high token generation rates and outperforms existing methods on a single NVIDIA RTX 4090 GPU.
 
