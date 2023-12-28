@@ -1,3 +1,8 @@
+Falcon Models Now Open Source Under Apache 2.0 License
+
+___
+
+
 Gorilla: Open-Source LLM Able to Utilize 1,600+ APIs
 
 ___
