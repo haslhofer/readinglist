@@ -1,3 +1,23 @@
+Subscribe
+Sign in
+Discover more from Ahead of AI
+Ahead of AI specializes in Machine Learning & AI research and is read by tens of thousands of researchers and practitioners who want to stay ahead in the ever-evolving field.
+Over 42,000 subscribers
+Subscribe
+Continue reading
+Sign in
+Ahead of AI #6: TrAIn Differently
+SEBASTIAN RASCHKA, PHD
+MAR 7, 2023
+36
+3
+Share
+
+This newsletter will get deep into training paradigms for transformers, integration of human feedback into large language models, along with research papers, news, and notable announcements.
+
+___
+
+
 ControlNet training and inference with the StableDiffusionControlNetPipeline
 
 ___
