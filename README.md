@@ -1,3 +1,11 @@
+## Data Pre-Processing for AI Applications Powered by Large Language Models: A Key Step to Ensure Accurate and Efficient Results
+Summary: To build an AI application powered by Large Language Models (LLMs), data pre-processing is crucial. The author highlights the importance of data pre-processing by presenting a scenario of creating a patent idea generator using Google Patents Public Data. The scenario emphasizes the hefty costs and time spent on embedding the patent data due to unnecessary footer citations and references. This underscores the significance of data pre-processing to ensure accurate and efficient results in AI applications.
+
+Link: https://link.medium.com/oxamUMNBjAb
+
+<img src="/img/8ae97642-cfd6-40e1-9b52-0a00fc762542.png" width="400" />
+<br/><br/>
+
 ## Artificial Corner, a popular Substack publication, covers the latest news and developments in the field of artificial intelligence
 Summary: The provided text is an archive of articles related to artificial intelligence, written by an author named Frank Andrade. The articles cover a wide range of topics, including ChatGPT, its capabilities and limitations, industry predictions, comparisons with other AI models like Gemini Pro and GPT-3.5, Google's AI developments and strategies, and AI-related tools and advancements. The author also shares personal experiences and tips on using AI for productivity, learning foreign languages, and career development.
 
