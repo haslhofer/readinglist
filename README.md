@@ -1,3 +1,11 @@
+## Over 50 Different 1 Billion+ Parameter Language Models Available
+Summary: As of April 2023, there are over 50 publicly accessible large language models (LLMs) with at least 1 billion parameters. Some notable examples include GPT-J, GPT-Neo, Pythia, Polyglot, J1, LLaMa, OPT, Fairseq, Cerebras-GPT, GLM-130B, YaLM, and several others. Additionally, fine-tuned models like Alpaca, InstructGPT, BLOOMZ, Flan-UL2, and Galactica have been developed based on these large foundational models.
+
+Link: https://matt-rickard.com/a-list-of-1-billion-parameter-llms
+
+<img src="/img/7a1bcc81-5e4b-4cdb-9abc-17d0f6ae9009.png" width="400" />
+<br/><br/>
+
 ## Scale AI introduces its Automotive Foundation Model to optimize generative AI for automotive industry applications.
 Summary: Scale AI offers a range of AI services, including Generative AI, Automotive AI, and Government AI. Its Generative AI platform allows businesses to build and deploy their own AI models using their data, while its Automotive AI solutions help car manufacturers improve safety, efficiency, and customer satisfaction. Scale AI also provides AI solutions for government agencies, including defense, federal, and public sector applications.
 
