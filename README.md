@@ -1,3 +1,11 @@
+## ModelScope: A Unified Platform for Model Inference, Training, and Evaluation Across Diverse Domains
+Summary: ModelScope is a "Model-as-a-Service" (MaaS) platform that seeks to bring together advanced machine learning models, streamline the process of leveraging AI models in real-world applications, and offer unified experience to explore a wide range of models across various domains. The library provides interfaces and implementations for model inference, training and evaluation, with rich layers of API-abstraction that offer unified experience to explore state-of-the-art models. It also interacts with ModelScope backend services, facilitating management of various entities and enabling flexible customization of components in model applications. The platform hosts hundreds of publicly available models, covering NLP, CV, Audio, Multi-Modality, AI for Science, and provides online experience and access to development environment for immediate developer-experience. The library also offers unified interface for inference, fine-tuning and evaluation, simplifying the process of exploring models in different fields and building MLOps based on the ModelScope ecosystem.
+
+Link: https://github.com/modelscope/modelscope
+
+<img src="/img/6af4b98b-66be-4448-82fb-73e4e7740851.png" width="400" />
+<br/><br/>
+
 ## Youtube videos explaining the basics of machine learning
 Summary: This series of 100 videos provides a comprehensive exploration of machine learning, covering a wide range of topics from fundamental concepts to advanced techniques. Each video offers clear explanations, practical insights, and real-world examples to help viewers gain a deep understanding of machine learning and its applications across various domains.
 
