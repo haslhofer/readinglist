@@ -1,3 +1,11 @@
+## html2text is a Python script t
+Summary: html2text is a Python script that converts HTML into Markdown-structured text. It is easy to use, with various options to customize the conversion. Installation is simple via PIP. Originally written by Aaron Swartz, it is distributed under the GPLv3 license. Documentation is available online.
+
+Link: https://pypi.org/project/html2text/2020.1.16/
+
+<img src="/img/7a2c236c-b523-435f-87cf-c9def014fbea.png" width="400" />
+<br/><br/>
+
 ## The provided text offers a com
 Summary: The provided text offers a comprehensive overview of techniques to convert HTML snippets stored in a table to plain text, focusing on displaying only the initial 30-50 characters. Here's a summary:
 
