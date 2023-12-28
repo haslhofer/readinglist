@@ -1,3 +1,8 @@
+Discover the Possibilities of AI: Unveiling its Transformative Potential
+
+___
+
+
 DeepMind proposes LASER-NV, a generative model for efficient inference of large and complex scenes in partial observability conditions
 
 ___
