@@ -1,3 +1,11 @@
+## Keras Dreambooth Sprint: Fine-Tuning Stable Diffusion on Custom Concepts with KerasCV
+Summary: The Keras Dreambooth event introduces a technique to fine-tune text-conditioned Diffusion models using Dreambooth with just a few images. Participants can join the Hugging Face community on Discord, contribute to the keras-dreambooth organization, and train models using KerasCV. The trained models can be pushed to Hugging Face Hub, have their model cards filled, and demos can be built using Gradio. Submissions are categorized into Nature and Animals, Sci-fi/Fantasy Universes, Consentful, and Wild Card, and the top three submissions in each category will win prizes.
+
+Link: https://github.com/huggingface/community-events/blob/main/keras-dreambooth-sprint/README.md
+
+<img src="/img/7a664b2e-63df-4419-a995-d92039b3852c.png" width="400" />
+<br/><br/>
+
 ## LinkedIn: Make the most of your professional life
 Summary: The text lists various tips for making the most of your professional life. It suggests staying current with industry trends, building a strong network, seeking out mentorship opportunities, setting achievable goals, being willing to take risks, adopting a positive attitude, and maintaining a healthy work-life balance.
 
