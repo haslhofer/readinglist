@@ -1,3 +1,10 @@
+Synthetic Data Can Be Used to Train Credit Scoring Models but with a Loss of Predictive Power
+
+Filename:a3a1701d-cc5c-4f4a-a7ac-42dac186c144.png
+
+___
+
+
 Sure, here is a one-line headline describing the following text:
 
 **Headline:** AI-Powered Robots May Soon Take Over the World
