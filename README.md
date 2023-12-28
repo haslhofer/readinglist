@@ -1,3 +1,11 @@
+## MosaicML, a leading platform for training and deploying large language models, has acquired Databricks, a cloud-based data analytics platform.
+Summary: MosaicML introduces MPT-7B, a new open-source, commercially usable large language model (LLM) that matches the quality of LLaMA-7B. Trained on 1 trillion tokens of text and code, with capabilities beyond other open-source models: handling extremely long inputs, optimized for fast training and inference, and available for commercial use. MPT-7B's training was marked by zero human intervention and no catastrophic loss spikes, demonstrating MosaicML's advancements in LLM training stability. The release includes three finetuned variants: MPT-7B-StoryWriter-65k+ for long-context storytelling, MPT-7B-Instruct for instruction following, and MPT-7B-Chat for conversational interactions. MosaicML emphasizes the importance of rigor and independent evaluation, encouraging the community to use their evaluation suite and contribute additional datasets and task types.
+
+Link: https://www.mosaicml.com/blog/mpt-7b
+
+<img src="/img/70fa837d-e3f9-4feb-a3e0-24e64d711a8c.png" width="400" />
+<br/><br/>
+
 ## Two new 7B LLM models, MosaicML and Together, are released as open-source under the Apache 2.0 license.
 Summary: MosaicML and Together have released new 7B LLM models under the Apache 2.0 license, making LLM models available for commercial use and providing early checkpoints for instruction models and chat. These models are available on Hugging Face. The open-source community is rapidly advancing, catching up to commercial organizations, and making more resources available.
 
