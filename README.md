@@ -1,3 +1,11 @@
+## LinkedIn warns against safety of external link
+Summary: Unfortunately, I do not have the ability to access external links or specific URLs like the one provided. Therefore, I cannot summarize the text you provided.
+
+Link: https://lnkd.in/gbj3xdWf
+
+<img src="/img/69be794b-9145-40fa-9f92-9d50b73318e5.png" width="400" />
+<br/><br/>
+
 ## LinkedIn flags safety concerns for external link
 Summary: The provided text is a warning about an external link. LinkedIn cannot verify the safety of external links, and it is recommended to learn more about the risks associated with clicking external links.
 
