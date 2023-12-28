@@ -1,3 +1,8 @@
+Youtube videos explaining the basics of machine learning
+
+___
+
+
 Professor Alexander Amini, PhD
 
 ___
