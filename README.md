@@ -1,3 +1,145 @@
+## An In-Depth Guide to Denoising Diffusion Probabilistic Models – From Theory to Implementation
+
+Diffusion probabilistic models are an exciting new area of research showing great promise in image generation. In retrospect, diffusion-based generative models were first introduced in 2015 and popularized in 2020 when Ho et al. published the paper “Denoising Diffusion Probabilistic Models” (DDPMs). DDPMs are responsible for making diffusion models practical. In this article, we will highlight the key concepts and techniques behind DDPMs and train DDPMs from scratch on a “flowers” dataset for unconditional image generation.
+
+Unconditional Image Generation
+
+In DDPMs, the authors changed the formulation and model training procedures which helped to improve and achieve “image fidelity” rivaling GANs and established the validity of these new generative algorithms.
+
+The best approach to completely understanding “Denoising Diffusion Probabilistic Models”  is by going over both theory (+ some math) and the underlying code. With that in mind, let’s explore the learning path where:
+
+We’ll first explain what generative models are and why they are needed.
+We’ll discuss, from a theoretical standpoint, the approach used in diffusion-based generative models
+We’ll explore all the math necessary to understand denoising diffusion probabilistic models.
+Finally, we’ll discuss the training and inference used in DDPMs for image generation and code it from scratch in PyTorch. 
+The Need For Generative Models
+
+The job of image-based generative models is to generate new images that are similar, in other words, “representative” of our original set of images.
+
+We need to create and train generative models because the set of all possible images that can be represented by, say, just (256x256x3) images is enormous. An image must have the right pixel value combinations to represent something meaningful (something we can understand).
+
+An RGB image of a Sunflower
+
+For example, for the above image to represent a “Sunflower”, the pixels in the image need to be in the right configuration (they need to have the right values). And the space where such images exist is just a fraction of the entire set of images that can be represented by a (256x256x3) image space.
+
+Now, if we knew how to get/sample a point from this subspace, we wouldn’t need to build “‘generative models.”  However, at this point in time, we don’t. 😓
+
+The probability distribution function or, more precisely, probability density function (PDF) that captures/models this (data) subspace remains unknown and most likely too complex to make sense.
+
+This is why we need ‘Generative models — To figure out the underlying likelihood function our data satisfies.
+
+PS: A PDF is a “probability function” representing the density (likelihood) of a continuous random variable – which, in this case, means a function representing the likelihood of an image lying between a specific range of values defined by the function’s parameters. 
+
+PPS: Every PDF has a set of parameters that determine the shape and probabilities of the distribution. The shape of the distribution changes as the parameter values change. For example, in the case of a normal distribution, we have mean µ (mu) and variance σ2 (sigma) that control the distribution’s center point and spread.
+
+Effect of parameters of the Gaussian Distribution
+Source: https://magic-with-latents.github.io/latent/posts/ddpms/part2/
+What Are Diffusion Probabilistic Models?
+
+In our previous post, “Introduction to Diffusion Models for Image Generation”, we didn’t discuss the math behind these models. We provided only a conceptual overview of how diffusion models work and focused on different well-known models and their applications. In this article, we’ll be focusing heavily on the first part.
+
+In this section, we’ll explain diffusion-based generative models from a logical and theoretical perspective. Next, we’ll review all the math required to understand and implement Denoising Diffusion Probabilistic Models from scratch.
+
+Diffusion models are a class of generative models inspired by an idea in Non-Equilibrium Statistical Physics, which states:
+
+“We can gradually convert one distribution into another using a Markov chain”
+
+– Deep Unsupervised Learning using Nonequilibrium Thermodynamics, 2015
+
+Diffusion generative models are composed of two opposite processes i.e., Forward & Reverse Diffusion Process.
+
+Forward Diffusion Process:
+
+“It’s easy to destroy but hard to create”
+
+– Pearl S. Buck
+In the “Forward Diffusion” process, we slowly and iteratively add noise to (corrupt) the images in our training set such that they “move out or move away” from their existing subspace.
+What we are doing here is converting the unknown and complex distribution that our training set belongs to into one that is easy for us to sample a (data) point from and understand.
+At the end of the forward process, the images become entirely unrecognizable. The complex data distribution is wholly transformed into a (chosen) simple distribution. Each image gets mapped to a space outside the data subspace.
+Source: https://ayandas.me/blog-tut/2021/12/04/diffusion-prob-models.html
+
+Reverse Diffusion Process:
+
+By decomposing the image formation process into a sequential application of denoising autoencoders, diffusion models (DMs) achieve state-of-the-art synthesis results on image data and beyond.
+
+Stable Diffusion, 2022
+A high-level conceptual overview of the entire image space.
+In the “Reverse Diffusion process,” the idea is to reverse the forward diffusion process.
+We slowly and iteratively try to reverse the corruption performed on images in the forward process.
+The reverse process starts where the forward process ends.
+The benefit of starting from a simple space is that we know how to get/sample a point from this simple distribution (think of it as any point outside the data subspace). 
+And our goal here is to figure out how to return to the data subspace.
+However, the problem is that we can take infinite paths starting from a point in this “simple” space, but only a fraction of them will take us to the “data” subspace. 
+In diffusion probabilistic models, this is done by referring to the small iterative steps taken during the forward diffusion process. 
+The PDF that satisfies the corrupted images in the forward process differs slightly at each step.
+Hence, in the reverse process, we use a deep-learning model at each step to predict the PDF parameters of the forward process. 
+And once we train the model, we can start from any point in the simple space and use the model to iteratively take steps to lead us back to the data subspace. 
+In reverse diffusion, we iteratively perform the “denoising” in small steps, starting from a noisy image.
+This approach for training and generating new samples is much more stable than GANs and better than previous approaches like variational autoencoders (VAE) and normalizing flows. 
+
+Since their introduction in 2020, DDPMs has been the foundation for cutting-edge image generation systems, including DALL-E 2, Imagen, Stable Diffusion, and Midjourney.
+
+With the huge number of AI art generation tools today, it is difficult to find the right one for a particular use case. In our recent article, we explored all the different AI art generation tools so that you can make an informed choice to generate the best art.
+
+Itsy-Bitsy Mathematical Details Behind Denoising Diffusion Probabilistic Models
+
+As the motive behind this post is “creating and training Denoising Diffusion Probabilistic models from scratch,” we may have to introduce not all but some of the mathematical magic behind them.
+
+In this section, we’ll cover all the required math while making sure it’s also easy to follow.
+
+Let’s begin…
+
+There are two terms mentioned on the arrows:
+
+ –
+This term is also known as the forward diffusion kernel (FDK).
+It defines the PDF of an image at timestep t in the forward diffusion process xt given image xt-1.
+It denotes the “transition function” applied at each step in the forward diffusion process. 
+
+ –
+ Similar to the forward process, it is known as the reverse diffusion kernel (RDK).
+It stands for the PDF of xt-1 given xt as parameterized by 𝜭. The 𝜭 means that the parameters of the distribution of the reverse process are learned using a neural network.
+It’s the “transition function” applied at each step in the reverse diffusion process. 
+Mathematical Details Of The Forward Diffusion Process
+
+The distribution q in the forward diffusion process is defined as Markov Chain given by:
+
+We begin by taking an image from our dataset: x0. Mathematically it’s stated as sampling a data point from the original (but unknown) data distribution: x0 ~ q(x0). 
+The PDF of the forward process is the product of individual distribution starting from timestep 1 → T.  
+The forward diffusion process is fixed and known.
+All the intermediate noisy images starting from timestep 1 to T are also called “latents.” The dimension of the latents is the same as the original image.
+The PDF used to define the FDK is a “Normal/Gaussian distribution” (eqn. 2).
+At each timestep t, the parameters that define the distribution of image xt are set  as:
+Mean: 
+Covariance: 
+The term 𝝱 (beta) is known as the “diffusion rate” and is precalculated using a “variance scheduler”. The term I
+Summary: Diffusion probabilistic models are a new class of generative models that have shown great promise in image generation. In this article, we explore the key concepts and techniques behind Denoising Diffusion Probabilistic Models (DDPMs), which are a specific type of diffusion probabilistic model. We will explain the theory behind DDPMs and train them from scratch on a "flowers" dataset for unconditional image generation.
+
+The need for generative models arises from the fact that the space of all possible images is enormous, and we need to create and train generative models to figure out the underlying likelihood function our data satisfies.
+
+Diffusion models are a class of generative models inspired by an idea in Non-Equilibrium Statistical Physics, which states that we can gradually convert one distribution into another using a Markov chain.
+
+DDPMs are composed of two opposite processes: the forward diffusion process and the reverse diffusion process.
+
+In the forward diffusion process, we slowly and iteratively add noise to (corrupt) the images in our training set such that they move away from their existing subspace.
+
+In the reverse diffusion process, we slowly and iteratively try to reverse the corruption performed on images in the forward process.
+
+The training objective of diffusion-based generative models amounts to maximizing the log-likelihood of the sample generated (at the end of the reverse process) belonging to the original data distribution.
+
+We use a simplified loss function, which is just a Mean Squared Error between the noise added in the forward process and the noise predicted by the model.
+
+We provide code for training DDPMs from scratch in PyTorch, including functions for creating PyTorch dataset and dataloader objects, visualizing the dataset, defining the model architecture, performing the forward and reverse diffusion processes, and training and sampling algorithms.
+
+We provide an example of using the code to train a DDPM on the "flowers" dataset and generate images using the trained model.
+
+We conclude by summarizing the key points of the article and encouraging readers to share their thoughts and questions about diffusion probabilistic models.
+
+Link: https://learnopencv.com/denoising-diffusion-probabilistic-models/
+
+<img src="/img/5ca3d05e-ecff-4ae7-8dba-2586f2108455.png" width="400" />
+<br/><br/>
+
 ## Subscribe
 Sign in
 Discover more from Ahead of AI
