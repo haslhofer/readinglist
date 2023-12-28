@@ -1,3 +1,11 @@
+## Dan Hockenmaier shares February's best long-form reads on important topics like AI, great work, and tech bets.
+Summary: Dan Hockenmaier, the Head of Strategy and Analytics at Faire, curated a list of five long-form reads written in the last 30 days. The essays cover a variety of topics such as the current narratives on AI, how to do great work, Big Tech's biggest bets, the real story behind Facebook's almost-acquisition of Waze, and the revised sources of defensibility in AI.
+
+Link: https://www.linkedin.com/feed/update/urn:li:activity:7082381211481894912?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7082381211481894912%2C7082381362330013696%29
+
+<img src="/img/4a784616-5345-445e-9865-a54294b2dfbd.png" width="400" />
+<br/><br/>
+
 ## Combine edge computing with machine learning to build efficient AI systems
 Summary: The article discusses the evolution of edge computing, the intersection of ML and edge computing, and the challenges of running ML models at the edge. It suggests an edge-centric approach to building an efficient, scalable edge ML architecture and outlines four design patterns for edge ML architectures: native edge, network local, edge cloud, and remote batch. The approach involves considering device locations and creating a mechanism to configure and interact with them accordingly. The benefits of this approach include high performance, low latency, cost and hardware efficiency, and the ability to run models on any computer. The article also provides additional resources and encourages readers to join a developer community to learn more.
 
