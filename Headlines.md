@@ -1,3 +1,8 @@
+FLAML: Lightweight Python library for efficient automation of machine learning and AI operations
+
+___
+
+
 New course shows how to fine-tune GPT-3.5 for specific needs
 
 ___
