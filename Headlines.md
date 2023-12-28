@@ -1,3 +1,8 @@
+I apologize for not being able
+
+___
+
+
 How to train a ControlNet for Stable Diffusion and Create Your Own Custom Image Editing Conditions
 
 ___
