@@ -1,3 +1,11 @@
+## Coding ChatGPT from Scratch: A Mini-Series on Reinforcement Learning with Human Feedback
+Summary: The YouTube playlist titled "Coding chatGPT from Scratch | Mini-Series" consists of five videos that introduce the concept of ChatGPT and reinforcement learning with human feedback (RLHF). The user will learn how to implement a minimal but efficient RLHF pipeline from scratch using PyTorch, a popular deep learning library. By following the series, the user can gain insights into the theory and practical implementation of RLHF, and test the pipeline on a limited dataset.
+
+Link: https://youtu.be/p7JYu65lDyY
+
+<img src="/img/8b97a65f-d42d-48d7-a52f-eae86aeb2f97.png" width="400" />
+<br/><br/>
+
 ## 
 Summary: 
 
