@@ -1,3 +1,8 @@
+Together Releases OpenChatKit: A Collaborative Open-Source Project for Chatbot Development
+
+___
+
+
 Self-Instruct: Aligning Language Models with Self-Generated Instructions
 
 ___
