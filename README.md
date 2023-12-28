@@ -1,3 +1,11 @@
+## Atomic Git Commits Are Key to Productivity and Make Your Job More Enjoyable
+Summary: Writing atomic git commits can enhance productivity by ensuring that each commit addresses a single, simple task. These commits make it easier to revert changes, maintain a clean history, enhance code reviews, and improve workflow by breaking complex tasks into manageable steps. Emphasizing the simplicity of complexity as the core of software development, the article encourages practicing atomic commits to experience the benefits firsthand.
+
+Link: https://dev.to/samuelfaure/how-atomic-git-commits-dramatically-increased-my-productivity-and-will-increase-yours-too-4a84
+
+<img src="/img/419b369b-9885-4ccf-8291-4fc778642d2c.png" width="400" />
+<br/><br/>
+
 ## Microsoft's AI-powered computer vision model to generate 'alt text' captions for images on Reddit
 Summary: Microsoft's Florence, a multimodal AI computer vision model, is now part of Azure's Vision Services, offering capabilities such as automatic captioning, background removal, video summarization, and image retrieval. This system excels in understanding relationships between images, text, and other modalities, enabling tasks like image similarity measurement and object segmentation. Reddit will use Florence to generate "alt text" for images, providing better context for users with vision challenges. Florence's versatility and ability to perform diverse tasks make it valuable for various applications.
 
