@@ -1,3 +1,8 @@
+Connect with professionals and create opportunities on LinkedIn
+
+___
+
+
 Open-Source Large Language Models (LLMs): A Snapshot for Builders
 
 ___
