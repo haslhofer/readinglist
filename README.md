@@ -1,7 +1,7 @@
 ## How to Do Great Work
 Summary: This text is an exploration of the intersection of various techniques and qualities that contribute to doing great work in diverse fields. It argues that this intersection takes a definite shape rather than encompassing every possible approach, and that ambition is a key factor in identifying the most promising path to excellence.
 
-The author emphasizes the importance of choosing a field of work that aligns with your natural aptitudes, deep interests, and offers ample opportunities to produce impactful results. They also stress the value of cultivating a habit of working on personal projects, driven by curiosity and a desire to explore unanswered questions.
+The author emphasizes the importance of choosing a field of work that aligns with your natural aptitudes, deep interests, and offers ample opportunities to produce impactful results. They also stress the value of **cultivating a habit of working on personal projects**, driven by curiosity and a desire to explore unanswered questions.
 
 The text highlights four fundamental steps for doing great work: choosing a field, acquiring sufficient knowledge to reach the frontier, actively seeking gaps in knowledge, and exploring promising ones. The author emphasizes the importance of hard work, curiosity, delight, and the desire to create something impressive as key motivators. They also suggest focusing on exciting and ambitious projects, and aiming to discover new fractal buds by prying open cracks in the surface of knowledge.
 
