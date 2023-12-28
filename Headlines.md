@@ -1,3 +1,8 @@
+Gorilla: Open-Source LLM Able to Utilize 1,600+ APIs
+
+___
+
+
 Prompt Engineering: A Diagrammatic Guide to Crafting Effective Queries for LLMs
 
 ___
