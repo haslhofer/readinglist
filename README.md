@@ -1,3 +1,11 @@
+## LangChain integrates with GPT Researcher, enabling easy usage of other LLM models and integration with LangSmith
+Summary: LangChain has announced its integration with GPT Researcher, an open-source research assistant that generates research questions, scrapes online resources, summarizes them, and creates a report. This integration allows for easy usage of other large language models (LLMs), such as Anthropic's Claude model, and enables seamless integration with LangSmith, a platform for debugging, logging, and monitoring LLM calls. LangChain believes that this integration will enhance the capabilities of GPT Researcher and promote the development of more focused and effective LLM applications.
+
+Link: https://blog.langchain.dev/gpt-researcher-x-langchain/
+
+<img src="/img/46f27025-3a25-4dea-a1b5-ed3182183ff7.png" width="400" />
+<br/><br/>
+
 ## Visualizing Word Embeddings as 2D Vectors
 Summary: The provided text is a link to a file on GitHub, and I do not have the ability to access or analyze the content of that file. Therefore, I am unable to provide a summary of the text as requested.
 
