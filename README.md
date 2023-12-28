@@ -1,3 +1,11 @@
+## A new large language model, Fa
+Summary: A new large language model, Falcon 40B, has been developed by the Technology Innovation Institute. It has an architecture optimized for inference, is open-source with a special license allowing commercial use, and is available in two sizes: 40B and 7B parameters. It is currently ranked at the top of the Open LLM Leaderboard.
+
+Link: https://www.linkedin.com/posts/mehtabhairav_llama-is-getting-dethroned-there-is-a-activity-7067995849041072128-NLrs?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/cc85f73f-3d33-4246-8064-d6317ac8765f.png" width="400" />
+<br/><br/>
+
 ## AI21 Labs Launches AI21 Studio and Jurassic-1 Language Models
 Summary: AI21 Labs has launched its new developer platform, AI21 Studio, which provides access to its 178B-parameter Jurassic-1 language models for building sophisticated text-based AI applications. The models feature a unique 250,000-token vocabulary, including multi-word tokens, which enhance computational efficiency and reduce latency. Developers can train custom models with as few as 50-100 training examples and utilize them exclusively within AI21 Studio. This platform aims to democratize access to cutting-edge AI technology, enabling developers to build text-based applications that rival those developed in the world's leading labs.
 
