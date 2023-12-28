@@ -1,3 +1,8 @@
+Atomic Git Commits Are Key to Productivity and Make Your Job More Enjoyable
+
+___
+
+
 Microsoft's AI-powered computer vision model to generate 'alt text' captions for images on Reddit
 
 ___
