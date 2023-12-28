@@ -1,3 +1,8 @@
+LLMTools: Library for running and finetuning large language models on consumer GPUs
+
+___
+
+
 Hugging Face releases 5x faster Whisper fine-tuning with almost no degradation in WER
 
 ___
