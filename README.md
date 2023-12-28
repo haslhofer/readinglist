@@ -1,3 +1,11 @@
+## xTuring: A Library for Building, Customizing, and Controlling Your Own Language Models
+Summary: xTuring is a toolkit that facilitates the fine-tuning of LLMs (Large Language Models) such as LLaMA, GPT-J, Galactica and others. It provides an easy-to-use interface for integrating custom data and applications into these LLMs, enabling users to build, customize, and control their own LLMs. The fine-tuning can be performed on a single GPU or scaled to multiple GPUs for faster processing. It supports memory-efficient methods such as INT4, LoRA fine-tuning to reduce hardware costs. The library allows evaluation of fine-tuned models on well-defined metrics. Additionally, xTuring offers support for INT8, INT4, and CPU inference, as well as batch processing for improved efficiency.
+
+Link: https://github.com/stochasticai/xturing
+
+<img src="/img/d7ec333c-61d9-464b-bf77-ea31c299a7c4.png" width="400" />
+<br/><br/>
+
 ## Behind-the-Scene with Copilot: Microsoft's Next Generation User Experience
 Summary: Microsoft Design introduces a new AI tool, Copilot, that utilizes large language models to enhance productivity experiences within Microsoft 365. The tool aims to provide assistance in a collaborative, conversational manner, making it a co-pilot rather than a fully automated system. To ensure responsible use and appropriate trust, Copilot's design emphasizes user control, education, visual identity, and ethical considerations. The article highlights the unique challenges and opportunities of designing for next-generation AI and the importance of agility and open learning to incorporate new insights and feedback.
 
