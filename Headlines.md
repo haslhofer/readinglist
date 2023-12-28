@@ -1,3 +1,8 @@
+Example Domain: A Placeholder for Illustrative Purposes
+
+___
+
+
 Free sample domain for illustrative examples
 
 ___
