@@ -1,3 +1,8 @@
+Train a classifier with prompts and (optionally) data using Llama 2 LLM
+
+___
+
+
 Table Transformer: A Transformer-Based Model for Table Detection and Structure Recognition
 
 ___
