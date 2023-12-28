@@ -1,3 +1,11 @@
+## Foundation models' performance lacks calibration with human preferences in data labeling
+Summary: 
+
+Link: https://huggingface.co/blog/llm-leaderboard
+
+<img src="/img/42928847-9c4f-4708-b93a-d52edf3e2d6b.png" width="400" />
+<br/><br/>
+
 ## GPT memory layer creation using function calling and Chroma vector store
 Summary: By utilizing Open AI's GPT 3.5 / 4 and Chroma, a vector store, a method for constructing a memory layer was developed. This involves defining functions to save and retrieve memories, using vector embeddings for semantic similarity, and enabling GPT to decide when to access these functions. The article demonstrates how the model can automatically remember and retrieve information as needed, which has implications for building applications that interact with GPT.
 
