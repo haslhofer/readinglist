@@ -1,3 +1,11 @@
+## HTTP 404 error for a missing file in a git repository.
+Summary: Unfortunately, I cannot summarize the provided text because it contains an error message indicating that the path "auto_chapter_title/wf.py" does not exist in the "main" branch of the "examples" repository. As a result, it is not possible to extract meaningful information from the text.
+
+Link: https://github.com/sieve-community/examples/blob/main/auto_chapter_title/wf.py
+
+<img src="/img/089a1c80-402d-4d92-ba23-cd776391dfc0.png" width="400" />
+<br/><br/>
+
 ## Enrico Shippole released LLongMA-2 13b, a Llama-2 model trained at 8k context length using linear positional interpolation scaling, in collaboration with Jeff of NousResearch and Kaiokendev.
 Summary: Enrico Shippole, an ML engineer, announced the release of LLongMA-2 13b, a Llama-2 model trained at an 8k context length using linear positional interpolation scaling. The model was developed in collaboration with Jeff of NousResearch and Kaiokendev. It can be found on Hugging Face. The team extended the context length of the Llama-2 13b model through fine-tuning and it surpassed the performance of other recent methodologies, maintaining the same perplexity at 8k extrapolation. A Llama-2 7b model with 16k context length will be released soon on Hugging Face. The model works with the new version of Transformers (4.31) or with `trust_remote_code` for versions <= 4.30. Scaling rotary embeddings only requires minor changes to the model's code. The repository containing Jeff’s implementation of scaled rotary embeddings and Kaiokendev's blog posts on his findings are available online. The model was trained on Together Compute's Red Pajama dataset. A pre-tokenized dataset will be made accessible soon. The release also includes testimonials and recommendations for further research on scaling techniques and rotary embeddings.
 
