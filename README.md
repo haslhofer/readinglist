@@ -1,3 +1,11 @@
+## Run ChatGPT-like Language Models on Your Local Computer with Dalai Library
+Summary: The article introduces the dalai library, which allows users to run the foundational language model LLaMA and the instruction-following model Alpaca on their local computers. These models, smaller than their GPT counterparts, achieve comparable or better results. The article highlights the significance of the LLaMA model, which outperforms GPT-3 despite being 13 times smaller, and mentions its availability for research purposes, although model checkpoints require a request to Meta. The author also showcases the ability to run the LLaMA model on a Raspberry Pi, demonstrating its efficiency.
+
+Link: https://link.medium.com/XvlwwXhTAyb
+
+<img src="/img/0b0a070a-e7b4-40f4-8c60-e1b84f96a0f2.png" width="400" />
+<br/><br/>
+
 ## How to build your own private ChatGPT with your own data
 Summary: The article discusses the architecture and data requirements for creating a private ChatGPT that leverages your own data. It emphasizes the importance of separating the language model from the knowledge base to ensure factual correctness and traceability. The approach involves finding the most relevant data, chunking and splitting it, retrieving the most relevant data using search methods like semantic search, and writing a concise prompt to avoid hallucination. The article provides links to various resources and projects to help with building such a solution.
 
