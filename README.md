@@ -1,3 +1,11 @@
+## Chameleon: Plug-and-Play Compositional Reasoning with GPT-4
+Summary: Chameleon is a plug-and-play compositional reasoning framework that enhances LLMs' capabilities by combining various tools. The tools include LLM models, vision models, web search engines, Python functions, and rule-based modules. Chameleon infers the appropriate sequence of tools to compose and execute, enabling it to generate responses. On ScienceQA, Chameleon with GPT-4 achieves an impressive 86.54% accuracy, surpassing the best published few-shot model by 11.37% and achieving a 98.78% accuracy on TabMWP.
+
+Link: https://github.com/lupantech/chameleon-llm
+
+<img src="/img/82fdbd4f-224f-4bf9-b08e-4d18d715a6b2.png" width="400" />
+<br/><br/>
+
 ## Open-source LLMs see surge in popularity as they offer commercial use licenses
 Summary: The field of large language models (LLMs) has seen a surge in open-source developments, challenging the dominance of gated LLMs from big companies. Models like Dolly 2, StableLM, and CerebrasGPT offer commercial usability with open-source licenses, allowing businesses to leverage AI without compromising data security and privacy. This trend encourages more innovation, pushing the boundaries of AI capabilities and democratizing access to advanced language technologies.
 
