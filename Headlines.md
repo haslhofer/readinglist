@@ -1,3 +1,8 @@
+Table Transformer: A Transformer-Based Model for Table Detection and Structure Recognition
+
+___
+
+
 Get Free Self-Paced Courses on AI From Fortune 500 Companies Including Microsoft, Google and Harvard
 
 ___
