@@ -1,3 +1,8 @@
+DeepMind proposes LASER-NV, a generative model for efficient inference of large and complex scenes in partial observability conditions
+
+___
+
+
 University of Maryland researchers introduce Cold Diffusion, a diffusion model with deterministic perturbations
 
 ___
