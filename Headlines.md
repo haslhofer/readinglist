@@ -1,3 +1,8 @@
+Use "references" to text chunks for improved Retrieval-Augmented Generation (RAG)
+
+___
+
+
 Translate Text Between Languages with txtai and Hugging Face Models
 
 ___
