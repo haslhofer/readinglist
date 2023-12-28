@@ -1,3 +1,11 @@
+## LIMA language model demonstrates strong performance with limited instruction tuning
+Summary: Researchers introduced LIMA, a 65B parameter large language model (LLM) trained with supervised learning on 1,000 curated prompts and responses, without reinforcement learning or human preference modeling. LIMA demonstrated remarkable performance, learning to follow specific response formats from a few examples, even for complex queries. It showed good generalization to unseen tasks and was often preferred to other LLMs in a human study. The findings suggest that most knowledge in LLMs is learned during pretraining, emphasizing the importance of pretraining data and techniques.
+
+Link: https://arxiv.org/abs/2305.11206
+
+<img src="/img/174633be-f824-4611-a85d-0bc715c861e1.png" width="400" />
+<br/><br/>
+
 ## PyLLMs: Minimal Python Library for Connecting to LLMs with Benchmarking
 Summary: PyLLMs is a Python library that allows users to connect to various large language models (LLMs), including those from OpenAI, Anthropic, AI21, Cohere, Aleph Alpha, HuggingfaceHub, and Google. It features an automated benchmark system to evaluate models based on quality, speed, and cost. Additionally, PyLLMs supports multi-model usage, async completions, and streaming from compatible models, making it ideal for fast prototyping and evaluating different models.
 
