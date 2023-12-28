@@ -1,3 +1,11 @@
+## Tech Trends: Generative AI, Mobile Development, Low Code, and Unreal Engine
+Summary: Matt MacLaurin, a creative coder with extensive experience in tech companies, shares his personal list of excellent learning investments for those preparing for a new chapter in the tech industry. Generative AI, mobile development, low-code platforms, and the Unreal Engine are among the areas he recommends exploring.
+
+Link: https://www.linkedin.com/posts/mattmaclaurin_if-i-was-preparing-for-a-new-chapter-in-tech-activity-7023724176410624000-vgNk?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/c131fd21-29aa-4763-9ce2-75147f720dd7.png" width="400" />
+<br/><br/>
+
 ## Opportunities Abound in the Foundation Model Stack
 Summary: Foundation models are revolutionizing the field of artificial intelligence, leading to a burst of innovative applications, from language translation to image generation. However, developers face a tradeoff between easy-to-build but hard-to-defend proprietary models and flexible but complex open-source models. This gap creates opportunities for founders to bridge the gap and build novel applications, find differentiation, and develop tools for efficient foundation model operations. Tooling and orchestration frameworks like LangChain streamline development, while hot information retrieval and external data source integrations empower foundation models to reason about real-time data. Training and deployment optimizations, coupled with hosted inference services, reduce costs and increase efficiency. Ethical considerations and guardrails are crucial in the responsible use of these models. At Madrona, they actively seek founders who can harness the potential of foundation models and drive widespread innovation.
 
