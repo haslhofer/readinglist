@@ -1,3 +1,11 @@
+## Digital Artists Use NVIDIA Instant NeRF to Create Immersive 3D Scenes
+Summary: NVIDIA Instant NeRF is a tool that allows digital artists to create immersive 3D scenes from static 2D images in minutes. Using a set of photos taken from different perspectives, the tool generates a neural radiance field (NeRF) that represents the scene in 3D. This NeRF can then be used to render the scene from any viewpoint, allowing users to explore and interact with it realistically. The tool has been used to create beautiful and immersive scenes that can be used for a variety of applications, including online libraries, museums, virtual-reality experiences, and heritage-conservation projects.
+
+Link: https://nvda.ws/3Id3KuT
+
+<img src="/img/441fd128-2ad6-4f53-af2d-8734c366838f.png" width="400" />
+<br/><br/>
+
 ## Tech Influencer Creates Tutorial for NeRF Shot Using Luma AI
 Summary: Karen X. Cheng, an influencer, shares her creative experiments using NeRF (Neural Radiance Field) for filmmaking shots. She provides detailed instructions and tips for using NeRF, including shooting and editing techniques, and troubleshooting advice. Cheng also highlights the challenges and learning curve involved in using NeRF, emphasizing the importance of patience and persistence. She offers a tutorial for creating a "Dolly Zoom" effect using NeRF on both Android and iPhone devices, as well as a link to her web version tutorial. Cheng encourages users to experiment with different camera moves and techniques, such as fake drone shots, to enhance their creative filmmaking skills.
 
