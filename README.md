@@ -1,3 +1,11 @@
+## Create your own unique ChatGPT bot with a custom knowledge base
+Summary: ChatGPT is a context-aware AI model with limited context and zero context on some niche topics. This article explores how to extend ChatGPT by feeding it custom data sources and discusses the practical issues of prompt engineering and the manual approach. Creating a custom ChatGPT with a custom knowledge base involves leveraging data sources like confluence wiki pages, company knowledge bases, Reddit, and Stack Overflow. The article highlights the challenges of manually extending ChatGPT and introduces the concept of feeding data via prompt engineering, which requires appending the original document content before the actual questions. It also mentions the limitations of GPT-3 and introduces GPT-4, highlighting its improved capability to process more words but facing similar fundamental data issues.
+
+Link: https://link.medium.com/CiOze7suDyb
+
+<img src="/img/d12b6792-8c66-430c-a162-79a78fa4c123.png" width="400" />
+<br/><br/>
+
 ## Website Connection Security Check by Cloudflare
 Summary: Your connection to chat.lmsys.org is being reviewed for security reasons by the website. You will need to wait while Cloudflare assesses the security of your connection before you can proceed.
 
