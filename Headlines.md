@@ -1,3 +1,8 @@
+Multimodal language models could revolutionize AI by allowing machines to understand both images and text
+
+___
+
+
 Try Redis Cloud free for 14 days for your AI projects in AWS Marketplace
 
 ___
