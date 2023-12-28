@@ -1,3 +1,11 @@
+## Stanford Online's CS224N Course: Natural Language Processing with Deep Learning
+Summary: Stanford University's CS224N course, titled "Natural Language Processing with Deep Learning," offers a comprehensive exploration of cutting-edge techniques in natural language processing (NLP) and deep learning. Through a series of video lectures, students delve into topics such as word vectors, neural classifiers, recurrent neural networks, syntactic structure, translation, and self-attention. The course also covers practical considerations like final projects and ethical implications of NLP.
+
+Link: https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ
+
+<img src="/img/c9278036-5243-4300-afb0-2646a7038ae3.png" width="400" />
+<br/><br/>
+
 ## Transformers Agents Gets Local Agent Option for Private LLM Deployment
 Summary: Transformers Agents 4.30 introduces Local Agents, allowing users to load large language models (LLMs) locally, eliminating the need for remote APIs. This update enhances data security, particularly for organizations dealing with sensitive data. It also provides flexibility in incorporating local multimodal tools, improving control over data privacy and revolutionizing AI initiatives.
 
