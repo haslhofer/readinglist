@@ -1,3 +1,11 @@
+## Hugging Face's Distil-Whisper small model brings fast, private speech transcription to Macs with limited VRAM.
+Summary: Vaibhav Srivastav introduces a new model, distil-whisper small, for the insanely-fast-whisper package, which is a lightweight and fast speech recognition model that can be run locally on a Mac with less than 1.5GB of VRAM. This model is particularly suitable for English transcriptions and can be installed using pipx and run with a simple command. However, it is currently limited to Mac users and does not yet support Linux systems. The model's performance is comparable to other speech recognition models, taking around 8 minutes to transcribe a 56-minute podcast episode on a Mac M1.
+
+Link: https://www.linkedin.com/posts/vaibhavs10_distil-whisper-small-now-in-insanely-fast-whisper-ugcPost-7139995906757537792-rL7e?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/d00f67cb-01fb-470c-a846-a4b924d0fcaf.png" width="400" />
+<br/><br/>
+
 ## LinkedIn Influencer Daliana Liu discusses the increasing use of multimodal AI for customer support and highlights the capabilities of LlamaIndex in extracting structured data from images.
 Summary: Over 70% of businesses are predicted to use multimodal AI for customer support by 2025. LlamaIndex's new features allow users to extract information from images using a multi-modal model, unlocking use cases such as product reviews and OCR. The provided workshop can assist in building multi-model apps with LlamaIndex.
 
