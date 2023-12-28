@@ -1,3 +1,8 @@
+How to train a ControlNet for Stable Diffusion and Create Your Own Custom Image Editing Conditions
+
+___
+
+
 Hugging Face releases an Open-Domain Text-to-Video Synthesis Model
 
 ___
