@@ -1,3 +1,11 @@
+## Synthetic Data Can Be Used to Train Credit Scoring Models but with a Loss of Predictive Power
+Summary: Researchers explored a new method for evaluating the performance of credit scoring models trained with synthetic data when applied to real-world data. The study demonstrated that models trained on synthetic data can perform well, but with a loss of predictive power compared to models trained on real-world data. The findings suggest that synthetic data can be used to train credit scoring models while protecting borrowers' privacy, but with a potential trade-off in predictive accuracy.
+
+Link: https://www.marktechpost.com/2023/01/21/a-new-method-to-evaluate-the-performance-of-models-trained-with-synthetic-data-when-they-are-applied-to-real-world-data/
+
+<img src="/img/a3a1701d-cc5c-4f4a-a7ac-42dac186c144.png" width="400" />
+<br/><br/>
+
 ## Sure, here is a one-line headline describing the following text:
 
 **Headline:** AI-Powered Robots May Soon Take Over the World
