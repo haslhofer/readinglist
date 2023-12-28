@@ -1,3 +1,8 @@
+Bishop Book: A Comprehensive Introduction to Deep Learning for Everyone
+
+___
+
+
 Multi-Modal Retrieval and Generation with Large Language Models
 
 ___
