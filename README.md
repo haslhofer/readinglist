@@ -1,3 +1,11 @@
+## Donut: Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG)
+Summary: Donut is a new method of document understanding that uses an OCR-free end-to-end transformer model, which doesn't require off-the-shelf OCR engines/APIs. It shows state-of-the-art performance on tasks like document classification or information extraction. In addition, Donut presents SynthDoG, which helps the model pre-training to be flexible across various languages and domains.
+
+Link: https://github.com/clovaai/donut
+
+<img src="/img/90574afe-205b-4f22-9718-95b48f3dc5da.png" width="400" />
+<br/><br/>
+
 ## Fine-Tune and Deploy Donut Model on Amazon SageMaker for Document Understanding
 Summary: This article introduces Donut, a novel document understanding model that achieves state-of-the-art performance. It demonstrates how to fine-tune and deploy Donut using Hugging Face Transformers and Amazon SageMaker. The task is to extract key information from scanned receipts using the SROIE dataset. The guide includes preprocessing the dataset, creating a Donut-compatible format, fine-tuning Donut on SageMaker, and deploying the model for inference. It also evaluates the model's performance on a test set using the ROUGE metric. Finally, the article offers suggestions for further improvement and cleanup of resources.
 
