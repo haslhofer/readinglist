@@ -1,3 +1,8 @@
+Self-Instruct: Aligning Language Models with Self-Generated Instructions
+
+___
+
+
 Kosmos-1: A Multimodal Large Language Model that Can See, Reason, and Act
 
 ___
