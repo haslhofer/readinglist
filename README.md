@@ -1,3 +1,11 @@
+## Fine-Tune and Deploy Donut Model on Amazon SageMaker for Document Understanding
+Summary: This article introduces Donut, a novel document understanding model that achieves state-of-the-art performance. It demonstrates how to fine-tune and deploy Donut using Hugging Face Transformers and Amazon SageMaker. The task is to extract key information from scanned receipts using the SROIE dataset. The guide includes preprocessing the dataset, creating a Donut-compatible format, fine-tuning Donut on SageMaker, and deploying the model for inference. It also evaluates the model's performance on a test set using the ROUGE metric. Finally, the article offers suggestions for further improvement and cleanup of resources.
+
+Link: https://www.philschmid.de/sagemaker-donut
+
+<img src="/img/9024c36f-bdbd-46f3-89de-cac34695fd50.png" width="400" />
+<br/><br/>
+
 ## How to Build a Web API Powered by ChatGPT
 Summary: The article provides a step-by-step guide for creating a web API powered by ChatGPT using various tools such as FastAPI, NYTimes API, and OpenAI. The goal is to develop an application that summarizes top news stories using ChatGPT and displays them along with relevant images. The process involves setting up the necessary API keys, creating a backend API using FastAPI, implementing a function to summarize news stories using ChatGPT, and building a user interface using HTML, CSS, and JavaScript. The article also covers deploying the API and UI to Fly.io. At the end, it mentions plans for a follow-up post to discuss improvements such as setting up a continuous delivery pipeline and using Redis to cache ChatGPT responses for increased speed.
 
