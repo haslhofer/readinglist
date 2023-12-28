@@ -1,3 +1,10 @@
+Transformers in NLP: Understanding Context and Applications in Language
+
+Filename:1d68b972-873f-4138-8608-86121f9d4c65.png
+
+___
+
+
 Data2vec 2.0: A Highly Efficient Self-Supervised Learning Algorithm for Vision, Speech, and Text
 
 Filename:ac8c06d8-598d-4fa0-9cb1-b94434253f75.png
