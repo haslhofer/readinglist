@@ -1,3 +1,11 @@
+## LinkedIn Warns of Potential Safety Issues with External Links
+Summary: The provided text is a warning message from LinkedIn, indicating that the user is attempting to access an external link that LinkedIn cannot verify for safety. The message advises the user to reconsider visiting the external link and provides a link to a page where they can learn more about external links and their potential risks.
+
+Link: https://lnkd.in/g-zx7hDy
+
+<img src="/img/f3c7168b-883e-4bcd-a0bb-de65d4380c2a.png" width="400" />
+<br/><br/>
+
 ## LinkedIn cannot verify external URL for safety
 Summary: The provided text contains a link to a YouTube video. However, I cannot access external links, including the one mentioned, and am unable to provide a summary of the content found at that link.
 
