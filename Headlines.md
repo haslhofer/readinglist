@@ -1,3 +1,8 @@
+Generative AI: Infrastructure Triumphs in the Battle for Value
+
+___
+
+
 Researchers Custom-Train Diffusion Models to Generate Personalized Text-to-Image
 
 ___
