@@ -1,3 +1,11 @@
+## CLIP-Pixels Only: A Pixel-based Model for Image-and-Language Understanding
+Summary: The research paper titled "CLIPPO: Image-and-Language Understanding from Pixels Only" introduces CLIP-Pixels Only (CLIPPO), a unified multimodal model that excels in image-based tasks, natural language understanding tasks, and multilingual multimodal retrieval, all trained solely with contrastive loss. CLIPPO employs a single encoder to process images and text rendered as images, resulting in a compact model with half the parameters of typical CLIP-style models. The model achieves strong performance on visual question answering tasks by simply rendering the question and image together, demonstrating its versatility.
+
+Link: https://arxiv.org/abs/2212.08045
+
+<img src="/img/fb949c80-e83d-4d79-9b7f-9a0bec00e2d0.png" width="400" />
+<br/><br/>
+
 ## LinkedIn: Join the Professional Networking Platform
 Summary: I am sorry, I do not have access to the internet to get the context from the given URL and am unable to summarize the text.
 
