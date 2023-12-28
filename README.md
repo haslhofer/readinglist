@@ -1,3 +1,11 @@
+## Vid2Avatar: Creating Detailed 3D Avatar Reconstructions from Wild Videos
+Summary: Vid2Avatar is a novel approach to reconstruct detailed 3D avatars from monocular in-the-wild videos. It solves the tasks of scene decomposition and surface reconstruction directly in 3D, modeling both the human and background implicitly via two separate neural fields. The method utilizes self-supervised scene decomposition to better decouple humans from the background, resulting in superior performance compared to existing state-of-the-art methods. It can reconstruct detailed geometry and appearance of the avatars, generalize to different human shapes and clothing styles, and handle challenging poses and complex environments.
+
+Link: https://moygcc.github.io/vid2avatar/
+
+<img src="/img/a0c0d2dc-e403-4dc1-a56b-0a0bdf81a2a4.png" width="400" />
+<br/><br/>
+
 ## Semantic Kernel: Integrate Cutting-edge LLM Technology Quickly and Easily into Your Apps
 Summary: Semantic Kernel is an SDK that integrates Large Language Models (LLMs) with programming languages. It allows users to define plugins that can be chained together and orchestrated with AI. With Semantic Kernel planners, users can ask an LLM to generate a plan to achieve a unique goal. The SDK is available in C#, Python, and Java. To get started, users can run one of the provided console applications/scripts or follow the detailed tutorials provided. Additionally, the Semantic Kernel extension for Visual Studio Code simplifies designing and testing semantic functions. Users can join the community through GitHub discussions, contribute to the project, join the Discord community, and attend regular office hours and events.
 
