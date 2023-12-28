@@ -1,3 +1,8 @@
+Open-source LLMs see surge in popularity as they offer commercial use licenses
+
+___
+
+
 Open multimodal models enable text and imagery interactions.
 
 ___
