@@ -1,3 +1,11 @@
+## Try Redis Cloud free for 14 days for your AI projects in AWS Marketplace
+Summary: Redis and LangChain have collaborated to introduce the LangChain RAG template, a transformative approach for creating and deploying generative AI APIs. Developers can use this template to create factually consistent, LLM-powered chat applications by utilizing Redis as the vector database for rapid context retrieval and grounded prompt construction. The RAG template simplifies AI application development and streamlines the process of deploying production-ready solutions.
+
+Link: https://redis.com/blog/announcing-langchain-rag-template-powered-by-redis/
+
+<img src="/img/7b59c3a9-d079-4f5c-8028-fcc4ba154247.png" width="400" />
+<br/><br/>
+
 ## PowerInfer: A GPU-CPU Hybrid Inference Engine for Large Language Models
 Summary: The article discusses a new GPU-CPU hybrid inference engine called PowerInfer, which significantly speeds up inference for large language models (LLMs). This engine exploits the locality in LLM inference by preloading hot-activated neurons onto the GPU and computing cold-activated neurons on the CPU. It achieves impressive token generation rates on a single NVIDIA RTX 4090 GPU, outperforming server-grade GPUs and other inference engines. This innovation allows for efficient deployment of LLMs locally, opening up new possibilities for applications and research.
 
