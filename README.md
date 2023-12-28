@@ -1,3 +1,11 @@
+## Self-Instruct: Aligning Language Models with Self-Generated Instructions
+Summary: Self-Instruct presents a framework to enhance the instruction-following abilities of pretrained language models by utilizing their own generated instructions, input, and output samples. Instead of relying on limited and diverse human-written instruction data, our model bootstraps off its own generations, resulting in a 33% absolute improvement on Super-NaturalInstructions and outperforms InstructGPT-001 on a set of expert-written instructions for novel tasks. Self-Instruct provides an efficient and effective method for aligning language models with instructions, and we make our synthetic dataset and code publicly available.
+
+Link: https://arxiv.org/abs/2212.10560
+
+<img src="/img/a4acc890-4d62-4bea-89e2-1584b3b2f9a4.png" width="400" />
+<br/><br/>
+
 ## Kosmos-1: A Multimodal Large Language Model that Can See, Reason, and Act
 Summary: Researchers introduced Kosmos-1, a multimodal large language model (MLLM) capable of perceiving general modalities, learning in context, and following instructions. Trained from scratch on web-scale multimodal corpora, Kosmos-1 demonstrated impressive performance on various tasks spanning language understanding, generation, OCR-free NLP, perception-language tasks, and vision tasks. Experiments revealed the benefits of cross-modal transfer between language and multimodal modalities. Furthermore, a new dataset was introduced to assess the nonverbal reasoning capabilities of MLLMs.
 
