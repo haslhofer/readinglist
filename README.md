@@ -1,3 +1,11 @@
+## LlamaIndex Workshop: Unraveling Multimodal Capabilities and Semantic Retrieval with Google Gemini
+Summary: The Google Gemini release brings capabilities like multi-modal capabilities and semantic retrieval. In this workshop, two use cases are covered: using LLM + RAG with Google Gemini to perform named entity recognition on images and for image captioning, and generating HTML code using text-based prompts.
+
+Link: https://youtu.be/fdpaHJlN0PQ
+
+<img src="/img/d014644e-7a8f-4a11-84ba-22a9ba74f5b0.png" width="400" />
+<br/><br/>
+
 ## Google Developers and LlamaIndex Collaborate on Comprehensive Gemini Building Workshop
 Summary: LlamaIndex has collaborated with the Google for Developers team to introduce a comprehensive workshop on building with Google Gemini, including both advanced RAG and multi-modal settings. The video resource provides detailed instructions on using the Google semantic retriever, Google AQA model, and LlamaIndex reranking modules for advanced RAG, and how to implement high-level architecture and showcase multi-modal RAG. Additional resources, including notebooks for both advanced RAG and multi-modal settings, are available to guide users through the process.
 
