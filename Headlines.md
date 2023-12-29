@@ -1,3 +1,8 @@
+LlamaIndex Workshop: Unraveling Multimodal Capabilities and Semantic Retrieval with Google Gemini
+
+___
+
+
 Google Developers and LlamaIndex Collaborate on Comprehensive Gemini Building Workshop
 
 ___
