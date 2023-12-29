@@ -1,3 +1,11 @@
+## Google Developers and LlamaIndex Collaborate on Comprehensive Gemini Building Workshop
+Summary: LlamaIndex has collaborated with the Google for Developers team to introduce a comprehensive workshop on building with Google Gemini, including both advanced RAG and multi-modal settings. The video resource provides detailed instructions on using the Google semantic retriever, Google AQA model, and LlamaIndex reranking modules for advanced RAG, and how to implement high-level architecture and showcase multi-modal RAG. Additional resources, including notebooks for both advanced RAG and multi-modal settings, are available to guide users through the process.
+
+Link: https://www.linkedin.com/posts/llamaindex_in-collaboration-with-the-google-for-developers-activity-7146178895598268416-BHMS?utm_source=share&utm_medium=member_android
+
+<img src="/img/c4eacf03-221f-4780-8c77-48815cd84469.png" width="400" />
+<br/><br/>
+
 ## Google Gemini and OpenAI Q*: Reshaping Generative AI Research
 Summary: The survey explores the evolving landscape of generative AI, focusing on Mixture of Experts (MoE), multimodal learning, and progress towards Artificial General Intelligence (AGI). It examines the impacts of Google's Gemini and the anticipated OpenAI Q* project, assessing computational challenges, scalability, real-world implications, and the emerging academic challenges of AI-themed and AI-generated preprints. The study highlights the importance of ethical and human-centric approaches in AI development and outlines a strategy for future AI research that emphasizes balanced and conscientious use of MoE, multimodality, and AGI.
 
