@@ -1,3 +1,8 @@
+Google Developers and LlamaIndex Collaborate on Comprehensive Gemini Building Workshop
+
+___
+
+
 Google Gemini and OpenAI Q*: Reshaping Generative AI Research
 
 ___
