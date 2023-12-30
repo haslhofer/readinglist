@@ -1,3 +1,8 @@
+Generative Multimodal Models: Emu Series from BAAI
+
+___
+
+
 LlamaIndex Workshop: Unraveling Multimodal Capabilities and Semantic Retrieval with Google Gemini
 
 ___
