@@ -1,3 +1,11 @@
+## Stanford CS229: Machine Learning - Introduction to Machine Learning by Andrew Ng
+Summary: Stanford CS229: Machine Learning is a comprehensive online course that delves into the fundamentals of machine learning, including supervised learning, unsupervised learning, and reinforcement learning. Led by renowned AI expert Andrew Ng, the course covers topics such as linear regression, gradient descent, logistic regression, regularization, decision trees, and neural networks. With engaging video lectures, assignments, and exams, this course is designed to provide a solid foundation in the field of machine learning.
+
+Link: https://www.youtube.com/watch?v=jGwO_UgTS7I
+
+<img src="/img/56e707e9-23fc-4d7b-a220-9431ead9c1b5.png" width="400" />
+<br/><br/>
+
 ## Stanford CS229: Machine Learning Full Course taught by Andrew Ng
 Summary: The provided text is a collection of video lectures and courses focusing on machine learning. These lectures are part of the Stanford CS229 course taught by Andrew Ng, covering topics such as linear regression, gradient descent, and supervised learning. The course also explores additional concepts in machine learning, including locally weighted regression, logistic regression, and reinforcement learning. The lectures are designed for students and individuals interested in gaining a deeper understanding of machine learning algorithms and their applications.
 
