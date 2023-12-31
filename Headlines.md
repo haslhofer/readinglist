@@ -1,3 +1,8 @@
+Stanford CS229: Machine Learning Full Course taught by Andrew Ng
+
+___
+
+
 Generative Multimodal Models: Emu Series from BAAI
 
 ___
