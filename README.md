@@ -1,7 +1,7 @@
 
 
-## - [x] Generative Multimodal Models: Emu Series from BAAI
-Summary: Emu is a series of generative multimodal models released by BAAI Vision Team that achieve state-of-the-art performance on multimodal understanding and generation tasks. The open and largest model, Emu2, is available along with inference code and a demo. It is a next-generation multimodal generalist capable of seamlessly generating images and texts. The team behind Emu is hiring researchers, engineers, and interns to work on foundation models, visual perception, and multimodal learning.
+## Generative Multimodal Models: Emu Series from BAAI
+- [x] Summary: Emu is a series of generative multimodal models released by BAAI Vision Team that achieve state-of-the-art performance on multimodal understanding and generation tasks. The open and largest model, Emu2, is available along with inference code and a demo. It is a next-generation multimodal generalist capable of seamlessly generating images and texts. The team behind Emu is hiring researchers, engineers, and interns to work on foundation models, visual perception, and multimodal learning.
 
 Link: https://github.com/baaivision/Emu
 
