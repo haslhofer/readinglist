@@ -1,3 +1,8 @@
+Stanford CS229: Machine Learning - Introduction to Machine Learning by Andrew Ng
+
+___
+
+
 Stanford CS229: Machine Learning Full Course taught by Andrew Ng
 
 ___
