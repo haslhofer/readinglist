@@ -1,3 +1,11 @@
+## Guiding Principles for Prompting and Questioning Large Language Models (LLMs)
+Summary: The paper introduces 26 guiding principles for prompt engineering in large language models (LLMs) like LLaMA-1/2 and GPT-3.5/4. These principles aim to simplify the process of querying and prompting LLMs, enhance user understanding of LLM behaviors, and provide better guidance for researchers working on LLM prompting. Extensive experiments demonstrate the effectiveness of these principles in improving the quality of LLM responses. The project page can be found at https://github.com/zhewei-shen/Principled_Instructions_for_Prompt_Engineering_in_LLMs.
+
+Link: https://arxiv.org/abs/2312.16171
+
+<img src="/img/1e611a32-ea22-4d2f-9968-3e92b975084b.png" width="400" />
+<br/><br/>
+
 ## Stanford CS229: Machine Learning - Introduction to Machine Learning by Andrew Ng
 Summary: Stanford CS229: Machine Learning is a comprehensive online course that delves into the fundamentals of machine learning, including supervised learning, unsupervised learning, and reinforcement learning. Led by renowned AI expert Andrew Ng, the course covers topics such as linear regression, gradient descent, logistic regression, regularization, decision trees, and neural networks. With engaging video lectures, assignments, and exams, this course is designed to provide a solid foundation in the field of machine learning.
 
