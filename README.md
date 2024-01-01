@@ -1,3 +1,11 @@
+## TinyLlama: A 1.1B Parameter Chatbot Trained on 3 Trillion Tokens
+Summary: The TinyLlama project aims to pretrain a 1.1B Llama model using 16 A100-40G GPUs within 90 days. This chat model is fine-tuned on top of TinyLlama/TinyLlama-1.1B-intermediate-step-1431k-3T, and is designed to respond in the style of a pirate. It can be used for text generation tasks, and can be loaded on-demand via the Inference API.
+
+Link: https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0
+
+<img src="/img/6935e121-570f-41be-8279-2a14890d1cf7.png" width="400" />
+<br/><br/>
+
 ## Principled Instructions for Prompting Large Language Models (LLM)
 Summary: The paper presents 26 guiding principles for creating more effective prompts for large language models like LLaMA-1/2 and GPT-3.5/4. The goal is to simplify the process of formulating questions and enhancing user understanding of how different scales of language models respond to different prompts. The principles are validated through experiments on these models, and the project page is available at the provided URL. The paper aims to provide a better guide for researchers working on prompting large language models.
 
