@@ -1,3 +1,8 @@
+"The Hands-on LLMs FREE course has surpassed 750 GitHub stars, offering free hands-on learning for building LLM systems with good LLMOps principles."
+
+___
+
+
 Secure Connection Verification for Ultrarunning.com
 
 ___
