@@ -1,3 +1,11 @@
+## Secure Connection Verification for Ultrarunning.com
+Summary: I am sorry, I do not have access to the internet to get the context from the given URL and am unable to summarize the text.
+
+Link: https://ultrarunning.com/calendar/state/washington?distance=10
+
+<img src="/img/ce5a5a69-67c7-4ad3-8d41-2e2d07a50356.png" width="400" />
+<br/><br/>
+
 ## New library simplifies training of 7-billion parameter language model using cutting-edge techniques
 Summary: X-LLM is a user-friendly library for efficient model training, offering advanced techniques and customizable options within the Hugging Face ecosystem. It features LoRA, QLoRA and fusing, Flash Attention 2, Gradient checkpointing, bitsandbytes quantization, GPTQ (including post-training quantization), and W&B experiment tracking. X-LLM simplifies training on multiple GPUs at once using DeepSpeed or FSDP. It supports creating production-ready solutions or fast prototypes, fine-tuning a 7B model with 334 million tokens for just $50, automatically saving each checkpoint during training to Hugging Face Hub, and quantizing a model using GPTQ.
 
