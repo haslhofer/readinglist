@@ -1,3 +1,11 @@
+## Principled Instructions for Prompting Large Language Models (LLM)
+Summary: The paper presents 26 guiding principles for creating more effective prompts for large language models like LLaMA-1/2 and GPT-3.5/4. The goal is to simplify the process of formulating questions and enhancing user understanding of how different scales of language models respond to different prompts. The principles are validated through experiments on these models, and the project page is available at the provided URL. The paper aims to provide a better guide for researchers working on prompting large language models.
+
+Link: https://arxiv.org/abs/2312.16171
+
+<img src="/img/8498c174-be5d-42c1-975f-1d371272c8f7.png" width="400" />
+<br/><br/>
+
 ## Guiding Principles for Prompting and Questioning Large Language Models (LLMs)
 Summary: The paper introduces 26 guiding principles for prompt engineering in large language models (LLMs) like LLaMA-1/2 and GPT-3.5/4. These principles aim to simplify the process of querying and prompting LLMs, enhance user understanding of LLM behaviors, and provide better guidance for researchers working on LLM prompting. Extensive experiments demonstrate the effectiveness of these principles in improving the quality of LLM responses. The project page can be found at https://github.com/zhewei-shen/Principled_Instructions_for_Prompt_Engineering_in_LLMs.
 
