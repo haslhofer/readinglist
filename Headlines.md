@@ -1,3 +1,8 @@
+New library simplifies training of 7-billion parameter language model using cutting-edge techniques
+
+___
+
+
 TinyLlama: A 1.1B Parameter Chatbot Trained on 3 Trillion Tokens
 
 ___
