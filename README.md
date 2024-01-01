@@ -1,3 +1,11 @@
+## New library simplifies training of 7-billion parameter language model using cutting-edge techniques
+Summary: X-LLM is a user-friendly library for efficient model training, offering advanced techniques and customizable options within the Hugging Face ecosystem. It features LoRA, QLoRA and fusing, Flash Attention 2, Gradient checkpointing, bitsandbytes quantization, GPTQ (including post-training quantization), and W&B experiment tracking. X-LLM simplifies training on multiple GPUs at once using DeepSpeed or FSDP. It supports creating production-ready solutions or fast prototypes, fine-tuning a 7B model with 334 million tokens for just $50, automatically saving each checkpoint during training to Hugging Face Hub, and quantizing a model using GPTQ.
+
+Link: https://www.linkedin.com/posts/santoshnsavant_x-llm-few-lines-of-code-to-train-your-own-activity-7147474474244747264-1GtQ?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/1204e6a4-7a00-4c0d-99f2-ef2b98e1c604.png" width="400" />
+<br/><br/>
+
 ## TinyLlama: A 1.1B Parameter Chatbot Trained on 3 Trillion Tokens
 Summary: The TinyLlama project aims to pretrain a 1.1B Llama model using 16 A100-40G GPUs within 90 days. This chat model is fine-tuned on top of TinyLlama/TinyLlama-1.1B-intermediate-step-1431k-3T, and is designed to respond in the style of a pirate. It can be used for text generation tasks, and can be loaded on-demand via the Inference API.
 
