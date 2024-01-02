@@ -1,3 +1,11 @@
+## Segmind's Dreambooth LoRA Pipeline Enables Personalized Image Generation
+Summary: Segmind has developed a pipeline to fine-tune SDXL on your own images using Dreambooth LoRA. This allows you to create personalized images that reflect your personality, style, and identity. A step-by-step guide, an explanation of the fine-tuning parameters, and real-world use cases are provided to help you get started.
+
+Link: https://www.linkedin.com/posts/segmind_dreambooth-lora-finetuning-activity-7147821136305602560-zqgU?utm_source=share&utm_medium=member_desktop
+
+<img src="/img/ffc4debe-860d-47ee-8124-63c49568931f.png" width="400" />
+<br/><br/>
+
 ## ByteByteGo Newsletter: Recapping the Best of 2023's System Design Insights
 Summary: ByteByteGo Newsletter, a popular email newsletter, sent out 104 newsletters in 2023, covering system design fundamentals on Saturdays and deep dives on Thursdays. The best of the newsletter includes articles on various topics, such as database types, Kubernetes, authentication, message queues, and more. The newsletter aims to explain complex systems in simple terms and provide valuable insights for readers interested in system design and software development.
 
