@@ -1,3 +1,11 @@
+## ByteByteGo Newsletter: Recapping the Best of 2023's System Design Insights
+Summary: ByteByteGo Newsletter, a popular email newsletter, sent out 104 newsletters in 2023, covering system design fundamentals on Saturdays and deep dives on Thursdays. The best of the newsletter includes articles on various topics, such as database types, Kubernetes, authentication, message queues, and more. The newsletter aims to explain complex systems in simple terms and provide valuable insights for readers interested in system design and software development.
+
+Link: https://blog.bytebytego.com/p/best-of-bytebytegos-newsletter-2023
+
+<img src="/img/654847ed-075e-4ea7-8bfd-6af4558b4d80.png" width="400" />
+<br/><br/>
+
 ## TinyLlama: Aiming to Pretrain a 1.1B Llama Model on 3 Trillion Tokens
 Summary: The TinyLlama project aims to pretrain a 1.1B Llama model on 3 trillion tokens within 90 days using 16 A100-40G GPUs. The training started on September 1, 2023, and the project is expected to be completed by December 28, 2023. The model is compact with only 1.1B parameters, allowing it to cater to applications demanding restricted computation and memory footprint. Intermediate checkpoints will be released following a schedule, and the project is open to community feedback and contributions.
 
