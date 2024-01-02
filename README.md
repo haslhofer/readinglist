@@ -1,3 +1,11 @@
+## Direct Preference Optimization Technique Improves Performance of Supervised Fine-Tuned Models
+Summary: In this article, the author introduces Direct Preference Optimization (DPO), a fine-tuning technique for large language models (LLMs) that uses preference datasets to align the model's outputs with human preferences. The author demonstrates the use of DPO to fine-tune the OpenHermes-2.5 model using the Intel/orca_dpo_pairs dataset. The resulting model, NeuralHermes-2.5, shows significant improvement in performance over the Open LLMs Leaderboard. The author further discusses potential areas for improvement and provides references for further reading.
+
+Link: https://towardsdatascience.com/fine-tune-a-mistral-7b-model-with-direct-preference-optimization-708042745aac
+
+<img src="/img/b3ce28af-3fbd-4fb4-a782-23e6e82d828e.png" width="400" />
+<br/><br/>
+
 ## AI-driven UX to dominate consumer market in 2024
 Summary: In 2024, the focus of consumer AI will shift from model building to user experience (UX). Voice-first apps and computer vision will become more prevalent, with applications in various industries. Democratizing "miracle drugs" through AI and using AI to create games that never end are also key trends. Additionally, AI interpretability, safety, and the rise of developers as buyers in financial services are important developments to watch.
 
