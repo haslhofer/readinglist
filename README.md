@@ -1,3 +1,11 @@
+## AI-driven UX to dominate consumer market in 2024
+Summary: In 2024, the focus of consumer AI will shift from model building to user experience (UX). Voice-first apps and computer vision will become more prevalent, with applications in various industries. Democratizing "miracle drugs" through AI and using AI to create games that never end are also key trends. Additionally, AI interpretability, safety, and the rise of developers as buyers in financial services are important developments to watch.
+
+Link: https://youtu.be/kdUUtgnet0E
+
+<img src="/img/9610812b-4c73-480e-8f75-b889233b5c52.png" width="400" />
+<br/><br/>
+
 ## "The Hands-on LLMs FREE course has surpassed 750 GitHub stars, offering free hands-on learning for building LLM systems with good LLMOps principles."
 Summary: This post discusses the "Hands-on LLMs" free course, which teaches how to build hands-on LLM systems using LLMOps principles. The course consists of four hands-on video lessons and open-source code that can be accessed on GitHub. The author also shares a few tips to get started, such as focusing on the fundamentals and learning the latest trends only when needed. Additionally, the author emphasizes the importance of asking questions when needed and not being afraid of being seen as dumb. The author also provides six techniques for prompt engineering, prompting methods that can be used to improve the performance of LLMs. Furthermore, the author shares four free lectures on building an LLM project and highlights the importance of keeping a vector database up to date for RAG applications. The author explains the six features of an ML platform that are crucial for integrating MLOps into a project, using Comet ML as an example. The author also discusses the importance of working and traveling to improve social and emotional skills, especially for introverted engineers. The author provides a Python script to train an LLM at scale in under 5 minutes, emphasizing the importance of data, processing, and compute power over the LLM itself. Finally, the author stresses the significance of a model registry in decoupling the offline and production pipelines of an ML system.
 
