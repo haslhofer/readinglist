@@ -1,3 +1,11 @@
+## TinyLlama: Aiming to Pretrain a 1.1B Llama Model on 3 Trillion Tokens
+Summary: The TinyLlama project aims to pretrain a 1.1B Llama model on 3 trillion tokens within 90 days using 16 A100-40G GPUs. The training started on September 1, 2023, and the project is expected to be completed by December 28, 2023. The model is compact with only 1.1B parameters, allowing it to cater to applications demanding restricted computation and memory footprint. Intermediate checkpoints will be released following a schedule, and the project is open to community feedback and contributions.
+
+Link: https://github.com/jzhang38/TinyLlama
+
+<img src="/img/996580df-7ec0-458a-b7c9-45395b85c535.png" width="400" />
+<br/><br/>
+
 ## Direct Preference Optimization Technique Improves Performance of Supervised Fine-Tuned Models
 Summary: In this article, the author introduces Direct Preference Optimization (DPO), a fine-tuning technique for large language models (LLMs) that uses preference datasets to align the model's outputs with human preferences. The author demonstrates the use of DPO to fine-tune the OpenHermes-2.5 model using the Intel/orca_dpo_pairs dataset. The resulting model, NeuralHermes-2.5, shows significant improvement in performance over the Open LLMs Leaderboard. The author further discusses potential areas for improvement and provides references for further reading.
 
