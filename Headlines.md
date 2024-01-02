@@ -1,3 +1,8 @@
+TinyLlama: Aiming to Pretrain a 1.1B Llama Model on 3 Trillion Tokens
+
+___
+
+
 Direct Preference Optimization Technique Improves Performance of Supervised Fine-Tuned Models
 
 ___
