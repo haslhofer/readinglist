@@ -1,3 +1,8 @@
+25 Prompts and Tips for Using Midjourney V6
+
+___
+
+
 Segmind's Dreambooth LoRA Pipeline Enables Personalized Image Generation
 
 ___
