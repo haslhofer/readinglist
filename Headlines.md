@@ -1,3 +1,8 @@
+Layout-Aware Generative Language Model for Understanding Visual Documents
+
+___
+
+
 25 Prompts and Tips for Using Midjourney V6
 
 ___
