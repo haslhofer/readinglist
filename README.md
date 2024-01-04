@@ -1,3 +1,11 @@
+## Apple launches Ferret 7B, a cutting-edge multimodal large language model for enhanced AI capabilities
+Summary: Apple's Ferret 7B LLM, a cutting-edge large language model, represents a significant advancement in AI. Featuring multimodal capabilities, it interprets and creates image-text content, outperforming traditional text-based AI models. Integrated with iOS and macOS, this technology enhances user interaction with Apple devices. The open-source model code and checkpoints encourage innovation within the AI community. Apple's strategic decision to tailor the model for iOS, balancing performance with mobile hardware constraints, reflects its focus on user experience. The Ferret Bench benchmarking tool allows developers to evaluate the model's efficiency. Apple's commitment to AI underscores its dedication to creating practical applications that benefit device users.
+
+Link: https://www.geeky-gadgets.com/apple-ferret-multimodal-large-language-model/
+
+<img src="/img/b4edc08d-47ec-43a8-bdc5-1644fa6c7d7b.png" width="400" />
+<br/><br/>
+
 ## Layout-Aware Generative Language Model for Understanding Visual Documents
 Summary: DocLLM is a lightweight extension to traditional large language models (LLMs) for understanding visual documents, combining textual semantics and spatial layout. It utilizes bounding box information and a disentangled attention mechanism to capture the relationship between text and spatial modalities. The pre-trained model is fine-tuned on a large-scale instruction dataset, excelling on 14 out of 16 document intelligence tasks across various datasets and generalizing well to new unseen datasets.
 
