@@ -1,3 +1,8 @@
+Apple launches Ferret 7B, a cutting-edge multimodal large language model for enhanced AI capabilities
+
+___
+
+
 Layout-Aware Generative Language Model for Understanding Visual Documents
 
 ___
