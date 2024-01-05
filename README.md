@@ -1,3 +1,11 @@
+## Stanford CS25 - Transformers United: A Series of Lectures on Advanced Topics and Applications of Transformers
+Summary: Elvis S. recommends a series of lectures on advanced applications and topics related to Transformers. These lectures cover common-sense reasoning, generalist agents in open-ended worlds, and other advanced topics. Some of the lectures may be outdated, but the creators plan to release more updated lectures soon.
+
+Link: https://www.linkedin.com/posts/omarsar_stanford-cs25-transformers-united-great-activity-7149068818655453184-tk6n?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/e757c72c-48d4-4d94-893a-0ca7574b7d66.png" width="400" />
+<br/><br/>
+
 ## Novel Method Boosts Text Embeddings With Large Language Models
 Summary: A novel method is proposed for obtaining high-quality text embeddings using only synthetic data and less than 1k training steps, eliminating the need for complex training pipelines and reliance on manually collected datasets. This method leverages proprietary LLMs to generate diverse synthetic data for numerous text embedding tasks across various languages. By fine-tuning open-source decoder-only LLMs on synthetic data using standard contrastive loss, the method showcases strong performance on benchmarks and sets new state-of-the-art results when fine-tuned with a mixture of synthetic and labeled data.
 
