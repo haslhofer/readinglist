@@ -1,3 +1,8 @@
+Andrew Ng Unveils New Retrieval for RAG Course to Enhance AI Systems' Precision and Contextual Understanding
+
+___
+
+
 Advanced RAG: Optimizing Retrieval with Additional Context & MetaData using LlamaIndex🦙
 
 ___
