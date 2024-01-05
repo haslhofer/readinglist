@@ -1,3 +1,11 @@
+## Novel Method Boosts Text Embeddings With Large Language Models
+Summary: A novel method is proposed for obtaining high-quality text embeddings using only synthetic data and less than 1k training steps, eliminating the need for complex training pipelines and reliance on manually collected datasets. This method leverages proprietary LLMs to generate diverse synthetic data for numerous text embedding tasks across various languages. By fine-tuning open-source decoder-only LLMs on synthetic data using standard contrastive loss, the method showcases strong performance on benchmarks and sets new state-of-the-art results when fine-tuned with a mixture of synthetic and labeled data.
+
+Link: https://arxiv.org/abs/2401.00368
+
+<img src="/img/f7def9b1-0e62-419c-a97e-ab7ef480a141.png" width="400" />
+<br/><br/>
+
 ## Parakeet RNNT 1.1B: A High-Accuracy Speech Recognition Model for English
 Summary: Parakeet RNNT 1.1B is an English ASR model developed by NVIDIA NeMo and Suno.ai teams. It utilizes the FastConformer with RNNT loss trained on 64K hours of data, achieving strong speech recognition accuracy. The model is available in the NeMo toolkit for inference and fine-tuning, supporting transcription of audio samples to lower case English alphabet. It was trained using NVIDIA NeMo and can be deployed on NVIDIA Riva for real-time speech recognition.
 
