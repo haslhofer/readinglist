@@ -1,3 +1,11 @@
+## Learn How to Customize AI Image Models with Just 5-10 Images
+Summary: Apolinário Passos, an AI artist and ML art engineer, introduces a new open-source platform for customizing text-to-image models using 5-10 images. The platform, LoRA Ease, allows you to create personalized images of objects, faces, characters, and styles. It uses advanced techniques like Dreambooth, Pivotal Tuning, and Prodigy optimizer to produce high-quality images owned by the user.
+
+Link: https://www.linkedin.com/posts/apolinariosteps_lets-start-2024-shipping-in-this-1-ugcPost-7148268229403070464-3s7_?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/0f19d27a-20fd-49ab-8506-877fff9468b1.png" width="400" />
+<br/><br/>
+
 ## Andrew Ng Unveils New Retrieval for RAG Course to Enhance AI Systems' Precision and Contextual Understanding
 Summary: Andrew Ng, founder of DeepLearning.AI, announced a new short course on advanced retrieval techniques for Retrieval Augmented Generation (RAG) models. By combining query expansion, reranking, and embedding adaptation, RAG systems become significantly more effective. This course, taught by Chroma founder Anton Troynikov, delves into the techniques used to construct and train embedding adaptors, thereby enhancing RAG systems.
 
