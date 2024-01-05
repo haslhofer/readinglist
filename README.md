@@ -1,3 +1,11 @@
+## Andrew Ng Unveils New Retrieval for RAG Course to Enhance AI Systems' Precision and Contextual Understanding
+Summary: Andrew Ng, founder of DeepLearning.AI, announced a new short course on advanced retrieval techniques for Retrieval Augmented Generation (RAG) models. By combining query expansion, reranking, and embedding adaptation, RAG systems become significantly more effective. This course, taught by Chroma founder Anton Troynikov, delves into the techniques used to construct and train embedding adaptors, thereby enhancing RAG systems.
+
+Link: https://www.linkedin.com/posts/andrewyng_new-short-course-on-advanced-retrieval-for-activity-7148709767006289920-hnnj?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/3cde2749-059c-4884-ac30-9912329b5f0e.png" width="400" />
+<br/><br/>
+
 ## Advanced RAG: Optimizing Retrieval with Additional Context & MetaData using LlamaIndex🦙
 Summary: Retrieval Augmented Generation (RAG) augments large language models (LLMs) with additional data, often private or real-time, to enable reasoning about specific information. RAG involves loading and indexing data, splitting text into smaller chunks, creating vector embeddings, storing the indexed data, and querying it using LLMs. Advanced RAG techniques enhance context and retrieval efficiency, such as parent-child chunks retrieval, where smaller chunks are retrieved for better search quality while retaining the context from larger chunks. The implementation involves data loading, chunking, selecting an open-source LLM and embedding, creating a baseline retriever, integrating chunk references, and storing indexed data. Evaluation can be performed to compare different retrievers and select the optimal one.
 
