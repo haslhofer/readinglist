@@ -1,3 +1,8 @@
+Parakeet RNNT 1.1B: A High-Accuracy Speech Recognition Model for English
+
+___
+
+
 Learn How to Customize AI Image Models with Just 5-10 Images
 
 ___
