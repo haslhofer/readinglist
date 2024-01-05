@@ -1,3 +1,11 @@
+## Parakeet RNNT 1.1B: A High-Accuracy Speech Recognition Model for English
+Summary: Parakeet RNNT 1.1B is an English ASR model developed by NVIDIA NeMo and Suno.ai teams. It utilizes the FastConformer with RNNT loss trained on 64K hours of data, achieving strong speech recognition accuracy. The model is available in the NeMo toolkit for inference and fine-tuning, supporting transcription of audio samples to lower case English alphabet. It was trained using NVIDIA NeMo and can be deployed on NVIDIA Riva for real-time speech recognition.
+
+Link: https://huggingface.co/nvidia/parakeet-rnnt-1.1b?utm_source=aitidbits.substack.com&amp;utm_medium=newsletter
+
+<img src="/img/bda19d9a-0775-4ab3-93e8-c3fa2f66ad0f.png" width="400" />
+<br/><br/>
+
 ## Learn How to Customize AI Image Models with Just 5-10 Images
 Summary: Apolinário Passos, an AI artist and ML art engineer, introduces a new open-source platform for customizing text-to-image models using 5-10 images. The platform, LoRA Ease, allows you to create personalized images of objects, faces, characters, and styles. It uses advanced techniques like Dreambooth, Pivotal Tuning, and Prodigy optimizer to produce high-quality images owned by the user.
 
