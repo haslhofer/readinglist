@@ -1,3 +1,8 @@
+Advanced RAG: Optimizing Retrieval with Additional Context & MetaData using LlamaIndex🦙
+
+___
+
+
 Apple launches Ferret 7B, a cutting-edge multimodal large language model for enhanced AI capabilities
 
 ___
