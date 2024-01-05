@@ -1,3 +1,8 @@
+Novel Method Boosts Text Embeddings With Large Language Models
+
+___
+
+
 Parakeet RNNT 1.1B: A High-Accuracy Speech Recognition Model for English
 
 ___
