@@ -1,3 +1,11 @@
+## Advanced RAG: Optimizing Retrieval with Additional Context & MetaData using LlamaIndex🦙
+Summary: Retrieval Augmented Generation (RAG) augments large language models (LLMs) with additional data, often private or real-time, to enable reasoning about specific information. RAG involves loading and indexing data, splitting text into smaller chunks, creating vector embeddings, storing the indexed data, and querying it using LLMs. Advanced RAG techniques enhance context and retrieval efficiency, such as parent-child chunks retrieval, where smaller chunks are retrieved for better search quality while retaining the context from larger chunks. The implementation involves data loading, chunking, selecting an open-source LLM and embedding, creating a baseline retriever, integrating chunk references, and storing indexed data. Evaluation can be performed to compare different retrievers and select the optimal one.
+
+Link: https://akash-mathur.medium.com/advanced-rag-optimizing-retrieval-with-additional-context-metadata-using-llamaindex-aeaa32d7aa2f
+
+<img src="/img/8d1bafbe-9356-44b7-9579-5bec8cdcd9da.png" width="400" />
+<br/><br/>
+
 ## Apple launches Ferret 7B, a cutting-edge multimodal large language model for enhanced AI capabilities
 Summary: Apple's Ferret 7B LLM, a cutting-edge large language model, represents a significant advancement in AI. Featuring multimodal capabilities, it interprets and creates image-text content, outperforming traditional text-based AI models. Integrated with iOS and macOS, this technology enhances user interaction with Apple devices. The open-source model code and checkpoints encourage innovation within the AI community. Apple's strategic decision to tailor the model for iOS, balancing performance with mobile hardware constraints, reflects its focus on user experience. The Ferret Bench benchmarking tool allows developers to evaluate the model's efficiency. Apple's commitment to AI underscores its dedication to creating practical applications that benefit device users.
 
