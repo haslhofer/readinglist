@@ -1,3 +1,8 @@
+Stanford CS25 - Transformers United: A Series of Lectures on Advanced Topics and Applications of Transformers
+
+___
+
+
 Novel Method Boosts Text Embeddings With Large Language Models
 
 ___
