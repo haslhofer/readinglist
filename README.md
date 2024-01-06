@@ -1,3 +1,11 @@
+## Clipper: The Easiest Way to Convert HTML to Markdown for RAG Applications
+Summary: Clipper is a command-line tool that simplifies the process of extracting content from web pages and converting it to Markdown format. It supports both URL and file inputs and offers optional output formats like JSON. It also features crawl functionality for comprehensive website content gathering. Clipper is particularly useful for building Markdown datasets for training LLMs or integrating them into RAG pipelines for context retrieval.
+
+Link: https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_introducing-clipper-the-easiest-way-to-convert-activity-7149050723278737409-jCSM?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/9738b38b-0d64-4b5b-9ec2-fb9ba09ba652.png" width="400" />
+<br/><br/>
+
 ## Clipper: Convert web content to Markdown with ease
 Summary: Clipper, a new command-line tool developed by Philipp Schmid, allows users to easily convert web pages to Markdown format. This tool is especially useful for building Markdown datasets for training large language models (LLMs) or integrating web content into RAG pipelines for context retrieval. Clipper supports both URLs and file inputs, and it offers optional output formats in Markdown or JSON. With its crawl functionality, Clipper enables users to gather comprehensive website content, ensuring that the converted Markdown datasets are thorough and informative.
 
