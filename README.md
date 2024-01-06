@@ -1,3 +1,11 @@
+## Introducing Clipper: Convert HTML to Markdown for RAG applications with ease
+Summary: Clipper is a command-line tool that converts web content into Markdown format, facilitating the creation of markdown datasets for LLM training or integration into RAG pipelines. Features include clipping and converting web content to Markdown, supporting URL and file inputs, incorporating crawl functionality for comprehensive website gathering, and offering output formats in Markdown or JSON.
+
+Link: https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_introducing-clipper-the-easiest-way-to-convert-activity-7149050723278737409-jCSM?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/b5601771-0288-4244-a218-348189f821fa.png" width="400" />
+<br/><br/>
+
 ## LLaMA and LangChain Models Run in Google Colab for Free
 Summary: The author experimented with running the LLaMA-13B model and LangChain in Google Colab, demonstrating how to use a free Google Colab instance to run a LLaMA model and extract information using the FAISS database. They also tested some extra LangChain functionality like making chat-based applications and using agents. The code was opened in the web browser and run in the cloud, allowing anyone to access it without requiring a powerful PC.
 
