@@ -4,9 +4,10 @@ Summary: Retrieval-Augmented Generation (RAG) is a revolutionary approach that s
 Link: https://www.marktechpost.com/2023/12/29/this-ai-paper-outlines-the-three-development-paradigms-of-rag-in-the-era-of-llms-naive-rag-advanced-rag-and-modular-rag/
 
 <img src="/img/23549a12-faaf-4060-ab44-541f14a53f87.png" width="400" />
+<sup><sub>1/6/2024<sub/><sup/>
 <br/><br/>
 
-<sup><sub>1/6/2024<sub/><sup/>
+
 
 ## RAG: Merging Parameterized Knowledge with Dynamic External Data to Enhance LLM Capabilities
 Summary: Researchers proposed a new methodology called Retrieval-Augmented Generation (RAG) to address the limitations of Large Language Models (LLMs). RAG enhances the accuracy and relevance of LLM responses by integrating external, non-parameterized data. The method involves identifying relevant information from external databases and incorporating it into the LLM's response generation process. This approach leads to a significant reduction in hallucinations and increased response reliability, making RAG-augmented LLMs more adaptable and versatile for various applications.
