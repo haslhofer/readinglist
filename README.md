@@ -1,3 +1,39 @@
+## New technique enables inference of 70B LLM on a single 4GB GPU
+Summary: The article discusses various techniques for optimizing memory usage during inference with large language models (LLMs) like the 70B LLM, enabling inference on a single 4GB GPU. These techniques include layer-wise inference, flash attention, model file sharding, the use of a meta device, and an open-source library called AirLLM. These methods allow for significant memory savings without sacrificing model performance, making it possible to run inference with large models on limited hardware. While training large models on a single GPU is not feasible due to memory constraints, gradient checkpointing is mentioned as a potential technique for reducing training memory requirements.
+
+Link: https://ai.gopubby.com/unbelievable-run-70b-llm-inference-on-a-single-4gb-gpu-with-this-new-technique-93e2057c7eeb
+
+<img src="/img/78a6c823-a695-4270-b826-8313403d7d9c.png" width="400" />
+
+
+<sup><sub>1/6/2024<sub/><sup/>
+
+<br/><br/>
+
+## JPMorgan AI Research Introduces DocLLM: A Lightweight Extension to Traditional Large Language Models for Generative Reasoning Over Documents with Rich Layouts
+Summary: JPMorgan AI Research presents DocLLM, an extension of large language models designed for reasoning over visual documents. It combines textual semantics and spatial layout using bounding box coordinates, allowing efficient cross-modal interaction capture. The model is pre-trained with a modified self-supervised target addressing layout issues and fine-tuned with instruction data for tasks like form comprehension, table alignment, and visual question answering, showing significant performance gains.
+
+Link: https://www.marktechpost.com/2024/01/05/jpmorgan-ai-research-introduces-docllm-a-lightweight-extension-to-traditional-large-language-models-tailored-for-generative-reasoning-over-documents-with-rich-layouts/?amp=
+
+<img src="/img/e3156297-1b6f-4fe0-b942-2483d95d261c.png" width="400" />
+
+
+<sup><sub>1/6/2024<sub/><sup/>
+
+<br/><br/>
+
+## Code Empowers Large Language Models to Serve as Intelligent Agents
+Summary: This survey presents the benefits of integrating code into the training data of large language models (LLMs). Code enhances LLMs in code generation, unlocks their reasoning ability, enables structured and precise intermediate steps, and allows them to utilize code compilation and execution environments. These capabilities have led to the emergence of LLMs as intelligent agents, performing tasks that require understanding instructions, decomposing goals, planning and executing actions, and refining from feedback. Key challenges and future directions for empowering LLMs with code are also discussed.
+
+Link: https://arxiv.org/abs/2401.00812
+
+<img src="/img/1c7266df-7ba3-4715-9221-50d831db2f51.png" width="400" />
+
+
+<sup><sub>1/6/2024<sub/><sup/>
+
+<br/><br/>
+
 ## RAG Augments LLMs with Dynamic Knowledge Access for Accurate and Reliable Responses
 Summary: Retrieval-Augmented Generation (RAG) is a revolutionary approach that significantly enhances the capabilities of Large Language Models (LLMs), such as GPT. It combines the parameterized knowledge of LLMs with dynamically accessible, non-parameterized external data, leading to more accurate, relevant, and up-to-date responses. RAG also reduces hallucinations, improves transparency through source citations, and allows for the incorporation of domain-specific knowledge, making it highly adaptable and versatile across various applications.
 
