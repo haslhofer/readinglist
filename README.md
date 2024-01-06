@@ -1,3 +1,11 @@
+## LLaMA and LangChain Models Run in Google Colab for Free
+Summary: The author experimented with running the LLaMA-13B model and LangChain in Google Colab, demonstrating how to use a free Google Colab instance to run a LLaMA model and extract information using the FAISS database. They also tested some extra LangChain functionality like making chat-based applications and using agents. The code was opened in the web browser and run in the cloud, allowing anyone to access it without requiring a powerful PC.
+
+Link: https://towardsdatascience.com/llms-for-everyone-running-the-llama-13b-model-and-langchain-in-google-colab-68d88021cf0b
+
+<img src="/img/f78d6cbe-a849-4b45-a7a9-b33ef9a43f3d.png" width="400" />
+<br/><br/>
+
 ## Stanford's CS25 Series Presents Groundbreaking Lectures on Transformer Applications and Extensions
 Summary: Elvis S. recommends a series of lectures on advanced transformer applications and topics, highlighting those on common sense reasoning and generalist agents in open-ended worlds. Some lectures may be outdated, but new content will be released soon. The series includes video lectures and a playlist link in the comments.
 
