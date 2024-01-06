@@ -1,3 +1,8 @@
+Introducing Clipper, a new tool that simplifies converting HTML to Markdown for RAG applications
+
+___
+
+
 Introducing Clipper: Convert HTML to Markdown for RAG applications with ease
 
 ___
