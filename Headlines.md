@@ -1,3 +1,8 @@
+Stanford's CS25 Series Presents Groundbreaking Lectures on Transformer Applications and Extensions
+
+___
+
+
 Stanford CS25 - Transformers United: A Series of Lectures on Advanced Topics and Applications of Transformers
 
 ___
