@@ -1,3 +1,8 @@
+Clipper: Convert web content to Markdown with ease
+
+___
+
+
 Clipper: A Tool for Seamlessly Converting HTML to Markdown for RAG Applications
 
 ___
