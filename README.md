@@ -1,3 +1,11 @@
+## Stanford's CS25 Series Presents Groundbreaking Lectures on Transformer Applications and Extensions
+Summary: Elvis S. recommends a series of lectures on advanced transformer applications and topics, highlighting those on common sense reasoning and generalist agents in open-ended worlds. Some lectures may be outdated, but new content will be released soon. The series includes video lectures and a playlist link in the comments.
+
+Link: https://www.linkedin.com/posts/omarsar_stanford-cs25-transformers-united-great-activity-7149068818655453184-tk6n?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/b428e4c1-f41e-43f9-8ac7-d7fba791919c.png" width="400" />
+<br/><br/>
+
 ## Stanford CS25 - Transformers United: Advanced Applications and Topics Related to Transformers
 Summary: Elvis S., Co-Founder at DAIR.AI, shared a series of remarkable posts on LinkedIn, discussing various topics related to advanced applications and topics pertaining to Transformers, a type of neural network architecture. The posts cover diverse aspects, including Stanford's CS25 lectures on Transformers, beginner-level resources for applying Machine Learning/Deep Learning in graph analysis, the potential of Reinforcement Learning to exceed human performance, the exploration of large multimodal models, and the use of LLMs as generalist web agents. Additionally, Elvis highlighted techniques to mitigate hallucination in LLMs, the benefits of training LLMs with code-specific data, and the significance of code empowerment in LLMs.
 
