@@ -1,3 +1,15 @@
+## Hugging Face Paper Reviews Training and Inference Techniques for Cost-Efficient Large Language Models
+Summary: The recent popularity of ChatGPT has highlighted the need for cost-efficient training and deployment of Large Language Models (LLMs). This paper provides a comprehensive overview of the evolution of LLM training techniques and inference deployment technologies, covering topics such as data preprocessing, training architecture, pre-training tasks, parallel training, model compression, parallel computation, memory scheduling, and structural optimization. It also explores LLM utilization and provides insights into their future development.
+
+Link: https://huggingface.co/papers/2401.02038
+
+<img src="/img/844e7c75-67ad-42d8-8383-1cf664539706.png" width="400" />
+
+
+<sup><sub>1/6/2024<sub/><sup/>
+
+<br/><br/>
+
 ## New technique enables inference of 70B LLM on a single 4GB GPU
 Summary: The article discusses various techniques for optimizing memory usage during inference with large language models (LLMs) like the 70B LLM, enabling inference on a single 4GB GPU. These techniques include layer-wise inference, flash attention, model file sharding, the use of a meta device, and an open-source library called AirLLM. These methods allow for significant memory savings without sacrificing model performance, making it possible to run inference with large models on limited hardware. While training large models on a single GPU is not feasible due to memory constraints, gradient checkpointing is mentioned as a potential technique for reducing training memory requirements.
 
