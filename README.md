@@ -1,3 +1,27 @@
+## A Survey on Generative Information Extraction Methods Using Large Language Models
+Summary: A survey on leveraging generative large language models (LLMs) for information extraction (IE) tasks is presented. The achievements of LLM-based IE methods are categorized, reviewed, and analyzed. The study provides insights into techniques and suggests promising research directions for future exploration. A public repository with consistently updated resources is maintained to facilitate ongoing research in this area.
+
+Link: https://arxiv.org/abs/2312.17617v1
+
+<img src="/img/fce3f106-83d0-40c6-ada2-89dfec55272c.png" width="400" />
+
+
+<sup><sub>1/8/2024<sub/><sup/>
+
+<br/><br/>
+
+## Harvard Offers 10 Free Online Courses on Data Science, Statistics, and Web Programming
+Summary: Harvard University is offering a variety of free data science, statistics, and web programming courses. These courses cover a wide range of topics, from high-dimensional data analysis to understanding technology. The courses are taught by experts in the field and are designed to be accessible to learners of all levels.
+
+Link: https://www.linkedin.com/posts/lauradrahanbennett_ai-machinelearning-datascience-activity-7146321506380218368-1nnL?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/627da72a-a633-4ccd-8c15-65b286f75368.png" width="400" />
+
+
+<sup><sub>1/8/2024<sub/><sup/>
+
+<br/><br/>
+
 ## Hugging Face Paper Reviews Training and Inference Techniques for Cost-Efficient Large Language Models
 Summary: The recent popularity of ChatGPT has highlighted the need for cost-efficient training and deployment of Large Language Models (LLMs). This paper provides a comprehensive overview of the evolution of LLM training techniques and inference deployment technologies, covering topics such as data preprocessing, training architecture, pre-training tasks, parallel training, model compression, parallel computation, memory scheduling, and structural optimization. It also explores LLM utilization and provides insights into their future development.
 
@@ -28,6 +52,18 @@ Summary: JPMorgan AI Research presents DocLLM, an extension of large language mo
 Link: https://www.marktechpost.com/2024/01/05/jpmorgan-ai-research-introduces-docllm-a-lightweight-extension-to-traditional-large-language-models-tailored-for-generative-reasoning-over-documents-with-rich-layouts/?amp=
 
 <img src="/img/e3156297-1b6f-4fe0-b942-2483d95d261c.png" width="400" />
+
+
+<sup><sub>1/6/2024<sub/><sup/>
+
+<br/><br/>
+
+## JPMorgan AI Research Introduces DocLLM, a Lightweight Extension to Traditional Large Language Models for Generative Reasoning Over Documents with Rich Layouts
+Summary: JPMorgan AI Research has introduced DocLLM, a lightweight extension to traditional Large Language Models (LLMs) specifically tailored for generative reasoning over documents with rich layouts. DocLLM represents both text semantics and spatial layouts, leveraging bounding box coordinates acquired through optical character recognition (OCR) to add spatial layout information. It extends the self-attention mechanism of transformers to capture cross-modal interactions between text and layout. DocLLM has demonstrated significant performance gains on various document intelligence tasks, including form comprehension, table alignment, visual question answering, and key information extraction, highlighting its effectiveness in handling complex document structures and mixed data types.
+
+Link: https://www.marktechpost.com/2024/01/05/jpmorgan-ai-research-introduces-docllm-a-lightweight-extension-to-traditional-large-language-models-tailored-for-generative-reasoning-over-documents-with-rich-layouts/?amp=
+
+<img src="/img/c5ac700d-366a-404f-a3e3-51dbeaa6f74e.png" width="400" />
 
 
 <sup><sub>1/6/2024<sub/><sup/>
