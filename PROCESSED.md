@@ -1,1 +1,48 @@
+## A Survey on Generative Information Extraction Methods Using Large Language Models
+Summary: A survey on leveraging generative large language models (LLMs) for information extraction (IE) tasks is presented. The achievements of LLM-based IE methods are categorized, reviewed, and analyzed. The study provides insights into techniques and suggests promising research directions for future exploration. A public repository with consistently updated resources is maintained to facilitate ongoing research in this area.
+
+Link: https://arxiv.org/abs/2312.17617v1
+
+<img src="/img/fce3f106-83d0-40c6-ada2-89dfec55272c.png" width="400" />
+
+
+<sup><sub>1/8/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9818_0&tag=isread)<sub/><sup/>
+
+<br/><br/>
+
+## JPMorgan AI Research Introduces DocLLM: A Lightweight Extension to Traditional Large Language Models for Generative Reasoning Over Documents with Rich Layouts
+Summary: JPMorgan AI Research presents DocLLM, an extension of large language models designed for reasoning over visual documents. It combines textual semantics and spatial layout using bounding box coordinates, allowing efficient cross-modal interaction capture. The model is pre-trained with a modified self-supervised target addressing layout issues and fine-tuned with instruction data for tasks like form comprehension, table alignment, and visual question answering, showing significant performance gains.
+
+Link: https://www.marktechpost.com/2024/01/05/jpmorgan-ai-research-introduces-docllm-a-lightweight-extension-to-traditional-large-language-models-tailored-for-generative-reasoning-over-documents-with-rich-layouts/?amp=
+
+<img src="/img/e3156297-1b6f-4fe0-b942-2483d95d261c.png" width="400" />
+
+
+<sup><sub>1/6/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9805_0&tag=isread)<sub/><sup/>
+
+<br/><br/>
+
+## JPMorgan AI Research Introduces DocLLM, a Lightweight Extension to Traditional Large Language Models for Generative Reasoning Over Documents with Rich Layouts
+Summary: JPMorgan AI Research has introduced DocLLM, a lightweight extension to traditional Large Language Models (LLMs) specifically tailored for generative reasoning over documents with rich layouts. DocLLM represents both text semantics and spatial layouts, leveraging bounding box coordinates acquired through optical character recognition (OCR) to add spatial layout information. It extends the self-attention mechanism of transformers to capture cross-modal interactions between text and layout. DocLLM has demonstrated significant performance gains on various document intelligence tasks, including form comprehension, table alignment, visual question answering, and key information extraction, highlighting its effectiveness in handling complex document structures and mixed data types.
+
+Link: https://www.marktechpost.com/2024/01/05/jpmorgan-ai-research-introduces-docllm-a-lightweight-extension-to-traditional-large-language-models-tailored-for-generative-reasoning-over-documents-with-rich-layouts/?amp=
+
+<img src="/img/c5ac700d-366a-404f-a3e3-51dbeaa6f74e.png" width="400" />
+
+
+<sup><sub>1/6/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9805_0&tag=isread)<sub/><sup/>
+
+<br/><br/>
+
+## A List of Open-Source LLMs for Builders
+Summary: This article presents a comprehensive list of open-source Large Language Models (LLMs) available for both commercial and research purposes. It includes models like Flan-U\u00b2, OpenChatKit, Cerebras-GPT, Pythia, Bloom & mTO, OpenAssistant, nanoT5, GeoV, Baize, Vicuna, Koala, GPT4All, Lit-LLaMA, Dolly, Dalai, Alpaca.cpp, Alpaca-LORA, and llama.cpp. While most of these models can be used commercially, Lit-LLaMA, Dolly, and OpenAssistant's offerings are restricted to non-commercial use. The article emphasizes that users should carefully consider their intended use case when selecting a model, as many require instruction tuning to perform effectively.
+
+Link: https://www.linkedin.com/feed/update/urn:li:activity:7049789761728770049?utm_source=share&utm_medium=member_android
+
+<img src="/img/ccc7d6d4-ae0a-4d05-9334-9fe130ed51dd.png" width="400" />
+
+
+<sup><sub>4/8/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8221_0&tag=isread)<sub/><sup/>
+
+<br/><br/>
 
