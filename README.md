@@ -1,3 +1,75 @@
+## Mixtral: A Sparse Mixture of Experts Language Model that Outperforms Llama 2 70B and GPT-3.5
+Summary: Researchers released Mixtral 8x7B, a Sparse Mixture of Experts (SMoE) language model, which outperforms Llama 2 70B and GPT-3.5 across all evaluated benchmarks. It has the same architecture as Mistral 7B, but each layer consists of 8 feedforward blocks (experts). A router network selects two experts for each token at each layer, combining their outputs. Despite seeing only two at a time, Mixtral effectively utilizes 47B parameters, with active parameters of 13B during inference. It was trained with a context size of 32k tokens and achieved impressive results. Additionally, a fine-tuned version, Mixtral 8x7B - Instruct, surpassed GPT-3.5 Turbo, Claude-2.1, Gemini Pro, and Llama 2 70B - chat model on human benchmarks. Both models are released under the Apache 2.0 license.
+
+Link: https://arxiv.org/abs/2401.04088?utm_source=aitidbits.substack.com&utm_medium=newsletter
+
+<img src="/img/c5dc1189-7592-40ef-9ed9-79813baaff1d.png" width="400" />
+
+
+<sup><sub>1/11/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9864_0&tag=isread)<sub/><sup/>
+
+<br/><br/>
+
+## OpenChat: Open-source Language Model Advancing with Imperfect Data
+Summary: OpenChat is an easy-to-use, open-source library of language models fine-tuned with C-RLFT, a strategy inspired by offline reinforcement learning. It learns from mixed-quality data without preference labels, runs on consumer GPUs, and outperforms ChatGPT and Grok-1 in various benchmarks.
+
+Link: https://github.com/imoneoi/openchat?tab=readme-ov-file
+
+<img src="/img/50895a6c-24b8-4e24-970d-17572b03ba2f.png" width="400" />
+
+
+<sup><sub>1/11/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9862_0&tag=isread)<sub/><sup/>
+
+<br/><br/>
+
+## DPO: A New Method to Align Language Models with Human Preferences
+Summary: The Direct Preference Optimization (DPO) paper by Rafael Rafailov and others introduces a new approach to aligning language models with human preferences. This approach streamlines the training process by directly integrating the reward function with the language model training, eliminating the need for a separate reward model. DPO has the potential to simplify the alignment process and make it more efficient, potentially revolutionizing the way language models are trained and aligned with human preferences.
+
+Link: https://www.linkedin.com/posts/andrewyng_ai-discovers-new-antibiotics-openai-revamps-activity-7151282706947969025-WV2v?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/c4e93447-19fa-4ae8-a788-887f212b4420.png" width="400" />
+
+
+<sup><sub>1/11/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9860_0&tag=isread)<sub/><sup/>
+
+<br/><br/>
+
+## Explore standalone use cases of txtai embeddings components
+Summary: The main components of txtai are embeddings, pipeline, workflow, and an API. Its package provides the glue between these components, making everything easy to use. Each of the packages is modular and can be used on its own. Embeddings package provides the glue between components, making everything easy to use.
+
+Link: https://neuml.hashnode.dev/embeddings-index-components
+
+<img src="/img/dcbde876-dd30-41cb-9464-9104b3554d31.png" width="400" />
+
+
+<sup><sub>1/11/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9856_0&tag=isread)<sub/><sup/>
+
+<br/><br/>
+
+## Blending Is All You Need: Smaller Models Can Rival or Even Outperform Larger Language Models
+Summary: Researchers introduce a cost-effective alternative to large language models (LLMs) by demonstrating that blending multiple smaller models can achieve comparable or even superior performance to a single large model. This "blending" approach involves integrating multiple chat AIs, and empirical evidence suggests that when specific smaller models are synergistically combined, they can rival or surpass the capabilities of much larger counterparts. Rigorous A/B testing with a large user base confirms the effectiveness of blending, highlighting its potential as a viable strategy for enhancing chat AI efficacy without a corresponding surge in computational demands.
+
+Link: https://arxiv.org/abs/2401.02994
+
+<img src="/img/d92ca433-583a-47a1-926c-36a8792b6619.png" width="400" />
+
+
+<sup><sub>1/9/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9842_0&tag=isread)<sub/><sup/>
+
+<br/><br/>
+
+## Improved Latent Space Representation with Variational Autoencoders
+Summary: Variational AutoEncoders (VAEs) are an extension of classical autoencoders typically used for dimensionality reduction. While classical autoencoders only minimize the reconstruction loss, VAEs instead maximize a lower bound on the log-likelihood of the data. This results in a more continuous and centralized latent space, which is advantageous for generative tasks. The posterior distribution in VAEs is approximated by a diagonal Gaussian distribution with parameters \(\mu\) and \(\sigma\), and the KL divergence between this distribution and the standard Gaussian is used as a penalty in the loss function. The resulting latent space is more compact and smooth, allowing for interpolation between input images and other fun applications.
+
+Link: https://avandekleut.github.io/vae/
+
+<img src="/img/66a15480-74d5-46e4-b88c-d4d063bbc644.png" width="400" />
+
+
+<sup><sub>1/9/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9835_0&tag=isread)<sub/><sup/>
+
+<br/><br/>
+
 ## Harvard Offers 10 Free Online Courses on Data Science, Statistics, and Web Programming
 Summary: Harvard University is offering a variety of free data science, statistics, and web programming courses. These courses cover a wide range of topics, from high-dimensional data analysis to understanding technology. The courses are taught by experts in the field and are designed to be accessible to learners of all levels.
 
