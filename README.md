@@ -1,15 +1,3 @@
-## Mixtral: A Sparse Mixture of Experts Language Model that Outperforms Llama 2 70B and GPT-3.5
-Summary: Researchers released Mixtral 8x7B, a Sparse Mixture of Experts (SMoE) language model, which outperforms Llama 2 70B and GPT-3.5 across all evaluated benchmarks. It has the same architecture as Mistral 7B, but each layer consists of 8 feedforward blocks (experts). A router network selects two experts for each token at each layer, combining their outputs. Despite seeing only two at a time, Mixtral effectively utilizes 47B parameters, with active parameters of 13B during inference. It was trained with a context size of 32k tokens and achieved impressive results. Additionally, a fine-tuned version, Mixtral 8x7B - Instruct, surpassed GPT-3.5 Turbo, Claude-2.1, Gemini Pro, and Llama 2 70B - chat model on human benchmarks. Both models are released under the Apache 2.0 license.
-
-Link: https://arxiv.org/abs/2401.04088?utm_source=aitidbits.substack.com&utm_medium=newsletter
-
-<img src="/img/c5dc1189-7592-40ef-9ed9-79813baaff1d.png" width="400" />
-
-
-<sup><sub>1/11/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9864_0&tag=isread)<sub/><sup/>
-
-<br/><br/>
-
 ## OpenChat: Open-source Language Model Advancing with Imperfect Data
 Summary: OpenChat is an easy-to-use, open-source library of language models fine-tuned with C-RLFT, a strategy inspired by offline reinforcement learning. It learns from mixed-quality data without preference labels, runs on consumer GPUs, and outperforms ChatGPT and Grok-1 in various benchmarks.
 
