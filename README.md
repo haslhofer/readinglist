@@ -6,7 +6,7 @@ Link: https://github.com/imoneoi/openchat?tab=readme-ov-file
 <img src="/img/50895a6c-24b8-4e24-970d-17572b03ba2f.png" width="400" />
 
 
-<sup><sub>1/11/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9862_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9862_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/11/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9862_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -18,7 +18,7 @@ Link: https://www.linkedin.com/posts/andrewyng_ai-discovers-new-antibiotics-open
 <img src="/img/c4e93447-19fa-4ae8-a788-887f212b4420.png" width="400" />
 
 
-<sup><sub>1/11/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9860_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9860_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/11/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9860_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -30,7 +30,7 @@ Link: https://neuml.hashnode.dev/embeddings-index-components
 <img src="/img/dcbde876-dd30-41cb-9464-9104b3554d31.png" width="400" />
 
 
-<sup><sub>1/11/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9856_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9856_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/11/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9856_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -42,7 +42,7 @@ Link: https://arxiv.org/abs/2401.02994
 <img src="/img/d92ca433-583a-47a1-926c-36a8792b6619.png" width="400" />
 
 
-<sup><sub>1/9/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9842_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9842_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/9/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9842_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -54,7 +54,7 @@ Link: https://avandekleut.github.io/vae/
 <img src="/img/66a15480-74d5-46e4-b88c-d4d063bbc644.png" width="400" />
 
 
-<sup><sub>1/9/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9835_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9835_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/9/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9835_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -66,7 +66,7 @@ Link: https://www.linkedin.com/posts/lauradrahanbennett_ai-machinelearning-datas
 <img src="/img/627da72a-a633-4ccd-8c15-65b286f75368.png" width="400" />
 
 
-<sup><sub>1/8/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9816_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9816_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/8/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9816_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -78,7 +78,7 @@ Link: https://huggingface.co/papers/2401.02038
 <img src="/img/844e7c75-67ad-42d8-8383-1cf664539706.png" width="400" />
 
 
-<sup><sub>1/6/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9809_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9809_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/6/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9809_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -90,7 +90,7 @@ Link: https://ai.gopubby.com/unbelievable-run-70b-llm-inference-on-a-single-4gb-
 <img src="/img/78a6c823-a695-4270-b826-8313403d7d9c.png" width="400" />
 
 
-<sup><sub>1/6/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9807_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9807_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/6/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9807_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -102,7 +102,7 @@ Link: https://arxiv.org/abs/2401.00812
 <img src="/img/1c7266df-7ba3-4715-9221-50d831db2f51.png" width="400" />
 
 
-<sup><sub>1/6/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9803_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9803_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/6/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9803_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -114,7 +114,7 @@ Link: https://www.marktechpost.com/2023/12/29/this-ai-paper-outlines-the-three-d
 <img src="/img/23549a12-faaf-4060-ab44-541f14a53f87.png" width="400" />
 
 
-<sup><sub>1/6/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9799_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9799_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/6/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9799_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -126,7 +126,7 @@ Link: https://www.marktechpost.com/2023/12/29/this-ai-paper-outlines-the-three-d
 <img src="/img/80d2a710-80b7-42e6-99d1-6ce92c143fc6.png" width="400" />
 
 
-<sup><sub>1/6/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9797_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9797_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/6/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9797_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -138,7 +138,7 @@ Link: https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_introducing-clippe
 <img src="/img/220968b0-ede2-4e70-8b95-bf02aa96332d.png" width="400" />
 
 
-<sup><sub>1/6/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9784_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9784_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/6/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9784_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -150,7 +150,7 @@ Link: https://towardsdatascience.com/llms-for-everyone-running-the-llama-13b-mod
 <img src="/img/725ddf8a-f797-4d32-954e-3492cfbe5b0a.png" width="400" />
 
 
-<sup><sub>1/5/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9782_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9782_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/5/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9782_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -162,7 +162,7 @@ Link: https://www.linkedin.com/posts/omarsar_stanford-cs25-transformers-united-g
 <img src="/img/216bc10c-a485-4991-9573-91d20b8508b9.png" width="400" />
 
 
-<sup><sub>1/5/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9776_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9776_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/5/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9776_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -174,7 +174,7 @@ Link: https://arxiv.org/abs/2401.00368
 <img src="/img/f1ba48a4-4e39-4b12-bbc3-1d9c58f9f848.png" width="400" />
 
 
-<sup><sub>1/5/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9774_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9774_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/5/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9774_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -186,7 +186,7 @@ Link: https://huggingface.co/nvidia/parakeet-rnnt-1.1b?utm_source=aitidbits.subs
 <img src="/img/465cff7a-1b5f-477c-aac2-175cece28207.png" width="400" />
 
 
-<sup><sub>1/5/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9772_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9772_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/5/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9772_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -198,7 +198,7 @@ Link: https://www.linkedin.com/posts/apolinariosteps_lets-start-2024-shipping-in
 <img src="/img/1b05d4fd-ddaa-4f37-a6ef-ac142cc717ec.png" width="400" />
 
 
-<sup><sub>1/5/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9764_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9764_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/5/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9764_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -210,7 +210,7 @@ Link: https://www.linkedin.com/posts/andrewyng_new-short-course-on-advanced-retr
 <img src="/img/89e24bf9-6777-4f5d-a9ba-21a97f8f67f5.png" width="400" />
 
 
-<sup><sub>1/5/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9761_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9761_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/5/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9761_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -222,7 +222,7 @@ Link: https://akash-mathur.medium.com/advanced-rag-optimizing-retrieval-with-add
 <img src="/img/ba156bb0-fa0d-4125-9827-5cc61c7c8b23.png" width="400" />
 
 
-<sup><sub>1/5/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9760_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9760_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/5/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9760_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -234,7 +234,7 @@ Link: https://www.geeky-gadgets.com/apple-ferret-multimodal-large-language-model
 <img src="/img/92d3a05d-580e-40b1-a280-82958c4dfda8.png" width="400" />
 
 
-<sup><sub>1/4/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9755_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9755_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/4/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9755_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -246,7 +246,7 @@ Link: https://arxiv.org/abs/2401.00908
 <img src="/img/0f84371e-559e-4931-abf2-1097bb77ea9a.png" width="400" />
 
 
-<sup><sub>1/4/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9750_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9750_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/4/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9750_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -258,7 +258,7 @@ Link: https://arxiv.org/abs/2401.00908
 <img src="/img/89a5190d-080f-4449-a3ff-2eafbff90c7b.png" width="400" />
 
 
-<sup><sub>1/4/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9748_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9748_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/4/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9748_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -270,7 +270,7 @@ Link: https://www.mlq.ai/midjourney-v6-prompts/
 <img src="/img/b387b6a5-8550-4fc4-bcac-64fa94df2733.png" width="400" />
 
 
-<sup><sub>1/3/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9746_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9746_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/3/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9746_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -282,7 +282,7 @@ Link: https://www.linkedin.com/posts/segmind_dreambooth-lora-finetuning-activity
 <img src="/img/1ede22e3-a249-4c15-9171-6fb2cc685063.png" width="400" />
 
 
-<sup><sub>1/2/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9742_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9742_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/2/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9742_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -294,7 +294,7 @@ Link: https://blog.bytebytego.com/p/best-of-bytebytegos-newsletter-2023
 <img src="/img/f6201ce4-690d-4d47-bdad-b1544818c678.png" width="400" />
 
 
-<sup><sub>1/2/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9739_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9739_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/2/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9739_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -306,7 +306,7 @@ Link: https://github.com/jzhang38/TinyLlama
 <img src="/img/50a7f90c-5e34-4df7-953e-37128f9380f4.png" width="400" />
 
 
-<sup><sub>1/2/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9731_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9731_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/2/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9731_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -318,7 +318,7 @@ Link: https://towardsdatascience.com/fine-tune-a-mistral-7b-model-with-direct-pr
 <img src="/img/1fdbec83-5a78-4986-8fcb-0e28785a2ba7.png" width="400" />
 
 
-<sup><sub>1/2/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9727_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9727_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/2/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9727_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -330,7 +330,7 @@ Link: https://youtu.be/kdUUtgnet0E
 <img src="/img/e8bfca95-d47b-4e11-b9c9-1fb0a3be060c.png" width="400" />
 
 
-<sup><sub>1/2/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9724_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9724_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/2/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9724_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -348,7 +348,7 @@ Link: https://www.linkedin.com/posts/pauliusztin_machinelearning-mlops-datascien
 <img src="/img/07d84e0b-7db2-4231-9964-889a4efef3ad.png" width="400" />
 
 
-<sup><sub>1/1/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9722_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9722_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/1/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9722_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -360,7 +360,7 @@ Link: https://ultrarunning.com/calendar/state/washington?distance=10
 <img src="/img/f2af8c81-b8c9-49e3-9e9b-5bde2809e9a5.png" width="400" />
 
 
-<sup><sub>1/1/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9720_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9720_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/1/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9720_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -372,7 +372,7 @@ Link: https://www.linkedin.com/posts/santoshnsavant_x-llm-few-lines-of-code-to-t
 <img src="/img/32f17f86-7d13-47f4-96f5-68fb78e88d93.png" width="400" />
 
 
-<sup><sub>1/1/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9718_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9718_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/1/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9718_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -384,7 +384,7 @@ Link: https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0
 <img src="/img/e55fb480-8334-4dcc-bae6-6a93edc6d23b.png" width="400" />
 
 
-<sup><sub>1/1/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9715_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9715_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/1/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9715_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -396,7 +396,7 @@ Link: https://arxiv.org/abs/2312.16171
 <img src="/img/ac9072fa-483c-4d4d-a0a5-975bc782ce18.png" width="400" />
 
 
-<sup><sub>1/1/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9713_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9713_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/1/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9713_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -408,7 +408,7 @@ Link: https://arxiv.org/abs/2312.08914
 <img src="/img/6e22680c-af87-430c-8dc1-adf90add1a00.png" width="400" />
 
 
-<sup><sub>1/1/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9711_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9711_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/1/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9711_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -420,7 +420,7 @@ Link: https://arxiv.org/abs/2312.16171
 <img src="/img/3bc81cdb-f71a-4d5f-9a9a-5238e0533b50.png" width="400" />
 
 
-<sup><sub>1/1/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9707_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9707_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/1/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9707_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -432,7 +432,7 @@ Link: https://www.youtube.com/watch?v=jGwO_UgTS7I
 <img src="/img/4ec5d05b-609e-4520-b994-0631c18d04f6.png" width="400" />
 
 
-<sup><sub>12/31/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9704_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9704_0&tag=bestof)<sub/><sup/>
+<sup><sub>12/31/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9704_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -444,7 +444,7 @@ Link: https://www.youtube.com/watch?v=jGwO_UgTS7I
 <img src="/img/d6f66ca7-7424-4a8d-b88e-14f396c415df.png" width="400" />
 
 
-<sup><sub>12/31/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9702_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9702_0&tag=bestof)<sub/><sup/>
+<sup><sub>12/31/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9702_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -456,7 +456,7 @@ Link: https://github.com/baaivision/Emu
 <img src="/img/07df96bd-73f4-4ac3-b049-7d0009341809.png" width="400" />
 
 
-<sup><sub>12/30/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9693_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9693_0&tag=bestof)<sub/><sup/>
+<sup><sub>12/30/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9693_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -468,7 +468,7 @@ Link: https://youtu.be/fdpaHJlN0PQ
 <img src="/img/2f002617-1508-4b2e-b896-6fa31bca1d5a.png" width="400" />
 
 
-<sup><sub>12/29/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9687_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9687_0&tag=bestof)<sub/><sup/>
+<sup><sub>12/29/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9687_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -480,7 +480,7 @@ Link: https://www.linkedin.com/posts/llamaindex_in-collaboration-with-the-google
 <img src="/img/1aefd7c9-da98-43d3-a98c-279b5c47b63e.png" width="400" />
 
 
-<sup><sub>12/29/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9684_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9684_0&tag=bestof)<sub/><sup/>
+<sup><sub>12/29/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9684_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -492,7 +492,7 @@ Link: https://arxiv.org/abs/2312.10868
 <img src="/img/b7740d9e-cc05-40b8-b6d0-83b8b5bf303d.png" width="400" />
 
 
-<sup><sub>12/28/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9672_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9672_0&tag=bestof)<sub/><sup/>
+<sup><sub>12/28/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9672_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -504,7 +504,7 @@ Link: https://arxiv.org/abs/2305.11290
 <img src="/img/3dd2f9cb-efc8-4995-bc46-91cb8a4efc1d.png" width="400" />
 
 
-<sup><sub>12/28/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9663_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9663_0&tag=bestof)<sub/><sup/>
+<sup><sub>12/28/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9663_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -526,7 +526,7 @@ Link: https://paulgraham.com/greatwork.html
 <img src="/img/46e14cdf-da78-48e6-90bb-10c9a4483a03.png" width="400" />
 
 
-<sup><sub>12/28/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9657_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9657_0&tag=bestof)<sub/><sup/>
+<sup><sub>12/28/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9657_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -538,7 +538,7 @@ Link: https://blog.research.google/2023/12/2023-year-of-groundbreaking-advances-
 <img src="/img/85b4e69b-7f68-4852-93de-f0745fff401f.png" width="400" />
 
 
-<sup><sub>12/28/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9653_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9653_0&tag=bestof)<sub/><sup/>
+<sup><sub>12/28/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9653_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -550,7 +550,7 @@ Link: https://www.linkedin.com/posts/jay-jiebing-yu-ph-d-7b97a8_llm-knowledgegra
 <img src="/img/c3f217c8-7de8-43f7-aa2c-bd75305088c4.png" width="400" />
 
 
-<sup><sub>12/27/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9633_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9633_0&tag=bestof)<sub/><sup/>
+<sup><sub>12/27/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9633_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -562,7 +562,7 @@ Link: https://journal.everypixel.com/2023-the-year-of-ai
 <img src="/img/7f0fbe2a-a6f8-4328-ab14-40749ac140c3.png" width="400" />
 
 
-<sup><sub>12/27/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9631_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9631_0&tag=bestof)<sub/><sup/>
+<sup><sub>12/27/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9631_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -574,7 +574,7 @@ Link: https://deci.ai/blog/small-giants-top-10-under-13b-llms-in-open-source/
 <img src="/img/da210f59-0d8f-4c5b-8be3-cae5239d67bb.png" width="400" />
 
 
-<sup><sub>12/27/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9629_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9629_0&tag=bestof)<sub/><sup/>
+<sup><sub>12/27/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9629_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -605,7 +605,7 @@ Link: https://www.linkedin.com/posts/pauliusztin_machinelearning-mlops-deeplearn
 <img src="/img/b8b44086-4dbb-4395-8c1d-c9307f21d424.png" width="400" />
 
 
-<sup><sub>12/26/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9624_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9624_0&tag=bestof)<sub/><sup/>
+<sup><sub>12/26/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9624_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -617,7 +617,7 @@ Link: https://hackernoon.com/how-to-use-an-uncensored-ai-model-and-train-it-with
 <img src="/img/15c935ae-cb6f-4bfd-882c-662365c083f6.png" width="400" />
 
 
-<sup><sub>12/26/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9621_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9621_0&tag=bestof)<sub/><sup/>
+<sup><sub>12/26/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9621_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -629,7 +629,7 @@ Link: https://youtu.be/kCc8FmEb1nY?feature=shared&amp;t=3510
 <img src="/img/2bfa5969-5e62-4507-878c-f18f97b290ad.png" width="400" />
 
 
-<sup><sub>12/26/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9619_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9619_0&tag=bestof)<sub/><sup/>
+<sup><sub>12/26/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9619_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -641,7 +641,7 @@ Link: https://arxiv.org/abs/2310.07704v1
 <img src="/img/6dce5aaa-75d3-4da4-84b1-dc2930b8a259.png" width="400" />
 
 
-<sup><sub>12/25/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9612_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9612_0&tag=bestof)<sub/><sup/>
+<sup><sub>12/25/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9612_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -653,7 +653,7 @@ Link: https://arxiv.org/abs/2312.12456
 <img src="/img/2a5dfb0d-7d88-4ecc-a1a6-bee6dd0dd598.png" width="400" />
 
 
-<sup><sub>12/25/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9610_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9610_0&tag=bestof)<sub/><sup/>
+<sup><sub>12/25/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9610_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -665,7 +665,7 @@ Link: https://arxiv.org/abs/2312.11514
 <img src="/img/24981d43-c5df-444f-a7e3-14575d69abaf.png" width="400" />
 
 
-<sup><sub>12/24/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9608_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9608_0&tag=bestof)<sub/><sup/>
+<sup><sub>12/24/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9608_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -677,7 +677,7 @@ Link: https://www.linkedin.com/pulse/top-ml-papers-week-dair-ai-ciiye?utm_source
 <img src="/img/becc1d50-3ffb-491b-9570-d31573ab6945.png" width="400" />
 
 
-<sup><sub>12/24/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9606_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9606_0&tag=bestof)<sub/><sup/>
+<sup><sub>12/24/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9606_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -689,7 +689,7 @@ Link: https://arxiv.org/abs/2312.11444
 <img src="/img/3252c5ac-e79e-4b81-96b9-07fdca6d6b2a.png" width="400" />
 
 
-<sup><sub>12/24/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9604_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9604_0&tag=bestof)<sub/><sup/>
+<sup><sub>12/24/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9604_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -701,7 +701,7 @@ Link: https://www.linkedin.com/posts/ryanlpeterman_681-engineering-blogs-that-wi
 <img src="/img/3bdffb4a-013a-4780-ad82-3c6c4c6639bc.png" width="400" />
 
 
-<sup><sub>12/24/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9602_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9602_0&tag=bestof)<sub/><sup/>
+<sup><sub>12/24/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9602_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -713,7 +713,7 @@ Link: https://arxiv.org/abs/2312.10997v1
 <img src="/img/8179743a-781a-4d9c-bd8b-5e3bf102121b.png" width="400" />
 
 
-<sup><sub>12/23/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9597_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9597_0&tag=bestof)<sub/><sup/>
+<sup><sub>12/23/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9597_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -727,7 +727,7 @@ Link: https://platform.openai.com/docs/guides/prompt-engineering/six-strategies-
 <img src="/img/f8d51139-16f5-4fb0-89a4-fecf710b7870.png" width="400" />
 
 
-<sup><sub>12/23/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9594_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9594_0&tag=bestof)<sub/><sup/>
+<sup><sub>12/23/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9594_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -739,7 +739,7 @@ Link: https://arxiv.org/abs/2312.13771
 <img src="/img/c8a67575-012e-41ac-af56-b5ec15c8a922.png" width="400" />
 
 
-<sup><sub>12/22/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9589_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9589_0&tag=bestof)<sub/><sup/>
+<sup><sub>12/22/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9589_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -751,7 +751,7 @@ Link: https://www.linkedin.com/posts/llamaindex_running-mistral-ais-mixtral-8x7b
 <img src="/img/96afadb6-d786-4b2d-bce7-8218176d0243.png" width="400" />
 
 
-<sup><sub>12/22/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9587_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9587_0&tag=bestof)<sub/><sup/>
+<sup><sub>12/22/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9587_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -763,7 +763,7 @@ Link: https://arxiv.org/abs/2312.11514v1
 <img src="/img/dc85261a-bb99-40e0-bd24-54dfa7c83e2c.png" width="400" />
 
 
-<sup><sub>12/22/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9585_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9585_0&tag=bestof)<sub/><sup/>
+<sup><sub>12/22/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9585_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -775,7 +775,7 @@ Link: https://arxiv.org/abs/2312.10003
 <img src="/img/9dd40601-7377-4d15-8f71-996d0cd1a549.png" width="400" />
 
 
-<sup><sub>12/22/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9583_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9583_0&tag=bestof)<sub/><sup/>
+<sup><sub>12/22/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9583_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -787,7 +787,7 @@ Link: https://simonwillison.net/2023/Dec/18/mistral/
 <img src="/img/97572613-8013-4f70-8327-58a741ddac03.png" width="400" />
 
 
-<sup><sub>12/22/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9581_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9581_0&tag=bestof)<sub/><sup/>
+<sup><sub>12/22/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9581_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -799,7 +799,7 @@ Link: https://www.linkedin.com/posts/dalianaliu_multimodal-llm-is-the-future-her
 <img src="/img/61ed646b-e94f-4499-9566-1a18dd886668.png" width="400" />
 
 
-<sup><sub>12/21/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9576_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9576_0&tag=bestof)<sub/><sup/>
+<sup><sub>12/21/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9576_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -811,7 +811,7 @@ Link: https://redis.com/blog/announcing-langchain-rag-template-powered-by-redis/
 <img src="/img/c14735e2-9384-4aa9-a624-689bafd8d9bc.png" width="400" />
 
 
-<sup><sub>12/20/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9571_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9571_0&tag=bestof)<sub/><sup/>
+<sup><sub>12/20/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9571_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -823,7 +823,7 @@ Link: https://www.linkedin.com/posts/omarsar_powerinfer-a-high-speed-inference-e
 <img src="/img/30dbccec-4ef6-4483-bbdc-3a1875a12053.png" width="400" />
 
 
-<sup><sub>12/19/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9568_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9568_0&tag=bestof)<sub/><sup/>
+<sup><sub>12/19/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9568_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -835,7 +835,7 @@ Link: https://www.linkedin.com/posts/vaibhavs10_distil-whisper-small-now-in-insa
 <img src="/img/01a412fd-31fd-431f-a245-97dfb3b91e90.png" width="400" />
 
 
-<sup><sub>12/18/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9539_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9539_0&tag=bestof)<sub/><sup/>
+<sup><sub>12/18/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9539_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -847,7 +847,7 @@ Link: https://www.linkedin.com/posts/dalianaliu_over-70-of-businesses-will-use-m
 <img src="/img/f49ceb9a-d036-4836-bebe-c3d26062d603.png" width="400" />
 
 
-<sup><sub>12/17/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9534_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9534_0&tag=bestof)<sub/><sup/>
+<sup><sub>12/17/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9534_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -859,7 +859,7 @@ Link: https://ai.meta.com/research/seamless-communication/#resources
 <img src="/img/44294eca-4c80-4581-990f-b4ca004a884a.png" width="400" />
 
 
-<sup><sub>12/17/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9528_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9528_0&tag=bestof)<sub/><sup/>
+<sup><sub>12/17/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9528_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -871,7 +871,7 @@ Link: https://www.linkedin.com/posts/segmind_announcing-segmind-vegart-real-time
 <img src="/img/3a64d0ee-8048-4f57-9c4d-4043036b9c52.png" width="400" />
 
 
-<sup><sub>12/17/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9526_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9526_0&tag=bestof)<sub/><sup/>
+<sup><sub>12/17/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9526_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -885,7 +885,7 @@ Link: https://www.linkedin.com/posts/youssef-hosni-b2960b135_top-10-machine-lear
 <img src="/img/ab6041e5-9a95-481b-9591-47138690b781.png" width="400" />
 
 
-<sup><sub>12/14/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9516_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9516_0&tag=bestof)<sub/><sup/>
+<sup><sub>12/14/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9516_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -897,7 +897,7 @@ Link: https://www.bishopbook.com/
 <img src="/img/4f4dad22-6f05-4b03-bb65-3e4563488155.png" width="400" />
 
 
-<sup><sub>12/13/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9508_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9508_0&tag=bestof)<sub/><sup/>
+<sup><sub>12/13/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9508_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -909,7 +909,7 @@ Link: https://docs.llamaindex.ai/en/latest/module_guides/models/multi_modal.html
 <img src="/img/a98883c6-e7ce-40da-b72d-ee5de0dc6ed7.png" width="400" />
 
 
-<sup><sub>12/3/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9475_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9475_0&tag=bestof)<sub/><sup/>
+<sup><sub>12/3/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9475_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -921,7 +921,7 @@ Link: https://github.com/lamini-ai/llm-classifier
 <img src="/img/2cd367ff-d722-406f-8156-746d20e73f62.png" width="400" />
 
 
-<sup><sub>12/3/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9473_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9473_0&tag=bestof)<sub/><sup/>
+<sup><sub>12/3/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9473_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -933,7 +933,7 @@ Link: https://huggingface.co/docs/transformers/model_doc/table-transformer
 <img src="/img/b87c1cbb-27bc-4d2b-b83e-802cbb363434.png" width="400" />
 
 
-<sup><sub>12/2/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9471_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9471_0&tag=bestof)<sub/><sup/>
+<sup><sub>12/2/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9471_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -945,7 +945,7 @@ Link: https://www.linkedin.com/posts/stevenouri_artificialintelligence-activity-
 <img src="/img/d5295281-3862-428f-9c62-dcedf74b61c2.png" width="400" />
 
 
-<sup><sub>11/26/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9442_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9442_0&tag=bestof)<sub/><sup/>
+<sup><sub>11/26/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9442_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -957,7 +957,7 @@ Link: https://www.linkedin.com/posts/huggingface_gpt-4-with-vision-is-cool-but-i
 <img src="/img/0453a497-308f-4371-a606-44489ded16d5.png" width="400" />
 
 
-<sup><sub>11/25/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9435_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9435_0&tag=bestof)<sub/><sup/>
+<sup><sub>11/25/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9435_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -969,7 +969,7 @@ Link: https://www.philschmid.de/sagemaker-idefics
 <img src="/img/b05edc1e-b954-49e4-a49a-cf5b0b581607.png" width="400" />
 
 
-<sup><sub>10/16/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9309_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9309_0&tag=bestof)<sub/><sup/>
+<sup><sub>10/16/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9309_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -981,7 +981,7 @@ Link: https://www.linkedin.com/posts/alexwang2911_those-are-just-a-few-of-the-ma
 <img src="/img/b56dd978-d320-491a-bb4b-0a4a8728cd23.png" width="400" />
 
 
-<sup><sub>10/15/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9307_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9307_0&tag=bestof)<sub/><sup/>
+<sup><sub>10/15/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9307_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -993,7 +993,7 @@ Link: https://www.linkedin.com/posts/andrew-iain-jardine_opensource-llms-activit
 <img src="/img/198482e3-e42a-4831-b759-5ee70994ae1b.png" width="400" />
 
 
-<sup><sub>9/26/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9237_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9237_0&tag=bestof)<sub/><sup/>
+<sup><sub>9/26/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9237_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1005,7 +1005,7 @@ Link: https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-d
 <img src="/img/6a66f6df-bbda-456a-9c25-cb4ba07dcf5c.png" width="400" />
 
 
-<sup><sub>9/24/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9229_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9229_0&tag=bestof)<sub/><sup/>
+<sup><sub>9/24/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9229_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1017,7 +1017,7 @@ Link: https://github.com/deep-diver/LLM-As-Chatbot
 <img src="/img/669b8f65-982b-434e-8752-4ab7ed80e31b.png" width="400" />
 
 
-<sup><sub>9/16/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9200_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9200_0&tag=bestof)<sub/><sup/>
+<sup><sub>9/16/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9200_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1029,7 +1029,7 @@ Link: https://www.linkedin.com/posts/llamaindex_every-ai-engineer-should-learn-h
 <img src="/img/a7087f70-03f0-42ba-a215-28734bf18cfe.png" width="400" />
 
 
-<sup><sub>9/14/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9191_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9191_0&tag=bestof)<sub/><sup/>
+<sup><sub>9/14/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9191_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1041,7 +1041,7 @@ Link: https://huggingface.co/blog/overview-quantization-transformers
 <img src="/img/f00fc40d-8de2-4991-be2d-440bb16d1893.png" width="400" />
 
 
-<sup><sub>9/12/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9169_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9169_0&tag=bestof)<sub/><sup/>
+<sup><sub>9/12/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9169_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1053,7 +1053,7 @@ Link: https://medium.com/@kelvin.lu.au/hosting-a-text-embedding-model-that-is-be
 <img src="/img/6dc550c0-e9cc-42dd-90cc-1635929de677.png" width="400" />
 
 
-<sup><sub>9/11/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9155_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9155_0&tag=bestof)<sub/><sup/>
+<sup><sub>9/11/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9155_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1065,7 +1065,7 @@ Link: https://medium.com/@kelvin.lu.au/hosting-a-text-embedding-model-that-is-be
 <img src="/img/67103e79-6e69-41a8-9263-42b96bce55e9.png" width="400" />
 
 
-<sup><sub>9/10/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9145_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9145_0&tag=bestof)<sub/><sup/>
+<sup><sub>9/10/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9145_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1077,7 +1077,7 @@ Link: https://medium.com/@bSharpML/use-llamaindex-and-a-local-llm-to-summarize-y
 <img src="/img/7b7364aa-6a82-445d-b11d-c81a91c16f75.png" width="400" />
 
 
-<sup><sub>9/8/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9129_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9129_0&tag=bestof)<sub/><sup/>
+<sup><sub>9/8/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9129_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1089,7 +1089,7 @@ Link: https://medium.com/@bSharpML/use-llamaindex-and-a-local-llm-to-summarize-y
 <img src="/img/50ea2eea-3dbf-447b-9156-3c8f80083011.png" width="400" />
 
 
-<sup><sub>9/8/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9126_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9126_0&tag=bestof)<sub/><sup/>
+<sup><sub>9/8/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9126_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1101,7 +1101,7 @@ Link: https://www.linkedin.com/posts/llamaindex_heres-a-simple-brand-new-trick-t
 <img src="/img/effe3828-39c0-4f8b-8412-69eea9573513.png" width="400" />
 
 
-<sup><sub>9/4/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9085_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9085_0&tag=bestof)<sub/><sup/>
+<sup><sub>9/4/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9085_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1113,7 +1113,7 @@ Link: https://neuml.hashnode.dev/translate-text-between-languages
 <img src="/img/0c4ac197-6f10-4120-a724-88636dbf7a51.png" width="400" />
 
 
-<sup><sub>9/1/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9079_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9079_0&tag=bestof)<sub/><sup/>
+<sup><sub>9/1/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9079_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1125,7 +1125,7 @@ Link: https://www.linkedin.com/feed/update/urn:li:activity:7103092498536824832?u
 <img src="/img/3e9ca05c-bb06-43fa-9bd0-e3211f02773b.png" width="400" />
 
 
-<sup><sub>8/31/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9074_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9074_0&tag=bestof)<sub/><sup/>
+<sup><sub>8/31/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9074_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1137,7 +1137,7 @@ Link: https://www.linkedin.com/posts/analytics-vidhya_chatgpt-llms-generativeai-
 <img src="/img/af03f5d6-0e9d-4816-96b3-3920822f9bd1.png" width="400" />
 
 
-<sup><sub>8/30/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9063_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9063_0&tag=bestof)<sub/><sup/>
+<sup><sub>8/30/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9063_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1149,7 +1149,7 @@ Link: https://www.linkedin.com/posts/llamaindex_building-performant-rag-applicat
 <img src="/img/79bdcfc6-cd1b-4cf4-a478-e0e891e02282.png" width="400" />
 
 
-<sup><sub>8/30/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9061_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9061_0&tag=bestof)<sub/><sup/>
+<sup><sub>8/30/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9061_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1161,7 +1161,7 @@ Link: https://github.com/nomic-ai/gpt4all
 <img src="/img/5aa68012-11e8-49ba-aecd-0ce57abb38e2.png" width="400" />
 
 
-<sup><sub>8/29/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9053_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9053_0&tag=bestof)<sub/><sup/>
+<sup><sub>8/29/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9053_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1173,7 +1173,7 @@ Link: https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e
 <img src="/img/24a130e0-344e-437d-bdb1-ccd98a4168de.png" width="400" />
 
 
-<sup><sub>8/29/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9049_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9049_0&tag=bestof)<sub/><sup/>
+<sup><sub>8/29/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9049_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1185,7 +1185,7 @@ Link: https://www.linkedin.com/posts/llamaindex_google-colaboratory-activity-710
 <img src="/img/06759ab2-fc5c-4395-9a8a-e60661aab3c9.png" width="400" />
 
 
-<sup><sub>8/27/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9029_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9029_0&tag=bestof)<sub/><sup/>
+<sup><sub>8/27/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9029_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1197,7 +1197,7 @@ Link: https://www.linkedin.com/posts/prakhar21_naturallanguageprocessing-largela
 <img src="/img/2d619991-9557-4b62-99b0-219a7ea10c13.png" width="400" />
 
 
-<sup><sub>8/25/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9007_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9007_0&tag=bestof)<sub/><sup/>
+<sup><sub>8/25/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9007_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1209,7 +1209,7 @@ Link: https://microsoft.github.io/FLAML/docs/getting-started
 <img src="/img/dd2adce1-e275-41cd-80db-d231f19a4ede.png" width="400" />
 
 
-<sup><sub>8/24/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9005_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9005_0&tag=bestof)<sub/><sup/>
+<sup><sub>8/24/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9005_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1221,7 +1221,7 @@ Link: https://www.linkedin.com/posts/pkpio_new-short-course-on-fine-tuning-llms-
 <img src="/img/e3e48f41-6cae-4f63-a9fe-5f2fc2a7f2d2.png" width="400" />
 
 
-<sup><sub>8/24/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9003_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9003_0&tag=bestof)<sub/><sup/>
+<sup><sub>8/24/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9003_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1233,7 +1233,7 @@ Link: https://www.linkedin.com/posts/somnath-banerjee_we-recently-had-to-pick-a-
 <img src="/img/cdc7d2aa-9766-4db1-9860-b27ec9cfc71e.png" width="400" />
 
 
-<sup><sub>8/24/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9001_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9001_0&tag=bestof)<sub/><sup/>
+<sup><sub>8/24/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9001_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1245,7 +1245,7 @@ Link: https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_introducing-idefic
 <img src="/img/33a13822-551d-4d0a-8082-057a54ecf82b.png" width="400" />
 
 
-<sup><sub>8/22/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8969_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8969_0&tag=bestof)<sub/><sup/>
+<sup><sub>8/22/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8969_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1257,7 +1257,7 @@ Link: https://www.linkedin.com/posts/abhi1thakur_the-easiest-llm-fine-tuning-ui-
 <img src="/img/2e60d35a-865c-41d8-bc98-71a023204d70.png" width="400" />
 
 
-<sup><sub>8/21/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8963_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8963_0&tag=bestof)<sub/><sup/>
+<sup><sub>8/21/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8963_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1269,7 +1269,7 @@ Link: https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascienc
 <img src="/img/521050e9-ab15-42bf-a4b7-a307d84270bc.png" width="400" />
 
 
-<sup><sub>8/18/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8946_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8946_0&tag=bestof)<sub/><sup/>
+<sup><sub>8/18/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8946_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1281,7 +1281,7 @@ Link: https://www.example.com
 <img src="/img/b5723902-1a2d-4c07-bd60-52998fb16c8a.png" width="400" />
 
 
-<sup><sub>8/16/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8924_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8924_0&tag=bestof)<sub/><sup/>
+<sup><sub>8/16/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8924_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1293,7 +1293,7 @@ Link: http://www.example2.com
 <img src="/img/2444f04e-8747-47fe-b9ce-bc16b10db887.png" width="400" />
 
 
-<sup><sub>8/16/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8924_1&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8924_1&tag=bestof)<sub/><sup/>
+<sup><sub>8/16/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8924_1&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1305,7 +1305,7 @@ Link: https://www.example3.com/about
 <img src="/img/fad704de-ce79-4ebc-a55d-d9e8f3b0935e.png" width="400" />
 
 
-<sup><sub>8/16/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8924_2&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8924_2&tag=bestof)<sub/><sup/>
+<sup><sub>8/16/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8924_2&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1317,7 +1317,7 @@ Link: https://blog.langchain.dev/gpt-researcher-x-langchain/
 <img src="/img/ac4db2c8-d155-47f0-ab40-63caa86a7ef0.png" width="400" />
 
 
-<sup><sub>8/15/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8914_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8914_0&tag=bestof)<sub/><sup/>
+<sup><sub>8/15/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8914_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1329,7 +1329,7 @@ Link: https://github.com/openai/openai-cookbook/blob/main/examples/Visualizing_e
 <img src="/img/d7385971-d769-4693-a4d8-e1249b0109ea.png" width="400" />
 
 
-<sup><sub>8/15/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8912_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8912_0&tag=bestof)<sub/><sup/>
+<sup><sub>8/15/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8912_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1341,7 +1341,7 @@ Link: https://huggingface.co/blog/dpo-trl
 <img src="/img/5edd4195-b34b-4832-8465-feea103f4292.png" width="400" />
 
 
-<sup><sub>8/13/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8908_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8908_0&tag=bestof)<sub/><sup/>
+<sup><sub>8/13/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8908_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1353,7 +1353,7 @@ Link: https://www.linkedin.com/posts/manishsgupta_multimodal-pretraining-with-mi
 <img src="/img/1d12e03b-b882-4c43-9df4-a5ae3014b4f1.png" width="400" />
 
 
-<sup><sub>8/13/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8906_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8906_0&tag=bestof)<sub/><sup/>
+<sup><sub>8/13/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8906_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1365,7 +1365,7 @@ Link: https://www.codemotion.com/magazine/backend/fast-document-similarity-in-py
 <img src="/img/2f569d90-d844-4ef6-a29c-cc8315832aca.png" width="400" />
 
 
-<sup><sub>8/12/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8904_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8904_0&tag=bestof)<sub/><sup/>
+<sup><sub>8/12/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8904_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1377,7 +1377,7 @@ Link: https://pyminhash.readthedocs.io/en/latest/
 <img src="/img/e0e7708d-30ee-4a6e-8cdc-32d0ae367420.png" width="400" />
 
 
-<sup><sub>8/12/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8902_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8902_0&tag=bestof)<sub/><sup/>
+<sup><sub>8/12/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8902_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1389,7 +1389,7 @@ Link: https://www.philschmid.de/introducing-easyllm
 <img src="/img/b5136f13-2f7b-4c14-bdba-4c808c6a90cf.png" width="400" />
 
 
-<sup><sub>8/4/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8879_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8879_0&tag=bestof)<sub/><sup/>
+<sup><sub>8/4/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8879_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1401,7 +1401,7 @@ Link: https://arxiv.org/abs/2307.16789
 <img src="/img/e395296f-8548-48d9-8866-10e124fe9183.png" width="400" />
 
 
-<sup><sub>8/1/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8868_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8868_0&tag=bestof)<sub/><sup/>
+<sup><sub>8/1/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8868_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1413,7 +1413,7 @@ Link: https://github.com/sieve-community/examples/blob/main/auto_chapter_title/w
 <img src="/img/9455ea19-f760-47e4-ab7b-ba605169a83c.png" width="400" />
 
 
-<sup><sub>7/28/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8861_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8861_0&tag=bestof)<sub/><sup/>
+<sup><sub>7/28/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8861_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1425,7 +1425,7 @@ Link: https://www.linkedin.com/feed/update/urn:li:activity:7089288709220524032?u
 <img src="/img/9b74cf8f-8987-4595-b0bc-016d60a4df0a.png" width="400" />
 
 
-<sup><sub>7/25/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8840_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8840_0&tag=bestof)<sub/><sup/>
+<sup><sub>7/25/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8840_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1437,7 +1437,7 @@ Link: https://arxiv.org/abs/2305.15334
 <img src="/img/3452d87d-72e0-47d3-bade-edc4255aa99c.png" width="400" />
 
 
-<sup><sub>7/24/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8832_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8832_0&tag=bestof)<sub/><sup/>
+<sup><sub>7/24/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8832_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1451,7 +1451,7 @@ Link: https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/deploy-lar
 <img src="/img/1b62871f-0a33-479c-ae38-e7f07615a547.png" width="400" />
 
 
-<sup><sub>7/22/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8822_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8822_0&tag=bestof)<sub/><sup/>
+<sup><sub>7/22/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8822_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1463,7 +1463,7 @@ Link: https://gpus.llm-utils.org/running-llama-2-on-runpod-with-oobaboogas-text-
 <img src="/img/0659b0e6-e182-4039-a65b-e049a04f9c5d.png" width="400" />
 
 
-<sup><sub>7/21/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8817_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8817_0&tag=bestof)<sub/><sup/>
+<sup><sub>7/21/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8817_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1475,7 +1475,7 @@ Link: https://www.philschmid.de/llama-2
 <img src="/img/bc382c49-5dc2-4bd8-8091-b0bcb83f51ba.png" width="400" />
 
 
-<sup><sub>7/21/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8815_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8815_0&tag=bestof)<sub/><sup/>
+<sup><sub>7/21/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8815_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1487,7 +1487,7 @@ Link: https://www.philschmid.de/llama-2
 <img src="/img/a027acde-a49c-49d5-88dc-e073ba659e32.png" width="400" />
 
 
-<sup><sub>7/21/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8813_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8813_0&tag=bestof)<sub/><sup/>
+<sup><sub>7/21/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8813_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1499,7 +1499,7 @@ Link: https://www.linkedin.com/posts/abhi1thakur_new-tutorial-alert-the-easiest-
 <img src="/img/beb68aeb-eba5-4029-8baa-d1e69c82b6df.png" width="400" />
 
 
-<sup><sub>7/21/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8806_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8806_0&tag=bestof)<sub/><sup/>
+<sup><sub>7/21/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8806_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1511,7 +1511,7 @@ Link: https://www.linkedin.com/posts/gante_unleash-the-true-llama-2-potential-fr
 <img src="/img/61ff4122-a3d7-480f-8e04-dc60b1d809e4.png" width="400" />
 
 
-<sup><sub>7/19/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8797_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8797_0&tag=bestof)<sub/><sup/>
+<sup><sub>7/19/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8797_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1523,7 +1523,7 @@ Link: https://gist.github.com/younesbelkada/9f7f75c94bdc1981c8ca5cc937d4a4da
 <img src="/img/85598a9d-aea4-4b91-8fac-20761de92a4d.png" width="400" />
 
 
-<sup><sub>7/19/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8795_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8795_0&tag=bestof)<sub/><sup/>
+<sup><sub>7/19/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8795_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1535,7 +1535,7 @@ Link: https://huggingface.co/blog/os-llms
 <img src="/img/ea5d5c98-f0f2-4b65-a18c-8e4bd7d9d19d.png" width="400" />
 
 
-<sup><sub>7/18/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8786_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8786_0&tag=bestof)<sub/><sup/>
+<sup><sub>7/18/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8786_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1547,7 +1547,7 @@ Link: https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-e
 <img src="/img/257d10b5-b721-46e6-baf1-17f2e53d26f0.png" width="400" />
 
 
-<sup><sub>7/17/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8782_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8782_0&tag=bestof)<sub/><sup/>
+<sup><sub>7/17/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8782_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1559,7 +1559,7 @@ Link: https://github.blog/2023-05-17-inside-github-working-with-the-llms-behind-
 <img src="/img/2637ebcc-ef16-4641-a621-ca635c331b3d.png" width="400" />
 
 
-<sup><sub>7/17/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8780_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8780_0&tag=bestof)<sub/><sup/>
+<sup><sub>7/17/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8780_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1571,7 +1571,7 @@ Link: https://github.blog/2023-07-17-prompt-engineering-guide-generative-ai-llms
 <img src="/img/7c596f48-a420-4388-ae36-995af90d481d.png" width="400" />
 
 
-<sup><sub>7/17/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8778_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8778_0&tag=bestof)<sub/><sup/>
+<sup><sub>7/17/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8778_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1583,7 +1583,7 @@ Link: https://www.linkedin.com/posts/michael-gschwind-3704222_pytorch-pytorchxla
 <img src="/img/31516501-640d-454d-bd2a-9af41b6c741e.png" width="400" />
 
 
-<sup><sub>7/16/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8767_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8767_0&tag=bestof)<sub/><sup/>
+<sup><sub>7/16/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8767_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1595,7 +1595,7 @@ Link: https://github.com/Sentdex/Falcon-LLM
 <img src="/img/ef164325-50a3-4c18-91cc-e83ec3888763.png" width="400" />
 
 
-<sup><sub>7/15/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8763_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8763_0&tag=bestof)<sub/><sup/>
+<sup><sub>7/15/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8763_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1607,7 +1607,7 @@ Link: https://www.youtube.com/watch?v=-IV1NTGy6Mg&amp;t=108s
 <img src="/img/ee17597b-acab-4885-8279-00a8df8257ff.png" width="400" />
 
 
-<sup><sub>7/15/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8761_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8761_0&tag=bestof)<sub/><sup/>
+<sup><sub>7/15/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8761_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1619,7 +1619,7 @@ Link: https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_are-vector-databas
 <img src="/img/dffbca96-7ac8-497b-9e5a-c2a4d270927a.png" width="400" />
 
 
-<sup><sub>7/15/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8759_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8759_0&tag=bestof)<sub/><sup/>
+<sup><sub>7/15/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8759_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1631,7 +1631,7 @@ Link: https://www.linkedin.com/posts/shawhintalebi_a-practical-introduction-to-l
 <img src="/img/92ec062f-e7f1-4c8d-a229-4b1660c2d001.png" width="400" />
 
 
-<sup><sub>7/14/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8755_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8755_0&tag=bestof)<sub/><sup/>
+<sup><sub>7/14/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8755_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1643,7 +1643,7 @@ Link: https://www.linkedin.com/posts/abhi1thakur_now-you-can-use-autotrain-advan
 <img src="/img/ee75e7f7-5789-43a2-9011-12a907ab0c19.png" width="400" />
 
 
-<sup><sub>7/12/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8741_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8741_0&tag=bestof)<sub/><sup/>
+<sup><sub>7/12/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8741_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1655,7 +1655,7 @@ Link: https://www.youtube.com/watch?v=JNMVulH7fCo
 <img src="/img/03f22639-cf91-443b-a293-a6039a92cc6d.png" width="400" />
 
 
-<sup><sub>7/12/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8739_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8739_0&tag=bestof)<sub/><sup/>
+<sup><sub>7/12/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8739_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1667,7 +1667,7 @@ Link: https://www.linkedin.com/posts/mikegchambers_generatieveai-largelanguagemo
 <img src="/img/8f0a7e15-4b91-4420-8299-5da28b50e794.png" width="400" />
 
 
-<sup><sub>7/12/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8737_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8737_0&tag=bestof)<sub/><sup/>
+<sup><sub>7/12/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8737_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1679,7 +1679,7 @@ Link: https://github.com/ChaoningZhang/MobileSAM
 <img src="/img/69794760-f925-4599-9c14-5fe693df8c1a.png" width="400" />
 
 
-<sup><sub>7/11/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8725_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8725_0&tag=bestof)<sub/><sup/>
+<sup><sub>7/11/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8725_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1691,7 +1691,7 @@ Link: https://www.youtube.com/playlist?list=PLTPXxbhUt-YWSR8wtILixhZLF9qB_1yZm
 <img src="/img/29a7f31a-b457-40d7-869c-b0de0395fb47.png" width="400" />
 
 
-<sup><sub>7/10/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8723_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8723_0&tag=bestof)<sub/><sup/>
+<sup><sub>7/10/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8723_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1703,7 +1703,7 @@ Link: https://youtu.be/ukj_ITJKBwE
 <img src="/img/c5eafa47-37fc-41c2-b162-6a49d00c561b.png" width="400" />
 
 
-<sup><sub>7/10/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8718_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8718_0&tag=bestof)<sub/><sup/>
+<sup><sub>7/10/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8718_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1715,7 +1715,7 @@ Link: https://www.linkedin.com/posts/awaiskhanli_chatgpt-is-your-247-free-person
 <img src="/img/dcd11225-9394-4d23-94bd-306df0003e3b.png" width="400" />
 
 
-<sup><sub>7/7/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8711_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8711_0&tag=bestof)<sub/><sup/>
+<sup><sub>7/7/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8711_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1727,7 +1727,7 @@ Link: https://www.linkedin.com/posts/activity-7082776409361838080-U4oo?utm_sourc
 <img src="/img/1daca894-19b7-4fe7-8c8f-53e84430030b.png" width="400" />
 
 
-<sup><sub>7/6/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8704_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8704_0&tag=bestof)<sub/><sup/>
+<sup><sub>7/6/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8704_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1739,7 +1739,7 @@ Link: https://www.linkedin.com/feed/update/urn:li:activity:7082381211481894912?c
 <img src="/img/2caa2f63-b4c9-49db-9dd1-c79b9c058899.png" width="400" />
 
 
-<sup><sub>7/5/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8701_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8701_0&tag=bestof)<sub/><sup/>
+<sup><sub>7/5/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8701_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1751,7 +1751,7 @@ Link: https://medium.com/getmodzy/architecting-the-edge-for-ai-and-ml-13fccdafab
 <img src="/img/568cbdc7-5a80-4629-bae9-edde42bd0490.png" width="400" />
 
 
-<sup><sub>7/5/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8699_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8699_0&tag=bestof)<sub/><sup/>
+<sup><sub>7/5/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8699_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1763,7 +1763,7 @@ Link: https://www.marktechpost.com/2023/07/01/meet-toolqa-a-new-dataset-that-eva
 <img src="/img/2890cb46-4a14-4e68-bfc6-64aba1fccff0.png" width="400" />
 
 
-<sup><sub>7/5/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8697_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8697_0&tag=bestof)<sub/><sup/>
+<sup><sub>7/5/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8697_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1775,7 +1775,7 @@ Link: https://writings.stephenwolfram.com/2023/06/prompts-for-work-play-launchin
 <img src="/img/3e33714c-a08e-4c6f-aa05-3cd454307f69.png" width="400" />
 
 
-<sup><sub>7/5/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8695_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8695_0&tag=bestof)<sub/><sup/>
+<sup><sub>7/5/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8695_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1787,7 +1787,7 @@ Link: https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_deploy-llms-with-h
 <img src="/img/d0794869-699a-40f3-912c-446794248e7a.png" width="400" />
 
 
-<sup><sub>7/4/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8693_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8693_0&tag=bestof)<sub/><sup/>
+<sup><sub>7/4/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8693_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1799,7 +1799,7 @@ Link: https://www.linkedin.com/posts/pawel-huryn_12-month-mba-for-pms-better-tha
 <img src="/img/57cfe785-190a-47fc-a200-5498eb208a3a.png" width="400" />
 
 
-<sup><sub>7/4/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8691_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8691_0&tag=bestof)<sub/><sup/>
+<sup><sub>7/4/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8691_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1811,7 +1811,7 @@ Link: https://levelup.gitconnected.com/starcoder-a-new-ai-model-that-surprised-m
 <img src="/img/746d7828-e1fe-4a01-9939-b192b9926a6d.png" width="400" />
 
 
-<sup><sub>7/3/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8686_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8686_0&tag=bestof)<sub/><sup/>
+<sup><sub>7/3/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8686_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1823,7 +1823,7 @@ Link: https://ramsrigoutham.medium.com/the-landscape-of-serverless-gpu-providers
 <img src="/img/1faf259b-d63e-48bb-82f8-72b7e34df329.png" width="400" />
 
 
-<sup><sub>7/1/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8674_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8674_0&tag=bestof)<sub/><sup/>
+<sup><sub>7/1/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8674_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1835,7 +1835,7 @@ Link: https://www.mosaicml.com/blog/mpt-30b
 <img src="/img/b2096bbe-eaa4-4bcd-8aa8-b40806222355.png" width="400" />
 
 
-<sup><sub>6/30/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8668_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8668_0&tag=bestof)<sub/><sup/>
+<sup><sub>6/30/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8668_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1847,7 +1847,7 @@ Link: https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_%3F%3F%3F%3F%3F%3F
 <img src="/img/040b77fc-4b04-40f0-a60e-ed98d34f27f6.png" width="400" />
 
 
-<sup><sub>6/30/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8666_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8666_0&tag=bestof)<sub/><sup/>
+<sup><sub>6/30/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8666_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1859,7 +1859,7 @@ Link: https://www.linkedin.com/posts/julienchaumond_opensourceai-activity-708016
 <img src="/img/28fd9f1a-3408-4866-98cf-829ad70dda24.png" width="400" />
 
 
-<sup><sub>6/30/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8664_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8664_0&tag=bestof)<sub/><sup/>
+<sup><sub>6/30/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8664_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1871,7 +1871,7 @@ Link: https://huggingface.co/blog/llm-leaderboard
 <img src="/img/126226a1-40f1-49a9-9060-a116728d78d7.png" width="400" />
 
 
-<sup><sub>6/30/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8647_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8647_0&tag=bestof)<sub/><sup/>
+<sup><sub>6/30/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8647_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1883,7 +1883,7 @@ Link: https://lambdalabs.com/blog/fine-tuning-falcon-llm-7b/40b?hs_amp=true
 <img src="/img/7e1ba93d-242c-467f-b90e-cf2eee44caa4.png" width="400" />
 
 
-<sup><sub>6/29/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8644_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8644_0&tag=bestof)<sub/><sup/>
+<sup><sub>6/29/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8644_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1895,7 +1895,7 @@ Link: https://www.linkedin.com/feed/update/urn:li:activity:7079797291024277505?u
 <img src="/img/fd3ed8e4-fa19-451c-985d-7dd3d89af7de.png" width="400" />
 
 
-<sup><sub>6/29/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8642_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8642_0&tag=bestof)<sub/><sup/>
+<sup><sub>6/29/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8642_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1907,7 +1907,7 @@ Link: https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_generative-ai-with
 <img src="/img/4c81a46e-dba4-469a-b311-636b35462e64.png" width="400" />
 
 
-<sup><sub>6/28/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8640_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8640_0&tag=bestof)<sub/><sup/>
+<sup><sub>6/28/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8640_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1919,7 +1919,7 @@ Link: https://simonattard.substack.com/p/building-a-memory-layer-for-gpt-using
 <img src="/img/5493b50a-4c1c-4554-b1cf-d030bfd0e41f.png" width="400" />
 
 
-<sup><sub>6/28/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8636_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8636_0&tag=bestof)<sub/><sup/>
+<sup><sub>6/28/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8636_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1931,7 +1931,7 @@ Link: https://thenewstack.io/mosaicml-launches-30b-model-takes-on-llama-falcon-a
 <img src="/img/163d6980-138d-4b14-819e-b5ffb76b1435.png" width="400" />
 
 
-<sup><sub>6/25/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8627_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8627_0&tag=bestof)<sub/><sup/>
+<sup><sub>6/25/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8627_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1943,7 +1943,7 @@ Link: https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_open-source-llms-a
 <img src="/img/e72d5973-91ec-45af-8bda-fba068d30267.png" width="400" />
 
 
-<sup><sub>6/24/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8625_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8625_0&tag=bestof)<sub/><sup/>
+<sup><sub>6/24/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8625_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1955,7 +1955,7 @@ Link: https://a16z.com/2023/06/21/the-getting-started-with-ai-stack-for-javascri
 <img src="/img/626aa864-0c23-4394-b87f-d0d1ce8640aa.png" width="400" />
 
 
-<sup><sub>6/24/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8622_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8622_0&tag=bestof)<sub/><sup/>
+<sup><sub>6/24/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8622_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1967,7 +1967,7 @@ Link: https://adobeacrobat.app.link/o0SiKn1MPxb
 <img src="/img/eff9df9c-aef2-4085-b5dc-12287b4ae059.png" width="400" />
 
 
-<sup><sub>6/23/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8620_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8620_0&tag=bestof)<sub/><sup/>
+<sup><sub>6/23/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8620_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1979,7 +1979,7 @@ Link: https://www.linkedin.com/posts/hagaylupesko_mpt-30b-raising-the-bar-for-op
 <img src="/img/d9bbddae-fe23-4807-9466-13d7e2aba527.png" width="400" />
 
 
-<sup><sub>6/23/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8614_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8614_0&tag=bestof)<sub/><sup/>
+<sup><sub>6/23/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8614_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -1991,7 +1991,7 @@ Link: https://arxiv.org/abs/2306.02561
 <img src="/img/2dc24c2f-8ef6-4f9f-a423-3c004e603185.png" width="400" />
 
 
-<sup><sub>6/21/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8602_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8602_0&tag=bestof)<sub/><sup/>
+<sup><sub>6/21/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8602_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2003,7 +2003,7 @@ Link: https://blog.roboflow.com/autodistill/
 <img src="/img/cbd559eb-3814-452e-9974-0eec69b15e61.png" width="400" />
 
 
-<sup><sub>6/21/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8600_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8600_0&tag=bestof)<sub/><sup/>
+<sup><sub>6/21/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8600_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2015,7 +2015,7 @@ Link: https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ
 <img src="/img/51e5e3e7-c1c2-4295-8567-fe1e16565e6b.png" width="400" />
 
 
-<sup><sub>6/18/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8588_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8588_0&tag=bestof)<sub/><sup/>
+<sup><sub>6/18/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8588_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2027,7 +2027,7 @@ Link: https://www.linkedin.com/posts/lysandredebut_transformers-agents-got-a-mas
 <img src="/img/04184095-56a5-4e58-a3b1-a60b4a631d92.png" width="400" />
 
 
-<sup><sub>6/16/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8583_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8583_0&tag=bestof)<sub/><sup/>
+<sup><sub>6/16/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8583_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2039,7 +2039,7 @@ Link: https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_practical-steps-to
 <img src="/img/e62cb947-863d-4636-bc6b-690a431288f8.png" width="400" />
 
 
-<sup><sub>6/10/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8568_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8568_0&tag=bestof)<sub/><sup/>
+<sup><sub>6/10/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8568_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2051,7 +2051,7 @@ Link: https://wandb.ai/iamleonie/Articles/reports/Understanding-LLMOps-Large-Lan
 <img src="/img/35569986-692a-4efe-a43e-5d84c4a675ec.png" width="400" />
 
 
-<sup><sub>6/9/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8566_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8566_0&tag=bestof)<sub/><sup/>
+<sup><sub>6/9/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8566_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2063,7 +2063,7 @@ Link: https://www.philschmid.de/sagemaker-falcon-llm
 <img src="/img/730b13f6-1cd3-4854-8665-2e08c5e056c1.png" width="400" />
 
 
-<sup><sub>6/9/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8563_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8563_0&tag=bestof)<sub/><sup/>
+<sup><sub>6/9/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8563_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2075,7 +2075,7 @@ Link: https://www.linkedin.com/feed/update/urn:li:activity:7072536775453224960?u
 <img src="/img/a261718f-90b7-41cb-afee-ff62d5e9766f.png" width="400" />
 
 
-<sup><sub>6/9/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8561_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8561_0&tag=bestof)<sub/><sup/>
+<sup><sub>6/9/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8561_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2087,7 +2087,7 @@ Link: https://huyenchip.com/2023/06/07/generative-ai-strategy.html
 <img src="/img/5ddde012-4887-46f8-aab0-8f6ae6958de7.png" width="400" />
 
 
-<sup><sub>6/8/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8556_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8556_0&tag=bestof)<sub/><sup/>
+<sup><sub>6/8/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8556_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2099,7 +2099,7 @@ Link: https://huggingface.co/spaces/togethercomputer/OpenChatKit
 <img src="/img/913f02c3-1e46-43df-9806-ea029d2eee0a.png" width="400" />
 
 
-<sup><sub>6/7/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8550_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8550_0&tag=bestof)<sub/><sup/>
+<sup><sub>6/7/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8550_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2111,7 +2111,7 @@ Link: https://www.linkedin.com/feed/update/urn:li:activity:7071964874351792128?u
 <img src="/img/3c2f781a-d8d5-4caa-a9c7-6794fec13787.png" width="400" />
 
 
-<sup><sub>6/6/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8547_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8547_0&tag=bestof)<sub/><sup/>
+<sup><sub>6/6/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8547_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2123,7 +2123,7 @@ Link: https://www.linkedin.com/posts/jeremy-arancio_deploy-your-llm-with-inferen
 <img src="/img/f995c8fc-9f08-4641-bec0-d8e64e784a28.png" width="400" />
 
 
-<sup><sub>6/5/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8544_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8544_0&tag=bestof)<sub/><sup/>
+<sup><sub>6/5/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8544_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2135,7 +2135,7 @@ Link: https://github.com/logspace-ai/langflow
 <img src="/img/e603c0e2-8fff-4ec9-8105-6d724d14d5b3.png" width="400" />
 
 
-<sup><sub>6/4/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8542_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8542_0&tag=bestof)<sub/><sup/>
+<sup><sub>6/4/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8542_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2147,7 +2147,7 @@ Link: https://huggingface.co/blog/bertopic
 <img src="/img/67ac2acf-cfa2-4b73-8de9-83556d002e54.png" width="400" />
 
 
-<sup><sub>6/4/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8540_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8540_0&tag=bestof)<sub/><sup/>
+<sup><sub>6/4/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8540_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2159,7 +2159,7 @@ Link: https://link.medium.com/SsCISkCSmAb
 <img src="/img/f60beae7-1394-4f45-ad7f-1649b2d06fc8.png" width="400" />
 
 
-<sup><sub>6/4/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8538_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8538_0&tag=bestof)<sub/><sup/>
+<sup><sub>6/4/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8538_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2171,7 +2171,7 @@ Link: https://www.linkedin.com/posts/akshay-pachaar_google-has-created-a-generat
 <img src="/img/765635db-abac-4f4c-8117-322d0ee82a23.png" width="400" />
 
 
-<sup><sub>6/4/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8536_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8536_0&tag=bestof)<sub/><sup/>
+<sup><sub>6/4/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8536_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2183,7 +2183,7 @@ Link: https://link.medium.com/oxamUMNBjAb
 <img src="/img/64ff312d-7764-423f-8a75-6cb8770662f1.png" width="400" />
 
 
-<sup><sub>6/2/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8530_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8530_0&tag=bestof)<sub/><sup/>
+<sup><sub>6/2/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8530_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2195,7 +2195,7 @@ Link: https://link.medium.com/fLrtiEHDhAb
 <img src="/img/e9f00ad6-c124-4453-b66d-507fefab37bb.png" width="400" />
 
 
-<sup><sub>6/1/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8525_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8525_0&tag=bestof)<sub/><sup/>
+<sup><sub>6/1/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8525_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2207,7 +2207,7 @@ Link: https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_exciting-news-falc
 <img src="/img/95f811cf-fa54-46d5-a094-480516046392.png" width="400" />
 
 
-<sup><sub>5/31/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8522_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8522_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/31/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8522_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2219,7 +2219,7 @@ Link: https://github.com/ShishirPatil/gorilla
 <img src="/img/5776a735-36c4-45b5-b182-f6ecb59b331b.png" width="400" />
 
 
-<sup><sub>5/31/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8517_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8517_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/31/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8517_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2231,7 +2231,7 @@ Link: https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascienc
 <img src="/img/7614714a-2c0e-4a8a-89db-107987f5a60e.png" width="400" />
 
 
-<sup><sub>5/30/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8512_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8512_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/30/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8512_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2243,7 +2243,7 @@ Link: https://github.com/microsoft/guidance
 <img src="/img/b254acb4-415c-4fe2-9840-de49238b774e.png" width="400" />
 
 
-<sup><sub>5/30/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8507_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8507_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/30/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8507_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2255,7 +2255,7 @@ Link: https://arxiv.org/abs/2305.17126
 <img src="/img/01dd09d9-472b-4158-9e7b-11ae3ef24b5f.png" width="400" />
 
 
-<sup><sub>5/30/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8499_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8499_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/30/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8499_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2267,7 +2267,7 @@ Link: https://dev.to/dhanushreddy29/deploy-hugging-face-models-on-serverless-gpu
 <img src="/img/09736af1-4d43-401c-9191-0d7c2332c87b.png" width="400" />
 
 
-<sup><sub>5/29/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8497_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8497_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/29/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8497_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2279,7 +2279,7 @@ Link: https://www.linkedin.com/posts/genai-center_another-busy-day-of-ai-private
 <img src="/img/6dc9fd15-5ba3-426c-893b-a58b36c84250.png" width="400" />
 
 
-<sup><sub>5/28/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8490_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8490_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/28/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8490_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2291,7 +2291,7 @@ Link: https://github.com/clovaai/donut
 <img src="/img/384436d5-c0b9-434d-a0d3-891a372d3835.png" width="400" />
 
 
-<sup><sub>5/28/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8488_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8488_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/28/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8488_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2303,7 +2303,7 @@ Link: https://www.philschmid.de/sagemaker-donut
 <img src="/img/1d43a863-2b78-4def-9ae6-7029396e8952.png" width="400" />
 
 
-<sup><sub>5/28/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8486_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8486_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/28/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8486_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2315,7 +2315,7 @@ Link: https://dev.to/ruarfff/building-and-deploying-a-web-api-powered-by-chatgpt
 <img src="/img/5397d7dd-3dc6-47df-9b56-cb3f2a760d8c.png" width="400" />
 
 
-<sup><sub>5/27/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8484_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8484_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/27/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8484_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2327,7 +2327,7 @@ Link: https://www.linkedin.com/feed/update/urn:li:activity:7068201399783735296?u
 <img src="/img/3b3e3b92-7599-4485-988c-3c5d29537104.png" width="400" />
 
 
-<sup><sub>5/27/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8482_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8482_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/27/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8482_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2339,7 +2339,7 @@ Link: https://www.linkedin.com/posts/mehtabhairav_llama-is-getting-dethroned-the
 <img src="/img/98817103-dd2c-427e-b813-6f5399bc127e.png" width="400" />
 
 
-<sup><sub>5/27/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8480_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8480_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/27/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8480_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2351,7 +2351,7 @@ Link: https://www.ai21.com/blog/announcing-ai21-studio-and-jurassic-1
 <img src="/img/ade6c63e-5b60-44b3-8456-27e8eff3d673.png" width="400" />
 
 
-<sup><sub>5/27/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8478_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8478_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/27/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8478_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2363,7 +2363,7 @@ Link: https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_new-open-source-ll
 <img src="/img/99038be6-38f7-4039-b8ca-6c9357d6c3d8.png" width="400" />
 
 
-<sup><sub>5/26/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8467_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8467_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/26/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8467_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2375,7 +2375,7 @@ Link: https://github.com/microsoft/PodcastCopilot/blob/main/PodcastSocialMediaCo
 <img src="/img/1e9abd6f-8f3b-4a44-9860-8d3caf6cc74a.png" width="400" />
 
 
-<sup><sub>5/23/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8455_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8455_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/23/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8455_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2387,7 +2387,7 @@ Link: https://arxiv.org/abs/2305.11206
 <img src="/img/85697271-499c-495c-8ffa-4d8d6b81bb82.png" width="400" />
 
 
-<sup><sub>5/22/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8446_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8446_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/22/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8446_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2399,7 +2399,7 @@ Link: https://github.com/kagisearch/pyllms
 <img src="/img/4c6b2796-afa8-4c57-86bb-fb1306347976.png" width="400" />
 
 
-<sup><sub>5/21/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8436_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8436_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/21/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8436_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2411,7 +2411,7 @@ Link: https://bootcamp.uxdesign.cc/cookbook-for-solving-common-problems-in-build
 <img src="/img/7e968a84-c5d1-4990-b458-02fbcdb85786.png" width="400" />
 
 
-<sup><sub>5/21/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8434_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8434_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/21/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8434_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2423,7 +2423,7 @@ Link: https://artificialcorner.com/gpt4all-is-the-local-chatgpt-for-your-documen
 <img src="/img/5d71d127-9170-4102-aff0-0a06470c2274.png" width="400" />
 
 
-<sup><sub>5/21/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8432_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8432_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/21/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8432_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2435,7 +2435,7 @@ Link: https://dev.to/ngonidzashe/chat-with-your-csv-visualize-your-data-with-lan
 <img src="/img/7bdcb665-9ab9-48e6-8a4e-47362e68b706.png" width="400" />
 
 
-<sup><sub>5/21/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8430_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8430_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/21/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8430_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2447,7 +2447,7 @@ Link: https://medium.com/codingthesmartway-com-blog/discover-thinkgpt-the-cuttin
 <img src="/img/995f120d-a128-4fda-892d-6d57435f2ed4.png" width="400" />
 
 
-<sup><sub>5/20/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8428_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8428_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/20/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8428_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2459,7 +2459,7 @@ Link: https://magazine.sebastianraschka.com/p/finetuning-llms-with-adapters
 <img src="/img/3782831c-4416-4904-b2af-a074aa896009.png" width="400" />
 
 
-<sup><sub>5/20/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8426_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8426_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/20/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8426_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2471,7 +2471,7 @@ Link: https://github.com/imartinez/privateGPT?utm_source=marktechpost-newsletter
 <img src="/img/0535aadc-3e27-41e3-a9f3-92122d2d7244.png" width="400" />
 
 
-<sup><sub>5/20/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8424_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8424_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/20/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8424_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2483,7 +2483,7 @@ Link: https://github.com/kuleshov-group/llmtune?utm_source=marktechpost-newslett
 <img src="/img/6943e62e-efb2-47df-8436-24eca8f68d5b.png" width="400" />
 
 
-<sup><sub>5/20/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8422_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8422_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/20/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8422_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2495,7 +2495,7 @@ Link: https://www.linkedin.com/feed/update/urn:li:activity:7064229705507332096?u
 <img src="/img/7fe823bf-0f19-4be1-9fbe-201ae18adf0a.png" width="400" />
 
 
-<sup><sub>5/20/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8420_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8420_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/20/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8420_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2507,7 +2507,7 @@ Link: https://www.linkedin.com/posts/1rohitagarwal_llms-generativeai-openai-acti
 <img src="/img/29251cfe-83c9-4d9f-8608-535be03fb126.png" width="400" />
 
 
-<sup><sub>5/20/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8418_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8418_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/20/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8418_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2519,7 +2519,7 @@ Link: https://www.reddit.com/r/machinelearningnews/comments/13kyub5/microsoft_ai
 <img src="/img/fafbd8d7-3e55-478f-817a-a8de438edc4e.png" width="400" />
 
 
-<sup><sub>5/19/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8415_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8415_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/19/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8415_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2531,7 +2531,7 @@ Link: https://huggingface.co/docs/transformers/transformers_agents
 <img src="/img/e995e636-b0a5-4d33-bf49-1319a4a7eef3.png" width="400" />
 
 
-<sup><sub>5/11/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8390_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8390_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/11/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8390_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2543,7 +2543,7 @@ Link: https://huggingface.co/papers/2305.05176
 <img src="/img/2d1d4e33-767c-47d1-8b67-5545521ec213.png" width="400" />
 
 
-<sup><sub>5/10/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8388_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8388_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/10/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8388_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2555,7 +2555,7 @@ Link: https://www.linkedin.com/posts/huggingface_we-just-released-transformers-b
 <img src="/img/9d591c71-3c15-4866-b4d3-31b4e9acd514.png" width="400" />
 
 
-<sup><sub>5/10/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8386_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8386_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/10/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8386_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2567,7 +2567,7 @@ Link: https://www.linkedin.com/posts/cobusgreyling_largelanguagemodels-langchain
 <img src="/img/ab2c0a9f-ec9d-49a1-9eec-d1040338722c.png" width="400" />
 
 
-<sup><sub>5/10/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8383_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8383_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/10/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8383_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2579,7 +2579,7 @@ Link: https://huggingface.co/papers
 <img src="/img/1115b092-c3df-4d80-a6bb-1830493873e4.png" width="400" />
 
 
-<sup><sub>5/8/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8374_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8374_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/8/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8374_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2591,7 +2591,7 @@ Link: https://github.com/eugeneyan/open-llms
 <img src="/img/d3630feb-16ca-49ff-8362-a08456a3e5c7.png" width="400" />
 
 
-<sup><sub>5/8/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8372_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8372_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/8/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8372_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2603,7 +2603,7 @@ Link: https://www.linkedin.com/posts/sanyambhutani_outperforming-llms-with-2000x
 <img src="/img/8e36c8a6-4519-433e-b8e6-ae54bc9392bc.png" width="400" />
 
 
-<sup><sub>5/8/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8370_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8370_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/8/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8370_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2636,7 +2636,7 @@ Link: https://crfm.stanford.edu/ecosystem-graphs/index.html?mode=table
 <img src="/img/26f392e0-18d5-48ab-91a6-ef6045fa48e4.png" width="400" />
 
 
-<sup><sub>5/7/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8368_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8368_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/7/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8368_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2648,7 +2648,7 @@ Link: https://www.mosaicml.com/blog/mpt-7b
 <img src="/img/4094c9b0-30f3-4d33-9dc4-63b1d69011dd.png" width="400" />
 
 
-<sup><sub>5/6/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8366_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8366_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/6/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8366_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2660,7 +2660,7 @@ Link: https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_opensourcellms-mos
 <img src="/img/9f528721-a825-4fbb-b64f-e2de7d56565a.png" width="400" />
 
 
-<sup><sub>5/6/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8364_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8364_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/6/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8364_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2672,7 +2672,7 @@ Link: https://www.linkedin.com/feed/update/urn:li:activity:7059495634139021312?u
 <img src="/img/3be43007-4ce2-4836-975f-e706870a2e2e.png" width="400" />
 
 
-<sup><sub>5/4/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8359_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8359_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/4/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8359_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2684,7 +2684,7 @@ Link: https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_bigcode-chatgpt-co
 <img src="/img/56416b6a-a38e-4066-b2d5-dd782e256677.png" width="400" />
 
 
-<sup><sub>5/4/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8357_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8357_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/4/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8357_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2696,7 +2696,7 @@ Link: https://github.com/ZrrSkywalker/LLaMA-Adapter/tree/main/llama_adapter_v2_c
 <img src="/img/6892727c-480c-4355-85b8-162e262506bf.png" width="400" />
 
 
-<sup><sub>5/4/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8352_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8352_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/4/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8352_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2708,7 +2708,7 @@ Link: https://github.com/ZrrSkywalker/LLaMA-Adapter
 <img src="/img/05333791-c664-4343-8b78-320bfdb25e35.png" width="400" />
 
 
-<sup><sub>5/4/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8350_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8350_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/4/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8350_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2720,7 +2720,7 @@ Link: https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B?text=My+na
 <img src="/img/f7a91520-8342-44bf-b71b-1acc7993903f.png" width="400" />
 
 
-<sup><sub>5/4/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8348_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8348_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/4/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8348_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2732,7 +2732,7 @@ Link: https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B
 <img src="/img/2fc5dcf6-150e-49ec-ad98-274140d472db.png" width="400" />
 
 
-<sup><sub>5/3/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8346_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8346_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/3/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8346_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2744,7 +2744,7 @@ Link: https://www.philschmid.de/sagemaker-fsdp-gpt
 <img src="/img/426eb7d3-60e7-4295-b31b-8753af0911db.png" width="400" />
 
 
-<sup><sub>5/3/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8344_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8344_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/3/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8344_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2756,7 +2756,7 @@ Link: https://www.philschmid.de/sagemaker-fsdp-gpt
 <img src="/img/34305a6a-2b54-4a93-8b28-3cee7f60b36d.png" width="400" />
 
 
-<sup><sub>5/3/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8342_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8342_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/3/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8342_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2768,7 +2768,7 @@ Link: https://blog.roboflow.com/embeddings-clustering-computer-vision-clip-umap/
 <img src="/img/449978c4-efc1-433b-9aba-1d41c19a44b7.png" width="400" />
 
 
-<sup><sub>5/2/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8338_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8338_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/2/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8338_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2780,7 +2780,7 @@ Link: https://lightning.ai/pages/community/community-discussions/the-ultimate-ba
 <img src="/img/6cc31330-8aee-4139-a630-209c7f658e04.png" width="400" />
 
 
-<sup><sub>5/2/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8336_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8336_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/2/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8336_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2792,7 +2792,7 @@ Link: https://arxiv.org/abs/2304.11267
 <img src="/img/2e61fbf0-95b0-459a-a65e-3c2ca745d4f5.png" width="400" />
 
 
-<sup><sub>5/2/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8334_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8334_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/2/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8334_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2804,7 +2804,7 @@ Link: https://agi-sphere.com/llama-models/
 <img src="/img/03ac164b-c9e4-4f98-89d7-f247f3068ad6.png" width="400" />
 
 
-<sup><sub>5/1/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8332_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8332_0&tag=bestof)<sub/><sup/>
+<sup><sub>5/1/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8332_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2816,7 +2816,7 @@ Link: https://arxiv.org/abs/2304.08103
 <img src="/img/d7e2a7cc-0ed6-429f-bb9d-2f6e6027e312.png" width="400" />
 
 
-<sup><sub>4/30/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8330_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8330_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/30/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8330_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2828,7 +2828,7 @@ Link: https://www.linkedin.com/feed/update/urn:li:activity:7057921435599548416?u
 <img src="/img/e86f2cb8-659f-4f8d-9672-9852f8cc89f0.png" width="400" />
 
 
-<sup><sub>4/30/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8328_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8328_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/30/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8328_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2840,7 +2840,7 @@ Link: https://github.com/showlab/VLog
 <img src="/img/62993db1-010e-482b-8e52-9360f9cf908d.png" width="400" />
 
 
-<sup><sub>4/29/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8325_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8325_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/29/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8325_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2852,7 +2852,7 @@ Link: https://github.com/lupantech/chameleon-llm
 <img src="/img/2ef8bfee-2191-4e87-9ad2-6fd9805b1542.png" width="400" />
 
 
-<sup><sub>4/29/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8323_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8323_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/29/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8323_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2864,7 +2864,7 @@ Link: https://www.linkedin.com/posts/activity-7057451653334999040-HA3D?utm_sourc
 <img src="/img/ce7b04e5-e672-411c-b170-70be6c315aa0.png" width="400" />
 
 
-<sup><sub>4/29/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8321_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8321_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/29/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8321_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2876,7 +2876,7 @@ Link: https://www.linkedin.com/posts/sahar-mor_artificialintelligence-machinelea
 <img src="/img/5e90df50-d300-4c9d-8b88-22614f1ce168.png" width="400" />
 
 
-<sup><sub>4/28/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8316_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8316_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/28/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8316_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2888,7 +2888,7 @@ Link: https://lmql.ai/
 <img src="/img/4be26905-1d8f-4f09-bf53-28d3247ccd84.png" width="400" />
 
 
-<sup><sub>4/28/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8314_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8314_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/28/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8314_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2900,7 +2900,7 @@ Link: https://techxplore.com/news/2023-04-platform-easier-cheaper-safer-interact
 <img src="/img/1dc176c1-6c52-47bd-ba6b-145fdbaf1bc9.png" width="400" />
 
 
-<sup><sub>4/28/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8312_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8312_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/28/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8312_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2926,7 +2926,7 @@ Link: https://github.com/openai/chatgpt-retrieval-plugin
 <img src="/img/1779820a-8535-4121-9590-2789c7eb87f9.png" width="400" />
 
 
-<sup><sub>4/27/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8307_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8307_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/27/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8307_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2938,7 +2938,7 @@ Link: https://github.com/Vision-CAIR/MiniGPT-4
 <img src="/img/d50dba0e-e12a-4ddc-b26e-0c117c67c96b.png" width="400" />
 
 
-<sup><sub>4/25/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8303_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8303_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/25/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8303_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2950,7 +2950,7 @@ Link: https://open-assistant.io/chat/06444378-b3f1-7afd-8000-f6b8f6e523a9
 <img src="/img/88e1615c-7f03-4473-977c-91173abfa807.png" width="400" />
 
 
-<sup><sub>4/22/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8297_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8297_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/22/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8297_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2962,7 +2962,7 @@ Link: https://www.linkedin.com/posts/stevenouri_chatgpt-artificialintelligence-c
 <img src="/img/cf572c39-8495-460e-9e6e-28ed514e9599.png" width="400" />
 
 
-<sup><sub>4/20/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8291_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8291_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/20/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8291_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2974,7 +2974,7 @@ Link: https://www.linkedin.com/feed/update/urn:li:activity:7054823001292177408?u
 <img src="/img/63112e08-efba-42c8-99aa-5735af5aae30.png" width="400" />
 
 
-<sup><sub>4/20/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8289_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8289_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/20/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8289_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2986,7 +2986,7 @@ Link: https://www.linkedin.com/posts/huggingface_we-are-excited-to-announce-that
 <img src="/img/8361d18b-0e1a-4fe7-8a6a-eb1bd9cc7ce0.png" width="400" />
 
 
-<sup><sub>4/20/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8287_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8287_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/20/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8287_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -2998,7 +2998,7 @@ Link: https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_stabilityaistablel
 <img src="/img/4197cde3-23f5-4ffb-abbb-0655c2afa64a.png" width="400" />
 
 
-<sup><sub>4/19/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8283_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8283_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/19/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8283_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3010,7 +3010,7 @@ Link: https://msft.it/6048gzvhC
 <img src="/img/83cc721b-ddf9-419c-abf8-0b7fbe3ce84c.png" width="400" />
 
 
-<sup><sub>4/19/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8278_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8278_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/19/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8278_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3022,7 +3022,7 @@ Link: https://www.forbes.com/sites/jodiecook/2023/04/12/how-to-be-successful-cha
 <img src="/img/f86fa576-67c3-49d4-9005-e9ac8ec94c7b.png" width="400" />
 
 
-<sup><sub>4/13/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8267_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8267_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/13/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8267_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3034,7 +3034,7 @@ Link: https://matt-rickard.com/a-list-of-1-billion-parameter-llms
 <img src="/img/e0bfa499-19cb-4e6f-b99a-0823d7c5acab.png" width="400" />
 
 
-<sup><sub>4/13/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8262_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8262_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/13/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8262_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3046,7 +3046,7 @@ Link: https://scl.ai/401MQ7x
 <img src="/img/309cf6c6-7a1d-4649-90c4-6d75c3e68682.png" width="400" />
 
 
-<sup><sub>4/13/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8260_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8260_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/13/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8260_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3058,7 +3058,7 @@ Link: https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-v
 <img src="/img/9cf01565-461a-4a8f-b02a-325083d24045.png" width="400" />
 
 
-<sup><sub>4/12/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8257_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8257_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/12/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8257_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3070,7 +3070,7 @@ Link: https://www.linkedin.com/posts/chiphuyen_llms-promptengineering-mlops-acti
 <img src="/img/ed36e063-b045-4660-8e99-ff4f3cdbed09.png" width="400" />
 
 
-<sup><sub>4/12/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8255_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8255_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/12/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8255_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3082,7 +3082,7 @@ Link: https://www.linkedin.com/posts/denis-rothman-0b034043_hugginggpt-a-beautif
 <img src="/img/49a11c51-8746-42c1-b117-fb4197b5a011.png" width="400" />
 
 
-<sup><sub>4/12/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8253_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8253_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/12/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8253_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3094,7 +3094,7 @@ Link: https://www.marktechpost.com/2023/04/11/meet-lmql-an-open-source-programmi
 <img src="/img/fa4d322a-75b1-456d-bfec-f52a6226e78e.png" width="400" />
 
 
-<sup><sub>4/12/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8251_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8251_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/12/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8251_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3106,7 +3106,7 @@ Link: https://youtu.be/p7JYu65lDyY
 <img src="/img/e0807ee2-d749-4718-b841-52cdaf8c787a.png" width="400" />
 
 
-<sup><sub>4/12/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8249_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8249_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/12/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8249_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3118,7 +3118,7 @@ Link: https://www.linkedin.com/posts/rami-krispin_machinelearning-deeplearning-d
 <img src="/img/988e5f72-4501-465f-a2f8-40f59d912b14.png" width="400" />
 
 
-<sup><sub>4/11/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8244_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8244_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/11/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8244_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3130,7 +3130,7 @@ Link: https://youtu.be/t-8I7EkIL8c
 <img src="/img/7fb40e41-25f0-4780-ad7f-a1d12eb3e6cf.png" width="400" />
 
 
-<sup><sub>4/11/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8242_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8242_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/11/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8242_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3142,7 +3142,7 @@ Link: https://www.nextbigfuture.com/2023/04/vicuna-is-the-current-best-open-sour
 <img src="/img/a9fdc135-3acc-4517-b600-0f14e023c025.png" width="400" />
 
 
-<sup><sub>4/11/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8237_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8237_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/11/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8237_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3154,7 +3154,7 @@ Link: https://arxiv.org/abs/2303.18223
 <img src="/img/808c0b70-f379-4dd1-b69c-8d4405b2ee76.png" width="400" />
 
 
-<sup><sub>4/10/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8234_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8234_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/10/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8234_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3166,7 +3166,7 @@ Link: https://huggingface.co/TheBloke/koala-13B-GPTQ-4bit-128g
 <img src="/img/8837c3e6-ffeb-4370-8130-b685f606f724.png" width="400" />
 
 
-<sup><sub>4/10/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8232_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8232_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/10/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8232_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3178,7 +3178,7 @@ Link: https://github.com/lm-sys/FastChat
 <img src="/img/261a02df-e686-48a6-a134-9b48c6948edc.png" width="400" />
 
 
-<sup><sub>4/9/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8230_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8230_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/9/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8230_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3190,7 +3190,7 @@ Link: https://neo4j.com/developer-blog/chatgpt-4-knowledge-graph-from-video-tran
 <img src="/img/f14e4314-754c-4e90-a9a6-7c2141760d7f.png" width="400" />
 
 
-<sup><sub>4/8/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8227_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8227_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/8/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8227_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3202,7 +3202,7 @@ Link: https://www.marktechpost.com/2023/04/06/microsoft-researchers-introduce-ta
 <img src="/img/bc85d27d-3505-4719-93d4-4524426a62b9.png" width="400" />
 
 
-<sup><sub>4/8/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8225_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8225_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/8/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8225_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3214,7 +3214,7 @@ Link: https://www.linkedin.com/posts/genai-center_using-the-donotpay-chatgpt-plu
 <img src="/img/e0e175d3-c167-4552-b068-dda330c41f00.png" width="400" />
 
 
-<sup><sub>4/8/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8223_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8223_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/8/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8223_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3226,7 +3226,7 @@ Link: https://www.linkedin.com/posts/huggingface_ai-google-artificialintelligenc
 <img src="/img/cde976bb-125f-42fc-afc6-10187ff0f540.png" width="400" />
 
 
-<sup><sub>4/7/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8219_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8219_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/7/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8219_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3238,7 +3238,7 @@ Link: https://mpost.io/hugginggpt-giving-chatgpt-models-the-ability-to-use-exter
 <img src="/img/56388486-eff9-42de-940d-3a6d0a9f9c3c.png" width="400" />
 
 
-<sup><sub>4/5/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8213_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8213_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/5/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8213_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3250,7 +3250,7 @@ Link: https://www.linkedin.com/posts/metaai_introducing-segment-anything-working
 <img src="/img/0205b580-7cad-41c5-ac0b-37ac021b8a69.png" width="400" />
 
 
-<sup><sub>4/5/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8211_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8211_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/5/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8211_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3262,7 +3262,7 @@ Link: https://github.com/nomic-ai/gpt4all
 <img src="/img/e0db4656-844b-4add-a770-da453e425f54.png" width="400" />
 
 
-<sup><sub>4/5/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8208_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8208_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/5/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8208_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3274,7 +3274,7 @@ Link: https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_introducing-igel-a
 <img src="/img/52ab2f6a-e20d-47ea-95d1-028335d5fca4.png" width="400" />
 
 
-<sup><sub>4/4/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8204_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8204_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/4/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8204_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3286,7 +3286,7 @@ Link: https://www.pinecone.io/learn/langchain-intro/
 <img src="/img/ab3c49ed-3402-465f-913c-3e8f66c114b2.png" width="400" />
 
 
-<sup><sub>4/4/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8200_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8200_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/4/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8200_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3298,7 +3298,7 @@ Link: https://github.com/stochasticai/xturing/blob/main/examples/cerebras/cerebr
 <img src="/img/66a813b9-b1f5-4268-bc15-1d2144e4141e.png" width="400" />
 
 
-<sup><sub>4/4/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8194_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8194_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/4/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8194_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3310,7 +3310,7 @@ Link: https://github.com/stochasticai/xturing
 <img src="/img/9e37565f-98bd-4454-8bc6-4926fe00ee05.png" width="400" />
 
 
-<sup><sub>4/4/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8192_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8192_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/4/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8192_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3322,7 +3322,7 @@ Link: https://medium.com/microsoft-design/behind-the-design-meet-copilot-2c68182
 <img src="/img/c3ecffb4-c75f-47e4-bb1c-087835fbef94.png" width="400" />
 
 
-<sup><sub>4/3/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8190_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8190_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/3/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8190_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3334,7 +3334,7 @@ Link: https://www.linkedin.com/posts/orlevi_ai-llms-chatgpt-activity-70483440133
 <img src="/img/76fb6f2c-1b96-4432-b9e2-52e0c8ce151a.png" width="400" />
 
 
-<sup><sub>4/3/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8186_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8186_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/3/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8186_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3346,7 +3346,7 @@ Link: https://www.linkedin.com/posts/alexander-ratner-038ba239_tatsunori-hashimo
 <img src="/img/cf2e2c22-195e-465b-8d07-c45abbeca01b.png" width="400" />
 
 
-<sup><sub>4/3/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8184_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8184_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/3/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8184_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3358,7 +3358,7 @@ Link: https://paperswithcode.com/paper/llama-adapter-efficient-fine-tuning-of
 <img src="/img/55221f0c-3e9c-4763-934d-326963ff2579.png" width="400" />
 
 
-<sup><sub>4/1/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8179_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8179_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/1/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8179_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3370,7 +3370,7 @@ Link: https://www.mikulskibartosz.name/alternatives-to-open-ai-gpt-using-open-so
 <img src="/img/b4bb4cde-d314-4dd6-8e61-4d1ccebb6959.png" width="400" />
 
 
-<sup><sub>4/1/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8177_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8177_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/1/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8177_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3382,7 +3382,7 @@ Link: https://link.medium.com/CiOze7suDyb
 <img src="/img/49397ebe-0c9a-499d-af62-ee8d7a715b85.png" width="400" />
 
 
-<sup><sub>4/1/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8173_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8173_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/1/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8173_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3394,7 +3394,7 @@ Link: https://chat.lmsys.org/
 <img src="/img/6da0c6b5-f616-4454-a6e9-98f79b8acb8b.png" width="400" />
 
 
-<sup><sub>4/1/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8171_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8171_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/1/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8171_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3406,7 +3406,7 @@ Link: https://huggingface.co/databricks/dolly-v1-6b
 <img src="/img/22cd99b4-b4c3-45cf-ba55-649c18a6e4e0.png" width="400" />
 
 
-<sup><sub>3/31/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8166_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8166_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/31/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8166_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3418,7 +3418,7 @@ Link: https://www.linkedin.com/posts/julienchaumond_super-excited-to-announce-th
 <img src="/img/ce7d81f8-882a-4687-91fc-f40004f073a8.png" width="400" />
 
 
-<sup><sub>3/31/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8164_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8164_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/31/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8164_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3430,7 +3430,7 @@ Link: https://link.medium.com/XvlwwXhTAyb
 <img src="/img/2a2d6d10-b6ba-400a-86be-39326b9e5c6f.png" width="400" />
 
 
-<sup><sub>3/30/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8160_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8160_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/30/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8160_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3442,7 +3442,7 @@ Link: https://medium.com/@imicknl/how-to-create-a-private-chatgpt-with-your-own-
 <img src="/img/184bba99-2189-44ad-bb54-b22c83580a1d.png" width="400" />
 
 
-<sup><sub>3/29/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8153_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8153_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/29/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8153_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3454,7 +3454,7 @@ Link: https://www.linkedin.com/posts/huggingface_this-is-big-its-now-possible-to
 <img src="/img/04d0d223-f74f-4759-83e8-bfac6924298d.png" width="400" />
 
 
-<sup><sub>3/29/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8151_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8151_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/29/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8151_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3466,7 +3466,7 @@ Link: https://hackernoon.com/i-conducted-experiments-with-the-alpacallama-7b-lan
 <img src="/img/28631bda-ab2b-4af9-b4b2-599cf5b46b64.png" width="400" />
 
 
-<sup><sub>3/29/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8146_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8146_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/29/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8146_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3478,7 +3478,7 @@ Link: https://www.linkedin.com/posts/ebarsoum_cerebras-cerebras-activity-7046571
 <img src="/img/d23d9efe-fdd9-403c-b345-b5a275d44206.png" width="400" />
 
 
-<sup><sub>3/28/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8141_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8141_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/28/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8141_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3490,7 +3490,7 @@ Link: https://huggingface.co/models?other=pix2struct
 <img src="/img/1c6a03cf-f610-4213-a257-7c3904bbcf25.png" width="400" />
 
 
-<sup><sub>3/28/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8136_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8136_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/28/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8136_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3502,7 +3502,7 @@ Link: https://huggingface.co/models?other=pix2struct
 <img src="/img/0d9dcebc-407e-4d84-b3dd-8f673ad315d5.png" width="400" />
 
 
-<sup><sub>3/28/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8134_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8134_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/28/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8134_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3514,7 +3514,7 @@ Link: https://www.linkedin.com/posts/riti2409_systemdesign-github-interviewprepa
 <img src="/img/296e9b2d-e9d2-469c-8252-034f9f569de5.png" width="400" />
 
 
-<sup><sub>3/27/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8130_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8130_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/27/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8130_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3526,7 +3526,7 @@ Link: https://vinija.ai/toolkit/RLHF/
 <img src="/img/ed523852-b388-4111-ada6-fa4a7478e4f9.png" width="400" />
 
 
-<sup><sub>3/27/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8128_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8128_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/27/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8128_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3538,7 +3538,7 @@ Link: https://www.linkedin.com/posts/chatgpt-generative-ai_chatgpt-for-blender-z
 <img src="/img/c1edbeb5-c03f-4b89-ad61-d70c4ac4bd82.png" width="400" />
 
 
-<sup><sub>3/26/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8126_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8126_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/26/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8126_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3589,7 +3589,7 @@ Link: https://github.com/openai/chatgpt-retrieval-plugin
 <img src="/img/5acb384c-e60e-47db-a7bb-1c043cc18f3c.png" width="400" />
 
 
-<sup><sub>3/26/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8122_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8122_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/26/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8122_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3601,7 +3601,7 @@ Link: https://www.linkedin.com/posts/areddy_sam-altman-openai-ceo-on-gpt-4-chatg
 <img src="/img/24fa2db6-3b3b-4ae5-90ce-bc9f6277d5c8.png" width="400" />
 
 
-<sup><sub>3/26/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8120_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8120_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/26/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8120_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3613,7 +3613,7 @@ Link: https://www.linkedin.com/posts/chatgpt-generative-ai_this-week-alone-more-
 <img src="/img/1972b287-7396-47c1-a9b9-c4bd2b962563.png" width="400" />
 
 
-<sup><sub>3/25/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8118_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8118_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/25/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8118_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3625,7 +3625,7 @@ Link: https://huggingface.co/blog/train-your-controlnet
 <img src="/img/67f70e96-cd6d-4490-ba62-9035f9264d00.png" width="400" />
 
 
-<sup><sub>3/25/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8112_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8112_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/25/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8112_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3637,7 +3637,7 @@ Link: https://huggingface.co/damo-vilab/text-to-video-ms-1.7b
 <img src="/img/ed78d739-2043-4747-8aa8-093ed6ce5a97.png" width="400" />
 
 
-<sup><sub>3/25/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8110_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8110_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/25/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8110_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3649,7 +3649,7 @@ Link: https://www.marktechpost.com/2023/03/23/microsoft-ai-introduce-deberta-v3-
 <img src="/img/4541f692-153c-49a3-b2e8-c7af152db25a.png" width="400" />
 
 
-<sup><sub>3/25/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8108_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8108_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/25/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8108_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3661,7 +3661,7 @@ Link: https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic
 <img src="/img/02d958d2-3582-4a6b-9545-db795ccc9bfa.png" width="400" />
 
 
-<sup><sub>3/25/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8106_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8106_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/25/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8106_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3673,7 +3673,7 @@ Link: https://betterprogramming.pub/how-to-build-your-own-custom-chatgpt-with-cu
 <img src="/img/6e646d90-7820-49c0-9225-f87c5315de29.png" width="400" />
 
 
-<sup><sub>3/24/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8101_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8101_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/24/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8101_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3685,7 +3685,7 @@ Link: https://www.databricks.com/blog/2023/03/20/fine-tuning-large-language-mode
 <img src="/img/cb6edd57-3000-4d44-9d8e-89f8959a6c03.png" width="400" />
 
 
-<sup><sub>3/21/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8095_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8095_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/21/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8095_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3697,7 +3697,7 @@ Link: https://github.com/modelscope/modelscope
 <img src="/img/b1db7299-6d0b-4a98-8948-8bbd5697a64b.png" width="400" />
 
 
-<sup><sub>3/20/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8086_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8086_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/20/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8086_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3709,7 +3709,7 @@ Link: http://bit.ly/mf-ml
 <img src="/img/3d789a20-476d-4b8f-ba30-536685f63b69.png" width="400" />
 
 
-<sup><sub>3/19/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8081_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8081_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/19/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8081_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3721,7 +3721,7 @@ Link: https://www.linkedin.com/feed/update/urn:li:activity:7042896105734344704?u
 <img src="/img/bc5ecf85-457c-4413-b16e-f8744aae1690.png" width="400" />
 
 
-<sup><sub>3/18/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8076_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8076_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/18/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8076_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3733,7 +3733,7 @@ Link: https://huggingface.co/nlpcloud/instruct-gpt-j-fp16
 <img src="/img/92c3cdee-6fcc-4732-ac23-1f41778a2e18.png" width="400" />
 
 
-<sup><sub>3/17/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8073_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8073_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/17/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8073_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3745,7 +3745,7 @@ Link: https://paperswithcode.com/paper/vipergpt-visual-inference-via-python
 <img src="/img/9c3118cf-5886-456f-9fd3-e5f08ccd889c.png" width="400" />
 
 
-<sup><sub>3/17/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8071_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8071_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/17/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8071_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3757,7 +3757,7 @@ Link: https://github.com/chroma-core/chroma
 <img src="/img/e64b0a54-c053-4cf0-8e64-faecba74c2df.png" width="400" />
 
 
-<sup><sub>3/17/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8067_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8067_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/17/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8067_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3769,7 +3769,7 @@ Link: https://langchain.readthedocs.io/en/latest/modules/indexes/chain_examples/
 <img src="/img/b220a7f8-82c4-433a-a1f6-a5300c5bca32.png" width="400" />
 
 
-<sup><sub>3/17/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8063_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8063_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/17/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8063_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3781,7 +3781,7 @@ Link: https://github.com/microsoft/semantic-kernel
 <img src="/img/15f9dda6-e3f1-4e5b-9ba4-7f945daf8eea.png" width="400" />
 
 
-<sup><sub>3/17/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8059_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8059_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/17/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8059_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3793,7 +3793,7 @@ Link: https://github.com/mlc-ai/web-stable-diffusion
 <img src="/img/f31a6b56-66d4-4273-9ceb-af6a6abb65eb.png" width="400" />
 
 
-<sup><sub>3/17/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8057_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8057_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/17/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8057_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3805,7 +3805,7 @@ Link: https://langchain.readthedocs.io/en/latest/getting_started/getting_started
 <img src="/img/e8370cec-97fb-426c-a1d5-43167d7dfe67.png" width="400" />
 
 
-<sup><sub>3/17/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8055_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8055_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/17/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8055_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3817,7 +3817,7 @@ Link: https://bootcamp.uxdesign.cc/a-step-by-step-guide-to-building-a-chatbot-ba
 <img src="/img/690839ba-93b3-456f-b51e-c2dc6ce4e5bd.png" width="400" />
 
 
-<sup><sub>3/17/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8053_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8053_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/17/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8053_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3829,7 +3829,7 @@ Link: https://www.linkedin.com/posts/benmeer_8-free-websites-to-accelerate-your-
 <img src="/img/3ebd1aca-8c2d-491e-9d3f-4c231ca37f6e.png" width="400" />
 
 
-<sup><sub>3/16/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8049_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8049_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/16/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8049_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3841,7 +3841,7 @@ Link: https://www.mosaicml.com/blog/mosaicbert
 <img src="/img/a07ff8a5-0f7f-458e-a326-f0d1a3dbc3e8.png" width="400" />
 
 
-<sup><sub>3/16/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8045_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8045_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/16/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8045_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3853,7 +3853,7 @@ Link: https://www.together.xyz/blog/openchatkit
 <img src="/img/44409655-868e-4f2d-98c0-e032b6d69ebd.png" width="400" />
 
 
-<sup><sub>3/14/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8038_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8038_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/14/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8038_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3865,7 +3865,7 @@ Link: https://open-assistant.io/
 <img src="/img/8af29a49-8be9-4e2b-9578-40a95bd02ea4.png" width="400" />
 
 
-<sup><sub>3/14/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8038_1&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8038_1&tag=bestof)<sub/><sup/>
+<sup><sub>3/14/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8038_1&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3877,7 +3877,7 @@ Link: https://carper.ai/instruct-gpt-announcement/
 <img src="/img/921a7db5-0199-4402-8302-d170866efa68.png" width="400" />
 
 
-<sup><sub>3/14/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8038_2&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8038_2&tag=bestof)<sub/><sup/>
+<sup><sub>3/14/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8038_2&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3889,7 +3889,7 @@ Link: https://arxiv.org/abs/2212.10560
 <img src="/img/6ddd0926-b530-491e-bd0e-4eca395b3b3b.png" width="400" />
 
 
-<sup><sub>3/14/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8036_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8036_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/14/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8036_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3901,7 +3901,7 @@ Link: https://arxiv.org/abs/2302.14045
 <img src="/img/7e5412e9-486e-47b4-b9b9-f03e6c802fac.png" width="400" />
 
 
-<sup><sub>3/14/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8033_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8033_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/14/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8033_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3913,7 +3913,7 @@ Link: https://huggingface.co/blog/informer
 <img src="/img/9b4dbe80-c9a6-4742-9912-bd1bdb644b0d.png" width="400" />
 
 
-<sup><sub>3/13/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8030_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8030_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/13/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8030_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3925,7 +3925,7 @@ Link: https://www.together.xyz/blog/openchatkit
 <img src="/img/c96b36b7-c9f9-4570-8d8c-d99e5443f317.png" width="400" />
 
 
-<sup><sub>3/12/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8025_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8025_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/12/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8025_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3937,7 +3937,7 @@ Link: https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B
 <img src="/img/6a25f9df-a160-46b6-8ddd-8319fa61c493.png" width="400" />
 
 
-<sup><sub>3/11/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8023_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8023_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/11/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8023_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3949,7 +3949,7 @@ Link: https://towardsdatascience.com/auto-encoder-what-is-it-and-what-is-it-used
 <img src="/img/ff02a1fd-c9ba-4e7b-9911-88fd914e1879.png" width="400" />
 
 
-<sup><sub>3/11/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8018_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8018_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/11/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8018_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3961,7 +3961,7 @@ Link: https://world.hey.com/dhh/actions-beat-arguments-2aa1da34
 <img src="/img/8bc8b6dd-4025-4d49-a362-22370beadf1f.png" width="400" />
 
 
-<sup><sub>3/8/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8013_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8013_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/8/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8013_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3973,7 +3973,7 @@ Link: https://dev.to/samuelfaure/how-atomic-git-commits-dramatically-increased-m
 <img src="/img/d19b2a1b-c3d9-488e-99e6-deecd4457167.png" width="400" />
 
 
-<sup><sub>3/8/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8011_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8011_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/8/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8011_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3985,7 +3985,7 @@ Link: https://techcrunch.com/2023/03/07/microsofts-computer-vision-model-will-ge
 <img src="/img/952c74c8-d675-41ea-a16a-415e3db7ebf9.png" width="400" />
 
 
-<sup><sub>3/7/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8003_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8003_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/7/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8003_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -3997,7 +3997,7 @@ Link: https://learnopencv.com/denoising-diffusion-probabilistic-models/
 <img src="/img/38439992-2ef2-4ffb-8f4f-beecdd3aec8b.png" width="400" />
 
 
-<sup><sub>3/7/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8001_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8001_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/7/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8001_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4011,7 +4011,7 @@ Link: https://open.substack.com/pub/sebastianraschka/p/ahead-of-ai-6-train-diffe
 <img src="/img/b5d24a7d-7dd2-4d8c-9781-1d78d20626fa.png" width="400" />
 
 
-<sup><sub>3/7/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7999_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7999_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/7/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7999_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4023,7 +4023,7 @@ Link: https://huggingface.co/blog/controlnet
 <img src="/img/5f55fe7d-913b-423a-9fa7-ecb5b8f052ca.png" width="400" />
 
 
-<sup><sub>3/7/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7995_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7995_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/7/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7995_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4035,7 +4035,7 @@ Link: https://youtu.be/kCc8FmEb1nY
 <img src="/img/6532308a-3c05-4be7-941c-a4aa04f037f3.png" width="400" />
 
 
-<sup><sub>3/6/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7993_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7993_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/6/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7993_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4067,7 +4067,7 @@ Link: https://learnopencv.com/denoising-diffusion-probabilistic-models/
 <img src="/img/1e54ee45-94bd-4a51-8960-452a08e5cb48.png" width="400" />
 
 
-<sup><sub>3/6/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7991_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7991_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/6/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7991_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4079,7 +4079,7 @@ Link: https://github.com/huggingface/community-events/blob/main/keras-dreambooth
 <img src="/img/741409e6-68c5-48ae-8009-048096b7367b.png" width="400" />
 
 
-<sup><sub>3/6/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7989_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7989_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/6/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7989_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4091,7 +4091,7 @@ Link: https://www.linkedin.com/posts/skalskip-profile_how-to-train-object-detect
 <img src="/img/7a472746-23c5-448d-935f-2279ea52e01f.png" width="400" />
 
 
-<sup><sub>3/6/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7987_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7987_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/6/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7987_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4103,7 +4103,7 @@ Link: https://github.com/cassiebreviu/StableDiffusion
 <img src="/img/4b8df806-c814-4de3-8a6c-088e0c82eeae.png" width="400" />
 
 
-<sup><sub>3/5/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7982_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7982_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/5/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7982_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4115,7 +4115,7 @@ Link: https://www.youtube.com/watch?v=2RTXUnkGwAA
 <img src="/img/21161a5b-e37f-46d8-90a7-b95a48665200.png" width="400" />
 
 
-<sup><sub>3/4/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7978_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7978_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/4/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7978_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4127,7 +4127,7 @@ Link: https://www.marktechpost.com/2023/03/03/with-just-20-lines-of-python-code-
 <img src="/img/d49c5b2d-3929-466c-b21d-975a3baee62f.png" width="400" />
 
 
-<sup><sub>3/4/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7976_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7976_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/4/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7976_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4139,7 +4139,7 @@ Link: https://www.marktechpost.com/2023/02/27/meet-chatllama-the-first-open-sour
 <img src="/img/6c39633b-f6f5-46a7-9c30-6f91fc380c01.png" width="400" />
 
 
-<sup><sub>3/3/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7969_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7969_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/3/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7969_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4151,7 +4151,7 @@ Link: https://github.com/nebuly-ai/nebullvm/tree/main/apps%2Faccelerate%2Fchatll
 <img src="/img/9569e403-c14b-4d1e-9816-578232a4a25e.png" width="400" />
 
 
-<sup><sub>3/3/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7967_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7967_0&tag=bestof)<sub/><sup/>
+<sup><sub>3/3/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7967_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4163,7 +4163,7 @@ Link: https://ai.googleblog.com/2023/02/a-vision-language-approach-for.html
 <img src="/img/fe453066-e5ba-4440-94a3-17718586cec5.png" width="400" />
 
 
-<sup><sub>2/27/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7945_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7945_0&tag=bestof)<sub/><sup/>
+<sup><sub>2/27/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7945_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4175,7 +4175,7 @@ Link: https://link.medium.com/dZ8iWFG7Jxb
 <img src="/img/3d4f50c1-b38b-41a4-a307-40e7542b1c97.png" width="400" />
 
 
-<sup><sub>2/26/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7943_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7943_0&tag=bestof)<sub/><sup/>
+<sup><sub>2/26/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7943_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4187,7 +4187,7 @@ Link: https://www.linkedin.com/posts/iamarifalam_harvarduniversity-writing-codin
 <img src="/img/c23981cc-b97d-4005-9260-0a1fa5e9fe40.png" width="400" />
 
 
-<sup><sub>2/26/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7941_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7941_0&tag=bestof)<sub/><sup/>
+<sup><sub>2/26/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7941_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4199,7 +4199,7 @@ Link: https://newsletter.theaiedge.io/p/introduction-to-hands-on-data-science?ut
 <img src="/img/2ebf99d8-1c27-4367-9801-05d8a95f93d7.png" width="400" />
 
 
-<sup><sub>2/26/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7939_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7939_0&tag=bestof)<sub/><sup/>
+<sup><sub>2/26/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7939_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4211,7 +4211,7 @@ Link: https://github.com/hpcaitech/ColossalAI/tree/main/applications/ChatGPT
 <img src="/img/09bba967-961b-4f7b-8767-0a452a027081.png" width="400" />
 
 
-<sup><sub>2/26/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7935_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7935_0&tag=bestof)<sub/><sup/>
+<sup><sub>2/26/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7935_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4223,7 +4223,7 @@ Link: https://pypi.org/project/html2text/2020.1.16/
 <img src="/img/9e5cc1a0-0fd0-4d03-9982-5acd5e4d62c4.png" width="400" />
 
 
-<sup><sub>2/25/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7931_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7931_0&tag=bestof)<sub/><sup/>
+<sup><sub>2/25/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7931_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4307,7 +4307,7 @@ Link: https://stackoverflow.com/questions/286813/how-do-you-convert-html-to-plai
 <img src="/img/e68149d9-a1f6-4be2-be55-497018c90ae3.png" width="400" />
 
 
-<sup><sub>2/25/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7929_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7929_0&tag=bestof)<sub/><sup/>
+<sup><sub>2/25/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7929_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4319,7 +4319,7 @@ Link: https://www.srijitmukherjee.com/the-math-behind-transformers/
 <img src="/img/164885d5-eb0f-46d2-8a20-29fc523b7260.png" width="400" />
 
 
-<sup><sub>2/25/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7927_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7927_0&tag=bestof)<sub/><sup/>
+<sup><sub>2/25/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7927_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4331,7 +4331,7 @@ Link: https://github.com/gogap/go-wkhtmltox
 <img src="/img/a7150b31-72b3-491d-aa71-e50be32c665d.png" width="400" />
 
 
-<sup><sub>2/24/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7918_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7918_0&tag=bestof)<sub/><sup/>
+<sup><sub>2/24/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7918_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4343,7 +4343,7 @@ Link: https://hub.docker.com/r/kevinsimper/wkhtmltoimage/#!
 <img src="/img/ba70637b-47e7-47a3-933e-4cf062dfb803.png" width="400" />
 
 
-<sup><sub>2/24/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7916_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7916_0&tag=bestof)<sub/><sup/>
+<sup><sub>2/24/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7916_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4355,7 +4355,7 @@ Link: https://www.philschmid.de/sagemaker-deepspeed
 <img src="/img/0cf7db55-b2d7-42b9-8f6d-48adc229f4cf.png" width="400" />
 
 
-<sup><sub>2/22/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7909_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7909_0&tag=bestof)<sub/><sup/>
+<sup><sub>2/22/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7909_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4367,7 +4367,7 @@ Link: https://www.linkedin.com/feed/update/urn:li:ugcPost:7032636372460941312?co
 <img src="/img/a75c2dcc-9c97-4e4f-a81f-821e5d2beda8.png" width="400" />
 
 
-<sup><sub>2/18/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7895_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7895_0&tag=bestof)<sub/><sup/>
+<sup><sub>2/18/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7895_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4379,7 +4379,7 @@ Link: https://www.hpc-ai.tech/blog/colossal-ai-chatgpt
 <img src="/img/e031ff6a-b387-48f0-89d7-3989b19f4704.png" width="400" />
 
 
-<sup><sub>2/18/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7891_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7891_0&tag=bestof)<sub/><sup/>
+<sup><sub>2/18/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7891_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4391,7 +4391,7 @@ Link: https://masterpiecestudio.com/blog/announcing-generative-animations
 <img src="/img/b640981a-ff69-4295-8cf0-76161f2bb000.png" width="400" />
 
 
-<sup><sub>2/17/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7888_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7888_0&tag=bestof)<sub/><sup/>
+<sup><sub>2/17/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7888_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4403,7 +4403,7 @@ Link: https://arxiv.org/abs/2302.07730
 <img src="/img/5bd85969-cb9e-4099-a64c-1db5e72b008b.png" width="400" />
 
 
-<sup><sub>2/17/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7884_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7884_0&tag=bestof)<sub/><sup/>
+<sup><sub>2/17/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7884_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4415,7 +4415,7 @@ Link: https://drive.google.com/file/d/1sW3bjke7XeOU0anVb68LgSYhM4bVBs4Q/view
 <img src="/img/efb9b7dd-6877-4522-9c62-e2f224f010ba.png" width="400" />
 
 
-<sup><sub>2/16/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7882_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7882_0&tag=bestof)<sub/><sup/>
+<sup><sub>2/16/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7882_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4479,7 +4479,7 @@ Link: https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-
 <img src="/img/efb14d0e-415f-4ff3-b239-09019c42e2a4.png" width="400" />
 
 
-<sup><sub>2/16/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7872_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7872_0&tag=bestof)<sub/><sup/>
+<sup><sub>2/16/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7872_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4491,7 +4491,7 @@ Link: https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jp
 <img src="/img/850ac9f8-d966-4856-b8fb-e3dcd1919655.png" width="400" />
 
 
-<sup><sub>2/14/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7862_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7862_0&tag=bestof)<sub/><sup/>
+<sup><sub>2/14/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7862_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4503,7 +4503,7 @@ Link: https://www.linkedin.com/posts/metaai_token-merging-your-vit-but-faster-me
 <img src="/img/f29286cf-a767-4fe6-b16d-7739f922dc25.png" width="400" />
 
 
-<sup><sub>2/13/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7860_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7860_0&tag=bestof)<sub/><sup/>
+<sup><sub>2/13/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7860_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4515,7 +4515,7 @@ Link: https://arxiv.org/abs/2302.04761
 <img src="/img/185a08c7-964c-4d8e-9c9e-dc1b22faa376.png" width="400" />
 
 
-<sup><sub>2/13/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7853_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7853_0&tag=bestof)<sub/><sup/>
+<sup><sub>2/13/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7853_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4527,7 +4527,7 @@ Link: https://www.linkedin.com/posts/niels-rogge-a3b7a3127_chatgpt-flamingo-ai-a
 <img src="/img/125ef025-b1f5-4273-a771-46ad83ce5903.png" width="400" />
 
 
-<sup><sub>2/10/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7847_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7847_0&tag=bestof)<sub/><sup/>
+<sup><sub>2/10/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7847_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4539,7 +4539,7 @@ Link: https://towardsdatascience.com/how-chatgpt-works-the-models-behind-the-bot
 <img src="/img/7ee9e43e-db71-4ff9-b756-d5a90a4b8946.png" width="400" />
 
 
-<sup><sub>2/10/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7845_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7845_0&tag=bestof)<sub/><sup/>
+<sup><sub>2/10/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7845_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4551,7 +4551,7 @@ Link: https://towardsdatascience.com/how-chatgpt-works-the-models-behind-the-bot
 <img src="/img/e39b417f-c14f-44be-9cd7-cc2e192fdbe9.png" width="400" />
 
 
-<sup><sub>2/10/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7843_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7843_0&tag=bestof)<sub/><sup/>
+<sup><sub>2/10/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7843_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4563,7 +4563,7 @@ Link: https://www.philschmid.de/deploy-flan-t5-sagemaker
 <img src="/img/4a35de03-9228-4598-b6e3-5d32a6755be7.png" width="400" />
 
 
-<sup><sub>2/9/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7836_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7836_0&tag=bestof)<sub/><sup/>
+<sup><sub>2/9/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7836_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4575,7 +4575,7 @@ Link: https://huggingface.co/spaces/jerpint/buster
 <img src="/img/e236e8e6-2cb2-4112-9611-1d67bd19140e.png" width="400" />
 
 
-<sup><sub>2/4/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7829_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7829_0&tag=bestof)<sub/><sup/>
+<sup><sub>2/4/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7829_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4587,7 +4587,7 @@ Link: https://www.marktechpost.com/2023/02/01/researchers-at-stanford-university
 <img src="/img/c6f427ee-beb4-4f11-bd99-e69ac2cd0a6d.png" width="400" />
 
 
-<sup><sub>2/4/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7824_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7824_0&tag=bestof)<sub/><sup/>
+<sup><sub>2/4/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7824_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4599,7 +4599,7 @@ Link: https://www.linkedin.com/posts/metaai_new-paper-emergence-of-maps-in-the-m
 <img src="/img/1bb86cdd-efd8-4ac2-b751-2f8201bdea3e.png" width="400" />
 
 
-<sup><sub>2/1/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7820_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7820_0&tag=bestof)<sub/><sup/>
+<sup><sub>2/1/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7820_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4611,7 +4611,7 @@ Link: https://newsletter.theaiedge.io/p/the-chatgpt-models-family?utm_source=sub
 <img src="/img/34d96069-dbaa-403d-8de3-6155a37084c1.png" width="400" />
 
 
-<sup><sub>2/1/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7815_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7815_0&tag=bestof)<sub/><sup/>
+<sup><sub>2/1/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7815_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4623,7 +4623,7 @@ Link: https://github.com/helliun/targetedSummarization
 <img src="/img/07c9cacc-16b1-4d08-b30f-75f4c7dbdf0f.png" width="400" />
 
 
-<sup><sub>1/31/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7807_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7807_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/31/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7807_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4635,7 +4635,7 @@ Link: https://nvda.ws/3Id3KuT
 <img src="/img/e69b1e4c-5c71-48c9-acd5-d27950068436.png" width="400" />
 
 
-<sup><sub>1/31/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7805_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7805_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/31/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7805_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4647,7 +4647,7 @@ Link: https://www.linkedin.com/posts/karenxcheng_using-nerf-for-creative-filmmak
 <img src="/img/4ebfb341-18a4-4917-93da-eaead133bdcc.png" width="400" />
 
 
-<sup><sub>1/31/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7803_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7803_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/31/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7803_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4659,7 +4659,7 @@ Link: https://github.com/huggingface/diffusion-models-class/tree/main/unit4
 <img src="/img/391f89d0-e837-40f6-9085-77eec2be1776.png" width="400" />
 
 
-<sup><sub>1/30/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7801_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7801_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/30/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7801_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4671,7 +4671,7 @@ Link: https://link.medium.com/Iei0OAG10wb
 <img src="/img/e30a8687-ae7d-49ba-8fdd-7a6eddf0df24.png" width="400" />
 
 
-<sup><sub>1/30/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7796_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7796_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/30/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7796_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4683,7 +4683,7 @@ Link: https://arxiv.org/abs/2003.08934
 <img src="/img/3043bed1-d1e1-40cc-a93a-de8345f44277.png" width="400" />
 
 
-<sup><sub>1/29/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7791_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7791_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/29/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7791_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4695,7 +4695,7 @@ Link: https://make-a-video3d.github.io/
 <img src="/img/d54a402d-2c0f-4437-971f-2a284d4c496d.png" width="400" />
 
 
-<sup><sub>1/29/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7789_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7789_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/29/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7789_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4707,7 +4707,7 @@ Link: https://www.marktechpost.com/2023/01/24/what-are-transformers-concept-and-
 <img src="/img/2bd72db7-3f52-4dd7-9fde-33e6a01ecbb7.png" width="400" />
 
 
-<sup><sub>1/28/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7780_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7780_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/28/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7780_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4719,7 +4719,7 @@ Link: https://bit.ly/3XBob9r
 <img src="/img/8295041b-90c2-492f-95fa-b1f12003688e.png" width="400" />
 
 
-<sup><sub>1/28/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7778_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7778_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/28/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7778_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4731,7 +4731,7 @@ Link: https://bit.ly/3XBob9r
 <img src="/img/7b5b51b9-1fd4-4909-ac8c-689ac97d3e8b.png" width="400" />
 
 
-<sup><sub>1/27/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7776_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7776_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/27/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7776_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4743,7 +4743,7 @@ Link: https://www.linkedin.com/posts/mattmaclaurin_if-i-was-preparing-for-a-new-
 <img src="/img/4f1673e1-85fc-49c1-a489-229d3baeeb48.png" width="400" />
 
 
-<sup><sub>1/27/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7774_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7774_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/27/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7774_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4755,7 +4755,7 @@ Link: https://www.madrona.com/foundation-models/?utm_source=Foundation+Model+Sha
 <img src="/img/2cd6872c-23ba-41c2-ad18-291709c46556.png" width="400" />
 
 
-<sup><sub>1/27/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7772_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7772_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/27/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7772_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4767,7 +4767,7 @@ Link: https://ai.googleblog.com/2023/01/google-research-2022-beyond-language.htm
 <img src="/img/fbfd800b-20bf-4878-97ed-f01a25608b32.png" width="400" />
 
 
-<sup><sub>1/27/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7770_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7770_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/27/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7770_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4779,7 +4779,7 @@ Link: https://www.youtube.com/watch?v=iubhFsKZBP0
 <img src="/img/ddac03f7-0b37-4137-8a72-5b6003b9be68.png" width="400" />
 
 
-<sup><sub>1/27/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7764_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7764_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/27/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7764_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4791,7 +4791,7 @@ Link: https://github.com/chuhaojin/Text2Poster-ICASSP-22
 <img src="/img/08693507-1390-4c01-be14-f64da81cb5ce.png" width="400" />
 
 
-<sup><sub>1/27/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7762_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7762_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/27/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7762_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4803,7 +4803,7 @@ Link: https://dev.to/polterguy/use-chatgpt-to-talk-to-your-website-52nb
 <img src="/img/023d2806-1206-4368-9385-e7b90b793204.png" width="400" />
 
 
-<sup><sub>1/27/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7760_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7760_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/27/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7760_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4815,7 +4815,7 @@ Link: https://www.futurepedia.io
 <img src="/img/1b22d898-199d-4d72-8b3e-49e039da626d.png" width="400" />
 
 
-<sup><sub>1/27/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7758_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7758_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/27/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7758_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4827,7 +4827,7 @@ Link: https://www.linkedin.com/posts/miguelgfierro_ai-machinelearning-datascienc
 <img src="/img/aab574a3-8770-496a-815a-f1a0335f949c.png" width="400" />
 
 
-<sup><sub>1/27/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7756_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7756_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/27/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7756_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4839,7 +4839,7 @@ Link: https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0
 <img src="/img/a1859f4e-4d88-4e8d-a412-f104c22b1ae7.png" width="400" />
 
 
-<sup><sub>1/26/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7751_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7751_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/26/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7751_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4851,7 +4851,7 @@ Link: https://www.marktechpost.com/2023/01/24/deepmind-proposes-laser-nv-a-condi
 <img src="/img/de073346-c5bf-4ebd-803c-bb094bbeeef1.png" width="400" />
 
 
-<sup><sub>1/26/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7746_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7746_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/26/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7746_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4863,7 +4863,7 @@ Link: https://www.marktechpost.com/2023/01/23/researchers-at-the-university-of-m
 <img src="/img/57e69a07-d6c9-4edb-9445-231aebf5d8c3.png" width="400" />
 
 
-<sup><sub>1/25/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7744_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7744_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/25/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7744_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4875,7 +4875,7 @@ Link: https://fortune.com/2023/01/21/chatgpt-passed-wharton-mba-exam-one-profess
 <img src="/img/9b8b43f6-e303-4a72-a3bd-50c55fdbdb4e.png" width="400" />
 
 
-<sup><sub>1/24/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7734_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7734_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/24/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7734_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4887,7 +4887,7 @@ Link: https://finance.yahoo.com/news/laid-off-silicon-valley-workers-150000073.h
 <img src="/img/2ebfbce1-bbed-49db-9633-d450cd71cf9a.png" width="400" />
 
 
-<sup><sub>1/24/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7732_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7732_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/24/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7732_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4899,7 +4899,7 @@ Link: https://www.marktechpost.com/2023/01/21/a-new-method-to-evaluate-the-perfo
 <img src="/img/30641a22-97e1-4afe-9dde-096dc50ebe20.png" width="400" />
 
 
-<sup><sub>1/24/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7730_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7730_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/24/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7730_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4911,7 +4911,7 @@ Link: https://www.inc.com/marcel-schwantes/warren-buffett-says-ultimate-test-of-
 <img src="/img/a2b4f292-1502-414b-ab87-d102810de955.png" width="400" />
 
 
-<sup><sub>1/24/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7728_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7728_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/24/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7728_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4923,7 +4923,7 @@ Link: https://www.marktechpost.com/2023/01/19/google-brain-and-tel-aviv-universi
 <img src="/img/140a4514-f81c-460e-bb03-2a2c66029fe8.png" width="400" />
 
 
-<sup><sub>1/23/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7726_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7726_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/23/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7726_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4935,7 +4935,7 @@ Link: https://www.wsj.com/articles/affordable-ski-resorts-11674060010
 <img src="/img/9f7134c6-69be-4572-ac10-4bbeb9ef9b4c.png" width="400" />
 
 
-<sup><sub>1/22/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7719_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7719_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/22/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7719_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4947,7 +4947,7 @@ Link: https://ommo.luchongshan.com/
 <img src="/img/83e81dc8-1fd9-4e42-a39c-59e6efd6a00a.png" width="400" />
 
 
-<sup><sub>1/22/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7715_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7715_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/22/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7715_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4959,7 +4959,7 @@ Link: https://medium.com/@diegobonila/top-deep-learning-papers-of-2022-a4826e0aa
 <img src="/img/87838bf3-9415-459b-9087-79bb7e12e018.png" width="400" />
 
 
-<sup><sub>1/22/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7713_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7713_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/22/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7713_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4971,7 +4971,7 @@ Link: https://huggingface.co/blog/mask2former
 <img src="/img/9a43fd84-bcd5-41a7-a7f4-031ebf780ddb.png" width="400" />
 
 
-<sup><sub>1/21/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7710_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7710_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/21/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7710_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4983,7 +4983,7 @@ Link: https://nvda.ws/3ZyWpft
 <img src="/img/35f460de-0295-477e-9d26-c43d347bd3af.png" width="400" />
 
 
-<sup><sub>1/21/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7706_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7706_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/21/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7706_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -4995,7 +4995,7 @@ Link: https://scale.com/blog/chatgpt-vs-claude#What%20is%20%E2%80%9CConstitution
 <img src="/img/c60c298d-0f89-44b2-9672-fd455648951a.png" width="400" />
 
 
-<sup><sub>1/20/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7698_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7698_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/20/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7698_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -5007,7 +5007,7 @@ Link: https://a16z.com/2023/01/19/who-owns-the-generative-ai-platform/
 <img src="/img/57e25a9c-ceaa-4f31-922d-bc0559d62e0d.png" width="400" />
 
 
-<sup><sub>1/20/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7696_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7696_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/20/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7696_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -5019,7 +5019,7 @@ Link: https://www.marktechpost.com/2023/01/16/a-new-artificial-intelligence-ai-r
 <img src="/img/14ed6595-b12c-4ede-95d8-6a00de6c432f.png" width="400" />
 
 
-<sup><sub>1/19/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7690_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7690_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/19/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7690_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -5031,7 +5031,7 @@ Link: https://huggingface.co/blog/image-similarity
 <img src="/img/a3343a2d-39ad-4eae-b785-ce137fd6f01f.png" width="400" />
 
 
-<sup><sub>1/19/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7686_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7686_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/19/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7686_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -5057,7 +5057,7 @@ Link: https://ai.googleblog.com/2023/01/google-research-2022-beyond-language.htm
 <img src="/img/04a5f649-7db0-4408-87c5-d968695cef17.png" width="400" />
 
 
-<sup><sub>1/19/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7684_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7684_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/19/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7684_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -5071,7 +5071,7 @@ Link: https://beta.openai.com/docs/guides/embeddings/limitations-risks
 <img src="/img/36ef6672-dccf-493e-b3a3-222ccb47f875.png" width="400" />
 
 
-<sup><sub>1/17/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7673_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7673_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/17/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7673_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -5083,7 +5083,7 @@ Link: https://arxiv.org/abs/2301.00704
 <img src="/img/7f7535b3-d474-4f8f-9cce-9778ee39ff41.png" width="400" />
 
 
-<sup><sub>1/17/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7671_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7671_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/17/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7671_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -5095,7 +5095,7 @@ Link: https://arxiv.org/abs/2212.08045
 <img src="/img/42de5e69-0e71-41c6-b63e-69567978a5c9.png" width="400" />
 
 
-<sup><sub>1/12/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7637_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7637_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/12/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7637_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -5107,7 +5107,7 @@ Link: https://lnkd.in/g_WWQSk7
 <img src="/img/87a604a8-4101-42ab-ba80-ba04cfda9f8c.png" width="400" />
 
 
-<sup><sub>1/9/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/9/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -5119,7 +5119,7 @@ Link: https://lnkd.in/gCFiKCZQ
 <img src="/img/e5a05ad7-91bc-4ca9-8f2e-8444e371c0f7.png" width="400" />
 
 
-<sup><sub>1/9/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_1&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_1&tag=bestof)<sub/><sup/>
+<sup><sub>1/9/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_1&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -5131,7 +5131,7 @@ Link: https://lnkd.in/guUVdJKp
 <img src="/img/b95fd078-4313-42e9-a9d9-3e02088c42ad.png" width="400" />
 
 
-<sup><sub>1/9/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_2&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_2&tag=bestof)<sub/><sup/>
+<sup><sub>1/9/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_2&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -5143,7 +5143,7 @@ Link: https://lnkd.in/gHWyQfQX
 <img src="/img/26245e83-3f2d-4af5-bec3-c1709d379026.png" width="400" />
 
 
-<sup><sub>1/9/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_3&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_3&tag=bestof)<sub/><sup/>
+<sup><sub>1/9/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_3&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -5155,7 +5155,7 @@ Link: https://lnkd.in/g-zx7hDy
 <img src="/img/e8145686-08c7-4ed5-815b-b6e77b01a3d2.png" width="400" />
 
 
-<sup><sub>1/9/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_4&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_4&tag=bestof)<sub/><sup/>
+<sup><sub>1/9/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_4&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -5167,7 +5167,7 @@ Link: https://lnkd.in/gjFmVydn
 <img src="/img/60bf3fe6-1455-430c-998b-9dbf7d8cd4a3.png" width="400" />
 
 
-<sup><sub>1/9/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_5&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_5&tag=bestof)<sub/><sup/>
+<sup><sub>1/9/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_5&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -5179,7 +5179,7 @@ Link: https://lnkd.in/g8u9UkY4
 <img src="/img/926073a1-a325-4bf6-b643-24737d6028dc.png" width="400" />
 
 
-<sup><sub>1/9/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_6&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_6&tag=bestof)<sub/><sup/>
+<sup><sub>1/9/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_6&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -5191,7 +5191,7 @@ Link: https://lnkd.in/gbj3xdWf
 <img src="/img/fc7a8909-fb7c-40b3-8b27-2118d78de0db.png" width="400" />
 
 
-<sup><sub>1/9/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_7&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_7&tag=bestof)<sub/><sup/>
+<sup><sub>1/9/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_7&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -5203,7 +5203,7 @@ Link: https://www.linkedin.com/in/ACoAACJzMI4BTUqzEvB3xp7WB5b8cubanufc6fc
 <img src="/img/69626ad9-479d-4ae1-99f5-ab6f97013693.png" width="400" />
 
 
-<sup><sub>1/9/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_8&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_8&tag=bestof)<sub/><sup/>
+<sup><sub>1/9/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_8&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -5215,7 +5215,7 @@ Link: https://www.linkedin.com/feed/hashtag/?keywords=python&amp;highlightedUpda
 <img src="/img/04e3460a-880b-493b-81b0-8cb9564e3dc6.png" width="400" />
 
 
-<sup><sub>1/9/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_9&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_9&tag=bestof)<sub/><sup/>
+<sup><sub>1/9/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_9&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -5227,7 +5227,7 @@ Link: https://www.linkedin.com/feed/hashtag/?keywords=bigdata&amp;highlightedUpd
 <img src="/img/f40157bd-548b-4617-ac4d-8ec6fc3e09c8.png" width="400" />
 
 
-<sup><sub>1/9/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_10&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_10&tag=bestof)<sub/><sup/>
+<sup><sub>1/9/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_10&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -5239,7 +5239,7 @@ Link: https://www.linkedin.com/feed/hashtag/?keywords=dataengineering&amp;highli
 <img src="/img/0b737825-1061-4134-a689-f7dc239bea89.png" width="400" />
 
 
-<sup><sub>1/9/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_11&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_11&tag=bestof)<sub/><sup/>
+<sup><sub>1/9/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_11&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -5251,7 +5251,7 @@ Link: https://www.linkedin.com/feed/hashtag/?keywords=dataanalytics&amp;highligh
 <img src="/img/4a806d37-9152-4e57-8902-bc719b63c52c.png" width="400" />
 
 
-<sup><sub>1/9/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_12&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_12&tag=bestof)<sub/><sup/>
+<sup><sub>1/9/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_12&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -5263,7 +5263,7 @@ Link: https://www.linkedin.com/feed/hashtag/?keywords=dataanalysis&amp;highlight
 <img src="/img/1ee0eeec-9446-403b-a9f7-b2e8881ee38e.png" width="400" />
 
 
-<sup><sub>1/9/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_13&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_13&tag=bestof)<sub/><sup/>
+<sup><sub>1/9/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_13&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -5275,7 +5275,7 @@ Link: https://www.linkedin.com/feed/hashtag/?keywords=datawarehouse&amp;highligh
 <img src="/img/b2c8821b-5a4f-43c0-ac9d-d8d6d4b55fe9.png" width="400" />
 
 
-<sup><sub>1/9/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_14&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_14&tag=bestof)<sub/><sup/>
+<sup><sub>1/9/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_14&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -5287,7 +5287,7 @@ Link: https://www.linkedin.com/feed/hashtag/?keywords=etl&amp;highlightedUpdateU
 <img src="/img/445c5546-5445-4ed2-8204-9075feb8e430.png" width="400" />
 
 
-<sup><sub>1/9/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_15&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_15&tag=bestof)<sub/><sup/>
+<sup><sub>1/9/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7617_15&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -5299,7 +5299,7 @@ Link: https://www.marktechpost.com/2022/12/20/meet-dramatron-an-artificial-intel
 <img src="/img/f5e06c3d-9144-47bc-b929-f8eb080d0bec.png" width="400" />
 
 
-<sup><sub>12/26/2022 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7481_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7481_0&tag=bestof)<sub/><sup/>
+<sup><sub>12/26/2022 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=7481_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
