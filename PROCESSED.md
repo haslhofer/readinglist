@@ -6,7 +6,19 @@ Link: https://arxiv.org/abs/2401.04088?utm_source=aitidbits.substack.com&utm_med
 <img src="/img/c5dc1189-7592-40ef-9ed9-79813baaff1d.png" width="400" />
 
 
-<sup><sub>1/11/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9864_0&tag=isread)<sub/><sup/>
+<sup><sub>1/11/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9864_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9864_0&tag=bestof)<sub/><sup/>
+
+<br/><br/>
+
+## DPO: A New Method to Align Language Models with Human Preferences
+Summary: The Direct Preference Optimization (DPO) paper by Rafael Rafailov and others introduces a new approach to aligning language models with human preferences. This approach streamlines the training process by directly integrating the reward function with the language model training, eliminating the need for a separate reward model. DPO has the potential to simplify the alignment process and make it more efficient, potentially revolutionizing the way language models are trained and aligned with human preferences.
+
+Link: https://www.linkedin.com/posts/andrewyng_ai-discovers-new-antibiotics-openai-revamps-activity-7151282706947969025-WV2v?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/c4e93447-19fa-4ae8-a788-887f212b4420.png" width="400" />
+
+
+<sup><sub>1/11/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9860_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9860_0&tag=bestof)<sub/><sup/>
 
 <br/><br/>
 
@@ -18,7 +30,7 @@ Link: https://arxiv.org/abs/2312.17617v1
 <img src="/img/fce3f106-83d0-40c6-ada2-89dfec55272c.png" width="400" />
 
 
-<sup><sub>1/8/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9818_0&tag=isread)<sub/><sup/>
+<sup><sub>1/8/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9818_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9818_0&tag=bestof)<sub/><sup/>
 
 <br/><br/>
 
@@ -30,7 +42,7 @@ Link: https://www.marktechpost.com/2024/01/05/jpmorgan-ai-research-introduces-do
 <img src="/img/e3156297-1b6f-4fe0-b942-2483d95d261c.png" width="400" />
 
 
-<sup><sub>1/6/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9805_0&tag=isread)<sub/><sup/>
+<sup><sub>1/6/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9805_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9805_0&tag=bestof)<sub/><sup/>
 
 <br/><br/>
 
@@ -42,7 +54,7 @@ Link: https://www.marktechpost.com/2024/01/05/jpmorgan-ai-research-introduces-do
 <img src="/img/c5ac700d-366a-404f-a3e3-51dbeaa6f74e.png" width="400" />
 
 
-<sup><sub>1/6/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9805_0&tag=isread)<sub/><sup/>
+<sup><sub>1/6/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9805_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9805_0&tag=bestof)<sub/><sup/>
 
 <br/><br/>
 
@@ -64,7 +76,7 @@ Link: https://paulgraham.com/greatwork.html
 <img src="/img/46e14cdf-da78-48e6-90bb-10c9a4483a03.png" width="400" />
 
 
-<sup><sub>12/28/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9657_0&tag=isread)<sub/><sup/>
+<sup><sub>12/28/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9657_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9657_0&tag=bestof)<sub/><sup/>
 
 <br/><br/>
 
@@ -76,7 +88,7 @@ Link: https://www.linkedin.com/feed/update/urn:li:activity:7049789761728770049?u
 <img src="/img/ccc7d6d4-ae0a-4d05-9334-9fe130ed51dd.png" width="400" />
 
 
-<sup><sub>4/8/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8221_0&tag=isread)<sub/><sup/>
+<sup><sub>4/8/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8221_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8221_0&tag=bestof)<sub/><sup/>
 
 <br/><br/>
 
