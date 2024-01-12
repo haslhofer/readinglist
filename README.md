@@ -1,3 +1,15 @@
+## New tool converts HTML directories to Markdown for LLMs and RAG datasets
+Summary: Clipper, a Node.js command-line tool, facilitates the conversion of HTML content to Markdown format, enabling simplified data extraction, web page crawling, and RAG dataset building. With easy installation through NPM, Clipper offers JSON output options, supports URL and file inputs, and offers features such as context trimming and output filtering. It streamlines the process of collecting and converting online content for various applications, including LLM training and RAG pipeline integration.
+
+Link: https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_just-released-an-update-to-clipper-you-can-activity-7150589245059977217-AiUN?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/646fe201-ed8d-4949-b03a-0766b754adde.png" width="400" />
+
+
+<sup><sub>1/12/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9870_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9870_0&tag=bestof)<sub/><sup/>
+
+<br/><br/>
+
 ## OpenChat: Open-source Language Model Advancing with Imperfect Data
 Summary: OpenChat is an easy-to-use, open-source library of language models fine-tuned with C-RLFT, a strategy inspired by offline reinforcement learning. It learns from mixed-quality data without preference labels, runs on consumer GPUs, and outperforms ChatGPT and Grok-1 in various benchmarks.
 
