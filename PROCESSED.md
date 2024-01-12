@@ -6,7 +6,7 @@ Link: https://arxiv.org/abs/2401.04088?utm_source=aitidbits.substack.com&utm_med
 <img src="/img/c5dc1189-7592-40ef-9ed9-79813baaff1d.png" width="400" />
 
 
-<sup><sub>1/11/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9864_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9864_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/11/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9864_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -18,7 +18,7 @@ Link: https://arxiv.org/abs/2312.17617v1
 <img src="/img/fce3f106-83d0-40c6-ada2-89dfec55272c.png" width="400" />
 
 
-<sup><sub>1/8/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9818_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9818_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/8/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9818_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -30,7 +30,7 @@ Link: https://www.marktechpost.com/2024/01/05/jpmorgan-ai-research-introduces-do
 <img src="/img/e3156297-1b6f-4fe0-b942-2483d95d261c.png" width="400" />
 
 
-<sup><sub>1/6/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9805_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9805_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/6/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9805_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -42,7 +42,29 @@ Link: https://www.marktechpost.com/2024/01/05/jpmorgan-ai-research-introduces-do
 <img src="/img/c5ac700d-366a-404f-a3e3-51dbeaa6f74e.png" width="400" />
 
 
-<sup><sub>1/6/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9805_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9805_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/6/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9805_0&tag=isread)<sub/><sup/>
+
+<br/><br/>
+
+## Curiosity, effort, ability, and luck are key factors in achieving great work. One should focus on something exciting that provides scope for great and unique work. It is recommended to choose a field, learn enough to reach the frontier of knowledge, notice gaps, and then explore promising ones.
+Summary: This text describes the common traits of exceptionally productive people. The author asserts that the first step to excelling in a field is to choose a field that aligns with your natural aptitudes, interests, and offers ample opportunities for groundbreaking work. However, finding such a field is difficult, especially when you're young. Therefore, the author recommends experimenting with different fields and projects until you find one that truly excites you.
+
+Once you've chosen a field, the next step is to learn as much as you can about it and identify knowledge gaps. Then, focus on filling those gaps by conducting research, asking questions, and seeking out experts in the field. The author emphasizes the importance of embracing strange or unconventional ideas, as these often lead to breakthroughs.
+
+The author also stresses the significance of perseverance and hard work. Great work, they argue, often requires long hours and intense focus. However, it is important to avoid burnout by taking breaks and engaging in activities that recharge your energy.
+
+To ensure consistency in your work, the author suggests setting clear goals and creating a schedule that allows for uninterrupted periods of focused work. Additionally, they recommend avoiding distractions and interruptions, both during work and during breaks.
+
+To improve your work further, the author encourages seeking feedback from others, especially those who are knowledgeable in your field. Constructive criticism can help you identify areas where you can improve and refine your work.
+
+Finally, the author highlights the importance of maintaining a curious and open mindset. By continuously seeking new knowledge and experiences, you can expand your understanding of the world and generate innovative ideas.
+
+Link: https://paulgraham.com/greatwork.html
+
+<img src="/img/46e14cdf-da78-48e6-90bb-10c9a4483a03.png" width="400" />
+
+
+<sup><sub>12/28/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9657_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
@@ -54,7 +76,7 @@ Link: https://www.linkedin.com/feed/update/urn:li:activity:7049789761728770049?u
 <img src="/img/ccc7d6d4-ae0a-4d05-9334-9fe130ed51dd.png" width="400" />
 
 
-<sup><sub>4/8/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8221_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8221_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/8/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8221_0&tag=isread)<sub/><sup/>
 
 <br/><br/>
 
