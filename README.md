@@ -10,18 +10,6 @@ Link: https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_just-released-an-u
 
 <br/><br/>
 
-## OpenChat: Open-source Language Model Advancing with Imperfect Data
-Summary: OpenChat is an easy-to-use, open-source library of language models fine-tuned with C-RLFT, a strategy inspired by offline reinforcement learning. It learns from mixed-quality data without preference labels, runs on consumer GPUs, and outperforms ChatGPT and Grok-1 in various benchmarks.
-
-Link: https://github.com/imoneoi/openchat?tab=readme-ov-file
-
-<img src="/img/50895a6c-24b8-4e24-970d-17572b03ba2f.png" width="400" />
-
-
-<sup><sub>1/11/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9862_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9862_0&tag=bestof)<sub/><sup/>
-
-<br/><br/>
-
 ## Explore standalone use cases of txtai embeddings components
 Summary: The main components of txtai are embeddings, pipeline, workflow, and an API. Its package provides the glue between these components, making everything easy to use. Each of the packages is modular and can be used on its own. Embeddings package provides the glue between components, making everything easy to use.
 
