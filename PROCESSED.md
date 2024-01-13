@@ -10,6 +10,18 @@ Link: https://arxiv.org/abs/2401.04088?utm_source=aitidbits.substack.com&utm_med
 
 <br/><br/>
 
+## OpenChat: Open-source Language Model Advancing with Imperfect Data
+Summary: OpenChat is an easy-to-use, open-source library of language models fine-tuned with C-RLFT, a strategy inspired by offline reinforcement learning. It learns from mixed-quality data without preference labels, runs on consumer GPUs, and outperforms ChatGPT and Grok-1 in various benchmarks.
+
+Link: https://github.com/imoneoi/openchat?tab=readme-ov-file
+
+<img src="/img/50895a6c-24b8-4e24-970d-17572b03ba2f.png" width="400" />
+
+
+<sup><sub>1/11/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9862_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9862_0&tag=bestof)<sub/><sup/>
+
+<br/><br/>
+
 ## DPO: A New Method to Align Language Models with Human Preferences
 Summary: The Direct Preference Optimization (DPO) paper by Rafael Rafailov and others introduces a new approach to aligning language models with human preferences. This approach streamlines the training process by directly integrating the reward function with the language model training, eliminating the need for a separate reward model. DPO has the potential to simplify the alignment process and make it more efficient, potentially revolutionizing the way language models are trained and aligned with human preferences.
 
