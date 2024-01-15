@@ -46,6 +46,18 @@ Link: https://www.linkedin.com/posts/andrewyng_ai-discovers-new-antibiotics-open
 
 <br/><br/>
 
+## Explore standalone use cases of txtai embeddings components
+Summary: The main components of txtai are embeddings, pipeline, workflow, and an API. Its package provides the glue between these components, making everything easy to use. Each of the packages is modular and can be used on its own. Embeddings package provides the glue between components, making everything easy to use.
+
+Link: https://neuml.hashnode.dev/embeddings-index-components
+
+<img src="/img/dcbde876-dd30-41cb-9464-9104b3554d31.png" width="400" />
+
+
+<sup><sub>1/11/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9856_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9856_0&tag=bestof)<sub/><sup/>
+
+<br/><br/>
+
 ## A Survey on Generative Information Extraction Methods Using Large Language Models
 Summary: A survey on leveraging generative large language models (LLMs) for information extraction (IE) tasks is presented. The achievements of LLM-based IE methods are categorized, reviewed, and analyzed. The study provides insights into techniques and suggests promising research directions for future exploration. A public repository with consistently updated resources is maintained to facilitate ongoing research in this area.
 
