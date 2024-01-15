@@ -1,15 +1,3 @@
-## Explore standalone use cases of txtai embeddings components
-Summary: The main components of txtai are embeddings, pipeline, workflow, and an API. Its package provides the glue between these components, making everything easy to use. Each of the packages is modular and can be used on its own. Embeddings package provides the glue between components, making everything easy to use.
-
-Link: https://neuml.hashnode.dev/embeddings-index-components
-
-<img src="/img/dcbde876-dd30-41cb-9464-9104b3554d31.png" width="400" />
-
-
-<sup><sub>1/11/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9856_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9856_0&tag=bestof)<sub/><sup/>
-
-<br/><br/>
-
 ## Blending Is All You Need: Smaller Models Can Rival or Even Outperform Larger Language Models
 Summary: Researchers introduce a cost-effective alternative to large language models (LLMs) by demonstrating that blending multiple smaller models can achieve comparable or even superior performance to a single large model. This "blending" approach involves integrating multiple chat AIs, and empirical evidence suggests that when specific smaller models are synergistically combined, they can rival or surpass the capabilities of much larger counterparts. Rigorous A/B testing with a large user base confirms the effectiveness of blending, highlighting its potential as a viable strategy for enhancing chat AI efficacy without a corresponding surge in computational demands.
 
