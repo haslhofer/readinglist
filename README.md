@@ -1,15 +1,3 @@
-## Blending Is All You Need: Smaller Models Can Rival or Even Outperform Larger Language Models
-Summary: Researchers introduce a cost-effective alternative to large language models (LLMs) by demonstrating that blending multiple smaller models can achieve comparable or even superior performance to a single large model. This "blending" approach involves integrating multiple chat AIs, and empirical evidence suggests that when specific smaller models are synergistically combined, they can rival or surpass the capabilities of much larger counterparts. Rigorous A/B testing with a large user base confirms the effectiveness of blending, highlighting its potential as a viable strategy for enhancing chat AI efficacy without a corresponding surge in computational demands.
-
-Link: https://arxiv.org/abs/2401.02994
-
-<img src="/img/d92ca433-583a-47a1-926c-36a8792b6619.png" width="400" />
-
-
-<sup><sub>1/9/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9842_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9842_0&tag=bestof)<sub/><sup/>
-
-<br/><br/>
-
 ## Improved Latent Space Representation with Variational Autoencoders
 Summary: Variational AutoEncoders (VAEs) are an extension of classical autoencoders typically used for dimensionality reduction. While classical autoencoders only minimize the reconstruction loss, VAEs instead maximize a lower bound on the log-likelihood of the data. This results in a more continuous and centralized latent space, which is advantageous for generative tasks. The posterior distribution in VAEs is approximated by a diagonal Gaussian distribution with parameters \(\mu\) and \(\sigma\), and the KL divergence between this distribution and the standard Gaussian is used as a penalty in the loss function. The resulting latent space is more compact and smooth, allowing for interpolation between input images and other fun applications.
 
