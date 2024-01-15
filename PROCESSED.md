@@ -58,6 +58,18 @@ Link: https://neuml.hashnode.dev/embeddings-index-components
 
 <br/><br/>
 
+## Blending Is All You Need: Smaller Models Can Rival or Even Outperform Larger Language Models
+Summary: Researchers introduce a cost-effective alternative to large language models (LLMs) by demonstrating that blending multiple smaller models can achieve comparable or even superior performance to a single large model. This "blending" approach involves integrating multiple chat AIs, and empirical evidence suggests that when specific smaller models are synergistically combined, they can rival or surpass the capabilities of much larger counterparts. Rigorous A/B testing with a large user base confirms the effectiveness of blending, highlighting its potential as a viable strategy for enhancing chat AI efficacy without a corresponding surge in computational demands.
+
+Link: https://arxiv.org/abs/2401.02994
+
+<img src="/img/d92ca433-583a-47a1-926c-36a8792b6619.png" width="400" />
+
+
+<sup><sub>1/9/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9842_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9842_0&tag=bestof)<sub/><sup/>
+
+<br/><br/>
+
 ## A Survey on Generative Information Extraction Methods Using Large Language Models
 Summary: A survey on leveraging generative large language models (LLMs) for information extraction (IE) tasks is presented. The achievements of LLM-based IE methods are categorized, reviewed, and analyzed. The study provides insights into techniques and suggests promising research directions for future exploration. A public repository with consistently updated resources is maintained to facilitate ongoing research in this area.
 
