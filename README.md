@@ -1,15 +1,3 @@
-## New tool converts HTML directories to Markdown for LLMs and RAG datasets
-Summary: Clipper, a Node.js command-line tool, facilitates the conversion of HTML content to Markdown format, enabling simplified data extraction, web page crawling, and RAG dataset building. With easy installation through NPM, Clipper offers JSON output options, supports URL and file inputs, and offers features such as context trimming and output filtering. It streamlines the process of collecting and converting online content for various applications, including LLM training and RAG pipeline integration.
-
-Link: https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_just-released-an-update-to-clipper-you-can-activity-7150589245059977217-AiUN?utm_source=share&amp;utm_medium=member_android
-
-<img src="/img/646fe201-ed8d-4949-b03a-0766b754adde.png" width="400" />
-
-
-<sup><sub>1/12/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9870_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9870_0&tag=bestof)<sub/><sup/>
-
-<br/><br/>
-
 ## Explore standalone use cases of txtai embeddings components
 Summary: The main components of txtai are embeddings, pipeline, workflow, and an API. Its package provides the glue between these components, making everything easy to use. Each of the packages is modular and can be used on its own. Embeddings package provides the glue between components, making everything easy to use.
 
