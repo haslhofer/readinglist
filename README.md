@@ -1,15 +1,3 @@
-## Automatic Evaluation Framework for Assessing LLMs' Protocol Planning Abilities in Biology
-Summary: The paper presents a novel automatic evaluation framework and dataset called BioProt for assessing the performance of Large Language Models (LLMs) in planning experimental protocols in biology. The framework involves converting natural language protocols into pseudocode representations, which enables the evaluation of an LLM's ability to reconstruct the pseudocode from high-level descriptions and admissible pseudocode functions. The study explores the performance of GPT-3 and GPT-4 on this task and examines their robustness. It also demonstrates the utility of pseudocode representations by generating accurate novel protocols and successfully executing a generated protocol in a biological laboratory. The extensibility of the framework to other areas of science or domains lacking automatic evaluation is highlighted.
-
-Link: https://arxiv.org/abs/2310.10632?utm_source=substack&utm_medium=email
-
-<img src="/img/38d1a3b5-34b5-4974-bf30-dc849cad863c.png" width="400" />
-
-
-<sup><sub>1/15/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9891_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9891_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9891_0&tag=Experiments)<sub/><sup/>
-
-<br/><br/>
-
 ## Explore topics, data connectivity and run network analysis with the Semantic Graph
 Summary: A semantic graph, also known as a knowledge graph or semantic network, is introduced, constructed with semantic relationships connecting the nodes. Nodes and relationships can be added to the graph, and analysis functions can be run on it. Semantic graphs can be used to explore relationships, such as topics and interconnections in a dataset. Embeddings instances can be indexed into a graph, allowing for network analysis and topic modeling. Topic modeling can be done using community detection algorithms, and centrality and pagerank can be used to analyze the graph. The graph can also be traversed to show how nodes are connected. Furthermore, images can be grouped into topics using topic modeling, and the image graph can be walked to explore relationships between images.
 
