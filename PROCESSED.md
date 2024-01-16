@@ -10,6 +10,18 @@ Link: https://magazine.sebastianraschka.com/p/understanding-and-coding-self-atte
 
 <br/><br/>
 
+## This article lists recommended books of various genres, all of which promise to expand readers' minds.
+Summary: This repository contains a list of mind-expanding books curated by various contributors. The selection covers a wide range of topics, including startups and business, philosophy and psychology, autobiographies and biographies, history, science and medicine, logic and problem-solving, politics, economics, gender, sexuality, race, education, writing, theater and film, Shakespeare, fiction, and miscellaneous subjects like health, design, travel, language, nature, and art. Some popular book recommendations are Shoe Dog by Phil Knight, The Ride of a Lifetime by Robert Iger, and Bad Blood by John Carreyrou.
+
+Link: https://github.com/hackerkid/Mind-Expanding-Books
+
+<img src="/img/9e8c5f7b-a2eb-403f-8998-875c15b5938d.png" width="400" />
+
+
+<sup><sub>1/15/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9893_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9893_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9893_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## New tool converts HTML directories to Markdown for LLMs and RAG datasets
 Summary: Clipper, a Node.js command-line tool, facilitates the conversion of HTML content to Markdown format, enabling simplified data extraction, web page crawling, and RAG dataset building. With easy installation through NPM, Clipper offers JSON output options, supports URL and file inputs, and offers features such as context trimming and output filtering. It streamlines the process of collecting and converting online content for various applications, including LLM training and RAG pipeline integration.
 
