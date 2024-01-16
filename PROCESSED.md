@@ -22,6 +22,18 @@ Link: https://github.com/hackerkid/Mind-Expanding-Books
 
 <br/><br/>
 
+## Automatic Evaluation Framework for Assessing LLMs' Protocol Planning Abilities in Biology
+Summary: The paper presents a novel automatic evaluation framework and dataset called BioProt for assessing the performance of Large Language Models (LLMs) in planning experimental protocols in biology. The framework involves converting natural language protocols into pseudocode representations, which enables the evaluation of an LLM's ability to reconstruct the pseudocode from high-level descriptions and admissible pseudocode functions. The study explores the performance of GPT-3 and GPT-4 on this task and examines their robustness. It also demonstrates the utility of pseudocode representations by generating accurate novel protocols and successfully executing a generated protocol in a biological laboratory. The extensibility of the framework to other areas of science or domains lacking automatic evaluation is highlighted.
+
+Link: https://arxiv.org/abs/2310.10632?utm_source=substack&utm_medium=email
+
+<img src="/img/38d1a3b5-34b5-4974-bf30-dc849cad863c.png" width="400" />
+
+
+<sup><sub>1/15/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9891_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9891_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9891_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## New tool converts HTML directories to Markdown for LLMs and RAG datasets
 Summary: Clipper, a Node.js command-line tool, facilitates the conversion of HTML content to Markdown format, enabling simplified data extraction, web page crawling, and RAG dataset building. With easy installation through NPM, Clipper offers JSON output options, supports URL and file inputs, and offers features such as context trimming and output filtering. It streamlines the process of collecting and converting online content for various applications, including LLM training and RAG pipeline integration.
 
