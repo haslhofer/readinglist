@@ -1,3 +1,89 @@
+## From scratch implementation of Self-Attention, Multi-Head Attention, Cross-Attention, and Causal Self-Attention in Large Language Models (LLMs)
+Summary: This article explains the inner workings of the self-attention mechanism, a core component of large language models (LLMs) like GPT-4 and Llama, through a step-by-step coding approach. It also covers multi-head attention, cross-attention, and causal self-attention.
+
+Link: https://magazine.sebastianraschka.com/p/understanding-and-coding-self-attention
+
+<img src="/img/fc744586-928d-47fd-bd8e-87045144ad19.png" width="400" />
+
+
+<sup><sub>1/15/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9895_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9895_0&tag=bestof)<sub/><sup/>
+
+<br/><br/>
+
+## This article lists recommended books of various genres, all of which promise to expand readers' minds.
+Summary: This repository contains a list of mind-expanding books curated by various contributors. The selection covers a wide range of topics, including startups and business, philosophy and psychology, autobiographies and biographies, history, science and medicine, logic and problem-solving, politics, economics, gender, sexuality, race, education, writing, theater and film, Shakespeare, fiction, and miscellaneous subjects like health, design, travel, language, nature, and art. Some popular book recommendations are Shoe Dog by Phil Knight, The Ride of a Lifetime by Robert Iger, and Bad Blood by John Carreyrou.
+
+Link: https://github.com/hackerkid/Mind-Expanding-Books
+
+<img src="/img/9e8c5f7b-a2eb-403f-8998-875c15b5938d.png" width="400" />
+
+
+<sup><sub>1/15/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9893_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9893_0&tag=bestof)<sub/><sup/>
+
+<br/><br/>
+
+## Automatic Evaluation Framework for Assessing LLMs' Protocol Planning Abilities in Biology
+Summary: The paper presents a novel automatic evaluation framework and dataset called BioProt for assessing the performance of Large Language Models (LLMs) in planning experimental protocols in biology. The framework involves converting natural language protocols into pseudocode representations, which enables the evaluation of an LLM's ability to reconstruct the pseudocode from high-level descriptions and admissible pseudocode functions. The study explores the performance of GPT-3 and GPT-4 on this task and examines their robustness. It also demonstrates the utility of pseudocode representations by generating accurate novel protocols and successfully executing a generated protocol in a biological laboratory. The extensibility of the framework to other areas of science or domains lacking automatic evaluation is highlighted.
+
+Link: https://arxiv.org/abs/2310.10632?utm_source=substack&utm_medium=email
+
+<img src="/img/38d1a3b5-34b5-4974-bf30-dc849cad863c.png" width="400" />
+
+
+<sup><sub>1/15/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9891_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9891_0&tag=bestof)<sub/><sup/>
+
+<br/><br/>
+
+## Explore topics, data connectivity and run network analysis with the Semantic Graph
+Summary: A semantic graph, also known as a knowledge graph or semantic network, is introduced, constructed with semantic relationships connecting the nodes. Nodes and relationships can be added to the graph, and analysis functions can be run on it. Semantic graphs can be used to explore relationships, such as topics and interconnections in a dataset. Embeddings instances can be indexed into a graph, allowing for network analysis and topic modeling. Topic modeling can be done using community detection algorithms, and centrality and pagerank can be used to analyze the graph. The graph can also be traversed to show how nodes are connected. Furthermore, images can be grouped into topics using topic modeling, and the image graph can be walked to explore relationships between images.
+
+Link: https://neuml.hashnode.dev/introducing-the-semantic-graph
+
+<img src="/img/b9351921-70a5-4365-aec2-52c9c1ba5b74.png" width="400" />
+
+
+<sup><sub>1/15/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9889_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9889_0&tag=bestof)<sub/><sup/>
+
+<br/><br/>
+
+## Open-source, Highly Accurate Optical Character Recognition (OCR) System Released
+Summary: A new open-source Optical Character Recognition (OCR) tool called Surya has been released, which accurately extracts text from images and supports multiple languages. It can recognize text at the line level, making it a valuable tool for tasks such as document processing and data extraction.
+
+Link: https://www.linkedin.com/posts/alexcarliera_a-new-highly-accurate-ocr-was-just-released-activity-7151966210732040192-MeDq?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/5a96af17-2a6c-45f1-8a69-663aa357620c.png" width="400" />
+
+
+<sup><sub>1/14/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9884_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9884_0&tag=bestof)<sub/><sup/>
+
+<br/><br/>
+
+## Sure, here is a one-line headline describing the provided text:
+
+**MoEs: Efficiently pretraining and serving large language models with mixture-of-experts.**
+Summary: Mixture of Experts (MoE) is a type of transformer model that uses sparsity to enable faster pretraining and inference compared to dense models. MoEs consist of sparse MoE layers, which have a certain number of "experts" (e.g. 8), where each expert is a neural network. A gate network or router determines which tokens are sent to which expert. MoEs have been used to train multi-trillion parameter models, such as the open-sourced 1.6T parameters Switch Transformers. Fine-tuning MoEs has historically been difficult due to overfitting, but recent work with MoE instruction-tuning has shown promise.
+
+Link: https://huggingface.co/blog/moe
+
+<img src="/img/ffe714a0-bb8c-4032-b597-ae9f3297a682.png" width="400" />
+
+
+<sup><sub>1/13/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9882_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9882_0&tag=bestof)<sub/><sup/>
+
+<br/><br/>
+
+## Portkey's AI Gateway: Access 100+ LLMs with Unified API
+Summary: Portkey's AI Gateway functions as an interface between applications and hosted Large Language Models, enabling streamlined API requests to various providers. It features a unified API signature for over 100 LLMs, allowing developers to connect using the OpenAI API signature without code modifications. Additional features include automatic retries, fallbacks, load balancing, and multiple SDKs for easy integration. Configurable routing strategies offer customization for fallbacks, retries, and load balancing.
+
+Link: https://github.com/Portkey-AI/gateway
+
+<img src="/img/9010a57f-f609-41d0-984d-09bda68172c1.png" width="400" />
+
+
+<sup><sub>1/13/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9877_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9877_0&tag=bestof)<sub/><sup/>
+
+<br/><br/>
+
 ## Improved Latent Space Representation with Variational Autoencoders
 Summary: Variational AutoEncoders (VAEs) are an extension of classical autoencoders typically used for dimensionality reduction. While classical autoencoders only minimize the reconstruction loss, VAEs instead maximize a lower bound on the log-likelihood of the data. This results in a more continuous and centralized latent space, which is advantageous for generative tasks. The posterior distribution in VAEs is approximated by a diagonal Gaussian distribution with parameters \(\mu\) and \(\sigma\), and the KL divergence between this distribution and the standard Gaussian is used as a penalty in the loss function. The resulting latent space is more compact and smooth, allowing for interpolation between input images and other fun applications.
 
