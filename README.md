@@ -1,15 +1,3 @@
-## Portkey's AI Gateway: Access 100+ LLMs with Unified API
-Summary: Portkey's AI Gateway functions as an interface between applications and hosted Large Language Models, enabling streamlined API requests to various providers. It features a unified API signature for over 100 LLMs, allowing developers to connect using the OpenAI API signature without code modifications. Additional features include automatic retries, fallbacks, load balancing, and multiple SDKs for easy integration. Configurable routing strategies offer customization for fallbacks, retries, and load balancing.
-
-Link: https://github.com/Portkey-AI/gateway
-
-<img src="/img/9010a57f-f609-41d0-984d-09bda68172c1.png" width="400" />
-
-
-<sup><sub>1/13/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9877_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9877_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9877_0&tag=Experiments)<sub/><sup/>
-
-<br/><br/>
-
 ## Improved Latent Space Representation with Variational Autoencoders
 Summary: Variational AutoEncoders (VAEs) are an extension of classical autoencoders typically used for dimensionality reduction. While classical autoencoders only minimize the reconstruction loss, VAEs instead maximize a lower bound on the log-likelihood of the data. This results in a more continuous and centralized latent space, which is advantageous for generative tasks. The posterior distribution in VAEs is approximated by a diagonal Gaussian distribution with parameters \(\mu\) and \(\sigma\), and the KL divergence between this distribution and the standard Gaussian is used as a penalty in the loss function. The resulting latent space is more compact and smooth, allowing for interpolation between input images and other fun applications.
 
