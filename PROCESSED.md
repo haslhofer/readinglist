@@ -58,6 +58,20 @@ Link: https://www.linkedin.com/posts/alexcarliera_a-new-highly-accurate-ocr-was-
 
 <br/><br/>
 
+## Sure, here is a one-line headline describing the provided text:
+
+**MoEs: Efficiently pretraining and serving large language models with mixture-of-experts.**
+Summary: Mixture of Experts (MoE) is a type of transformer model that uses sparsity to enable faster pretraining and inference compared to dense models. MoEs consist of sparse MoE layers, which have a certain number of "experts" (e.g. 8), where each expert is a neural network. A gate network or router determines which tokens are sent to which expert. MoEs have been used to train multi-trillion parameter models, such as the open-sourced 1.6T parameters Switch Transformers. Fine-tuning MoEs has historically been difficult due to overfitting, but recent work with MoE instruction-tuning has shown promise.
+
+Link: https://huggingface.co/blog/moe
+
+<img src="/img/ffe714a0-bb8c-4032-b597-ae9f3297a682.png" width="400" />
+
+
+<sup><sub>1/13/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9882_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9882_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9882_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## New tool converts HTML directories to Markdown for LLMs and RAG datasets
 Summary: Clipper, a Node.js command-line tool, facilitates the conversion of HTML content to Markdown format, enabling simplified data extraction, web page crawling, and RAG dataset building. With easy installation through NPM, Clipper offers JSON output options, supports URL and file inputs, and offers features such as context trimming and output filtering. It streamlines the process of collecting and converting online content for various applications, including LLM training and RAG pipeline integration.
 
