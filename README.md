@@ -1,15 +1,3 @@
-## Open-source, Highly Accurate Optical Character Recognition (OCR) System Released
-Summary: A new open-source Optical Character Recognition (OCR) tool called Surya has been released, which accurately extracts text from images and supports multiple languages. It can recognize text at the line level, making it a valuable tool for tasks such as document processing and data extraction.
-
-Link: https://www.linkedin.com/posts/alexcarliera_a-new-highly-accurate-ocr-was-just-released-activity-7151966210732040192-MeDq?utm_source=share&amp;utm_medium=member_android
-
-<img src="/img/5a96af17-2a6c-45f1-8a69-663aa357620c.png" width="400" />
-
-
-<sup><sub>1/14/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9884_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9884_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9884_0&tag=Experiments)<sub/><sup/>
-
-<br/><br/>
-
 ## Sure, here is a one-line headline describing the provided text:
 
 **MoEs: Efficiently pretraining and serving large language models with mixture-of-experts.**
