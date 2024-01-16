@@ -156,6 +156,18 @@ Link: https://arxiv.org/abs/2401.02994
 
 <br/><br/>
 
+## Improved Latent Space Representation with Variational Autoencoders
+Summary: Variational AutoEncoders (VAEs) are an extension of classical autoencoders typically used for dimensionality reduction. While classical autoencoders only minimize the reconstruction loss, VAEs instead maximize a lower bound on the log-likelihood of the data. This results in a more continuous and centralized latent space, which is advantageous for generative tasks. The posterior distribution in VAEs is approximated by a diagonal Gaussian distribution with parameters \(\mu\) and \(\sigma\), and the KL divergence between this distribution and the standard Gaussian is used as a penalty in the loss function. The resulting latent space is more compact and smooth, allowing for interpolation between input images and other fun applications.
+
+Link: https://avandekleut.github.io/vae/
+
+<img src="/img/66a15480-74d5-46e4-b88c-d4d063bbc644.png" width="400" />
+
+
+<sup><sub>1/9/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9835_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9835_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9835_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## A Survey on Generative Information Extraction Methods Using Large Language Models
 Summary: A survey on leveraging generative large language models (LLMs) for information extraction (IE) tasks is presented. The achievements of LLM-based IE methods are categorized, reviewed, and analyzed. The study provides insights into techniques and suggests promising research directions for future exploration. A public repository with consistently updated resources is maintained to facilitate ongoing research in this area.
 
