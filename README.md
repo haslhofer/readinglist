@@ -1,3 +1,15 @@
+## Hugging Face multimodal team releases Websight, a dataset of screenshots and HTML/CSS code for training Vision Language Models.
+Summary: Hugging Face released Websight, a dataset of 823,000 website screenshots and HTML/CSS code for training Vision Language Models (VLMs) to convert images to code. The dataset is generated using open models and can be used commercially. A fine-tuned open model is also available for free on Hugging Face.
+
+Link: https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_transform-screenshots-into-html-code-effortlessly-activity-7152949221824872449-62iJ?utm_source=share&amp;utm_medium=member_desktop
+
+<img src="/img/eb0d2ae7-8591-4ef9-933b-8b62eb6f3acb.png" width="400" />
+
+
+<sup><sub>1/16/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9905_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9905_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9905_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Efficient Memory Utilization for Large Language Models on Consumer Hardware
 Summary: Mixtral-8x7B, a large language model, is too large to fit on consumer GPUs, but a new framework called mixtral-offloading enables efficient expert-aware quantization and expert offloading, reducing VRAM consumption while maintaining good inference speed. This allows Mixtral-8x7B to run on consumer hardware, making it more accessible for researchers and developers.
 
