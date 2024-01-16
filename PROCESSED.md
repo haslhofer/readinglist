@@ -180,6 +180,18 @@ Link: https://arxiv.org/abs/2312.17617v1
 
 <br/><br/>
 
+## Harvard Offers 10 Free Online Courses on Data Science, Statistics, and Web Programming
+Summary: Harvard University is offering a variety of free data science, statistics, and web programming courses. These courses cover a wide range of topics, from high-dimensional data analysis to understanding technology. The courses are taught by experts in the field and are designed to be accessible to learners of all levels.
+
+Link: https://www.linkedin.com/posts/lauradrahanbennett_ai-machinelearning-datascience-activity-7146321506380218368-1nnL?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/627da72a-a633-4ccd-8c15-65b286f75368.png" width="400" />
+
+
+<sup><sub>1/8/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9816_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9816_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9816_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## JPMorgan AI Research Introduces DocLLM: A Lightweight Extension to Traditional Large Language Models for Generative Reasoning Over Documents with Rich Layouts
 Summary: JPMorgan AI Research presents DocLLM, an extension of large language models designed for reasoning over visual documents. It combines textual semantics and spatial layout using bounding box coordinates, allowing efficient cross-modal interaction capture. The model is pre-trained with a modified self-supervised target addressing layout issues and fine-tuned with instruction data for tasks like form comprehension, table alignment, and visual question answering, showing significant performance gains.
 
