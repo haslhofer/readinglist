@@ -1,15 +1,3 @@
-## This article lists recommended books of various genres, all of which promise to expand readers' minds.
-Summary: This repository contains a list of mind-expanding books curated by various contributors. The selection covers a wide range of topics, including startups and business, philosophy and psychology, autobiographies and biographies, history, science and medicine, logic and problem-solving, politics, economics, gender, sexuality, race, education, writing, theater and film, Shakespeare, fiction, and miscellaneous subjects like health, design, travel, language, nature, and art. Some popular book recommendations are Shoe Dog by Phil Knight, The Ride of a Lifetime by Robert Iger, and Bad Blood by John Carreyrou.
-
-Link: https://github.com/hackerkid/Mind-Expanding-Books
-
-<img src="/img/9e8c5f7b-a2eb-403f-8998-875c15b5938d.png" width="400" />
-
-
-<sup><sub>1/15/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9893_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9893_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9893_0&tag=Experiments)<sub/><sup/>
-
-<br/><br/>
-
 ## Automatic Evaluation Framework for Assessing LLMs' Protocol Planning Abilities in Biology
 Summary: The paper presents a novel automatic evaluation framework and dataset called BioProt for assessing the performance of Large Language Models (LLMs) in planning experimental protocols in biology. The framework involves converting natural language protocols into pseudocode representations, which enables the evaluation of an LLM's ability to reconstruct the pseudocode from high-level descriptions and admissible pseudocode functions. The study explores the performance of GPT-3 and GPT-4 on this task and examines their robustness. It also demonstrates the utility of pseudocode representations by generating accurate novel protocols and successfully executing a generated protocol in a biological laboratory. The extensibility of the framework to other areas of science or domains lacking automatic evaluation is highlighted.
 
