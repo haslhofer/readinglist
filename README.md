@@ -1,3 +1,15 @@
+## Efficient Memory Utilization for Large Language Models on Consumer Hardware
+Summary: Mixtral-8x7B, a large language model, is too large to fit on consumer GPUs, but a new framework called mixtral-offloading enables efficient expert-aware quantization and expert offloading, reducing VRAM consumption while maintaining good inference speed. This allows Mixtral-8x7B to run on consumer hardware, making it more accessible for researchers and developers.
+
+Link: https://towardsdatascience.com/run-mixtral-8x7b-on-consumer-hardware-with-expert-offloading-bd3ada394688
+
+<img src="/img/9db46986-97a2-4b6b-854f-37d54d72d072.png" width="400" />
+
+
+<sup><sub>1/16/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9902_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9902_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9902_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Hugging Face Paper Reviews Training and Inference Techniques for Cost-Efficient Large Language Models
 Summary: The recent popularity of ChatGPT has highlighted the need for cost-efficient training and deployment of Large Language Models (LLMs). This paper provides a comprehensive overview of the evolution of LLM training techniques and inference deployment technologies, covering topics such as data preprocessing, training architecture, pre-training tasks, parallel training, model compression, parallel computation, memory scheduling, and structural optimization. It also explores LLM utilization and provides insights into their future development.
 
