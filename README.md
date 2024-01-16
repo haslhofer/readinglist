@@ -1,15 +1,3 @@
-## Harvard Offers 10 Free Online Courses on Data Science, Statistics, and Web Programming
-Summary: Harvard University is offering a variety of free data science, statistics, and web programming courses. These courses cover a wide range of topics, from high-dimensional data analysis to understanding technology. The courses are taught by experts in the field and are designed to be accessible to learners of all levels.
-
-Link: https://www.linkedin.com/posts/lauradrahanbennett_ai-machinelearning-datascience-activity-7146321506380218368-1nnL?utm_source=share&amp;utm_medium=member_android
-
-<img src="/img/627da72a-a633-4ccd-8c15-65b286f75368.png" width="400" />
-
-
-<sup><sub>1/8/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9816_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9816_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9816_0&tag=Experiments)<sub/><sup/>
-
-<br/><br/>
-
 ## Hugging Face Paper Reviews Training and Inference Techniques for Cost-Efficient Large Language Models
 Summary: The recent popularity of ChatGPT has highlighted the need for cost-efficient training and deployment of Large Language Models (LLMs). This paper provides a comprehensive overview of the evolution of LLM training techniques and inference deployment technologies, covering topics such as data preprocessing, training architecture, pre-training tasks, parallel training, model compression, parallel computation, memory scheduling, and structural optimization. It also explores LLM utilization and provides insights into their future development.
 
