@@ -34,6 +34,18 @@ Link: https://arxiv.org/abs/2310.10632?utm_source=substack&utm_medium=email
 
 <br/><br/>
 
+## Explore topics, data connectivity and run network analysis with the Semantic Graph
+Summary: A semantic graph, also known as a knowledge graph or semantic network, is introduced, constructed with semantic relationships connecting the nodes. Nodes and relationships can be added to the graph, and analysis functions can be run on it. Semantic graphs can be used to explore relationships, such as topics and interconnections in a dataset. Embeddings instances can be indexed into a graph, allowing for network analysis and topic modeling. Topic modeling can be done using community detection algorithms, and centrality and pagerank can be used to analyze the graph. The graph can also be traversed to show how nodes are connected. Furthermore, images can be grouped into topics using topic modeling, and the image graph can be walked to explore relationships between images.
+
+Link: https://neuml.hashnode.dev/introducing-the-semantic-graph
+
+<img src="/img/b9351921-70a5-4365-aec2-52c9c1ba5b74.png" width="400" />
+
+
+<sup><sub>1/15/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9889_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9889_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9889_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## New tool converts HTML directories to Markdown for LLMs and RAG datasets
 Summary: Clipper, a Node.js command-line tool, facilitates the conversion of HTML content to Markdown format, enabling simplified data extraction, web page crawling, and RAG dataset building. With easy installation through NPM, Clipper offers JSON output options, supports URL and file inputs, and offers features such as context trimming and output filtering. It streamlines the process of collecting and converting online content for various applications, including LLM training and RAG pipeline integration.
 
