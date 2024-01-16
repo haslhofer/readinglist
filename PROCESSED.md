@@ -6,7 +6,7 @@ Link: https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_just-released-an-u
 <img src="/img/646fe201-ed8d-4949-b03a-0766b754adde.png" width="400" />
 
 
-<sup><sub>1/12/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9870_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9870_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/12/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9870_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9870_0&tag=bestof) [GitHubLibrary.Topic](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9870_0&tag=GitHubLibrary.Topic)<sub/><sup/>
 
 <br/><br/>
 
@@ -18,7 +18,7 @@ Link: https://arxiv.org/abs/2401.04088?utm_source=aitidbits.substack.com&utm_med
 <img src="/img/c5dc1189-7592-40ef-9ed9-79813baaff1d.png" width="400" />
 
 
-<sup><sub>1/11/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9864_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9864_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/11/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9864_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9864_0&tag=bestof) [GitHubLibrary.Topic](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9864_0&tag=GitHubLibrary.Topic)<sub/><sup/>
 
 <br/><br/>
 
@@ -30,7 +30,7 @@ Link: https://github.com/imoneoi/openchat?tab=readme-ov-file
 <img src="/img/50895a6c-24b8-4e24-970d-17572b03ba2f.png" width="400" />
 
 
-<sup><sub>1/11/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9862_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9862_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/11/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9862_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9862_0&tag=bestof) [GitHubLibrary.Topic](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9862_0&tag=GitHubLibrary.Topic)<sub/><sup/>
 
 <br/><br/>
 
@@ -42,7 +42,7 @@ Link: https://www.linkedin.com/posts/andrewyng_ai-discovers-new-antibiotics-open
 <img src="/img/c4e93447-19fa-4ae8-a788-887f212b4420.png" width="400" />
 
 
-<sup><sub>1/11/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9860_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9860_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/11/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9860_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9860_0&tag=bestof) [GitHubLibrary.Topic](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9860_0&tag=GitHubLibrary.Topic)<sub/><sup/>
 
 <br/><br/>
 
@@ -54,7 +54,7 @@ Link: https://neuml.hashnode.dev/embeddings-index-components
 <img src="/img/dcbde876-dd30-41cb-9464-9104b3554d31.png" width="400" />
 
 
-<sup><sub>1/11/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9856_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9856_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/11/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9856_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9856_0&tag=bestof) [GitHubLibrary.Topic](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9856_0&tag=GitHubLibrary.Topic)<sub/><sup/>
 
 <br/><br/>
 
@@ -66,7 +66,7 @@ Link: https://arxiv.org/abs/2401.02994
 <img src="/img/d92ca433-583a-47a1-926c-36a8792b6619.png" width="400" />
 
 
-<sup><sub>1/9/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9842_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9842_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/9/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9842_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9842_0&tag=bestof) [GitHubLibrary.Topic](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9842_0&tag=GitHubLibrary.Topic)<sub/><sup/>
 
 <br/><br/>
 
@@ -78,7 +78,7 @@ Link: https://arxiv.org/abs/2312.17617v1
 <img src="/img/fce3f106-83d0-40c6-ada2-89dfec55272c.png" width="400" />
 
 
-<sup><sub>1/8/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9818_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9818_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/8/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9818_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9818_0&tag=bestof) [GitHubLibrary.Topic](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9818_0&tag=GitHubLibrary.Topic)<sub/><sup/>
 
 <br/><br/>
 
@@ -90,7 +90,7 @@ Link: https://www.marktechpost.com/2024/01/05/jpmorgan-ai-research-introduces-do
 <img src="/img/e3156297-1b6f-4fe0-b942-2483d95d261c.png" width="400" />
 
 
-<sup><sub>1/6/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9805_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9805_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/6/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9805_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9805_0&tag=bestof) [GitHubLibrary.Topic](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9805_0&tag=GitHubLibrary.Topic)<sub/><sup/>
 
 <br/><br/>
 
@@ -102,7 +102,7 @@ Link: https://www.marktechpost.com/2024/01/05/jpmorgan-ai-research-introduces-do
 <img src="/img/c5ac700d-366a-404f-a3e3-51dbeaa6f74e.png" width="400" />
 
 
-<sup><sub>1/6/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9805_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9805_0&tag=bestof)<sub/><sup/>
+<sup><sub>1/6/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9805_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9805_0&tag=bestof) [GitHubLibrary.Topic](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9805_0&tag=GitHubLibrary.Topic)<sub/><sup/>
 
 <br/><br/>
 
@@ -124,7 +124,7 @@ Link: https://paulgraham.com/greatwork.html
 <img src="/img/46e14cdf-da78-48e6-90bb-10c9a4483a03.png" width="400" />
 
 
-<sup><sub>12/28/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9657_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9657_0&tag=bestof)<sub/><sup/>
+<sup><sub>12/28/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9657_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9657_0&tag=bestof) [GitHubLibrary.Topic](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9657_0&tag=GitHubLibrary.Topic)<sub/><sup/>
 
 <br/><br/>
 
@@ -136,7 +136,7 @@ Link: https://www.linkedin.com/feed/update/urn:li:activity:7049789761728770049?u
 <img src="/img/ccc7d6d4-ae0a-4d05-9334-9fe130ed51dd.png" width="400" />
 
 
-<sup><sub>4/8/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8221_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8221_0&tag=bestof)<sub/><sup/>
+<sup><sub>4/8/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8221_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8221_0&tag=bestof) [GitHubLibrary.Topic](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8221_0&tag=GitHubLibrary.Topic)<sub/><sup/>
 
 <br/><br/>
 
