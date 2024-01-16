@@ -72,6 +72,18 @@ Link: https://huggingface.co/blog/moe
 
 <br/><br/>
 
+## Portkey's AI Gateway: Access 100+ LLMs with Unified API
+Summary: Portkey's AI Gateway functions as an interface between applications and hosted Large Language Models, enabling streamlined API requests to various providers. It features a unified API signature for over 100 LLMs, allowing developers to connect using the OpenAI API signature without code modifications. Additional features include automatic retries, fallbacks, load balancing, and multiple SDKs for easy integration. Configurable routing strategies offer customization for fallbacks, retries, and load balancing.
+
+Link: https://github.com/Portkey-AI/gateway
+
+<img src="/img/9010a57f-f609-41d0-984d-09bda68172c1.png" width="400" />
+
+
+<sup><sub>1/13/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9877_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9877_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9877_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## New tool converts HTML directories to Markdown for LLMs and RAG datasets
 Summary: Clipper, a Node.js command-line tool, facilitates the conversion of HTML content to Markdown format, enabling simplified data extraction, web page crawling, and RAG dataset building. With easy installation through NPM, Clipper offers JSON output options, supports URL and file inputs, and offers features such as context trimming and output filtering. It streamlines the process of collecting and converting online content for various applications, including LLM training and RAG pipeline integration.
 
