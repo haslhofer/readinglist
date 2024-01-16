@@ -1,15 +1,3 @@
-## From scratch implementation of Self-Attention, Multi-Head Attention, Cross-Attention, and Causal Self-Attention in Large Language Models (LLMs)
-Summary: This article explains the inner workings of the self-attention mechanism, a core component of large language models (LLMs) like GPT-4 and Llama, through a step-by-step coding approach. It also covers multi-head attention, cross-attention, and causal self-attention.
-
-Link: https://magazine.sebastianraschka.com/p/understanding-and-coding-self-attention
-
-<img src="/img/fc744586-928d-47fd-bd8e-87045144ad19.png" width="400" />
-
-
-<sup><sub>1/15/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9895_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9895_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9895_0&tag=Experiments)<sub/><sup/>
-
-<br/><br/>
-
 ## This article lists recommended books of various genres, all of which promise to expand readers' minds.
 Summary: This repository contains a list of mind-expanding books curated by various contributors. The selection covers a wide range of topics, including startups and business, philosophy and psychology, autobiographies and biographies, history, science and medicine, logic and problem-solving, politics, economics, gender, sexuality, race, education, writing, theater and film, Shakespeare, fiction, and miscellaneous subjects like health, design, travel, language, nature, and art. Some popular book recommendations are Shoe Dog by Phil Knight, The Ride of a Lifetime by Robert Iger, and Bad Blood by John Carreyrou.
 
