@@ -1,3 +1,15 @@
+## From scratch implementation of Self-Attention, Multi-Head Attention, Cross-Attention, and Causal Self-Attention in Large Language Models (LLMs)
+Summary: This article explains the inner workings of the self-attention mechanism, a core component of large language models (LLMs) like GPT-4 and Llama, through a step-by-step coding approach. It also covers multi-head attention, cross-attention, and causal self-attention.
+
+Link: https://magazine.sebastianraschka.com/p/understanding-and-coding-self-attention
+
+<img src="/img/fc744586-928d-47fd-bd8e-87045144ad19.png" width="400" />
+
+
+<sup><sub>1/15/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9895_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9895_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9895_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## New tool converts HTML directories to Markdown for LLMs and RAG datasets
 Summary: Clipper, a Node.js command-line tool, facilitates the conversion of HTML content to Markdown format, enabling simplified data extraction, web page crawling, and RAG dataset building. With easy installation through NPM, Clipper offers JSON output options, supports URL and file inputs, and offers features such as context trimming and output filtering. It streamlines the process of collecting and converting online content for various applications, including LLM training and RAG pipeline integration.
 
