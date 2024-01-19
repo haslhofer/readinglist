@@ -10,6 +10,18 @@ Link: https://www.pinecone.io/blog/rag-study/
 
 <br/><br/>
 
+## Composable Retrievers: A New Way to Link Retrieval Models for Advanced RAG Pipelines
+Summary: LlamaIndex introduces a composable retriever interface that enables linking any retriever to any other retriever or RAG pipeline. This simplification allows users to define arbitrary hierarchies of retrievers and custom retrievers easily. The interface offers several benefits, including simplified writing of advanced RAG interfaces, creation of arbitrary hierarchies of retrievers, and definition of custom retrievers.
+
+Link: https://www.linkedin.com/posts/llamaindex_composable-retrieval-a-lot-of-advanced-activity-7153785306419216384-wjsr?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/f87ffb82-2111-4b1b-8bc8-5d529e532bce.png" width="400" />
+
+
+<sup><sub>1/19/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9920_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9920_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9920_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Sure, here's a one-line headline describing the text you provided:
 
 **Government Unveils Plan to Combat Physician Burnout and Improve Patient Care**
