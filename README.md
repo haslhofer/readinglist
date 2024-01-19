@@ -1,3 +1,15 @@
+## How to Create and Track an Advanced Local RAG System Using Mistral 7b, LlamaIndex, and Weights & Biases
+Summary: The article discusses the process of building an advanced Retrieval Augmented Generation (RAG) system locally. It begins by setting up the environment, loading documents for experiments, installing the LlamaIndex library, and configuring a local LLM (Llama.cpp). The article then demonstrates how to evaluate the system's performance in terms of faithfulness and relevancy, implement advanced RAG techniques such as hierarchical nodes and re-ranking, and track experiments end-to-end using Weights & Biases (W&B) for comparison of results. The complete code for the local RAG system is available on GitHub.
+
+Link: https://towardsdatascience.com/building-evaluating-and-tracking-a-local-advanced-rag-system-mistral-7b-llamaindex-w-b-5c9c69059f92
+
+<img src="/img/d6e3caf0-f7e1-434a-8d6e-21406bbfdac7.png" width="400" />
+
+
+<sup><sub>1/19/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9926_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9926_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9926_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Efficient Memory Utilization for Large Language Models on Consumer Hardware
 Summary: Mixtral-8x7B, a large language model, is too large to fit on consumer GPUs, but a new framework called mixtral-offloading enables efficient expert-aware quantization and expert offloading, reducing VRAM consumption while maintaining good inference speed. This allows Mixtral-8x7B to run on consumer hardware, making it more accessible for researchers and developers.
 
