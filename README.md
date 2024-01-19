@@ -1,3 +1,15 @@
+## Two Sigma's New Guide to Large Language Model Abstractions
+Summary: This research focuses on the recent developments in frameworks that abstract interactions with large language models (LLMs). The authors introduce a seven-layer abstraction model, the Language Model System Interface Model (LMSI), to classify these frameworks and their separation of concerns. They also identify five families of LM abstractions based on their intrinsic and extrinsic features, which include utilities, community resources, reliability, performance, portability, and extensibility. This article provides a comprehensive review of existing LM programming abstractions and offers insights for developers and framework designers. It also includes a table and a figure to further illustrate the key features and terms discussed.
+
+Link: https://www.twosigma.com/articles/a-guide-to-large-language-model-abstractions/
+
+<img src="/img/6655ed24-80f5-4844-a139-41662586fea3.png" width="400" />
+
+
+<sup><sub>1/19/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9928_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9928_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9928_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## How to Create and Track an Advanced Local RAG System Using Mistral 7b, LlamaIndex, and Weights & Biases
 Summary: The article discusses the process of building an advanced Retrieval Augmented Generation (RAG) system locally. It begins by setting up the environment, loading documents for experiments, installing the LlamaIndex library, and configuring a local LLM (Llama.cpp). The article then demonstrates how to evaluate the system's performance in terms of faithfulness and relevancy, implement advanced RAG techniques such as hierarchical nodes and re-ranking, and track experiments end-to-end using Weights & Biases (W&B) for comparison of results. The complete code for the local RAG system is available on GitHub.
 
