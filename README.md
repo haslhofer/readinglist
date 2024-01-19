@@ -1,15 +1,3 @@
-## Composable Retrievers: A New Way to Link Retrieval Models for Advanced RAG Pipelines
-Summary: LlamaIndex introduces a composable retriever interface that enables linking any retriever to any other retriever or RAG pipeline. This simplification allows users to define arbitrary hierarchies of retrievers and custom retrievers easily. The interface offers several benefits, including simplified writing of advanced RAG interfaces, creation of arbitrary hierarchies of retrievers, and definition of custom retrievers.
-
-Link: https://www.linkedin.com/posts/llamaindex_composable-retrieval-a-lot-of-advanced-activity-7153785306419216384-wjsr?utm_source=share&amp;utm_medium=member_android
-
-<img src="/img/f87ffb82-2111-4b1b-8bc8-5d529e532bce.png" width="400" />
-
-
-<sup><sub>1/19/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9920_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9920_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9920_0&tag=Experiments)<sub/><sup/>
-
-<br/><br/>
-
 ## Hugging Face multimodal team releases Websight, a dataset of screenshots and HTML/CSS code for training Vision Language Models.
 Summary: Hugging Face released Websight, a dataset of 823,000 website screenshots and HTML/CSS code for training Vision Language Models (VLMs) to convert images to code. The dataset is generated using open models and can be used commercially. A fine-tuned open model is also available for free on Hugging Face.
 
