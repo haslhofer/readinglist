@@ -1,15 +1,3 @@
-## New programming language optimizes prompts for large language models
-Summary: LMQL, a programming language designed specifically for interacting with Large Language Models (LLMs), has just released version 0.7. It enables robust and modular LLM prompting with features such as types, templates, constraints, and an optimizing runtime. Programmers can write queries in LMQL, which are then sent to an LLM to generate responses. The results are directly accessible, enabling the construction of complex prompts with guaranteed output formats. Moreover, LMQL supports nested queries, modularized local instructions, and re-use of prompt components, making it a powerful tool for prompt engineering.
-
-Link: https://lmql.ai/
-
-<img src="/img/4ed56468-4916-4da4-b17e-a90567bb6ce7.png" width="400" />
-
-
-<sup><sub>1/20/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9930_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9930_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9930_0&tag=Experiments)<sub/><sup/>
-
-<br/><br/>
-
 ## Two Sigma's New Guide to Large Language Model Abstractions
 Summary: This research focuses on the recent developments in frameworks that abstract interactions with large language models (LLMs). The authors introduce a seven-layer abstraction model, the Language Model System Interface Model (LMSI), to classify these frameworks and their separation of concerns. They also identify five families of LM abstractions based on their intrinsic and extrinsic features, which include utilities, community resources, reliability, performance, portability, and extensibility. This article provides a comprehensive review of existing LM programming abstractions and offers insights for developers and framework designers. It also includes a table and a figure to further illustrate the key features and terms discussed.
 
