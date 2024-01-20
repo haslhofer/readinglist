@@ -1,3 +1,15 @@
+## DSPy: Programming Foundation Models for Complex Tasks, Not Prompting Them
+Summary: The DSPy framework enables programmers to develop and compile high-quality language model (LM) systems for complex tasks using modular and trainable components. Instead of manually crafting prompts for each LM step, DSPy separates program flow from parameters, allowing optimizers to adjust instructions, few-shot examples, and LM weights. This abstraction facilitates the composition of multi-step pipelines, and compiling such programs produces effective prompts or finetuned LMs. DSPy includes general-purpose modules and optimizers that adapt to program changes, data modifications, and validation constraints. The framework aims to make complex tasks accessible to LMs by empowering programmers to focus on system design and behavioral constraints, while DSPy handles tedious prompt engineering.
+
+Link: https://github.com/stanfordnlp/dspy
+
+<img src="/img/2b688d7e-e016-4981-a00f-a54f2d09b403.png" width="400" />
+
+
+<sup><sub>1/20/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9940_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9940_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9940_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Two Sigma's New Guide to Large Language Model Abstractions
 Summary: This research focuses on the recent developments in frameworks that abstract interactions with large language models (LLMs). The authors introduce a seven-layer abstraction model, the Language Model System Interface Model (LMSI), to classify these frameworks and their separation of concerns. They also identify five families of LM abstractions based on their intrinsic and extrinsic features, which include utilities, community resources, reliability, performance, portability, and extensibility. This article provides a comprehensive review of existing LM programming abstractions and offers insights for developers and framework designers. It also includes a table and a figure to further illustrate the key features and terms discussed.
 
