@@ -1,3 +1,15 @@
+## Unleashing the Power of Chatbots: Three Strategies to Enhance RAG Performance
+Summary: The author presents three techniques to enhance chatbot performance, which are not dependent on open-source libraries or tools. The techniques are designed for scenarios where precise answers are valued more than fast responses. These techniques, illustrated with code snippets, are applicable to specific skills and can be integrated into existing chatbot code. The author provides a Google Colab Notebook for hands-on exploration and integration into projects. The context is a chatbot designed to provide information about board games.
+
+Link: https://medium.com/@marco.bertelli/revolutionizing-chatbot-performance-unleashing-three-potent-strategies-for-rag-enhancement-c1188e395d9d
+
+<img src="/img/45fccde8-4b0a-4233-b09c-d4fd76ae5fc4.png" width="400" />
+
+
+<sup><sub>1/20/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9942_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9942_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9942_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## DSPy: Programming Foundation Models for Complex Tasks, Not Prompting Them
 Summary: The DSPy framework enables programmers to develop and compile high-quality language model (LM) systems for complex tasks using modular and trainable components. Instead of manually crafting prompts for each LM step, DSPy separates program flow from parameters, allowing optimizers to adjust instructions, few-shot examples, and LM weights. This abstraction facilitates the composition of multi-step pipelines, and compiling such programs produces effective prompts or finetuned LMs. DSPy includes general-purpose modules and optimizers that adapt to program changes, data modifications, and validation constraints. The framework aims to make complex tasks accessible to LMs by empowering programmers to focus on system design and behavioral constraints, while DSPy handles tedious prompt engineering.
 
