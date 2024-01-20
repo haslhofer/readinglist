@@ -1,3 +1,15 @@
+## Two Sigma's New Guide to Large Language Model Abstractions
+Summary: This research focuses on the recent developments in frameworks that abstract interactions with large language models (LLMs). The authors introduce a seven-layer abstraction model, the Language Model System Interface Model (LMSI), to classify these frameworks and their separation of concerns. They also identify five families of LM abstractions based on their intrinsic and extrinsic features, which include utilities, community resources, reliability, performance, portability, and extensibility. This article provides a comprehensive review of existing LM programming abstractions and offers insights for developers and framework designers. It also includes a table and a figure to further illustrate the key features and terms discussed.
+
+Link: https://www.twosigma.com/articles/a-guide-to-large-language-model-abstractions/
+
+<img src="/img/6655ed24-80f5-4844-a139-41662586fea3.png" width="400" />
+
+
+<sup><sub>1/19/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9928_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9928_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9928_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Curiosity, effort, ability, and luck are key factors in achieving great work. One should focus on something exciting that provides scope for great and unique work. It is recommended to choose a field, learn enough to reach the frontier of knowledge, notice gaps, and then explore promising ones.
 Summary: This text describes the common traits of exceptionally productive people. The author asserts that the first step to excelling in a field is to choose a field that aligns with your natural aptitudes, interests, and offers ample opportunities for groundbreaking work. However, finding such a field is difficult, especially when you're young. Therefore, the author recommends experimenting with different fields and projects until you find one that truly excites you.
 
