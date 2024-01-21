@@ -1,3 +1,27 @@
+## Monograph Covers Fundamental Concepts, Advanced Data Structures, and Algorithms for Vector Retrieval
+Summary: This paper, titled "Foundations of Vector Retrieval," delves into the fundamental concepts and advanced algorithms for retrieving vectors that are similar to a query vector. It emphasizes the significance of vector retrieval in various data modalities, including text, images, and speech. The monograph provides a comprehensive overview of this fascinating research area, making it accessible to a wider audience.
+
+Link: https://arxiv.org/abs/2401.09350
+
+<img src="/img/6d41b708-8442-41be-93a9-13676b35ad4e.png" width="400" />
+
+
+<sup><sub>1/21/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9954_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9954_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9954_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## Mixtral 8x7B with transformers, AWQ, and fused modules for improved accuracy and performance
+Summary: A new method called Mistral 8x7B with fused modules and AWQ is introduced, powered by AutoAWQ and Transformers. Fused modules offer improved accuracy and performance. To use it, set a fuse_max_seq_len and set do_fuse=True in the quantization config during model initialization, and install Transformers from main.
+
+Link: https://www.linkedin.com/posts/vaibhavs10_3x-faster-mixtral-8x7b-with-transformers-activity-7153781020985622528-_3qw?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/1551300f-429b-4239-9cdb-b928833075d1.png" width="400" />
+
+
+<sup><sub>1/21/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9952_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9952_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9952_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Stability AI Introduces New Language Model: Stable LM 2 1.6B
 Summary: Stability AI introduces Stable LM 2 1.6B, a compact and fast 1.6 billion parameter multilingual small language model trained on English, Spanish, German, Italian, French, Portuguese, and Dutch. It boasts competitive performance compared to larger models, excelling on translated benchmarks and showing promise for responsible development and experimentation due to its open training details and optimizer state availability.
 
