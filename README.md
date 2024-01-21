@@ -1,3 +1,51 @@
+## Stability AI Introduces New Language Model: Stable LM 2 1.6B
+Summary: Stability AI introduces Stable LM 2 1.6B, a compact and fast 1.6 billion parameter multilingual small language model trained on English, Spanish, German, Italian, French, Portuguese, and Dutch. It boasts competitive performance compared to larger models, excelling on translated benchmarks and showing promise for responsible development and experimentation due to its open training details and optimizer state availability.
+
+Link: https://stability.ai/news/introducing-stable-lm-2
+
+<img src="/img/b194acb6-fd00-4fae-804b-404df1df0f3d.png" width="400" />
+
+
+<sup><sub>1/21/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9950_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9950_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9950_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## Together Embeddings endpoint: Higher accuracy, longer context, and lower cost
+Summary: Together AI introduces the Together Embeddings endpoint, featuring 8 leading embedding models, including those that outperform OpenAI's ada-002 and Cohere's Embed-v3 in benchmarks. These state-of-the-art models enable long context M2-Retrieval up to 32k context length and are available at competitive prices, up to 4x cheaper than other platforms. With API compatibility with OpenAI, migrating existing applications is simplified. An example of data visualization using tSNE for RedPajama-v1 datasets is also provided.
+
+Link: https://www.together.ai/blog/embeddings-endpoint-release
+
+<img src="/img/29e71f94-74bd-4c11-8b8a-02b7f8b777a2.png" width="400" />
+
+
+<sup><sub>1/21/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9948_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9948_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9948_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## A 32k long pretrained Togethercomputer's M2-BERT model that generates embeddings for retrieval tasks
+Summary: Monarch Mixer-BERT is a pre-trained transformer model designed for long-context retrieval. Intended to generate embeddings for retrieval, it was trained with a sequence length of 32768 and has a dimensionality of 768. Its architecture is based on M2-BERT, a masked sequence-to-sequence model. This model has been fine-tuned for long-context retrieval, exhibiting strong performance in extracting meaningful embeddings from long text.
+
+Link: https://huggingface.co/togethercomputer/m2-bert-80M-32k-retrieval
+
+<img src="/img/4aca320a-25ce-4a60-b73e-0a5b3c39c3e2.png" width="400" />
+
+
+<sup><sub>1/21/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9946_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9946_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9946_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## Long-context embedding models can enhance retrieval in RAG by grounding it in high-level semantic context
+Summary: Long-context embedding models have the potential to alleviate the "embedding chunking" problem in RAG by grounding retrieval in higher-level semantic context. One way to include long-context embeddings is through "hybrid" retrieval, which combines standard similarity search with long-context embedding-based document similarity, allowing for more comprehensive retrieval of relevant documents.
+
+Link: https://www.linkedin.com/posts/llamaindex_a-cool-promise-for-long-context-embedding-activity-7154645081163993088-dAKB?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/9e275965-12d8-4a49-93af-b2b6dcb07c8e.png" width="400" />
+
+
+<sup><sub>1/21/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9944_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9944_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9944_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Unleashing the Power of Chatbots: Three Strategies to Enhance RAG Performance
 Summary: The author presents three techniques to enhance chatbot performance, which are not dependent on open-source libraries or tools. The techniques are designed for scenarios where precise answers are valued more than fast responses. These techniques, illustrated with code snippets, are applicable to specific skills and can be integrated into existing chatbot code. The author provides a Google Colab Notebook for hands-on exploration and integration into projects. The context is a chatbot designed to provide information about board games.
 
