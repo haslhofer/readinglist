@@ -1,3 +1,27 @@
+## Open Source Text-to-Speech System Built by Inverting Whisper
+Summary: WhisperSpeech is an open-source text-to-speech system built on top of Whisper, EnCodec, and Vocos models. The system uses Whisper to generate semantic tokens from audio, EnCodec to model acoustic tokens, and Vocos to generate high-quality audio from EnCodec tokens. WhisperSpeech is designed to be powerful and easily customizable, and it is currently trained on the English LibreLight dataset. Future releases will target multiple languages.
+
+Link: https://github.com/collabora/WhisperSpeech
+
+<img src="/img/68fbfb67-1368-44aa-b57f-9618fbec8c0a.png" width="400" />
+
+
+<sup><sub>1/24/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9969_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9969_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9969_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## LLM App Stack: A comprehensive list of tools, projects, and vendors at each layer
+Summary: The "LLM App Stack" repository provides a list of tools, projects, and vendors available at each layer of the LLM app stack. The goal is to be more comprehensive than the original article, which included only popular options based on user interviews. It covers areas such as data pipelines, embedding models, vector databases, playgrounds, orchestrators, APIs/plugins, LLM caches, logging, monitoring, evaluation, validators, LLM APIs, app hosting platforms, cloud providers, and opinionated clouds. Perplexity and Cursor.sh prompts are included for easier searching and markdown table formatting.
+
+Link: https://github.com/a16z-infra/llm-app-stack
+
+<img src="/img/097f3184-241e-4762-a232-27db3c25f507.png" width="400" />
+
+
+<sup><sub>1/24/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9967_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9967_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9967_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Monograph Covers Fundamental Concepts, Advanced Data Structures, and Algorithms for Vector Retrieval
 Summary: This paper, titled "Foundations of Vector Retrieval," delves into the fundamental concepts and advanced algorithms for retrieving vectors that are similar to a query vector. It emphasizes the significance of vector retrieval in various data modalities, including text, images, and speech. The monograph provides a comprehensive overview of this fascinating research area, making it accessible to a wider audience.
 
