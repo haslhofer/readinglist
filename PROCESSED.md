@@ -1,3 +1,15 @@
+## Open Source Text-to-Speech System Built by Inverting Whisper
+Summary: WhisperSpeech is an open-source text-to-speech system built on top of Whisper, EnCodec, and Vocos models. The system uses Whisper to generate semantic tokens from audio, EnCodec to model acoustic tokens, and Vocos to generate high-quality audio from EnCodec tokens. WhisperSpeech is designed to be powerful and easily customizable, and it is currently trained on the English LibreLight dataset. Future releases will target multiple languages.
+
+Link: https://github.com/collabora/WhisperSpeech
+
+<img src="/img/68fbfb67-1368-44aa-b57f-9618fbec8c0a.png" width="400" />
+
+
+<sup><sub>1/24/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9969_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9969_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9969_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Colab Notebook Runs Mixtral8x7B-Instruct Model with MoE Offloading for Text Generation
 Summary: The provided text uses a pre-trained quantized model, Mixtral-8x7B-Instruct, implemented with a mixed-precision strategy and a specific offloading approach, making it suitable for inference on consumer-grade GPUs or in Google Colab with limited VRAM and RAM resources. It outlines the process of setting up the environment, initializing the model, and generating text sequences interactively, demonstrating its language generation capabilities. The text also includes a couple of funny poems in response to user prompts, showcasing the model's ability to generate creative text based on user input.
 
