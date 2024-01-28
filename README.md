@@ -1,3 +1,99 @@
+## Study explores self-rewarding language models that continuously improve both instruction following and self-reward provision
+Summary: Researchers propose Self-Rewarding Language Models (SRLM), where the LLM itself provides rewards during training. SRLM outperforms existing systems on the AlpacaEval 2.0 leaderboard, including Claude 2, Gemini Pro, and GPT-4 0613, demonstrating the potential for models to continually improve both instruction following and reward provision abilities.
+
+Link: https://arxiv.org/abs/2401.10020
+
+<img src="/img/a97db708-9ca0-4698-bb69-eacd0bb9dcf9.png" width="400" />
+
+
+<sup><sub>1/27/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9996_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9996_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9996_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## Web LLM: Bringing large language models and LLM-based chatbots to web browsers
+Summary: Web LLM is a project that aims to bring large-language models (LLMs) and LLM-based chatbots to web browsers. It allows users to run LLMs directly in their browser without the need for server support or specific types of GPUs. The project utilizes WebGPU technology and offers various LLM models, including Llama 2, Mistral, and RedPajama. With Web LLM, users can build AI assistants, create personal AI models, and enjoy the benefits of cost reduction, personalization, and privacy protection. The project provides instructions and a chat demo to showcase its capabilities.
+
+Link: https://webllm.mlc.ai/#chat-demo
+
+<img src="/img/b48c11f4-f0c2-4a93-b465-7d2c67165f81.png" width="400" />
+
+
+<sup><sub>1/27/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9990_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9990_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9990_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## Experience Cutting-Edge Web Browsing with Google Chrome 121
+Summary: Charlie Ruan announced on X that with Google Chrome version 121, users can run webllm.mlc.ai on their Android web browser with WebGPU acceleration, allowing everything to be processed locally. He shared a demonstration of running 4-bit quantized Phi-2 on a Samsung S23 at 1x speed, expressing gratitude to Jason Mayes for his support and suggestions.
+
+Link: https://twitter.com/charlie_ruan/status/1750186438581268939?s=20
+
+<img src="/img/3ea89db4-3db7-434f-9632-21a863351766.png" width="400" />
+
+
+<sup><sub>1/26/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9988_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9988_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9988_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## Web LLM: Unleashing Large Language Models and Chatbot in Web Browsers
+Summary: Web LLM is a groundbreaking project that enables the seamless execution and integration of large language models (LLMs) and LLM-powered chatbots within web browsers. This innovative approach eliminates the need for server support, leveraging WebGPU acceleration to empower users with personal AI assistants that prioritize privacy and cost-effectiveness. By introducing this versatility to the ecosystem, Web LLM paves the way for the development of diverse, open-source language models and fosters the creation of AI assistants tailored to individual needs and preferences.
+
+Link: https://t.co/Tt9Tv62q96
+
+<img src="/img/76469fac-d28b-4d39-81d7-51499bd40b20.png" width="400" />
+
+
+<sup><sub>1/26/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9988_1&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9988_1&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9988_1&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## WebGPU acceleration enables machine learning models to run locally on Android web browsers
+Summary: Charlie Ruan, a user of X, shared a significant advancement in using Google Chrome v121 with WebGPU acceleration locally on Android web browsers, allowing users to run intricate AI models such as 4-bit quantized Phi-2 on the Samsung S23 device. This innovation demonstrates the capabilities of X in providing the latest advancements and enabling cutting-edge technologies for its users.
+
+Link: https://t.co/ixvSJMbg93
+
+<img src="/img/95d41555-0544-48ee-bba3-8897d345cd2e.png" width="400" />
+
+
+<sup><sub>1/26/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9988_2&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9988_2&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9988_2&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## OctoAI offers Mixtral 8x7B Instruct, an open-source LLM with competitive quality and 4x lower cost than GPT 3.5
+Summary: The Mixtral 8x7B Instruct large language model from Mistral AI is now available on the OctoAI Text Gen Solution. This open-source LLM offers comparable quality to GPT 3.5 at a significantly lower cost, making it an attractive option for builders seeking high-quality alternatives to proprietary models. Mixtral 8x7B utilizes a sparse Mixture of Experts architecture, enabling conditional computing to limit parameter usage, resulting in lower computational needs for training and inference. With its unified API, OctoAI's integration of Mixtral simplifies adoption and allows users to easily incorporate the model into their applications. Customers can get started with Mixtral 8x7B Instruct today at no cost by signing up for the OctoAI Text Gen Solution.
+
+Link: https://octo.ai/blog/mixtral-8x7b-instruct-model-now-available-on-octoai-text-gen-solution/?utm_term=&amp;utm_campaign=mixtral-discovery&amp;utm_source=adwords&amp;utm_medium=ppc&amp;hsa_acc=6483334439&amp;hsa_cam=20947639602&amp;hsa_grp=156523849606&amp;hsa_ad=688194155009&amp;hsa_src=&amp;hsa_tgt=&amp;hsa_kw=&amp;hsa_mt=&amp;hsa_net=adwords&amp;hsa_ver=3&amp;gad_source=1&amp;gclid=CjwKCAiAzc2tBhA6EiwArv-i6VxtrmlcQ60ZHl4aP8X7690jWY13PVYTiRQYtAqghgTPPuByViPNXhoC41EQAvD_BwE
+
+<img src="/img/39f8ecd9-1d14-491c-aee4-d0908c2c788c.png" width="400" />
+
+
+<sup><sub>1/26/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9986_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9986_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9986_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## Introducing Depth Anything: The Best Open-Source Depth Estimation Model for AI Applications
+Summary: Hugging Face introduces DepthEstimator, a cutting-edge model for depth estimation from a single RGB image. Offering state-of-the-art performance, DepthEstimator unlocks applications in text-to-image conditioning, self-driving, and augmented reality. The model was developed by the University of Hong Kong/TikTok, leveraging a large-scale dataset and a novel "data engine" for data collection and annotation. It can be easily integrated into projects with a few lines of code.
+
+Link: https://www.linkedin.com/posts/huggingface_you-may-have-heard-of-segment-anything-sam-activity-7156570679146942464-IdzF?utm_source=share&utm_medium=member_android
+
+<img src="/img/f89984cb-d714-49e5-82d4-84af2c311d36.png" width="400" />
+
+
+<sup><sub>1/26/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9984_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9984_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9984_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## Microsoft Copilot Studio Implementation Guide Now Available
+Summary: Microsoft Copilot Studio has been widely adopted and successfully deployed, leading to a need for in-depth guidance and best practices. The Copilot Studio implementation guide has been created to address this need, providing a framework for a comprehensive review of Copilot Studio projects and architectures. This guide is inspired by the Success by Design framework and covers various aspects of the project, including architecture overview, language, AI functionalities, integrations, security, application lifecycle management, analytics, and gaps. It can now be used autonomously by customers and partners and is designed to be updated throughout the project lifecycle.
+
+Link: https://microsoftcopilotstudio.microsoft.com/en-us/blog/new-microsoft-copilot-studio-implementation-guide/
+
+<img src="/img/59e7c87b-6eec-478b-b73a-c9513cd76cef.png" width="400" />
+
+
+<sup><sub>1/25/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9978_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9978_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9978_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## LLM App Stack: A comprehensive list of tools, projects, and vendors at each layer
 Summary: The "LLM App Stack" repository provides a list of tools, projects, and vendors available at each layer of the LLM app stack. The goal is to be more comprehensive than the original article, which included only popular options based on user interviews. It covers areas such as data pipelines, embedding models, vector databases, playgrounds, orchestrators, APIs/plugins, LLM caches, logging, monitoring, evaluation, validators, LLM APIs, app hosting platforms, cloud providers, and opinionated clouds. Perplexity and Cursor.sh prompts are included for easier searching and markdown table formatting.
 
