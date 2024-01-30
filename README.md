@@ -1,3 +1,39 @@
+## Meta releases Code Llama 70B, a large language model achieving human-level performance on code generation tasks.
+Summary: Meta released Code Llama 70B, the largest version of Code Llama, an AI system designed for programming tasks. It has achieved 67.8% on the HumanEval benchmark, matching the initial performance of the recently-hyped GPT-4. Code Llama 70B is initialized from Llama 2, trained on 1T Tokens, and fine-tuned on Python and Instruct versions. It has a context window of 16384 and is available on Hugging Face, with plans to integrate it into Hugging Chat soon.
+
+Link: https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_code-llama-70b-is-heremeta-just-activity-7157780231116738562-GlmI?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/f0b117f2-83fe-4a0b-a3c3-6135c48c2e52.png" width="400" />
+
+
+<sup><sub>1/29/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10008_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10008_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10008_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## RWKV Opensource Releases 7.52B Parameter Model Eagle 7B
+Summary: RWKV Open Source Development Blog has announced the release of RWKV-v5 Eagle 7B, a 7.52B parameter model that outperforms all 7B class models in multi-lingual benchmarks. The model, built on the RWKV-v5 architecture, is also the world's greenest 7B model per token and has been trained on 1.1 trillion tokens across 100+ languages. RWKV-v5 demonstrates strong performance in both multi-lingual and English benchmarks, challenging models like Falcon (1.5T), LLaMA2 (2T), and Mistral (>2T?). The Eagle 7B model is available for download on Huggingface and can be used without restrictions under the Apache 2.0 license.
+
+Link: https://blog.rwkv.com/p/eagle-7b-soaring-past-transformers
+
+<img src="/img/ce9affa6-ab6d-4ebb-a08f-27be0adec92d.png" width="400" />
+
+
+<sup><sub>1/29/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10003_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10003_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10003_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## NLP Newsletter: The Latest Trends in Natural Language Processing and Machine Learning
+Summary: The NLP Newsletter offers a collection of trending news, projects, resources, and research papers pertaining to natural language processing (NLP) and machine learning (ML).
+
+Link: https://nlp.elvissaravia.com/
+
+<img src="/img/e3074121-f7de-4dba-b6a0-00cb624063d0.png" width="400" />
+
+
+<sup><sub>1/28/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9998_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9998_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9998_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Study explores self-rewarding language models that continuously improve both instruction following and self-reward provision
 Summary: Researchers propose Self-Rewarding Language Models (SRLM), where the LLM itself provides rewards during training. SRLM outperforms existing systems on the AlpacaEval 2.0 leaderboard, including Claude 2, Gemini Pro, and GPT-4 0613, demonstrating the potential for models to continually improve both instruction following and reward provision abilities.
 
