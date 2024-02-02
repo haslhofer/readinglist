@@ -1,3 +1,15 @@
+## Meta releases Code Llama 70B, a large language model achieving human-level performance on code generation tasks.
+Summary: Meta released Code Llama 70B, the largest version of Code Llama, an AI system designed for programming tasks. It has achieved 67.8% on the HumanEval benchmark, matching the initial performance of the recently-hyped GPT-4. Code Llama 70B is initialized from Llama 2, trained on 1T Tokens, and fine-tuned on Python and Instruct versions. It has a context window of 16384 and is available on Hugging Face, with plans to integrate it into Hugging Chat soon.
+
+Link: https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_code-llama-70b-is-heremeta-just-activity-7157780231116738562-GlmI?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/f0b117f2-83fe-4a0b-a3c3-6135c48c2e52.png" width="400" />
+
+
+<sup><sub>1/29/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10008_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10008_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10008_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Open Source Text-to-Speech System Built by Inverting Whisper
 Summary: WhisperSpeech is an open-source text-to-speech system built on top of Whisper, EnCodec, and Vocos models. The system uses Whisper to generate semantic tokens from audio, EnCodec to model acoustic tokens, and Vocos to generate high-quality audio from EnCodec tokens. WhisperSpeech is designed to be powerful and easily customizable, and it is currently trained on the English LibreLight dataset. Future releases will target multiple languages.
 
