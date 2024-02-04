@@ -1,3 +1,15 @@
+## Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception
+Summary: Mobile-Agent is an autonomous multi-modal mobile device agent that utilizes visual perception to accurately identify and locate visual and textual elements within an app's interface. It plans and decomposes complex operation tasks, navigating mobile apps step by step. Unlike previous methods, Mobile-Agent operates in a vision-centric manner, eliminating the need for system-specific customizations and demonstrating remarkable accuracy and completion rates, even in challenging multi-app scenarios.
+
+Link: https://arxiv.org/abs/2401.16158v1
+
+<img src="/img/2523098e-c776-4726-99b1-731134b62022.png" width="400" />
+
+
+<sup><sub>2/4/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10033_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10033_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10033_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## RWKV Opensource Releases 7.52B Parameter Model Eagle 7B
 Summary: RWKV Open Source Development Blog has announced the release of RWKV-v5 Eagle 7B, a 7.52B parameter model that outperforms all 7B class models in multi-lingual benchmarks. The model, built on the RWKV-v5 architecture, is also the world's greenest 7B model per token and has been trained on 1.1 trillion tokens across 100+ languages. RWKV-v5 demonstrates strong performance in both multi-lingual and English benchmarks, challenging models like Falcon (1.5T), LLaMA2 (2T), and Mistral (>2T?). The Eagle 7B model is available for download on Huggingface and can be used without restrictions under the Apache 2.0 license.
 
