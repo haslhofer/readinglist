@@ -1,3 +1,15 @@
+## YouTube has immense educational value, but 98% of viewers are unaware of the best professors on the platform. Here's a list of the top ten channels that can teach you more in 2024 than a four-year college degree, covering topics from brain health to coding, economics, and marketing.
+Summary: This article promotes YouTube as a hub for free education. The writer claims that YouTube offers a wealth of knowledge and learning opportunities that surpass traditional 4-year college degrees. The article highlights ten popular YouTube channels that cover a wide range of educational topics, including science, history, business, economics, and personal development. The writer encourages readers to explore these channels to gain valuable insights and skills that can enhance their personal and professional growth.
+
+Link: https://www.linkedin.com/posts/mattgray1_youtube-is-free-education-but-98-dont-activity-7161344904659443712-3zKT?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/4af83d44-7fa5-458d-adba-c6a9f65163e7.png" width="400" />
+
+
+<sup><sub>2/11/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10072_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10072_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10072_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception
 Summary: Mobile-Agent is an autonomous multi-modal mobile device agent that utilizes visual perception to accurately identify and locate visual and textual elements within an app's interface. It plans and decomposes complex operation tasks, navigating mobile apps step by step. Unlike previous methods, Mobile-Agent operates in a vision-centric manner, eliminating the need for system-specific customizations and demonstrating remarkable accuracy and completion rates, even in challenging multi-app scenarios.
 
