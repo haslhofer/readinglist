@@ -1,15 +1,3 @@
-## MetaVoice-1B: A Powerful 1.2B Parameter Base Model for Text-to-Speech
-Summary: MetaVoice-1B is a 1.2B parameter text-to-speech model with a focus on emotional speech rhythm and tone in English, support for voice cloning with finetuning, and zero-shot cloning for American and British voices. It predicts EnCodec tokens from text and speaker information and uses a causal GPT to predict the first two hierarchies of EnCodec tokens. The rest of the 6 hierarchies are predicted using a non-causal transformer. Multi-band diffusion is used to generate waveforms from the EnCodec tokens, and DeepFilterNet is used to clean up artifacts introduced by the diffusion process.
-
-Link: https://huggingface.co/metavoiceio/metavoice-1B-v0.1
-
-<img src="/img/48b63e33-12aa-4568-8697-d9ec42db232b.png" width="400" />
-
-
-<sup><sub>2/7/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10050_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10050_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10050_0&tag=Experiments)<sub/><sup/>
-
-<br/><br/>
-
 ## MetaVoice 1B: A 1.2 Billion Parameter Voice Cloning Model Released with Apache 2.0 License
 Summary: MetaVoice 1B is a new text-to-speech (TTS) model released by MetaVoice, with 1.2 billion parameters and trained on 100K hours of data. It can do zero-shot voice cloning, short and long-form synthesis, and can portray emotions in speech. The model is Apache 2.0 licensed and its architecture consists of an encoder (Multi-Band Diffusion), a GPT + Encoder Transformer LM, and a DeepFilterNet to clean up artifacts.
 
