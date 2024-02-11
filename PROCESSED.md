@@ -1,3 +1,15 @@
+## Microsoft Copilot for Microsoft 365: An AI-powered tool that enhances productivity by coordinating AI models with Microsoft 365 apps.
+Summary: Copilot for Microsoft 365 is an AI-powered tool that uses LLMs, content from Microsoft Graph, and various apps to assist users. It uses pre-trained models like GPT-4 to generate text and content, coordinate tasks, and generate responses. To function, it receives an input prompt from a user, processes it through "grounding" to make answers more specific and actionable, and sends it to the LLM for processing. The response from the LLM is then post-processed, reviewed by the responsible AI team, and sent back to the app for review by the user.
+
+Link: https://www.linkedin.com/posts/jackrowbotham_microsoft-technology-microsoft365-activity-7161599604705218561-p9Ye?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/f4daa089-ddc8-4047-a099-49a8f00823ab.png" width="400" />
+
+
+<sup><sub>2/10/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10064_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10064_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10064_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Meta releases Code Llama 70B, a large language model achieving human-level performance on code generation tasks.
 Summary: Meta released Code Llama 70B, the largest version of Code Llama, an AI system designed for programming tasks. It has achieved 67.8% on the HumanEval benchmark, matching the initial performance of the recently-hyped GPT-4. Code Llama 70B is initialized from Llama 2, trained on 1T Tokens, and fine-tuned on Python and Instruct versions. It has a context window of 16384 and is available on Hugging Face, with plans to integrate it into Hugging Chat soon.
 
