@@ -10,6 +10,18 @@ Link: https://www.linkedin.com/posts/jackrowbotham_microsoft-technology-microsof
 
 <br/><br/>
 
+## MetaVoice-1B: A Powerful 1.2B Parameter Base Model for Text-to-Speech
+Summary: MetaVoice-1B is a 1.2B parameter text-to-speech model with a focus on emotional speech rhythm and tone in English, support for voice cloning with finetuning, and zero-shot cloning for American and British voices. It predicts EnCodec tokens from text and speaker information and uses a causal GPT to predict the first two hierarchies of EnCodec tokens. The rest of the 6 hierarchies are predicted using a non-causal transformer. Multi-band diffusion is used to generate waveforms from the EnCodec tokens, and DeepFilterNet is used to clean up artifacts introduced by the diffusion process.
+
+Link: https://huggingface.co/metavoiceio/metavoice-1B-v0.1
+
+<img src="/img/48b63e33-12aa-4568-8697-d9ec42db232b.png" width="400" />
+
+
+<sup><sub>2/7/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10050_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10050_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10050_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Meta releases Code Llama 70B, a large language model achieving human-level performance on code generation tasks.
 Summary: Meta released Code Llama 70B, the largest version of Code Llama, an AI system designed for programming tasks. It has achieved 67.8% on the HumanEval benchmark, matching the initial performance of the recently-hyped GPT-4. Code Llama 70B is initialized from Llama 2, trained on 1T Tokens, and fine-tuned on Python and Instruct versions. It has a context window of 16384 and is available on Hugging Face, with plans to integrate it into Hugging Chat soon.
 
