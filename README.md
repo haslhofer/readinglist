@@ -1,3 +1,15 @@
+## LoRA: Low-Rank Adaptation of Large Language Models
+Summary: LoRA (Low-Rank Adaptation of Large Language Models) is a method for adapting large language models to new tasks by learning a low-rank update for a subset of the model's parameters while keeping the remaining parameters fixed. This approach significantly reduces the number of trainable parameters and enables efficient task switching during deployment. LoRA has been shown to outperform several other adaptation methods and is comparable or superior to full fine-tuning on various benchmarks.
+
+Link: https://github.com/microsoft/LoRA
+
+<img src="/img/bf1612e7-5608-4729-bd69-c2ee27ebeaca.png" width="400" />
+
+
+<sup><sub>2/13/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10081_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10081_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10081_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Evaluating the Weakness of Large Language Model Agents in a Complex Android Environment
 Summary: Researchers have introduced AndroidArena, an environment and benchmark to evaluate the performance of large language model (LLM) agents on a modern operating system. LLM agents face challenges due to the vast and dynamic action space, the requirement for inter-application cooperation, and the need to consider user constraints. The researchers found that even state-of-the-art LLM agents struggle in complex scenarios and lack capabilities such as understanding, reasoning, exploration, and reflection. Exploration strategies were found to improve the success rate of LLM agents in certain tasks.
 
