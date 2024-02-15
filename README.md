@@ -1,3 +1,15 @@
+## Introducing Gemini 1.5: Next-Gen AI Model with Enhanced Performance and Long-Context Understanding
+Summary: Google's next-generation AI model, Gemini 1.5, offers exceptional performance advancements. Its enhanced long-context understanding enables processing of up to 1 million tokens, significantly increasing the amount of information it can handle. The model outperforms its predecessors on multiple benchmarks, showcasing improved performance across tasks such as video analysis, code problem-solving, and language translation. Despite its advanced capabilities, Gemini 1.5 undergoes rigorous ethics and safety testing to ensure responsible deployment. Early testing for developers and enterprise customers is now available through AI Studio and Vertex AI, with plans for a wider release with tiered pricing based on context window size.
+
+Link: https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/
+
+<img src="/img/7631f5c9-6906-4aaf-a27a-a8bcd285544e.png" width="400" />
+
+
+<sup><sub>2/15/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10097_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10097_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10097_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## LoRA: Low-Rank Adaptation of Large Language Models
 Summary: LoRA (Low-Rank Adaptation of Large Language Models) is a method for adapting large language models to new tasks by learning a low-rank update for a subset of the model's parameters while keeping the remaining parameters fixed. This approach significantly reduces the number of trainable parameters and enables efficient task switching during deployment. LoRA has been shown to outperform several other adaptation methods and is comparable or superior to full fine-tuning on various benchmarks.
 
