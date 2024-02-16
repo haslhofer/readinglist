@@ -1,3 +1,15 @@
+## Open-Source AI Cookbook repository providing practical AI implementation examples using open-source tools and models.
+Summary: The Open-Source AI Cookbook is a community-driven repository that provides practical AI examples and tutorials using open-source tools and models. Contributors can submit ideas, contribute notebooks, or improve existing content. To contribute, review existing notebooks to avoid duplication and ensure that the notebook is practical, clearly written, executes without errors, adds to existing recipes, and references all resources used. Once a pull request is merged, the notebook will be added to the cookbook, which is accessible online at huggingface.co/learn/cookbook.
+
+Link: http://github.com/huggingface/cookbook
+
+<img src="/img/99c08a64-c82f-41ae-a8ee-fcebfbc2a416.png" width="400" />
+
+
+<sup><sub>2/16/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10099_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10099_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10099_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Introducing Gemini 1.5: Next-Gen AI Model with Enhanced Performance and Long-Context Understanding
 Summary: Google's next-generation AI model, Gemini 1.5, offers exceptional performance advancements. Its enhanced long-context understanding enables processing of up to 1 million tokens, significantly increasing the amount of information it can handle. The model outperforms its predecessors on multiple benchmarks, showcasing improved performance across tasks such as video analysis, code problem-solving, and language translation. Despite its advanced capabilities, Gemini 1.5 undergoes rigorous ethics and safety testing to ensure responsible deployment. Early testing for developers and enterprise customers is now available through AI Studio and Vertex AI, with plans for a wider release with tiered pricing based on context window size.
 
