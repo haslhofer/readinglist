@@ -1,3 +1,15 @@
+## GitHub: A comprehensive platform for developers
+Summary: GitHub is a platform for hosting and collaborating on code projects. It provides a range of features, including code repositories, issue tracking, and project management tools. GitHub offers support for developers through its Docs, Community Forum, and Professional Services, as well as a subscriber-based developer newsletter featuring technical guides and industry best practices.
+
+Link: https://github.com/ray-project/llf-board
+
+<img src="/img/6df1d5d8-9a40-4901-9453-a92358cc0933.png" width="400" />
+
+
+<sup><sub>2/19/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10113_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10113_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10113_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Groq: Offering API Access to the World's Fastest Open-Source LLM Inference Engine
 Summary: Groq provides API access to approved members, offering the fastest inference speed for open-source LLMs, including Llama 2 70B, with a 10-day free trial. Groq guarantees the most competitive pricing and offers additional models like Mistral and CodeLlama upon request. Their LPU Inference Engine boasts an 18x faster LLM inference performance compared to cloud providers, as demonstrated on Anyscale's LLMPerf Leaderboard.
 
