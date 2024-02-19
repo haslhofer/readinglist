@@ -1,3 +1,15 @@
+## Hugging Face Researchers Train One of the Largest Context Size Transformers on Long Video and Language Sequences
+Summary: Researchers have developed a large transformer model that can process over 1 million tokens of video and language sequences. The model, trained on a massive dataset using the RingAttention technique, improves long sequence understanding and retrieval tasks. The authors also provide open-sourced 7B parameter models for text and video processing, addressing challenges such as memory constraints, computational complexity, and data limitations. This work enables broader AI capabilities for assisting humans by combining human textual knowledge with the physical world's understanding.
+
+Link: https://huggingface.co/papers/2402.08268
+
+<img src="/img/3f867aaf-26a2-47a5-9061-c1fe77a06a78.png" width="400" />
+
+
+<sup><sub>2/17/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10103_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10103_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10103_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Microsoft Copilot for Microsoft 365: An AI-powered tool that enhances productivity by coordinating AI models with Microsoft 365 apps.
 Summary: Copilot for Microsoft 365 is an AI-powered tool that uses LLMs, content from Microsoft Graph, and various apps to assist users. It uses pre-trained models like GPT-4 to generate text and content, coordinate tasks, and generate responses. To function, it receives an input prompt from a user, processes it through "grounding" to make answers more specific and actionable, and sends it to the LLM for processing. The response from the LLM is then post-processed, reviewed by the responsible AI team, and sent back to the app for review by the user.
 
