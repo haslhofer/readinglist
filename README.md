@@ -1,15 +1,3 @@
-## Hugging Face Researchers Train One of the Largest Context Size Transformers on Long Video and Language Sequences
-Summary: Researchers have developed a large transformer model that can process over 1 million tokens of video and language sequences. The model, trained on a massive dataset using the RingAttention technique, improves long sequence understanding and retrieval tasks. The authors also provide open-sourced 7B parameter models for text and video processing, addressing challenges such as memory constraints, computational complexity, and data limitations. This work enables broader AI capabilities for assisting humans by combining human textual knowledge with the physical world's understanding.
-
-Link: https://huggingface.co/papers/2402.08268
-
-<img src="/img/3f867aaf-26a2-47a5-9061-c1fe77a06a78.png" width="400" />
-
-
-<sup><sub>2/17/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10103_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10103_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10103_0&tag=Experiments)<sub/><sup/>
-
-<br/><br/>
-
 ## Open-Source AI Cookbook repository providing practical AI implementation examples using open-source tools and models.
 Summary: The Open-Source AI Cookbook is a community-driven repository that provides practical AI examples and tutorials using open-source tools and models. Contributors can submit ideas, contribute notebooks, or improve existing content. To contribute, review existing notebooks to avoid duplication and ensure that the notebook is practical, clearly written, executes without errors, adds to existing recipes, and references all resources used. Once a pull request is merged, the notebook will be added to the cookbook, which is accessible online at huggingface.co/learn/cookbook.
 
