@@ -1,3 +1,15 @@
+## Surya: Document OCR Toolkit Featuring Accurate OCR and Line-Level Text Detection
+Summary: Surya is an OCR toolkit that accurately extracts text and lines from documents in over 90 languages. It outperforms Tesseract in terms of speed, accuracy, and coverage. Surya is designed for OCR on printed text but may work on some handwritten images. It supports text extraction from images, PDFs, and folders and can also visualize the detected text lines.
+
+Link: https://github.com/VikParuchuri/surya
+
+<img src="/img/10e86b52-4ff6-4910-a6d8-34d0afa16104.png" width="400" />
+
+
+<sup><sub>2/19/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10115_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10115_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10115_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## GitHub: A comprehensive platform for developers
 Summary: GitHub is a platform for hosting and collaborating on code projects. It provides a range of features, including code repositories, issue tracking, and project management tools. GitHub offers support for developers through its Docs, Community Forum, and Professional Services, as well as a subscriber-based developer newsletter featuring technical guides and industry best practices.
 
