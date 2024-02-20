@@ -1,3 +1,15 @@
+## GitHub: A comprehensive platform for developers
+Summary: GitHub is a platform for hosting and collaborating on code projects. It provides a range of features, including code repositories, issue tracking, and project management tools. GitHub offers support for developers through its Docs, Community Forum, and Professional Services, as well as a subscriber-based developer newsletter featuring technical guides and industry best practices.
+
+Link: https://github.com/ray-project/llf-board
+
+<img src="/img/6df1d5d8-9a40-4901-9453-a92358cc0933.png" width="400" />
+
+
+<sup><sub>2/19/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10113_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10113_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10113_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Hugging Face Researchers Train One of the Largest Context Size Transformers on Long Video and Language Sequences
 Summary: Researchers have developed a large transformer model that can process over 1 million tokens of video and language sequences. The model, trained on a massive dataset using the RingAttention technique, improves long sequence understanding and retrieval tasks. The authors also provide open-sourced 7B parameter models for text and video processing, addressing challenges such as memory constraints, computational complexity, and data limitations. This work enables broader AI capabilities for assisting humans by combining human textual knowledge with the physical world's understanding.
 
