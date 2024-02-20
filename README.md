@@ -1,15 +1,3 @@
-## Surya: Document OCR Toolkit Featuring Accurate OCR and Line-Level Text Detection
-Summary: Surya is an OCR toolkit that accurately extracts text and lines from documents in over 90 languages. It outperforms Tesseract in terms of speed, accuracy, and coverage. Surya is designed for OCR on printed text but may work on some handwritten images. It supports text extraction from images, PDFs, and folders and can also visualize the detected text lines.
-
-Link: https://github.com/VikParuchuri/surya
-
-<img src="/img/10e86b52-4ff6-4910-a6d8-34d0afa16104.png" width="400" />
-
-
-<sup><sub>2/19/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10115_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10115_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10115_0&tag=Experiments)<sub/><sup/>
-
-<br/><br/>
-
 ## Groq: Offering API Access to the World's Fastest Open-Source LLM Inference Engine
 Summary: Groq provides API access to approved members, offering the fastest inference speed for open-source LLMs, including Llama 2 70B, with a 10-day free trial. Groq guarantees the most competitive pricing and offers additional models like Mistral and CodeLlama upon request. Their LPU Inference Engine boasts an 18x faster LLM inference performance compared to cloud providers, as demonstrated on Anyscale's LLMPerf Leaderboard.
 
