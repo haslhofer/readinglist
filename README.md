@@ -1,15 +1,3 @@
-## Groq: Offering API Access to the World's Fastest Open-Source LLM Inference Engine
-Summary: Groq provides API access to approved members, offering the fastest inference speed for open-source LLMs, including Llama 2 70B, with a 10-day free trial. Groq guarantees the most competitive pricing and offers additional models like Mistral and CodeLlama upon request. Their LPU Inference Engine boasts an 18x faster LLM inference performance compared to cloud providers, as demonstrated on Anyscale's LLMPerf Leaderboard.
-
-Link: https://wow.groq.com/
-
-<img src="/img/56ff21cb-ede1-4b7d-aa59-4a47582bfdc5.png" width="400" />
-
-
-<sup><sub>2/19/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10107_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10107_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10107_0&tag=Experiments)<sub/><sup/>
-
-<br/><br/>
-
 ## Open-Source AI Cookbook repository providing practical AI implementation examples using open-source tools and models.
 Summary: The Open-Source AI Cookbook is a community-driven repository that provides practical AI examples and tutorials using open-source tools and models. Contributors can submit ideas, contribute notebooks, or improve existing content. To contribute, review existing notebooks to avoid duplication and ensure that the notebook is practical, clearly written, executes without errors, adds to existing recipes, and references all resources used. Once a pull request is merged, the notebook will be added to the cookbook, which is accessible online at huggingface.co/learn/cookbook.
 
