@@ -1,3 +1,15 @@
+## LoRA Land Unveiled: Enhanced Language Models Outperforming GPT-4 with Low-Cost Training
+Summary: Data Science Influencer Daliana Liu introduces LoRA Land, a collection of 25 fine-tuning mistral-7b models that outperform previous models in task-specific applications. These models are cost-effective, trained for less than $8 each, and demonstrate the power of "adapter-based training," which allows for efficient fine-tuning of smaller high-performance LLMs at low costs, revolutionizing the future of fine-tuning practices.
+
+Link: https://www.linkedin.com/posts/dalianaliu_machinelearning-llms-activity-7165799761382469632-TT2M?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/01c66ccf-374d-40e7-a278-790827e8cd19.png" width="400" />
+
+
+<sup><sub>2/21/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10129_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10129_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10129_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Open-Source AI Cookbook repository providing practical AI implementation examples using open-source tools and models.
 Summary: The Open-Source AI Cookbook is a community-driven repository that provides practical AI examples and tutorials using open-source tools and models. Contributors can submit ideas, contribute notebooks, or improve existing content. To contribute, review existing notebooks to avoid duplication and ensure that the notebook is practical, clearly written, executes without errors, adds to existing recipes, and references all resources used. Once a pull request is merged, the notebook will be added to the cookbook, which is accessible online at huggingface.co/learn/cookbook.
 
