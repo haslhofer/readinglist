@@ -1,3 +1,15 @@
+## Introducing NVIDIA Chat with RTX: A Personalized AI Chatbot on Your RTX PC
+Summary: NVIDIA Chat with RTX is a demo app that integrates a large language model with user-provided content to create a personalized chatbot. It utilizes retrieval-augmented generation and RTX acceleration to provide fast and relevant answers to queries. Users can input text documents, PDFs, URLs, and YouTube playlists into the app's library, and developers can access the underlying technology through the TensorRT-LLM RAG reference project on GitHub. Chat with RTX is available for Windows PCs and workstations with NVIDIA RTX GPUs and requires Windows 11, an RTX 30 or 40 Series GPU with at least 8GB of VRAM, and 16GB or more RAM.
+
+Link: https://www.nvidia.com/en-us/ai-on-rtx/chat-with-rtx-generative-ai/
+
+<img src="/img/3eeaeac7-7a77-4cd3-b47e-6e05b40c498b.png" width="400" />
+
+
+<sup><sub>2/20/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10118_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10118_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10118_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Surya: Document OCR Toolkit Featuring Accurate OCR and Line-Level Text Detection
 Summary: Surya is an OCR toolkit that accurately extracts text and lines from documents in over 90 languages. It outperforms Tesseract in terms of speed, accuracy, and coverage. Surya is designed for OCR on printed text but may work on some handwritten images. It supports text extraction from images, PDFs, and folders and can also visualize the detected text lines.
 
