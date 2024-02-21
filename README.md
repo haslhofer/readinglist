@@ -1,3 +1,15 @@
+## Txtai: Extracting and Building Knowledge Using Language Models and Knowledge Graphs
+Summary: The article discusses the process of building knowledge graphs using LLM-driven entity extraction. It demonstrates how to load a Wikipedia database, perform entity extraction using an LLM prompt, build a graph network from the extracted entities, visualize the network, and traverse the graph to find specific paths. This approach combines automatically derived relationships via semantic similarity with manually specified ones to create powerful knowledge graphs.
+
+Link: https://neuml.hashnode.dev/build-knowledge-graphs-with-llm-driven-entity-extraction
+
+<img src="/img/0cffaa32-1436-4e80-8a22-c00217c34b32.png" width="400" />
+
+
+<sup><sub>2/21/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10134_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10134_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10134_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## LoRA Land Unveiled: Enhanced Language Models Outperforming GPT-4 with Low-Cost Training
 Summary: Data Science Influencer Daliana Liu introduces LoRA Land, a collection of 25 fine-tuning mistral-7b models that outperform previous models in task-specific applications. These models are cost-effective, trained for less than $8 each, and demonstrate the power of "adapter-based training," which allows for efficient fine-tuning of smaller high-performance LLMs at low costs, revolutionizing the future of fine-tuning practices.
 
