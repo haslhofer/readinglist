@@ -34,6 +34,18 @@ Link: https://github.com/ray-project/llf-board
 
 <br/><br/>
 
+## Groq: Offering API Access to the World's Fastest Open-Source LLM Inference Engine
+Summary: Groq provides API access to approved members, offering the fastest inference speed for open-source LLMs, including Llama 2 70B, with a 10-day free trial. Groq guarantees the most competitive pricing and offers additional models like Mistral and CodeLlama upon request. Their LPU Inference Engine boasts an 18x faster LLM inference performance compared to cloud providers, as demonstrated on Anyscale's LLMPerf Leaderboard.
+
+Link: https://wow.groq.com/
+
+<img src="/img/56ff21cb-ede1-4b7d-aa59-4a47582bfdc5.png" width="400" />
+
+
+<sup><sub>2/19/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10107_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10107_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10107_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Hugging Face Researchers Train One of the Largest Context Size Transformers on Long Video and Language Sequences
 Summary: Researchers have developed a large transformer model that can process over 1 million tokens of video and language sequences. The model, trained on a massive dataset using the RingAttention technique, improves long sequence understanding and retrieval tasks. The authors also provide open-sourced 7B parameter models for text and video processing, addressing challenges such as memory constraints, computational complexity, and data limitations. This work enables broader AI capabilities for assisting humans by combining human textual knowledge with the physical world's understanding.
 
