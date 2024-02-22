@@ -1,3 +1,15 @@
+## Deep dive into the inner workings of large language models like ChatGPT, GPT-4, and LLaMa
+Summary: In this video, Niels Rogge provides a comprehensive explanation of the inner workings of large language models (LLMs) such as GPT-2, ChatGPT, LLaMa, GPT-4, and Mistral. By delving into the code of these models as implemented in the Transformers library by Hugging Face, Rogge offers insights into how LLMs operate, covering both inference and training time scenarios.
+
+Link: https://www.youtube.com/watch?v=C6ZszXYPDDw
+
+<img src="/img/76d73dd7-72df-4eb0-99f8-247ed0a2e8fc.png" width="400" />
+
+
+<sup><sub>2/22/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10138_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10138_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10138_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Fine-tuned Large Language Models from LoRA Land Outperform GPT-4 on a Single GPU
 Summary: Predibase's LoRA Land offers a collection of 25+ fine-tuned Mistral-7b models that have been optimized to outperform GPT-4 in specific tasks. This collection allows teams to efficiently and cost-effectively deploy AI systems by providing a blueprint for fine-tuning large language models. Additionally, Predibase introduces serverless fine-tuned endpoints for querying LLMs without requiring dedicated GPU deployments and releases LoRA Exchange (LoRAX), an open-source framework for serving numerous fine-tuned LLMs.
 
