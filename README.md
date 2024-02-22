@@ -1,15 +1,3 @@
-## Demystifying Transformers: Unveiling the Mechanisms of ChatGPT, GPT-4, and LLaMa
-Summary: Transformers are a type of neural network architecture that has become increasingly popular for natural language processing tasks. They are used in a variety of applications, including machine translation, text summarization, and question answering. Transformers learn context and relationships in sequential data through an attention mechanism, allowing them to understand the meaning of words and phrases in context. At inference time, Transformers use a stack of encoder and decoder layers to generate text or translate languages, while during training, these layers are optimized using backpropagation to minimize a loss function.
-
-Link: https://www.youtube.com/watch?v=IGu7ivuy1Ag
-
-<img src="/img/b3db696d-c00c-4398-bebc-ca825c2f8960.png" width="400" />
-
-
-<sup><sub>2/22/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10140_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10140_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10140_0&tag=Experiments)<sub/><sup/>
-
-<br/><br/>
-
 ## Deep dive into the inner workings of large language models like ChatGPT, GPT-4, and LLaMa
 Summary: In this video, Niels Rogge provides a comprehensive explanation of the inner workings of large language models (LLMs) such as GPT-2, ChatGPT, LLaMa, GPT-4, and Mistral. By delving into the code of these models as implemented in the Transformers library by Hugging Face, Rogge offers insights into how LLMs operate, covering both inference and training time scenarios.
 
