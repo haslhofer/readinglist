@@ -1,3 +1,15 @@
+## Fine-tuned Large Language Models from LoRA Land Outperform GPT-4 on a Single GPU
+Summary: Predibase's LoRA Land offers a collection of 25+ fine-tuned Mistral-7b models that have been optimized to outperform GPT-4 in specific tasks. This collection allows teams to efficiently and cost-effectively deploy AI systems by providing a blueprint for fine-tuning large language models. Additionally, Predibase introduces serverless fine-tuned endpoints for querying LLMs without requiring dedicated GPU deployments and releases LoRA Exchange (LoRAX), an open-source framework for serving numerous fine-tuned LLMs.
+
+Link: https://predibase.com/lora-land
+
+<img src="/img/7d47cf26-3084-4507-afef-eac006969b0b.png" width="400" />
+
+
+<sup><sub>2/22/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10136_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10136_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10136_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Txtai: Extracting and Building Knowledge Using Language Models and Knowledge Graphs
 Summary: The article discusses the process of building knowledge graphs using LLM-driven entity extraction. It demonstrates how to load a Wikipedia database, perform entity extraction using an LLM prompt, build a graph network from the extracted entities, visualize the network, and traverse the graph to find specific paths. This approach combines automatically derived relationships via semantic similarity with manually specified ones to create powerful knowledge graphs.
 
