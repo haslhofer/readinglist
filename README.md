@@ -1,3 +1,15 @@
+## Matryoshka Embedding Models: Efficiently Store and Process Variable-Size Embeddings
+Summary: Matryoshka Embedding Models are a new type of embedding model that can produce embeddings of various dimensions, enabling practitioners to scale their embedding solutions to their desired storage cost, processing speed, and performance. These models are trained to frontload the most important information at the start of an embedding, allowing for efficient truncation without significant performance loss. In comparison to regular embedding models, Matryoshka models exhibit superior performance at lower dimensionalities, making them suitable for use cases where storage space and processing speed are critical considerations.
+
+Link: https://huggingface.co/blog/matryoshka
+
+<img src="/img/9c2bc8ae-aab3-4921-a683-96aba297f7fd.png" width="400" />
+
+
+<sup><sub>2/23/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10146_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10146_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10146_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Deep dive into the inner workings of large language models like ChatGPT, GPT-4, and LLaMa
 Summary: In this video, Niels Rogge provides a comprehensive explanation of the inner workings of large language models (LLMs) such as GPT-2, ChatGPT, LLaMa, GPT-4, and Mistral. By delving into the code of these models as implemented in the Transformers library by Hugging Face, Rogge offers insights into how LLMs operate, covering both inference and training time scenarios.
 
