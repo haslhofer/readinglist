@@ -1,3 +1,15 @@
+## Local NLP: Get up and running with large language models locally.
+Summary: Ollama is a lightweight framework for building and running language models locally. It provides a simple API for creating, running, and managing models, as well as a library of pre-built models that can be easily used in various applications. Ollama supports importing models from different sources, customizing prompts, and generating responses through a REST API. It also offers community integrations, such as web and desktop UIs, libraries, extensions, and plugins, making it a versatile tool for working with large language models.
+
+Link: https://github.com/ollama/ollama
+
+<img src="/img/b7e66243-0f09-4e9e-a8e4-b0c8bf53a162.png" width="400" />
+
+
+<sup><sub>2/24/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10153_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10153_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10153_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Recurrent Memory Augmentation Enables GPT-2 to Process 11M Token Sequences, a Record for Neural Networks
 Summary: Researchers have developed a new benchmark, BABILong, to evaluate the capabilities of generative transformer models in extracting and processing distributed facts within extensive texts. They found that common methods are effective only for sequences up to 10^4 elements, but fine-tuning GPT-2 with recurrent memory augmentations enabled it to handle tasks involving up to 11x10^6 elements, representing a significant improvement in the processing capabilities for long sequences.
 
