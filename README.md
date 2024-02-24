@@ -1,3 +1,15 @@
+## Recurrent Memory Augmentation Enables GPT-2 to Process 11M Token Sequences, a Record for Neural Networks
+Summary: Researchers have developed a new benchmark, BABILong, to evaluate the capabilities of generative transformer models in extracting and processing distributed facts within extensive texts. They found that common methods are effective only for sequences up to 10^4 elements, but fine-tuning GPT-2 with recurrent memory augmentations enabled it to handle tasks involving up to 11x10^6 elements, representing a significant improvement in the processing capabilities for long sequences.
+
+Link: https://arxiv.org/abs/2402.10790
+
+<img src="/img/a328c53a-fffa-43df-a33d-7ea5496b10c6.png" width="400" />
+
+
+<sup><sub>2/24/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10151_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10151_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10151_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Gemma 7B Prompting Guide Released
 Summary: Neverzemeling lines (continued)
 
