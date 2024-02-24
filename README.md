@@ -1,3 +1,15 @@
+## Gemma 7B Prompting Guide Released
+Summary: Neverzemeling lines (continued)
+
+Link: https://www.linkedin.com/posts/omarsar_the-prompting-guide-for-gemma-7b-instruct-activity-7166803728161841153-uptx?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/eb5e2e07-3d71-4a40-9e80-3448b0aa3f4d.png" width="400" />
+
+
+<sup><sub>2/24/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10149_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10149_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10149_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Matryoshka Embedding Models: Efficiently Store and Process Variable-Size Embeddings
 Summary: Matryoshka Embedding Models are a new type of embedding model that can produce embeddings of various dimensions, enabling practitioners to scale their embedding solutions to their desired storage cost, processing speed, and performance. These models are trained to frontload the most important information at the start of an embedding, allowing for efficient truncation without significant performance loss. In comparison to regular embedding models, Matryoshka models exhibit superior performance at lower dimensionalities, making them suitable for use cases where storage space and processing speed are critical considerations.
 
