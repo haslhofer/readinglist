@@ -1,3 +1,39 @@
+## Information Extraction via Firework Function Calling
+Summary: .
+
+Link: https://colab.research.google.com/github/fw-ai/cookbook/blob/main/examples/function_calling/fireworks_functions_information_extraction.ipynb#scrollTo=MdU98plyfdZ1
+
+<img src="/img/d92b2bc4-38f7-41b6-af0b-fe5b86e9815c.png" width="400" />
+
+
+<sup><sub>2/25/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10159_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10159_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10159_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## Fireworks' GPT-4-level function calling model 'FireFunction V1' delivers 4x faster speeds than GPT-4 with open weights.
+Summary: Fireworks.ai's FireFunction-v1 model excels in function calling, providing both high accuracy and remarkable speed. With a significant improvement over its previous version, FireFunction-v1 offers structured output generation, enhanced multilingual input support, and open weights. It outperforms other OSS-based function calling models and achieves quality and speed improvements over GPT-4 in real-world use cases. FireFunction-v1 allows developers to incorporate external knowledge into their LLM applications seamlessly, enabling advanced use cases like dynamic agents and structured output generation.
+
+Link: https://fireworks.ai/blog/firefunction-v1-gpt-4-level-function-calling
+
+<img src="/img/61bdb99e-530a-4600-a411-028f97e06031.png" width="400" />
+
+
+<sup><sub>2/25/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10157_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10157_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10157_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## Fireworks introduces FireFunction-v1, an open-weights, GPT-4-level function calling model for faster and accurate decision-making.
+Summary: Fireworks released FireFunction-v1, a new and improved open-weights model based on Mixtral. This model offers several advantages over its predecessor, including higher accuracy for real-world use cases, improved response accuracy for multilingual inputs, and the ability to configure "tool_choice" to 'any' to force a function call. It also outperforms other OSS models in terms of speed and accuracy and is available for free during a limited beta period. Additionally, it supports structured output generation and routing decision-making, making it a versatile tool for developers building LLM applications.
+
+Link: https://fireworks.ai/blog/firefunction-v1-gpt-4-level-function-calling
+
+<img src="/img/a4ef1d51-980c-45ef-80da-27b49674adfa.png" width="400" />
+
+
+<sup><sub>2/25/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10155_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10155_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10155_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Local NLP: Get up and running with large language models locally.
 Summary: Ollama is a lightweight framework for building and running language models locally. It provides a simple API for creating, running, and managing models, as well as a library of pre-built models that can be easily used in various applications. Ollama supports importing models from different sources, customizing prompts, and generating responses through a REST API. It also offers community integrations, such as web and desktop UIs, libraries, extensions, and plugins, making it a versatile tool for working with large language models.
 
