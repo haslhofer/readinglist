@@ -1,3 +1,15 @@
+## Information Extraction via Firework Function Calling
+Summary: .
+
+Link: https://colab.research.google.com/github/fw-ai/cookbook/blob/main/examples/function_calling/fireworks_functions_information_extraction.ipynb#scrollTo=MdU98plyfdZ1
+
+<img src="/img/d92b2bc4-38f7-41b6-af0b-fe5b86e9815c.png" width="400" />
+
+
+<sup><sub>2/25/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10159_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10159_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10159_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Txtai: Extracting and Building Knowledge Using Language Models and Knowledge Graphs
 Summary: The article discusses the process of building knowledge graphs using LLM-driven entity extraction. It demonstrates how to load a Wikipedia database, perform entity extraction using an LLM prompt, build a graph network from the extracted entities, visualize the network, and traverse the graph to find specific paths. This approach combines automatically derived relationships via semantic similarity with manually specified ones to create powerful knowledge graphs.
 
