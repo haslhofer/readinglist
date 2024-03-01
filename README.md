@@ -22,18 +22,6 @@ Link: https://fireworks.ai/blog/firefunction-v1-gpt-4-level-function-calling
 
 <br/><br/>
 
-## Fireworks introduces FireFunction-v1, an open-weights, GPT-4-level function calling model for faster and accurate decision-making.
-Summary: Fireworks released FireFunction-v1, a new and improved open-weights model based on Mixtral. This model offers several advantages over its predecessor, including higher accuracy for real-world use cases, improved response accuracy for multilingual inputs, and the ability to configure "tool_choice" to 'any' to force a function call. It also outperforms other OSS models in terms of speed and accuracy and is available for free during a limited beta period. Additionally, it supports structured output generation and routing decision-making, making it a versatile tool for developers building LLM applications.
-
-Link: https://fireworks.ai/blog/firefunction-v1-gpt-4-level-function-calling
-
-<img src="/img/a4ef1d51-980c-45ef-80da-27b49674adfa.png" width="400" />
-
-
-<sup><sub>2/25/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10155_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10155_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10155_0&tag=Experiments)<sub/><sup/>
-
-<br/><br/>
-
 ## Local NLP: Get up and running with large language models locally.
 Summary: Ollama is a lightweight framework for building and running language models locally. It provides a simple API for creating, running, and managing models, as well as a library of pre-built models that can be easily used in various applications. Ollama supports importing models from different sources, customizing prompts, and generating responses through a REST API. It also offers community integrations, such as web and desktop UIs, libraries, extensions, and plugins, making it a versatile tool for working with large language models.
 
