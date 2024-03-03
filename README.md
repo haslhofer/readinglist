@@ -1,3 +1,101 @@
+## StructLM: Advancing LLMs for Structured Knowledge Grounding
+Summary: The StructLM project aims to enhance Structured Knowledge Grounding (SKG) capabilities in Large Language Models (LLMs). Researchers created a comprehensive instruction tuning dataset and trained a series of models (StructLM-7B to StructLM-34B) based on the Code-LLaMA architecture. StructLM excels on 14 out of 18 evaluated SKG datasets, setting new state-of-the-art achievements on 7 tasks. However, researchers found that increasing model size beyond StructLM-7B offered marginal benefits, suggesting that advancing SKG требует more innovative approaches.
+
+Link: https://tiger-ai-lab.github.io/StructLM/
+
+<img src="/img/f82bef1d-0a32-4c95-8b00-2ac184deb024.png" width="400" />
+
+
+<sup><sub>3/3/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10189_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10189_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10189_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## Getting Started with DSPy: A Comprehensive Guide to LLM Programming
+Summary: This video tutorial by Connor Shorten introduces the DSPy programming language, which simplifies the creation of language models by compiling declarative calls into pipelines. The video covers key aspects of DSPy development, including installation, data management with dspy.Example, LLM metrics, the DSPy programming model, and optimization techniques, making it a comprehensive resource for getting started with DSPy programming.
+
+Link: https://youtu.be/CEuUG4Umfxs?si=86Gp7CKV3PuBzpds
+
+<img src="/img/1818d5d3-b3db-4532-9872-402b4a63745c.png" width="400" />
+
+
+<sup><sub>2/29/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10178_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10178_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10178_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## DSPy: Compiling Langue Model Calls Into Self-Improving Pipelines
+Summary: DSPy is a framework that prioritizes programming over prompting to solve the fragility problem in LLM-based applications. It allows you to compile your pipeline to optimize it for your specific task, eliminating the need for manual prompt engineering. DSPy introduces concepts like signatures that replace prompts, modules that abstract prompt engineering techniques, and teleprompters that automate prompting. Unlike frameworks such as LangChain and LlamaIndex, DSPy focuses on compiling your program and dynamically optimizing the prompts and finetuning parameters, reducing the effort required to achieve desired performance.
+
+Link: https://medium.com/towards-data-science/intro-to-dspy-goodbye-prompting-hello-programming-4ca1c6ce3eb9?sk=9c65441028a96a8f7e8eac9ed6ba4347
+
+<img src="/img/ef92ff69-716b-4710-a97f-5e5dba73e19b.png" width="400" />
+
+
+<sup><sub>2/29/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10176_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10176_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10176_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## DSPy: Self-Improving Language Model Pipelines with Programming, Not Prompting
+Summary: DSPy (Declarative Self-improving Language Programs) is a framework for building large language model (LLM)-based applications by prioritizing programming over prompting. DSPy allows developers to define pipelines, modules, and teleprompters to handle the flow of information and optimize the prompting process. It includes a compiler that automatically optimizes prompts or finetunes LMs based on the defined teleprompter and a dataset. DSPy aims to eliminate manual prompt engineering and fragile pipelines, making LLM-based application development more efficient and robust.
+
+Link: https://medium.com/towards-data-science/intro-to-dspy-goodbye-prompting-hello-programming-4ca1c6ce3eb9?sk=9c65441028a96a8f7e8eac9ed6ba4347
+
+<img src="/img/728cdfb8-5c57-49f0-b7c8-97fd2d8e6268.png" width="400" />
+
+
+<sup><sub>2/29/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10174_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10174_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10174_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## One-line headline summarizing the text below:
+
+GPT implemented in 60 lines of NumPy and loaded with the GPT-2 weights, results in text generation and unique insights.
+Summary: The GPT architecture consists of: 1) **Text + positional embeddings**: Token IDs and positional information are transformed into embedding vectors. 2) **Decoder stack**: A stack of transformer decoder blocks processes the embeddings. 3) **Projection to vocabulary**: A final layer converts the output into a probability distribution over the vocabulary. Generating text involves autoregressive language modeling, where the model predicts the next token based on the previous tokens. Fine-tuning involves retraining the GPT on a downstream task, such as classification or generation. Advanced techniques for GPTs include GPU/TPU support, inference optimization, more efficient fine-tuning methods, attention-based optimizations, and stopping generation using an end-of-sentence token.
+
+Link: https://jaykmody.com/blog/gpt-from-scratch/
+
+<img src="/img/b7a10872-29ec-4cb4-9322-3e09fcce298b.png" width="400" />
+
+
+<sup><sub>2/28/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10172_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10172_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10172_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## Meta-Free UI Task Automation API via Reinforced Instruction Grounding
+Summary: This paper introduces a multimodal model for grounding natural language instructions in User Interface (UI) screenshots for generic UI task automation. The model, comprising a visual encoder and language decoder, is trained using a pixel-to-sequence paradigm to predict geometric coordinates from UI screenshots in token sequences. An innovative Reinforcement Learning (RL) algorithm is employed to jointly supervise token sequences with visual semantic metrics, enhancing the spatial decoding capability of the model. This approach outperforms current methods and demonstrates potential as a generic UI task automation API.
+
+Link: https://arxiv.org/abs/2310.04716
+
+<img src="/img/524431d9-3c84-429f-97c0-23295fb76c4d.png" width="400" />
+
+
+<sup><sub>2/28/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10168_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10168_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10168_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## Responsible Task Automation: Empowering Large Language Models as Accountable Assistants
+Summary: The Responsible Task Automation (ResponsibleTA) framework empowers Large Language Models (LLMs) as responsible task automators by addressing feasibility, completeness, and security concerns. It employs prompt engineering to predict task feasibility and leverages learnable models or a local memory mechanism to verify executor completeness and enhance security. ResponsibleTA safeguards against potential risks as LLMs increasingly automate tasks, potentially improving the reliability and safety of human-machine collaboration.
+
+Link: https://arxiv.org/abs/2306.01242
+
+<img src="/img/835ad78f-e3c2-40bd-8214-911b9aeb0ed9.png" width="400" />
+
+
+<sup><sub>2/28/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10167_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10167_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10167_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## Decoupled Diffusion Model Unifies Layout Generation with Conditional and Unconditional Synthesis
+Summary: Layout Diffusion Generative Model (LDGM) is a unified model for layout generation that handles both conditional and unconditional generation. LDGM views incomplete layouts as intermediate diffusion states and decouples the diffusion processes for different attributes to enhance sample diversity. It learns to reverse the diffusion process jointly, leveraging global contexts for improved generation. LDGM outperforms existing models in functionality and performance, demonstrating its ability to generate layouts either from scratch or conditionally on various available attributes, addressing the challenges of unifying layout generation subtasks.
+
+Link: https://arxiv.org/abs/2303.05049
+
+<img src="/img/22cf3ba9-0d16-454e-9ac8-370e70d0316b.png" width="400" />
+
+
+<sup><sub>2/28/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10166_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10166_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10166_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Information Extraction via Firework Function Calling
 Summary: .
 
