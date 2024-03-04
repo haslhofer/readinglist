@@ -1,15 +1,3 @@
-## 🔴 StructLM: Advancing LLMs for Structured Knowledge Grounding
-Summary: The StructLM project aims to enhance Structured Knowledge Grounding (SKG) capabilities in Large Language Models (LLMs). Researchers created a comprehensive instruction tuning dataset and trained a series of models (StructLM-7B to StructLM-34B) based on the Code-LLaMA architecture. StructLM excels on 14 out of 18 evaluated SKG datasets, setting new state-of-the-art achievements on 7 tasks. However, researchers found that increasing model size beyond StructLM-7B offered marginal benefits, suggesting that advancing SKG требует more innovative approaches.
-
-Link: https://tiger-ai-lab.github.io/StructLM/
-
-<img src="/img/f82bef1d-0a32-4c95-8b00-2ac184deb024.png" width="400" />
-
-
-<sup><sub>3/3/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10189_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10189_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10189_0&tag=Experiments)<sub/><sup/>
-
-<br/><br/>
-
 ## Getting Started with DSPy: A Comprehensive Guide to LLM Programming
 Summary: This video tutorial by Connor Shorten introduces the DSPy programming language, which simplifies the creation of language models by compiling declarative calls into pipelines. The video covers key aspects of DSPy development, including installation, data management with dspy.Example, LLM metrics, the DSPy programming model, and optimization techniques, making it a comprehensive resource for getting started with DSPy programming.
 
