@@ -1,3 +1,15 @@
+## StructLM: Advancing LLMs for Structured Knowledge Grounding
+Summary: The StructLM project aims to enhance Structured Knowledge Grounding (SKG) capabilities in Large Language Models (LLMs). Researchers created a comprehensive instruction tuning dataset and trained a series of models (StructLM-7B to StructLM-34B) based on the Code-LLaMA architecture. StructLM excels on 14 out of 18 evaluated SKG datasets, setting new state-of-the-art achievements on 7 tasks. However, researchers found that increasing model size beyond StructLM-7B offered marginal benefits, suggesting that advancing SKG требует more innovative approaches.
+
+Link: https://tiger-ai-lab.github.io/StructLM/
+
+<img src="/img/f82bef1d-0a32-4c95-8b00-2ac184deb024.png" width="400" />
+
+
+<sup><sub>3/3/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10189_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10189_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10189_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Fireworks introduces FireFunction-v1, an open-weights, GPT-4-level function calling model for faster and accurate decision-making.
 Summary: Fireworks released FireFunction-v1, a new and improved open-weights model based on Mixtral. This model offers several advantages over its predecessor, including higher accuracy for real-world use cases, improved response accuracy for multilingual inputs, and the ability to configure "tool_choice" to 'any' to force a function call. It also outperforms other OSS models in terms of speed and accuracy and is available for free during a limited beta period. Additionally, it supports structured output generation and routing decision-making, making it a versatile tool for developers building LLM applications.
 
