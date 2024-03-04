@@ -1,15 +1,3 @@
-## Getting Started with DSPy: A Comprehensive Guide to LLM Programming
-Summary: This video tutorial by Connor Shorten introduces the DSPy programming language, which simplifies the creation of language models by compiling declarative calls into pipelines. The video covers key aspects of DSPy development, including installation, data management with dspy.Example, LLM metrics, the DSPy programming model, and optimization techniques, making it a comprehensive resource for getting started with DSPy programming.
-
-Link: https://youtu.be/CEuUG4Umfxs?si=86Gp7CKV3PuBzpds
-
-<img src="/img/1818d5d3-b3db-4532-9872-402b4a63745c.png" width="400" />
-
-
-<sup><sub>2/29/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10178_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10178_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10178_0&tag=Experiments)<sub/><sup/>
-
-<br/><br/>
-
 ## DSPy: Compiling Langue Model Calls Into Self-Improving Pipelines
 Summary: DSPy is a framework that prioritizes programming over prompting to solve the fragility problem in LLM-based applications. It allows you to compile your pipeline to optimize it for your specific task, eliminating the need for manual prompt engineering. DSPy introduces concepts like signatures that replace prompts, modules that abstract prompt engineering techniques, and teleprompters that automate prompting. Unlike frameworks such as LangChain and LlamaIndex, DSPy focuses on compiling your program and dynamically optimizing the prompts and finetuning parameters, reducing the effort required to achieve desired performance.
 
