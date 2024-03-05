@@ -1,3 +1,25 @@
+## **UDOP: Unifying Vision, Text, and Layout for Universal Document Processing**
+
+UDOP is a foundation model for Document AI tasks like document image classification, document parsing, and document visual question answering. It unifies text, image, and layout modalities together with varied task formats, including document understanding and generation. UDOP leverages the spatial correlation between textual content and document image to model image, text, and layout modalities with one uniform representation. With a novel Vision-Text-Layout Transformer, UDOP unifies pretraining and multi-domain downstream tasks into a prompt-based sequence generation scheme. UDOP is pretrained on both large-scale unlabeled document corpora using innovative self-supervised objectives and diverse labeled data. UDOP also learns to generate document images from text and layout modalities via masked image reconstruction.
+
+**Advantages of UDOP:**
+
+* Unifies vision, text, and layout modalities for document AI tasks.
+* Leverages spatial correlation between textual content and document image.
+* Pretrained on large-scale unlabeled document corpora and diverse labeled data.
+* Performs prompt-based sequence generation for various downstream tasks.
+* Can generate document images from text and layout modalities.
+Summary: The Universal Document Processing (UDOP) model is a foundation Document AI model that unifies text, image, and layout modalities together with varied task formats, including document understanding and generation. UDOP leverages the spatial correlation between textual content and document image to model image, text, and layout modalities with one uniform representation. With a novel Vision-Text-Layout Transformer, UDOP unifies pretraining and multi-domain downstream tasks into a prompt-based sequence generation scheme. UDOP is pretrained on both large-scale unlabeled document corpora using innovative self-supervised objectives and diverse labeled data. UDOP also learns to generate document images from text and layout modalities via masked image reconstruction.
+
+Link: https://huggingface.co/docs/transformers/main/en/model_doc/udop
+
+<img src="/img/bafcf878-765b-4f11-a078-39169bbfe020.png" width="400" />
+
+
+<sup><sub>3/5/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10198_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10198_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10198_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## DSPy: Compiling Langue Model Calls Into Self-Improving Pipelines
 Summary: DSPy is a framework that prioritizes programming over prompting to solve the fragility problem in LLM-based applications. It allows you to compile your pipeline to optimize it for your specific task, eliminating the need for manual prompt engineering. DSPy introduces concepts like signatures that replace prompts, modules that abstract prompt engineering techniques, and teleprompters that automate prompting. Unlike frameworks such as LangChain and LlamaIndex, DSPy focuses on compiling your program and dynamically optimizing the prompts and finetuning parameters, reducing the effort required to achieve desired performance.
 
