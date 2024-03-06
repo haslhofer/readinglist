@@ -1,3 +1,15 @@
+## Calendars Can Be Time Machines: Exploring New Layers and Dimensional Time Management
+Summary: Calendars, essential tools for time management, have remained largely static despite technological advancements. They fail to distinguish between different event types, such as tasks, meetings, and blocked time, and lack the ability to integrate data from other sources. This essay proposes introducing native layers to calendars that would allow for the seamless integration of various activities, including Spotify listening history, sleep quality data, and personal activities from the past. By enhancing calendars' capabilities to accommodate diverse data layers, they can transform into actual time machines, enabling users to shape the future through insights gained from past experiences and unlock a range of new productivity use cases.
+
+Link: https://julian.digital/2023/07/06/multi-layered-calendars/
+
+<img src="/img/8fa53570-9c8e-4f96-ad96-c3e6ccf63472.png" width="400" />
+
+
+<sup><sub>3/6/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10205_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10205_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10205_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Colab Notebook Runs Mixtral8x7B-Instruct Model with MoE Offloading for Text Generation
 Summary: The provided text uses a pre-trained quantized model, Mixtral-8x7B-Instruct, implemented with a mixed-precision strategy and a specific offloading approach, making it suitable for inference on consumer-grade GPUs or in Google Colab with limited VRAM and RAM resources. It outlines the process of setting up the environment, initializing the model, and generating text sequences interactively, demonstrating its language generation capabilities. The text also includes a couple of funny poems in response to user prompts, showcasing the model's ability to generate creative text based on user input.
 
