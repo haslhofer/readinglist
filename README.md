@@ -1,3 +1,15 @@
+## Calendars Can Be Time Machines: Exploring New Layers and Dimensional Time Management
+Summary: Calendars, essential tools for time management, have remained largely static despite technological advancements. They fail to distinguish between different event types, such as tasks, meetings, and blocked time, and lack the ability to integrate data from other sources. This essay proposes introducing native layers to calendars that would allow for the seamless integration of various activities, including Spotify listening history, sleep quality data, and personal activities from the past. By enhancing calendars' capabilities to accommodate diverse data layers, they can transform into actual time machines, enabling users to shape the future through insights gained from past experiences and unlock a range of new productivity use cases.
+
+Link: https://julian.digital/2023/07/06/multi-layered-calendars/
+
+<img src="/img/8fa53570-9c8e-4f96-ad96-c3e6ccf63472.png" width="400" />
+
+
+<sup><sub>3/6/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10205_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10205_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10205_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Graph Path Traversal Enhances RAG for Comprehensive Knowledge-Based Text Generation
 Summary: Using txtai's graph path traversal capabilities, this article demonstrates how to collect complex data for advanced Retrieval Augmented Generation (RAG). Building a knowledge base from Wikipedia articles, the author traverses topics of interest to retrieve relevant articles. These articles are then visualized using a graph to show interconnectedness. By combining the collected articles with a LLM (Mistral-7B-OpenOrca-AWQ), the article demonstrates how to generate a short book on English history from the fall of the Roman Empire to the Norman conquest, illustrating the power of graph path traversal for comprehensive context generation in RAG.
 
