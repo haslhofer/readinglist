@@ -1,3 +1,15 @@
+## TheBloke Releases AWQ Model Files for Mistral 7B OpenOrca
+Summary: Hugging Face hosts the 4-bit precision AWQ model of OpenOrca's Mistral 7B OpenOrca, an efficient and high-performance text-generation model. This model supports inference via various methods, including vLLM, Hugging Face Text Generation Inference (TGI), and AutoAWQ for Python code. The AWQ technique enables faster Transformers-based inference using smaller GPUs, making deployment more accessible and cost-effective.
+
+Link: https://huggingface.co/TheBloke/Mistral-7B-OpenOrca-AWQ
+
+<img src="/img/1580723d-7b36-4155-a170-8ed605c803dc.png" width="400" />
+
+
+<sup><sub>3/6/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10209_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10209_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10209_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Calendars Can Be Time Machines: Exploring New Layers and Dimensional Time Management
 Summary: Calendars, essential tools for time management, have remained largely static despite technological advancements. They fail to distinguish between different event types, such as tasks, meetings, and blocked time, and lack the ability to integrate data from other sources. This essay proposes introducing native layers to calendars that would allow for the seamless integration of various activities, including Spotify listening history, sleep quality data, and personal activities from the past. By enhancing calendars' capabilities to accommodate diverse data layers, they can transform into actual time machines, enabling users to shape the future through insights gained from past experiences and unlock a range of new productivity use cases.
 
