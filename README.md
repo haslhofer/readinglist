@@ -10,18 +10,6 @@ Link: https://anakin.ai/blog/how-to-run-mixtral-8x7b-locally/
 
 <br/><br/>
 
-## TheBloke Releases AWQ Model Files for Mistral 7B OpenOrca
-Summary: Hugging Face hosts the 4-bit precision AWQ model of OpenOrca's Mistral 7B OpenOrca, an efficient and high-performance text-generation model. This model supports inference via various methods, including vLLM, Hugging Face Text Generation Inference (TGI), and AutoAWQ for Python code. The AWQ technique enables faster Transformers-based inference using smaller GPUs, making deployment more accessible and cost-effective.
-
-Link: https://huggingface.co/TheBloke/Mistral-7B-OpenOrca-AWQ
-
-<img src="/img/1580723d-7b36-4155-a170-8ed605c803dc.png" width="400" />
-
-
-<sup><sub>3/6/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10209_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10209_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10209_0&tag=Experiments)<sub/><sup/>
-
-<br/><br/>
-
 ## Graph Path Traversal Enhances RAG for Comprehensive Knowledge-Based Text Generation
 Summary: Using txtai's graph path traversal capabilities, this article demonstrates how to collect complex data for advanced Retrieval Augmented Generation (RAG). Building a knowledge base from Wikipedia articles, the author traverses topics of interest to retrieve relevant articles. These articles are then visualized using a graph to show interconnectedness. By combining the collected articles with a LLM (Mistral-7B-OpenOrca-AWQ), the article demonstrates how to generate a short book on English history from the fall of the Roman Empire to the Norman conquest, illustrating the power of graph path traversal for comprehensive context generation in RAG.
 
