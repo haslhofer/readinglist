@@ -1,15 +1,3 @@
-## Graph Path Traversal Enhances RAG for Comprehensive Knowledge-Based Text Generation
-Summary: Using txtai's graph path traversal capabilities, this article demonstrates how to collect complex data for advanced Retrieval Augmented Generation (RAG). Building a knowledge base from Wikipedia articles, the author traverses topics of interest to retrieve relevant articles. These articles are then visualized using a graph to show interconnectedness. By combining the collected articles with a LLM (Mistral-7B-OpenOrca-AWQ), the article demonstrates how to generate a short book on English history from the fall of the Roman Empire to the Norman conquest, illustrating the power of graph path traversal for comprehensive context generation in RAG.
-
-Link: https://neuml.hashnode.dev/advanced-rag-with-graph-path-traversal
-
-<img src="/img/e8931b20-a6fa-416d-8c2c-d58beaf8eef6.png" width="400" />
-
-
-<sup><sub>3/6/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10203_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10203_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10203_0&tag=Experiments)<sub/><sup/>
-
-<br/><br/>
-
 ## **UDOP: Unifying Vision, Text, and Layout for Universal Document Processing**
 
 UDOP is a foundation model for Document AI tasks like document image classification, document parsing, and document visual question answering. It unifies text, image, and layout modalities together with varied task formats, including document understanding and generation. UDOP leverages the spatial correlation between textual content and document image to model image, text, and layout modalities with one uniform representation. With a novel Vision-Text-Layout Transformer, UDOP unifies pretraining and multi-domain downstream tasks into a prompt-based sequence generation scheme. UDOP is pretrained on both large-scale unlabeled document corpora using innovative self-supervised objectives and diverse labeled data. UDOP also learns to generate document images from text and layout modalities via masked image reconstruction.
