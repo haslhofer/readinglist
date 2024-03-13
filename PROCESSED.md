@@ -1,3 +1,15 @@
+## Run Mixtral 8x7B Locally: A Comprehensive Guide for Deployment and Usage
+Summary: Mixtral 8x7B, a GPT-4 like large language model (LLM), can be locally deployed using suitable computing resources such as an NVIDIA GeForce RTX 4090 GPU and 64GB RAM. After installing the necessary Python libraries and downloading the model files, you can initialize and test Mixtral using a Jupyter Notebook environment. The model can be fine-tuned with specific instructions to handle complex tasks like text summarization and translation. An alternative method for Mac users involves utilizing LlamaIndex and Ollama to set up and run Mixtral 8x7B, facilitating data indexing and querying. Additionally, you can use Anakin AI to access multiple open-source LLMs, including Mistral 7B and 8x7B, for online testing and development.
+
+Link: https://anakin.ai/blog/how-to-run-mixtral-8x7b-locally/
+
+<img src="/img/95c5525f-9f90-4bd8-85b5-fb8de6ed24a6.png" width="400" />
+
+
+<sup><sub>3/8/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10216_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10216_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10216_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## TheBloke Releases AWQ Model Files for Mistral 7B OpenOrca
 Summary: Hugging Face hosts the 4-bit precision AWQ model of OpenOrca's Mistral 7B OpenOrca, an efficient and high-performance text-generation model. This model supports inference via various methods, including vLLM, Hugging Face Text Generation Inference (TGI), and AutoAWQ for Python code. The AWQ technique enables faster Transformers-based inference using smaller GPUs, making deployment more accessible and cost-effective.
 
