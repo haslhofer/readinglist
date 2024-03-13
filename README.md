@@ -1,15 +1,3 @@
-## Run Mixtral 8x7B Locally: A Comprehensive Guide for Deployment and Usage
-Summary: Mixtral 8x7B, a GPT-4 like large language model (LLM), can be locally deployed using suitable computing resources such as an NVIDIA GeForce RTX 4090 GPU and 64GB RAM. After installing the necessary Python libraries and downloading the model files, you can initialize and test Mixtral using a Jupyter Notebook environment. The model can be fine-tuned with specific instructions to handle complex tasks like text summarization and translation. An alternative method for Mac users involves utilizing LlamaIndex and Ollama to set up and run Mixtral 8x7B, facilitating data indexing and querying. Additionally, you can use Anakin AI to access multiple open-source LLMs, including Mistral 7B and 8x7B, for online testing and development.
-
-Link: https://anakin.ai/blog/how-to-run-mixtral-8x7b-locally/
-
-<img src="/img/95c5525f-9f90-4bd8-85b5-fb8de6ed24a6.png" width="400" />
-
-
-<sup><sub>3/8/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10216_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10216_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10216_0&tag=Experiments)<sub/><sup/>
-
-<br/><br/>
-
 ## Graph Path Traversal Enhances RAG for Comprehensive Knowledge-Based Text Generation
 Summary: Using txtai's graph path traversal capabilities, this article demonstrates how to collect complex data for advanced Retrieval Augmented Generation (RAG). Building a knowledge base from Wikipedia articles, the author traverses topics of interest to retrieve relevant articles. These articles are then visualized using a graph to show interconnectedness. By combining the collected articles with a LLM (Mistral-7B-OpenOrca-AWQ), the article demonstrates how to generate a short book on English history from the fall of the Roman Empire to the Norman conquest, illustrating the power of graph path traversal for comprehensive context generation in RAG.
 
