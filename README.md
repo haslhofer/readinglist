@@ -1,3 +1,120 @@
+## Shareable Jupyter Notebooks for llama_parse, a library for parsing Microsoft PowerPoint files
+Summary: This Jupyter notebook, "demo_ppt_financial.ipynb," demonstrates the usage of the `llama_parse` library for extracting data from financial PowerPoint presentations. It includes examples of extracting various financial metrics, such as revenue, net income, and earnings per share, from the presentation slides. The notebook also showcases the use of the library's visualization capabilities to create interactive charts and graphs that present the extracted data in a visually appealing manner.
+
+Link: https://github.com/run-llama/llama_parse/blob/main/examples/other_files/demo_ppt_financial.ipynb
+
+<img src="/img/dc3e57f8-daf8-4bb0-8450-ccf2214fdc75.png" width="400" />
+
+
+<sup><sub>3/15/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10252_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10252_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10252_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## Hugging Face's MLXServer Simplifies Running Machine Learning Models on Mac
+Summary: A new package, MLXServer, enables users to leverage the MLX-LM package and the Mistral-7B-Instruct-v0.2-4-bit model on their Macs. This provides a simple and effective way to run machine learning models, fine-tune models, and explore various examples through the mlx-examples repository. Despite some untested support for Python versions beyond 3.10, users have praised MLXServer's ease of use and effectiveness, making it a promising tool for machine learning on Macs.
+
+Link: https://www.linkedin.com/posts/vaibhavs10_wow-mlxserver-is-pretty-rad-pip-install-ugcPost-7174055472453308418-V9MP?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/65ad6285-3755-470b-88ee-7193d0e58bf2.png" width="400" />
+
+
+<sup><sub>3/15/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10250_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10250_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10250_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## Retrieval Augmented Generation Research Examines Techniques, Frameworks, and Enhancements for AI Advancements
+Summary: A comprehensive paper on Retrieval Augmented Generation (RAG) provides an extensive survey of techniques, frameworks, and related research. The paper categorizes RAG enhancements by their components, including queries and data augmentation (input), retriever fine-tuning and metadata filtering (retriever), prompt engineering (generator), output rewrites (result), and adaptive retrieval and iterative retrieval (RAG pipeline). The paper is particularly valuable for those considering developing their own RAG architecture due to its thorough examination of different implementation options.
+
+Link: https://www.linkedin.com/posts/michelleyulleyi_retrievalaugmentedgeneration-artificialintelligence-activity-7173331921182015488-t-On?utm_source=share&utm_medium=member_android
+
+<img src="/img/0a4ce93e-55ef-4903-92a2-420d8b312b4b.png" width="400" />
+
+
+<sup><sub>3/15/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10248_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10248_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10248_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## Memory-efficient pre-training of 7B models on consumer-grade GPUs
+Summary: Researchers have developed GaLore, a method to train large language models (LLMs) on consumer-grade GPUs with limited memory. GaLore projects gradients to lower ranks during training, allowing models with up to 7B parameters to be fully trained on a single 24Gb GPU. The method combines gradient low-rank projection with other efficiency techniques like 8-bit Adam, allowing for significant memory reduction without performance loss. This democratizes access to LLM training by enabling researchers and developers to utilize consumer-grade GPUs for training, fostering a more inclusive field and expanding AI capabilities.
+
+Link: https://www.linkedin.com/posts/a-roucher_%3F%3F%3F%3F%3F%3F-%3F%3F%3F%3F%3F-%3F%3F-%3F%3F%3F%3F%3F%3F-activity-7173730493232750595-ivM2?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/79c286ce-f5a4-4a69-a63e-639964c3f8e1.png" width="400" />
+
+
+<sup><sub>3/14/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10241_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10241_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10241_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## Bland AI: The Lightning-Fast Chatbot That Mimics Human Interactions
+Summary: Bland AI, a highly advanced conversational AI, has been introduced, boasting the ability to handle over 1,000,000 phone calls simultaneously for businesses. It can respond at human speeds with any voice and assist with tasks such as sales, lead qualification, and customer support. This development is anticipated to have a significant impact on the job market, potentially leading to a future where we interact with AIs more than humans. However, concerns have been raised regarding its limitations, such as potential job losses, increased reliance on AI for communication, and the possibility of discrimination based on factors like accent.
+
+Link: https://www.linkedin.com/posts/genai-works_ai-artificialintelligence-generativeai-ugcPost-7172916521936011266-yEyd?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/f8feea3e-8267-4334-924a-732f254f87be.png" width="400" />
+
+
+<sup><sub>3/11/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10234_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10234_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10234_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## **Open-Source LLMs: A Comprehensive Guide for Developers**
+Summary: The Large Language Model (LLM) course is divided into three sections:
+
+**LLM Fundamentals**
+Covers mathematical concepts, Python, and neural networks essential for machine learning.
+
+**LLM Scientist**
+Focuses on building optimal LLMs using advanced techniques, including LLM architecture, instruction dataset creation, pre-training models, supervised fine-tuning, reinforcement learning, and evaluation.
+
+**LLM Engineer**
+Teaches how to develop LLM-based applications for deployment, covering LLM execution, vector storage, retrieval augmented generation, inference optimization, and securing LLMs.
+
+Link: https://bit.ly/4bFxhtz
+
+<img src="/img/64206725-9310-4f46-a640-a540fcf9fc7b.png" width="400" />
+
+
+<sup><sub>3/10/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10228_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10228_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10228_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## AutoGen Agents Collaborate to Generate Stock Price Charts
+Summary: Using the AutoGen framework, this tutorial demonstrates how to create an agent that generates stock price charts. The UserProxyAgent executes function calls while the AssistantAgent issues the calls but avoids executing them. The tutorial leverages Fireworks AI's function calling feature with two agents: the AssistantAgent focuses on generating function calls, while the UserProxyAgent executes them. Multiple tools are utilized, including yfinance for obtaining stock prices and a tool for displaying time series charts. The code includes decorators that turn Python functions into JSON specifications needed for Fireworks' function calling API. This approach illustrates the cooperative nature of agents working together to achieve complex tasks, such as generating stock price charts.
+
+Link: https://colab.research.google.com/github/fw-ai/cookbook/blob/main/examples/function_calling/fw_autogen_stock_chart.ipynb
+
+<img src="/img/9b5dbdca-f44f-460e-90c0-fe9edf976224.png" width="400" />
+
+
+<sup><sub>3/8/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10225_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10225_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10225_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## DataCamp Security Verification
+Summary: www.datacamp.com requires a brief security check to confirm user authenticity, ensuring a secure connection before proceeding.
+
+Link: https://www.datacamp.com/tutorial/mistral-7b-tutorial?irclickid=Uq4U7gW4RxyNR0324t0B1027UkHy1fXfz3IUzE0&amp;irgwc=1&amp;utm_medium=affiliate&amp;utm_source=impact&amp;utm_campaign=000000_1-2003851_2-mix_3-all_4-na_5-na_6-na_7-mp_8-affl-ip_9-na_10-bau_11-Bing%20Rebates%20by%20Microsoft&amp;utm_content=BANNER&amp;utm_term=EdgeBingFlow
+
+<img src="/img/d162895a-84c1-4a8b-847a-3ac762cb2b52.png" width="400" />
+
+
+<sup><sub>3/8/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10223_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10223_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10223_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## Mixtral: Innovative AI Chat Assistant for Real-Time Answers and Interactive Conversations
+Summary: Mixtral is an innovative AI chat assistant application that provides intelligent and real-time question-answering and interactive experiences. Featuring a groundbreaking "Prompt template" and a vast knowledge base across multiple domains, Mixtral delivers personalized and professional responses. The user-friendly interface and multi-domain knowledge make it suitable for various use cases, including online assistance, conversational engagement, and domain-specific queries. Mixtral outperforms other models like GPT-3.5, supports multiple languages, and can be deployed on cloud instances or through Hugging Face Chat for interactive experimentation. Despite its advancements, there remain open questions about the dataset used for pretraining and hyperparameters.
+
+Link: https://app.anakin.ai/apps/16418?tab=manage
+
+<img src="/img/ebc3363f-4aeb-463e-ba9b-55f4873275d7.png" width="400" />
+
+
+<sup><sub>3/8/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10218_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10218_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10218_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## **UDOP: Unifying Vision, Text, and Layout for Universal Document Processing**
 
 UDOP is a foundation model for Document AI tasks like document image classification, document parsing, and document visual question answering. It unifies text, image, and layout modalities together with varied task formats, including document understanding and generation. UDOP leverages the spatial correlation between textual content and document image to model image, text, and layout modalities with one uniform representation. With a novel Vision-Text-Layout Transformer, UDOP unifies pretraining and multi-domain downstream tasks into a prompt-based sequence generation scheme. UDOP is pretrained on both large-scale unlabeled document corpora using innovative self-supervised objectives and diverse labeled data. UDOP also learns to generate document images from text and layout modalities via masked image reconstruction.
