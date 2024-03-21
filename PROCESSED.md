@@ -1,3 +1,15 @@
+## Shareable Jupyter Notebooks for llama_parse, a library for parsing Microsoft PowerPoint files
+Summary: This Jupyter notebook, "demo_ppt_financial.ipynb," demonstrates the usage of the `llama_parse` library for extracting data from financial PowerPoint presentations. It includes examples of extracting various financial metrics, such as revenue, net income, and earnings per share, from the presentation slides. The notebook also showcases the use of the library's visualization capabilities to create interactive charts and graphs that present the extracted data in a visually appealing manner.
+
+Link: https://github.com/run-llama/llama_parse/blob/main/examples/other_files/demo_ppt_financial.ipynb
+
+<img src="/img/dc3e57f8-daf8-4bb0-8450-ccf2214fdc75.png" width="400" />
+
+
+<sup><sub>3/15/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10252_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10252_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10252_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Run Mixtral 8x7B Locally: A Comprehensive Guide for Deployment and Usage
 Summary: Mixtral 8x7B, a GPT-4 like large language model (LLM), can be locally deployed using suitable computing resources such as an NVIDIA GeForce RTX 4090 GPU and 64GB RAM. After installing the necessary Python libraries and downloading the model files, you can initialize and test Mixtral using a Jupyter Notebook environment. The model can be fine-tuned with specific instructions to handle complex tasks like text summarization and translation. An alternative method for Mac users involves utilizing LlamaIndex and Ollama to set up and run Mixtral 8x7B, facilitating data indexing and querying. Additionally, you can use Anakin AI to access multiple open-source LLMs, including Mistral 7B and 8x7B, for online testing and development.
 
