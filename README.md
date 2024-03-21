@@ -1,15 +1,3 @@
-## Shareable Jupyter Notebooks for llama_parse, a library for parsing Microsoft PowerPoint files
-Summary: This Jupyter notebook, "demo_ppt_financial.ipynb," demonstrates the usage of the `llama_parse` library for extracting data from financial PowerPoint presentations. It includes examples of extracting various financial metrics, such as revenue, net income, and earnings per share, from the presentation slides. The notebook also showcases the use of the library's visualization capabilities to create interactive charts and graphs that present the extracted data in a visually appealing manner.
-
-Link: https://github.com/run-llama/llama_parse/blob/main/examples/other_files/demo_ppt_financial.ipynb
-
-<img src="/img/dc3e57f8-daf8-4bb0-8450-ccf2214fdc75.png" width="400" />
-
-
-<sup><sub>3/15/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10252_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10252_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10252_0&tag=Experiments)<sub/><sup/>
-
-<br/><br/>
-
 ## Hugging Face's MLXServer Simplifies Running Machine Learning Models on Mac
 Summary: A new package, MLXServer, enables users to leverage the MLX-LM package and the Mistral-7B-Instruct-v0.2-4-bit model on their Macs. This provides a simple and effective way to run machine learning models, fine-tune models, and explore various examples through the mlx-examples repository. Despite some untested support for Python versions beyond 3.10, users have praised MLXServer's ease of use and effectiveness, making it a promising tool for machine learning on Macs.
 
