@@ -1,3 +1,63 @@
+## RAG's evolution: Will Long Context LLMs Replace Retrieval-Augmented Generation?
+Summary: Long context LLMs may not entirely replace RAG (Retrieval-Augmented Generation) technology. While long context windows can alleviate limitations in reasoning and retrieval over multiple facts, RAG may evolve to incorporate full document indexing, long context embeddings, and a shift from a prompt-response paradigm to an iterative "flow" approach with post-retrieval reasoning and feedback. Experts suggest that RAG's advantages in cost-effectiveness and token usage make it a viable complement to long context LLMs, especially in situations where large amounts of data need to be indexed and analyzed.
+
+Link: https://www.linkedin.com/posts/langchain_rag-for-long-context-llms-video-will-activity-7176992920456032257-rPPL?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/29c50106-8730-43e9-a417-793d5f6c62ed.png" width="400" />
+
+
+<sup><sub>3/23/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10284_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10284_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10284_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## Query Understanding LlamaPack: Empowering Conversational AI Through Language Models
+Summary: The provided text describes the "query understanding agent" example within the "Llama Index Packs" project. This example showcases the capabilities of a pre-trained model in understanding the intent of user queries by leveraging large language models. The model can map queries to corresponding intents, enabling more accurate and efficient response generation in downstream applications.
+
+Link: https://github.com/run-llama/llama_index/blob/main/llama-index-packs/llama-index-packs-query-understanding-agent/examples/query_understanding_agent.ipynb
+
+<img src="/img/b06dd498-8d53-46d4-baa9-c0943863f498.png" width="400" />
+
+
+<sup><sub>3/23/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10282_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10282_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10282_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## Hugging Face enhances its Transformers family with LLaVa-NeXT, an advanced vision language model
+Summary: Hugging Face's latest open-source vision language model, LLaVa-NeXT, offers improved accuracy compared to its predecessor thanks to higher resolution input, enhanced data mixtures, and a scaled LLM backbone. The model excels in tasks such as multimodal chatbots and parsing visual information in a structured format, making it a valuable tool for researchers and developers working in computer vision and natural language processing.
+
+Link: https://www.linkedin.com/posts/huggingface_super-excited-to-share-that-llava-next-also-activity-7176911297035276288-DotV?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/ec3b6c6b-b32b-4709-99ff-fad1b9736cd5.png" width="400" />
+
+
+<sup><sub>3/22/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10280_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10280_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10280_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## Agentic AI Workflows to Drive Massive AI Progress in 2023
+Summary: Andrew Ng highlights the importance of "agentic workflows" in advancing AI progress, where LLMs iteratively refine their work through multiple steps such as planning, information gathering, and revision. This approach significantly improves output quality, as seen in a study that showed GPT-3.5 achieved up to 95.1% accuracy in a coding benchmark when wrapped in an agent loop, compared to 67.0% in zero-shot mode. Ng argues that agentic workflows are critical for AI to produce high-quality results that match human performance and shares a framework for categorizing design patterns for building agents, including reflection, tool use, planning, and multi-agent collaboration.
+
+Link: https://www.linkedin.com/posts/andrewyng_robots-talk-back-ai-security-risks-political-activity-7176663393708224512-hrBZ?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/a62944e2-ad2f-48cf-8c2c-8c10259937e2.png" width="400" />
+
+
+<sup><sub>3/22/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10275_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10275_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10275_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## Meta unveils massive 24,576-GPU AI clusters, driving advancements in GenAI infrastructure
+Summary: Meta unveils two data center clusters with 24,576 NVIDIA H100 GPUs each, leveraging RoCE and InfiniBand fabrics for advanced AI models, including Llama 3. These clusters feature optimized storage solutions and custom networking to maximize performance and provide a flexible and reliable platform for GenAI research and development. Meta emphasizes its commitment to open innovation by building on open compute projects and contributing to PyTorch, while investing in partnerships and initiatives to promote responsible AI advancements across the industry. By the end of 2024, Meta aims to expand its infrastructure with 350,000 H100 GPUs, providing vast compute power for future AI advancements.
+
+Link: https://engineering.fb.com/2024/03/12/data-center-engineering/building-metas-genai-infrastructure/
+
+<img src="/img/b08110e0-a743-4b6f-97b5-995a6657a9a7.png" width="400" />
+
+
+<sup><sub>3/19/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10266_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10266_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10266_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Hugging Face's MLXServer Simplifies Running Machine Learning Models on Mac
 Summary: A new package, MLXServer, enables users to leverage the MLX-LM package and the Mistral-7B-Instruct-v0.2-4-bit model on their Macs. This provides a simple and effective way to run machine learning models, fine-tune models, and explore various examples through the mlx-examples repository. Despite some untested support for Python versions beyond 3.10, users have praised MLXServer's ease of use and effectiveness, making it a promising tool for machine learning on Macs.
 
