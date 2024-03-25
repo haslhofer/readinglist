@@ -1,3 +1,15 @@
+## Open-Source Ecosystem for AI Devices with Conversational Voice Interface
+Summary: The 01 Project aims to build an open-source ecosystem for AI devices, focusing on an open, modular, and free operating system that can power conversational devices like the Rabbit R1 and Star Trek computers. The project's software can be installed on any device with input, output, and internet connectivity, while the hardware includes the ESP32-based 01 Light and the standalone 01 Heavy. It uses LMC Messages to communicate with system components and exposes a speech-to-speech websocket that allows users to stream raw audio bytes to the LLM for interpretation. Customizable system settings and a roadmap outline the project's future development.
+
+Link: https://github.com/OpenInterpreter/01
+
+<img src="/img/23bcb7f5-ae0f-4f69-8a4d-ee76e0276e6a.png" width="400" />
+
+
+<sup><sub>3/25/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10290_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10290_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10290_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## RAG's evolution: Will Long Context LLMs Replace Retrieval-Augmented Generation?
 Summary: Long context LLMs may not entirely replace RAG (Retrieval-Augmented Generation) technology. While long context windows can alleviate limitations in reasoning and retrieval over multiple facts, RAG may evolve to incorporate full document indexing, long context embeddings, and a shift from a prompt-response paradigm to an iterative "flow" approach with post-retrieval reasoning and feedback. Experts suggest that RAG's advantages in cost-effectiveness and token usage make it a viable complement to long context LLMs, especially in situations where large amounts of data need to be indexed and analyzed.
 
