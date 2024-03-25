@@ -1,3 +1,15 @@
+## Build Scalable AI Agents with Large Language Models (LLMs) Through a Self-Paced Online Course
+Summary: Deep Learning Institute offers a free, self-paced online course on "Building RAG Agents with LLMs," covering strategies for deploying and scaling retrieval-based LLM agents. The course requires a basic understanding of LLMs and LangChain, as well as intermediate Python experience. It explores the implementation and development of microservices, dialog management, and document retrieval solutions. The course also provides hands-on experience with state-of-the-art models and guidance for productionalization and framework exploration.
+
+Link: https://courses.nvidia.com/courses/course-v1:DLI+S-FX-15+V1/
+
+<img src="/img/76f19a78-8052-4c3e-bdf1-be6402a3df5a.png" width="400" />
+
+
+<sup><sub>3/25/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10294_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10294_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10294_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Run Mixtral 8x7B Locally: A Comprehensive Guide for Deployment and Usage
 Summary: Mixtral 8x7B, a GPT-4 like large language model (LLM), can be locally deployed using suitable computing resources such as an NVIDIA GeForce RTX 4090 GPU and 64GB RAM. After installing the necessary Python libraries and downloading the model files, you can initialize and test Mixtral using a Jupyter Notebook environment. The model can be fine-tuned with specific instructions to handle complex tasks like text summarization and translation. An alternative method for Mac users involves utilizing LlamaIndex and Ollama to set up and run Mixtral 8x7B, facilitating data indexing and querying. Additionally, you can use Anakin AI to access multiple open-source LLMs, including Mistral 7B and 8x7B, for online testing and development.
 
