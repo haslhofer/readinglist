@@ -1,3 +1,15 @@
+## Build Scalable AI Agents with Large Language Models (LLMs) Through a Self-Paced Online Course
+Summary: Deep Learning Institute offers a free, self-paced online course on "Building RAG Agents with LLMs," covering strategies for deploying and scaling retrieval-based LLM agents. The course requires a basic understanding of LLMs and LangChain, as well as intermediate Python experience. It explores the implementation and development of microservices, dialog management, and document retrieval solutions. The course also provides hands-on experience with state-of-the-art models and guidance for productionalization and framework exploration.
+
+Link: https://courses.nvidia.com/courses/course-v1:DLI+S-FX-15+V1/
+
+<img src="/img/76f19a78-8052-4c3e-bdf1-be6402a3df5a.png" width="400" />
+
+
+<sup><sub>3/25/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10294_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10294_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10294_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Open-Source Ecosystem for AI Devices with Conversational Voice Interface
 Summary: The 01 Project aims to build an open-source ecosystem for AI devices, focusing on an open, modular, and free operating system that can power conversational devices like the Rabbit R1 and Star Trek computers. The project's software can be installed on any device with input, output, and internet connectivity, while the hardware includes the ESP32-based 01 Light and the standalone 01 Heavy. It uses LMC Messages to communicate with system components and exposes a speech-to-speech websocket that allows users to stream raw audio bytes to the LLM for interpretation. Customizable system settings and a roadmap outline the project's future development.
 
