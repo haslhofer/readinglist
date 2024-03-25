@@ -1,3 +1,15 @@
+## Unstructured: Transforming Data for AI and Machine Learning
+Summary: Unstructured offers a platform that extracts complex data from a variety of file formats and transforms it into AI-friendly formats for use with LLM frameworks. Their unique solution enables enterprises to leverage unstructured data seamlessly, reducing manual data cleaning effort and empowering data scientists to focus on modeling and analysis.
+
+Link: https://unstructured.io/?ref=blog.langchain.dev
+
+<img src="/img/799311cd-58a9-455d-aad2-a4e8b97732d9.png" width="400" />
+
+
+<sup><sub>3/25/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10298_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10298_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10298_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Build Scalable AI Agents with Large Language Models (LLMs) Through a Self-Paced Online Course
 Summary: Deep Learning Institute offers a free, self-paced online course on "Building RAG Agents with LLMs," covering strategies for deploying and scaling retrieval-based LLM agents. The course requires a basic understanding of LLMs and LangChain, as well as intermediate Python experience. It explores the implementation and development of microservices, dialog management, and document retrieval solutions. The course also provides hands-on experience with state-of-the-art models and guidance for productionalization and framework exploration.
 
