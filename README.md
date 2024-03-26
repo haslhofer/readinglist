@@ -1,3 +1,15 @@
+## LM Studio: Run Local Large Language Models with OpenAI-Compatible API Server
+Summary: LM Studio allows you to load Large Language Models (LLMs) on your local machine and access them through an API server on localhost. The API follows OpenAI's format, so you can use it with code that currently uses OpenAI by pointing it to localhost:PORT. By loading an LLM in LM Studio and starting the server, you can send requests to perform inferencing tasks such as chat completions using various parameters supported by OpenAI's API.
+
+Link: https://lmstudio.ai/docs/local-server
+
+<img src="/img/cd79cc64-50da-4fb4-b407-338deec8f506.png" width="400" />
+
+
+<sup><sub>3/26/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10305_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10305_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10305_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Learn How to Scale Serverless Pinecone at Scale with AWS
 Summary: Mixtral 8x7B, an open-weight model that outperforms GPT-3.5, allows users to run it at scale using RunPod. The model's prompt requires "[INST]" instruction formatting and "[INST]" to signify instructions and primer text, respectively. Using a template for agent instructions, Mixtral can be used as an AI agent with access to tools like "Calculator," "Search," and "Final Answer." The "use_tool" function selects the appropriate tool based on the action dictionary, executing Python code for calculations, utilizing DuckDuckGo for web searches, or providing final answers. Demonstrating the model's proficiency, an example query asking about the current UK Prime Minister is handled accurately, showcasing Mixtral's ability to access up-to-date information via the "Search" tool.
 
