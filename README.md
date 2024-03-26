@@ -1,3 +1,27 @@
+## Learn How to Scale Serverless Pinecone at Scale with AWS
+Summary: Mixtral 8x7B, an open-weight model that outperforms GPT-3.5, allows users to run it at scale using RunPod. The model's prompt requires "[INST]" instruction formatting and "[INST]" to signify instructions and primer text, respectively. Using a template for agent instructions, Mixtral can be used as an AI agent with access to tools like "Calculator," "Search," and "Final Answer." The "use_tool" function selects the appropriate tool based on the action dictionary, executing Python code for calculations, utilizing DuckDuckGo for web searches, or providing final answers. Demonstrating the model's proficiency, an example query asking about the current UK Prime Minister is handled accurately, showcasing Mixtral's ability to access up-to-date information via the "Search" tool.
+
+Link: https://www.pinecone.io/learn/mixtral-8x7b/
+
+<img src="/img/c7049ba5-2186-4660-a5f4-fc3741ff8f86.png" width="400" />
+
+
+<sup><sub>3/26/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10303_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10303_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10303_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## LangChain Launches Open Source Service for Extracting Structured Information from Text and PDFs
+Summary: LangChain announces its Open Source Extraction Service, a hosted solution for extracting structured data from unstructured text, HTML, and PDF documents. This service leverages large language models to parse and structure complex information, opening up opportunities for data analysis and development. Users can access the service through a hosted platform or via GitHub repositories, along with supporting documentation and examples.
+
+Link: https://www.linkedin.com/posts/langchain_open-source-extraction-service-have-you-activity-7178411346227601408-SfG6?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/0c3a364b-2429-4939-8b97-f1d5ffe5394d.png" width="400" />
+
+
+<sup><sub>3/26/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10301_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10301_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10301_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Unstructured: Transforming Data for AI and Machine Learning
 Summary: Unstructured offers a platform that extracts complex data from a variety of file formats and transforms it into AI-friendly formats for use with LLM frameworks. Their unique solution enables enterprises to leverage unstructured data seamlessly, reducing manual data cleaning effort and empowering data scientists to focus on modeling and analysis.
 
