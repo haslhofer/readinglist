@@ -1,3 +1,15 @@
+## LangChain unveils memory journaling app with long-term memory capabilities
+Summary: LangChain introduces "LangFriend," a journaling app that incorporates long-term memory capabilities. They emphasize the importance of memory in artificial intelligence applications and are developing an API for developers interested in exploring these concepts further. LangChain believes the app and API will contribute to research and innovation in long-term memory for large language models.
+
+Link: https://www.linkedin.com/posts/langchain_langfriend-a-journal-with-long-term-memory-activity-7179147358042030080-l-_x?utm_source=share&utm_medium=member_android
+
+<img src="/img/9c68030b-5fc8-4fbe-8ee7-3f9bb4f0f721.png" width="400" />
+
+
+<sup><sub>3/28/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10311_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10311_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10311_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## LM Studio: Run Local Large Language Models with OpenAI-Compatible API Server
 Summary: LM Studio allows you to load Large Language Models (LLMs) on your local machine and access them through an API server on localhost. The API follows OpenAI's format, so you can use it with code that currently uses OpenAI by pointing it to localhost:PORT. By loading an LLM in LM Studio and starting the server, you can send requests to perform inferencing tasks such as chat completions using various parameters supported by OpenAI's API.
 
