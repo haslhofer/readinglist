@@ -1,3 +1,27 @@
+## Retrieval-Augmented Thoughts Improve Reasoning and Generation in Long-Horizon Tasks
+Summary: Retrieval-Augmented Thoughts (RAT) leverages information retrieval to enhance the reasoning and generation abilities of large language models (LLMs) in long-horizon generation tasks. RAT iteratively refines a chain of thoughts by incorporating relevant retrieved information, significantly improving the performance of GPT-3.5, GPT-4, and CodeLLaMA-7b across a range of tasks, including code generation, mathematical reasoning, creative writing, and embodied task planning.
+
+Link: https://huggingface.co/papers/2403.05313
+
+<img src="/img/a205e833-ef8f-4716-a582-a4dedcbc3a1e.png" width="400" />
+
+
+<sup><sub>3/29/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10315_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10315_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10315_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## LangChain's RAG From Scratch Series: Multi-Representation Indexing for Improved Retrieval
+Summary: LangChain's "RAG From Scratch" video series introduces important Retrieval-Augmented Generation (RAG) concepts through short videos featuring code demonstrations. The 12th video focuses on multi-representation indexing, a technique that addresses the limitations of splitting documents into chunks and relying on chunk size and number for optimal results. The approach involves creating summaries ("propositions") using an LLM, and indexing these summaries while retrieving the full documents. This strategy provides the benefits of using concise representations for retrieving relevant summaries, while also having access to the full document context for generation by the LLM. The technique can be applied to tables and images as well, creating summaries or embedding chunks while still returning the original data for LLM generation, effectively resolving challenges related to embedding tables and images directly.
+
+Link: https://www.linkedin.com/posts/langchain_rag-from-scratch-multi-representation-activity-7179205407217766400-Wm0w?utm_source=share&utm_medium=member_android
+
+<img src="/img/1e585048-c54f-4b58-89f7-05322502fbcb.png" width="400" />
+
+
+<sup><sub>3/29/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10313_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10313_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10313_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## LangChain unveils memory journaling app with long-term memory capabilities
 Summary: LangChain introduces "LangFriend," a journaling app that incorporates long-term memory capabilities. They emphasize the importance of memory in artificial intelligence applications and are developing an API for developers interested in exploring these concepts further. LangChain believes the app and API will contribute to research and innovation in long-term memory for large language models.
 
