@@ -1,3 +1,15 @@
+## LangChain shares tutorials and resources for building and deploying LLM applications using open-source models.
+Summary: LangChain, a technology company specializing in large language models (LLMs), shares a series of tutorials, articles, and updates on its platform, LangSmith, which is designed for building production-grade LLM applications. The tutorials cover topics such as connecting LLMs to data, building retrieval applications, and using LangChain agents to enhance LLM capabilities for math and advanced retrieval strategies. Additionally, LangChain announces general availability of LangSmith, a Series A fundraising round led by Sequoia Capital, and a new homepage and brand.
+
+Link: https://www.linkedin.com/posts/langchain_building-a-rag-application-using-open-source-activity-7180587213225701376-d2D2?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/a8dd7c0f-67f2-4b80-b9a5-479675c018b4.png" width="400" />
+
+
+<sup><sub>4/1/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10334_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10334_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10334_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Databricks Unveils Revolutionary Open-Source Model Outperforming GPT-4
 Summary: Databricks has released a new open-source model that outperforms other SOTA models, including Meta's upcoming LlaMa 3 and XAI's Grok. The model boasts half the cost, flops, and time while delivering 2x better performance. It surpasses OpenAI's GPT-3.5 and approaches GPT-4 on benchmarks, reducing reliance on proprietary models. At $6.2 per million output tokens, DBRX offers significant cost savings compared to GPT-4. Databricks' VP of Generative AI believes other companies will struggle to match its economics and quality.
 
