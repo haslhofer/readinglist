@@ -1,3 +1,51 @@
+## Databricks Unveils Revolutionary Open-Source Model Outperforming GPT-4
+Summary: Databricks has released a new open-source model that outperforms other SOTA models, including Meta's upcoming LlaMa 3 and XAI's Grok. The model boasts half the cost, flops, and time while delivering 2x better performance. It surpasses OpenAI's GPT-3.5 and approaches GPT-4 on benchmarks, reducing reliance on proprietary models. At $6.2 per million output tokens, DBRX offers significant cost savings compared to GPT-4. Databricks' VP of Generative AI believes other companies will struggle to match its economics and quality.
+
+Link: https://www.linkedin.com/posts/shyam-nandan-upadhyay-095990192_databricks-creates-history-with-gpt-4-level-activity-7178771198745436161-9Fn4?utm_source=share&utm_medium=member_android
+
+<img src="/img/729c30ba-0d58-4d77-b924-a299a30eb066.png" width="400" />
+
+
+<sup><sub>3/31/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10331_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10331_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10331_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## Langchain-Chatchat: Knowledge-Based Q&A Application Using Local or Remote LLM APIs and Open-Source Models
+Summary: LangChain-Chatchat, formerly known as LangChain-ChatGLM, is an application that enables Q&A based on local knowledge using open-source LLM and Embedding models. It supports both offline and online deployment, utilizing FastChat to access various models and remote APIs. The project began in April 2023, and its latest release, LangChain-Chachat 0.2.x, incorporates features such as FastAPI API access and Streamlit-based WebUI, with ongoing development focused on expanding model support and accessibility.
+
+Link: https://github.com/chatchat-space/Langchain-Chatchat/blob/master/README_en.md
+
+<img src="/img/5c93d0b7-d018-468c-b954-5654f0a39499.png" width="400" />
+
+
+<sup><sub>3/31/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10327_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10327_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10327_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## Most Impactful Retrieval-Augmented Generation (RAG) Papers from March 2023 to March 2024
+Summary: 
+
+Link: https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/research_updates/rag_research_table.md
+
+<img src="/img/0cae1aae-3797-4644-8b71-9ef5d374ab54.png" width="400" />
+
+
+<sup><sub>3/30/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10325_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10325_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10325_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## LangChain Releases Video on Query Routing for Retrieval-Augmented Generation
+Summary: LangChain's "RAG From Scratch" video series addresses routing in Retrieval-Augmented Generation (RAG). Routing involves selecting the appropriate data source or prompt based on a user query. Logical routing employs an LLM to reason about the query and choose a datastore, while semantic routing embeds the query and a set of prompts, selecting the most relevant prompt based on similarity. Routing in RAG ensures that user queries are directed to the most appropriate source for accurate and comprehensive answers, leveraging the knowledge of LLMs and external databases.
+
+Link: https://www.linkedin.com/posts/langchain_rag-from-scratch-routing-our-rag-from-activity-7175551135561220096-dr3H?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/f506df2f-e020-4391-a3be-1af61a9b1fe7.png" width="400" />
+
+
+<sup><sub>3/30/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10321_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10321_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10321_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Retrieval-Augmented Thoughts Improve Reasoning and Generation in Long-Horizon Tasks
 Summary: Retrieval-Augmented Thoughts (RAT) leverages information retrieval to enhance the reasoning and generation abilities of large language models (LLMs) in long-horizon generation tasks. RAT iteratively refines a chain of thoughts by incorporating relevant retrieved information, significantly improving the performance of GPT-3.5, GPT-4, and CodeLLaMA-7b across a range of tasks, including code generation, mathematical reasoning, creative writing, and embodied task planning.
 
