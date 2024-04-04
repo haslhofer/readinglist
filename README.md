@@ -1,3 +1,15 @@
+## Cohere Releases New Open-Weight 104B Model for RAG and Tool Use
+Summary: Cohere has released Command R+, a 104B open-weight language model optimized for RAG and tool use, available open-source on Hugging Face. The model supports 10 languages, has a 128k context capacity, and outperforms the commercial models GPT4 Turbo+ and Mistral Large on RAG and Function Calling. Command R+ is suitable for code assistant applications but not code completion and is licensed under a CC-BY-NC non-commercial permit.
+
+Link: https://www.linkedin.com/posts/andrew-iain-jardine_cohereforaic4ai-command-r-plus-hugging-activity-7181647303877824512-Xz6w?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/d6c8af5b-a712-4912-84be-0d63445eef8a.png" width="400" />
+
+
+<sup><sub>4/4/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10341_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10341_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10341_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## LangChain shares tutorials and resources for building and deploying LLM applications using open-source models.
 Summary: LangChain, a technology company specializing in large language models (LLMs), shares a series of tutorials, articles, and updates on its platform, LangSmith, which is designed for building production-grade LLM applications. The tutorials cover topics such as connecting LLMs to data, building retrieval applications, and using LangChain agents to enhance LLM capabilities for math and advanced retrieval strategies. Additionally, LangChain announces general availability of LangSmith, a Series A fundraising round led by Sequoia Capital, and a new homepage and brand.
 
