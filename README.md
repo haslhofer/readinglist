@@ -10,18 +10,6 @@ Link: https://arxiv.org/abs/2403.20329?utm_source=www.airesearchinsights.com&amp
 
 <br/><br/>
 
-## Tesla abandons plans for $25,000 electric car, focuses on robotaxi platform
-Summary: Tesla has reportedly abandoned plans for its $25,000 "Model 2" electric vehicle, shifting its focus to a new robotaxi platform. Despite Elon Musk's long-standing promise of an affordable EV, the company has prioritized its next-generation vehicle platform and the development of a fully autonomous robotaxi, believing that the latter would make a low-cost vehicle obsolete. Tesla's strategic shift comes amid increasing competition from Chinese automakers and its loss of the top global EV producer title to BYD.
-
-Link: https://www.theverge.com/2024/4/5/24122064/tesla-cancel-affordable-electric-vehicle-model-2-china
-
-<img src="/img/b9e2b682-a2d4-4b65-81ad-674ffa4bc39b.png" width="400" />
-
-
-<sup><sub>4/5/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10347_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10347_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10347_0&tag=Experiments)<sub/><sup/>
-
-<br/><br/>
-
 ## Cohere Releases New Open-Weight 104B Model for RAG and Tool Use
 Summary: Cohere has released Command R+, a 104B open-weight language model optimized for RAG and tool use, available open-source on Hugging Face. The model supports 10 languages, has a 128k context capacity, and outperforms the commercial models GPT4 Turbo+ and Mistral Large on RAG and Function Calling. Command R+ is suitable for code assistant applications but not code completion and is licensed under a CC-BY-NC non-commercial permit.
 
