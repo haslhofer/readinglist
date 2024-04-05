@@ -1,3 +1,15 @@
+## Reference Resolution Converted into Language Modeling with Impressive Gains
+Summary: Reference resolution, crucial for understanding context, has been underutilized with Language Large Models (LLMs). This paper introduces ReALM, an LLM-based system that converts reference resolution into a language modeling problem, effectively handling various reference types, including non-conversational entities. ReALM significantly outperforms existing systems and achieves performance comparable to GPT-4 with its smallest model, demonstrating the potential of LLMs for reference resolution.
+
+Link: https://arxiv.org/abs/2403.20329?utm_source=www.airesearchinsights.com&amp;utm_medium=newsletter&amp;utm_campaign=is-apple-s-realm-really-better-than-gpt-4-cohere-ai-releases-c4ai-command-r-gretel-ai-releases-largest-open-source-text-to-sql-dataset-myshell-ai-and-mit-researchers-propose-jetmoe-8b
+
+<img src="/img/c928b8ca-2a0b-4643-927f-15b84b801218.png" width="400" />
+
+
+<sup><sub>4/5/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10349_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10349_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10349_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Tesla abandons plans for $25,000 electric car, focuses on robotaxi platform
 Summary: Tesla has reportedly abandoned plans for its $25,000 "Model 2" electric vehicle, shifting its focus to a new robotaxi platform. Despite Elon Musk's long-standing promise of an affordable EV, the company has prioritized its next-generation vehicle platform and the development of a fully autonomous robotaxi, believing that the latter would make a low-cost vehicle obsolete. Tesla's strategic shift comes amid increasing competition from Chinese automakers and its loss of the top global EV producer title to BYD.
 
