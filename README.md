@@ -1,3 +1,87 @@
+## RAGFlow: Open-Source RAG Engine for Deep Document Understanding and Truthful Q&A
+Summary: RAGFlow is an open-source retrieval-augmented generation (RAG) engine that combines deep document understanding and large language models (LLMs) to provide question-answering capabilities. Key features include knowledge extraction from complex data formats, explainable chunking, grounded citations to reduce hallucinations, support for various data sources, and a streamlined RAG workflow. To start using RAGFlow, you need to meet specified hardware requirements, clone the repo, build Docker images, and set up LLM configurations. System configurations are managed in .env, service_conf.yaml, and docker-compose.yml files. RAGFlow welcomes contributions and has a roadmap for future development.
+
+Link: https://github.com/infiniflow/ragflow
+
+<img src="/img/794ea3f2-7ee7-4bb3-b361-f9197c56be98.png" width="400" />
+
+
+<sup><sub>4/7/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10373_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10373_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10373_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## DeepDoc: Accurate Document Analysis with OCR, Layout Recognition, and TSR
+Summary: DeepDoc, a comprehensive document analysis tool, features vision and parser components. The vision component includes OCR for text extraction and layout recognition to analyze document structures. It also includes Table Structure Recognition (TSR) to extract data tables and reassemble their content into understandable sentences. The parser component can process various document formats, including PDF, DOCX, EXCEL, and PPT, and extract text chunks, tables, figures, and structured résumé data from PDF documents.
+
+Link: https://github.com/infiniflow/ragflow/blob/main/deepdoc%2FREADME.md
+
+<img src="/img/5ed1a217-a0d9-4c7f-bb19-1261aa87f920.png" width="400" />
+
+
+<sup><sub>4/7/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10370_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10370_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10370_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## LlamaIndex Instrumentation: Send Intermediate RAG Pipeline Events to Enhance User Experience
+Summary: This tutorial utilizes the LlamaIndex Instrumentation module to send intermediate steps in a Retrieval-Augmented Generation (RAG) pipeline to the frontend, providing a user-friendly experience. Using Server-Sent Events, the frontend Vercel AI SDK receives these intermediate events, displaying them intuitively. To set up the system, clone the repository, set the OpenAI key in the .env file, install dependencies, generate the index, and start the backend and frontend servers.
+
+Link: https://github.com/rsrohan99/rag-stream-intermediate-events-tutorial
+
+<img src="/img/e1f9d748-b350-49b4-a8fd-5b4cc51ec92d.png" width="400" />
+
+
+<sup><sub>4/7/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10368_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10368_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10368_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## Lightning-Fast Transformers Revolutionize Large Language Models on Mobile Devices
+Summary: Recent advancements have led to the development of Transformer-Lite, a suite of optimization techniques that significantly enhance the speed of Large Language Models (LLMs) on mobile GPUs. With prefill and decoding speeds reaching 121 and 14 tokens per second for the ChatGLM2 6B model, and 330 and 30 tokens per second for Gemma 2B, Transformer-Lite effectively removes the latency associated with using LLMs on mobile devices, paving the way for the seamless integration of AI into various mobile applications.
+
+Link: https://www.linkedin.com/posts/pascalbiese_transformer-lite-high-efficiency-llms-on-activity-7180510134861783040-eci_?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/b39b0076-e738-4286-aeaa-685ceb1198f1.png" width="400" />
+
+
+<sup><sub>4/7/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10366_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10366_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10366_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## Visualization-of-Thought Prompting Enhances Spatial Reasoning in Large Language Models
+Summary: Visualization-of-Thought (VoT) prompting, inspired by the human cognitive ability to visualize unseen objects, is a novel technique that enhances the spatial reasoning capabilities of large language models (LLMs). VoT employs visualization of the LLM's reasoning traces to guide subsequent reasoning steps. When applied to multi-hop spatial reasoning tasks, including navigation and visual tiling, VoT significantly improves the performance of LLMs, surpassing existing multimodal LLMs. This finding suggests that VoT resembles the human mind's eye process and demonstrates its potential for enhancing spatial reasoning in LLMs.
+
+Link: https://arxiv.org/abs/2404.03622
+
+<img src="/img/1729af1d-49bf-4a03-99c0-85745e6ddb6f.png" width="400" />
+
+
+<sup><sub>4/6/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10362_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10362_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10362_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## VoiceCraft: Advanced Speech Editing and Text-to-Speech for Real-World Applications
+Summary: VoiceCraft is a state-of-the-art neural language model that enables both speech editing and zero-shot text-to-speech (TTS) on real-world data. With only a few seconds of an unseen voice, VoiceCraft can effectively clone the voice or edit recordings. It outperforms existing methods in speech editing tasks and achieves comparable results in TTS competitions. VoiceCraft demonstrates the potential for real-world speech manipulation and TTS applications, including voice cloning and personalized audio editing.
+
+Link: https://jasonppy.github.io/VoiceCraft_web/
+
+<img src="/img/5ec81cb6-80dd-4ee5-ac5a-a28f9bb2b678.png" width="400" />
+
+
+<sup><sub>4/6/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10358_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10358_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10358_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## Anthropic Tool Calling Added to Claude 3 APIs, Enhancing Structured Outputs
+Summary: Anthropic has added tool use capabilities to their Claude 3 APIs through the langchain-anthropic package. This feature allows for structured outputs and improves validation and parsing of complex responses. Developers can design fallbacks to handle errors in structured output processing, and the integration enhances the capabilities of LangChain's platform for building LLM applications.
+
+Link: https://www.linkedin.com/posts/langchain_anthropic-tool-calling-anthropic-activity-7181757743161036800-iNYC?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/d1ba1c77-1799-4a7d-b1ba-c1af7e9da6d6.png" width="400" />
+
+
+<sup><sub>4/6/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10351_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10351_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10351_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Reference Resolution Converted into Language Modeling with Impressive Gains
 Summary: Reference resolution, crucial for understanding context, has been underutilized with Language Large Models (LLMs). This paper introduces ReALM, an LLM-based system that converts reference resolution into a language modeling problem, effectively handling various reference types, including non-conversational entities. ReALM significantly outperforms existing systems and achieves performance comparable to GPT-4 with its smallest model, demonstrating the potential of LLMs for reference resolution.
 
