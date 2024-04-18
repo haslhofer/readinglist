@@ -1,3 +1,11 @@
+## Forbes restricts access to website for unknown reason
+Summary: Access to the mirror-next-hop.forbes.com website is denied due to a "403" error. The current session has been terminated. For further information, contact the website's support. Reference number: 131.107.159.19, timestamp: 2024-04-18T18:46:40.254Z.
+
+Link: https://www.forbes.com/sites/stevemcdowell/2024/04/08/databricks-new-open-source-llm/
+
+<img src="/img/5d8b127d-b85f-44c7-a24e-949871919771.png" width="400" />
+<br/><br/>
+
 ## Microsoft's New DNO Algorithm Enhances LLM Alignment Through Game Theory
 Summary: Microsoft has developed Direct Nash Optimization (DNO), a technique that uses game theory to improve language model (LLM) alignment. DNO identifies the Nash Equilibrium, where model responses to prompts align with preferences without the need for a reward model. Implemented on a 7B Orca model, DNO significantly enhanced alignment, outperforming GPT4 and Mistral on AlpacaEval 2.0. DNO allows for complex preference relations, scales efficiently, and eliminates the need for reward models. By optimizing for the overall Nash Equilibrium, DNO prevents the alignment issues that arise in traditional reinforcement learning with human feedback methods.
 
