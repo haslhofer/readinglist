@@ -1,3 +1,8 @@
+Hugging Face's WizardLM-2 Outperforms OpenAI GPT-4 on Machine Translation Benchmark
+
+___
+
+
 New AI Toolkit Simplifies Development of GDPR-Compliant AI Applications for Enterprise Use
 
 ___
