@@ -1,3 +1,11 @@
+## LlamaIndex Releases Comprehensive Tutorial Series on Agent Technologies
+Summary: LlamaIndex has released a comprehensive tutorial series introducing agents and tools. This beginner-friendly course covers the core interfaces and applications of agents, how to equip them with tools for tasks like QA and tool retrieval, and advanced extensions such as step-wise execution. The series enables professionals to gain a deeper understanding of agent reasoning and tool use to build simple applications.
+
+Link: https://www.linkedin.com/posts/llamaindex_were-excited-to-release-a-brand-new-tutorial-activity-7185664762754596866-uOdb?utm_source=share&utm_medium=member_android
+
+<img src="/img/07890689-d20b-4052-98a4-90635ad0044d.png" width="400" />
+<br/><br/>
+
 ## Hugging Face's WizardLM-2 Outperforms OpenAI GPT-4 on Machine Translation Benchmark
 Summary: Mixtral 8x22B, a fine-tuned open LLM, outperforms GPT-4 on MT-Bench, an open benchmark for machine translation. The model is based on the Apache 2.0 license and uses a multi-step synthetic data pipeline, including Evol-instruct, and stage-by-stage training with SFT → DPO → PPO methods. The model achieves a score of over 9.00 on MT-Bench, the first open LLM to surpass this threshold.
 
