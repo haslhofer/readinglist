@@ -1,3 +1,11 @@
+## New AI Toolkit Simplifies Development of GDPR-Compliant AI Applications for Enterprise Use
+Summary: LlamaIndex and T-Systems International have collaborated to create create-tsi, a CLI toolkit that simplifies the development of GDPR-compliant AI applications. The toolkit enables users to build full-stack RAG bots with features such as GDPR-compliant LLMs, customizable web crawling, vector database connectivity, and language-specific embedding models. The toolkit facilitates GDPR compliance and reduces the complexity of AI application development for European enterprises.
+
+Link: https://www.linkedin.com/posts/llamaindex_introducing-create-tsi-a-toolkit-to-generate-activity-7184578591702077441-Z_1i?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/52fb3cc7-6dff-4c27-81b2-578fc87e7e76.png" width="400" />
+<br/><br/>
+
 ## AI-based 'Grounding Dino' infers human poses from text descriptions
 Summary: Eduardo Pacheco's script, "Grounding Dino Inference," explores the use of grounded inference in dinosaur research. It demonstrates how linking textual knowledge about dinosaurs with visual and spatial data can enhance our understanding of their behavior and habitats. The script highlights the potential of multimodal deep embedding models for combining visual and textual information, enabling more accurate and comprehensive inferences in paleontological studies.
 
