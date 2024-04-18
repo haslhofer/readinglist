@@ -1,3 +1,11 @@
+## AI-based 'Grounding Dino' infers human poses from text descriptions
+Summary: Eduardo Pacheco's script, "Grounding Dino Inference," explores the use of grounded inference in dinosaur research. It demonstrates how linking textual knowledge about dinosaurs with visual and spatial data can enhance our understanding of their behavior and habitats. The script highlights the potential of multimodal deep embedding models for combining visual and textual information, enabling more accurate and comprehensive inferences in paleontological studies.
+
+Link: https://huggingface.co/spaces/EduardoPacheco/Grounding-Dino-Inference
+
+<img src="/img/bbe950e0-06c6-4715-a61a-cde1ee9c9082.png" width="400" />
+<br/><br/>
+
 ## LangChain Standardizes Tool Calling for Enhanced Model Integration
 Summary: LangChain has made significant improvements to tool calling, enabling seamless integration of tools and models from various providers. A new `tool_calls` field standardizes tool integration, while a `ToolCallingAgent` enhances reliability. LangSmith provides visual representation of tool formats, and a `bind_tools` method streamlines tool attachment. These changes maintain backward compatibility and aim to simplify and improve the use of tools in LLM applications.
 
