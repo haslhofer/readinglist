@@ -1,3 +1,8 @@
+AI-based 'Grounding Dino' infers human poses from text descriptions
+
+___
+
+
 LangChain Standardizes Tool Calling for Enhanced Model Integration
 
 ___
