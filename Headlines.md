@@ -1,3 +1,8 @@
+Comprehensive Evaluation of Advanced RAG Techniques Reveals Performance Enhancements with HyDE and LLM Reranking
+
+___
+
+
 **Free Serverless Plan with Tripled Capacity for Locality Sensitive Hashing (LSH) Experiments**
 
 ___
