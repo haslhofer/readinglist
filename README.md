@@ -1,3 +1,11 @@
+## Comprehensive Evaluation of Advanced RAG Techniques Reveals Performance Enhancements with HyDE and LLM Reranking
+Summary: A comprehensive study, ARAGOG, evaluates advanced retrieval-augmented generation (RAG) techniques, demonstrating the effectiveness of HyDE and LLM reranking in enhancing retrieval precision. While MMR and multi-query techniques proved less impactful, native LlamaIndex approaches, including sentence window retrieval, document summary indices, and auto-merging retrieval, offer promising benefits in both retrieval precision and answer similarity. The paper highlights the importance of customizing RAG approaches to specific use cases and encourages further research on smaller re-rankers and the effectiveness of combining human and agent performance in RAG systems.
+
+Link: https://www.linkedin.com/posts/llamaindex_theres-thousands-of-rag-techniques-and-tutorials-activity-7183207871843590144-AZsx?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/3c94b23a-4fcd-423f-ac88-827784eb249e.png" width="400" />
+<br/><br/>
+
 ## **Free Serverless Plan with Tripled Capacity for Locality Sensitive Hashing (LSH) Experiments**
 Summary: Locality Sensitive Hashing (LSH) is a widely-used technique for approximate nearest neighbor (ANN) search, enabling efficient similarity search with sub-linear complexity. The LSH process involves converting text to sparse vectors using shingling (a process that breaks down strings into overlapping character sequences), compressing sparse vectors into dense 'signatures' using MinHashing, and using a banding approach to divide signatures into sub-parts and hash each sub-part to identify candidate pairs. By adjusting parameters like the number of bands, LSH can be optimized to shift the similarity threshold for identifying candidate pairs. LSH algorithms can be implemented using libraries like Faiss or managed services like Pinecone for practical applications in areas such as recommendation systems, image and audio search, and fraud detection.
 
