@@ -1,3 +1,11 @@
+## **Free Serverless Plan with Tripled Capacity for Locality Sensitive Hashing (LSH) Experiments**
+Summary: Locality Sensitive Hashing (LSH) is a widely-used technique for approximate nearest neighbor (ANN) search, enabling efficient similarity search with sub-linear complexity. The LSH process involves converting text to sparse vectors using shingling (a process that breaks down strings into overlapping character sequences), compressing sparse vectors into dense 'signatures' using MinHashing, and using a banding approach to divide signatures into sub-parts and hash each sub-part to identify candidate pairs. By adjusting parameters like the number of bands, LSH can be optimized to shift the similarity threshold for identifying candidate pairs. LSH algorithms can be implemented using libraries like Faiss or managed services like Pinecone for practical applications in areas such as recommendation systems, image and audio search, and fraud detection.
+
+Link: https://www.pinecone.io/learn/series/faiss/locality-sensitive-hashing/
+
+<img src="/img/e6076586-251c-410e-a283-5260f7729d3a.png" width="400" />
+<br/><br/>
+
 ## Locality-sensitive hashing applied to find string similarity with potential typos and edit distance threshold
 Summary: Locality Sensitive Hashing (LSH) provides an approximate method for matching strings with potential typos. By representing strings as vectors and applying a sliding window, LSH identifies candidate pairs for further evaluation. The Python datasketch library includes a MinHashLSH implementation optimized for Jaccard similarity, which can be used to find similar strings with a customizable threshold. This approach reduces the computational complexity for large datasets, making it a suitable technique for approximate string matching in scenarios where typos may exist.
 
