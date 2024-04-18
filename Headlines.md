@@ -1,3 +1,8 @@
+LangChain Standardizes Tool Calling for Enhanced Model Integration
+
+___
+
+
 Text Generation Inference v2.0.0, the fastest open-source implementation of Cohere Command R+, achieves unparalleled speeds for text generation.
 
 ___
