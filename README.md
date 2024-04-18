@@ -1,3 +1,11 @@
+## Locality-sensitive hashing applied to find string similarity with potential typos and edit distance threshold
+Summary: Locality Sensitive Hashing (LSH) provides an approximate method for matching strings with potential typos. By representing strings as vectors and applying a sliding window, LSH identifies candidate pairs for further evaluation. The Python datasketch library includes a MinHashLSH implementation optimized for Jaccard similarity, which can be used to find similar strings with a customizable threshold. This approach reduces the computational complexity for large datasets, making it a suitable technique for approximate string matching in scenarios where typos may exist.
+
+Link: https://stackoverflow.com/questions/25114338/approximate-string-matching-using-lsh/41792983#41792983
+
+<img src="/img/7f459e97-930e-48f3-836c-f200eff6bbf8.png" width="400" />
+<br/><br/>
+
 ## Forbes restricts access to website for unknown reason
 Summary: Access to the mirror-next-hop.forbes.com website is denied due to a "403" error. The current session has been terminated. For further information, contact the website's support. Reference number: 131.107.159.19, timestamp: 2024-04-18T18:46:40.254Z.
 
