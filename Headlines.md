@@ -1,3 +1,8 @@
+Text Generation Inference v2.0.0, the fastest open-source implementation of Cohere Command R+, achieves unparalleled speeds for text generation.
+
+___
+
+
 Hugging Face user demonstrates large language model running on powerful GPU to generate text.
 
 ___
