@@ -1,3 +1,11 @@
+## Hugging Face user demonstrates large language model running on powerful GPU to generate text.
+Summary: Using a powerful DGX machine with 4 A100 GPUs (80GB), the author demonstrates the successful execution of Mixtral 8x22B, a large language model (LLM) from Hugging Face. With CPU offloading, the model can generate text using a concise code snippet and a provided text prompt. However, despite the author's claim of being "GPU poor," others suggest that such computational capabilities are still out of reach for many users, highlighting the ongoing trade-offs and accessibility challenges in the field of LLMs.
+
+Link: https://www.linkedin.com/posts/vaibhavs10_it-works-running-mixtral-8x22b-with-transformers-ugcPost-7183792497351880705-2Raj?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/4e1fa224-c3dc-4b6b-b27b-7cff844b250a.png" width="400" />
+<br/><br/>
+
 ## Comprehensive Evaluation of Advanced RAG Techniques Reveals Performance Enhancements with HyDE and LLM Reranking
 Summary: A comprehensive study, ARAGOG, evaluates advanced retrieval-augmented generation (RAG) techniques, demonstrating the effectiveness of HyDE and LLM reranking in enhancing retrieval precision. While MMR and multi-query techniques proved less impactful, native LlamaIndex approaches, including sentence window retrieval, document summary indices, and auto-merging retrieval, offer promising benefits in both retrieval precision and answer similarity. The paper highlights the importance of customizing RAG approaches to specific use cases and encourages further research on smaller re-rankers and the effectiveness of combining human and agent performance in RAG systems.
 
