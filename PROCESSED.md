@@ -1,3 +1,15 @@
+## Octopus v2 introduces a novel method for an on-device model to surpass GPT-4 in accuracy and latency for function calling.
+Summary: The Octopus v2 language model surpasses large-scale models like GPT-4 in accuracy and latency for on-device function calling tasks. It achieves this by reducing context length by 95% and outperforming Llama-7B with a RAG-based mechanism by 35-fold in latency. This model's optimized performance enables deployment on edge devices for real-world applications, making it suitable for use in AI agents.
+
+Link: https://arxiv.org/abs/2404.01744
+
+<img src="/img/7bf3c88d-9ff6-4f3c-adcd-3991f245a191.png" width="400" />
+
+
+<sup><sub>4/8/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10383_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10383_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10383_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Tesla abandons plans for $25,000 electric car, focuses on robotaxi platform
 Summary: Tesla has reportedly abandoned plans for its $25,000 "Model 2" electric vehicle, shifting its focus to a new robotaxi platform. Despite Elon Musk's long-standing promise of an affordable EV, the company has prioritized its next-generation vehicle platform and the development of a fully autonomous robotaxi, believing that the latter would make a low-cost vehicle obsolete. Tesla's strategic shift comes amid increasing competition from Chinese automakers and its loss of the top global EV producer title to BYD.
 
