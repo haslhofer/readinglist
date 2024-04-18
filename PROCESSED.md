@@ -10,6 +10,18 @@ Link: https://arxiv.org/abs/2404.01744
 
 <br/><br/>
 
+## LLM Pioneer Mixtral AI Highlights Usage and Customization for Enhanced AI Integration
+Summary: Mistral AI has emerged as a leading player in the AI realm with its Large Language Model (LLM), Mixtral 8x7B, which adopts the Mixture-of-Experts (MoE) concept. Open-sourced under the Apache 2.0 license, Mixtral 8x7B enables developers to customize and enhance the model based on their specific needs. This customization is facilitated by Ollama, an open-source software that simplifies the installation and operation of AI models on local computers. By leveraging PDF documents and a vector database (Qdrant), Mixtral 8x7B can specialize in specific domains, as demonstrated by the example of generating code tailored for Spring Boot 3.2. This combination of performance, flexibility, and accessibility empowers developers to seamlessly integrate AI into their projects while safeguarding their data through local execution.
+
+Link: https://scalastic.io/en/mixtral-ollama-llamaindex-llm/
+
+<img src="/img/96b3f6da-9eaa-41c2-8415-64591109004f.png" width="400" />
+
+
+<sup><sub>4/8/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10381_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10381_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10381_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Tesla abandons plans for $25,000 electric car, focuses on robotaxi platform
 Summary: Tesla has reportedly abandoned plans for its $25,000 "Model 2" electric vehicle, shifting its focus to a new robotaxi platform. Despite Elon Musk's long-standing promise of an affordable EV, the company has prioritized its next-generation vehicle platform and the development of a fully autonomous robotaxi, believing that the latter would make a low-cost vehicle obsolete. Tesla's strategic shift comes amid increasing competition from Chinese automakers and its loss of the top global EV producer title to BYD.
 
