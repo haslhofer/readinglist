@@ -1,113 +1,13 @@
-## Gemini 1.5 Pro Enhances Capabilities with Audio Understanding, File Uploads, Action Taking, JSON Mode, and Public Availability
-Summary: Google's Gemini 1.5 Pro has been updated with several new features, including the ability to understand audio, handle unlimited files, take user-specified actions, and use JSON mode. These enhancements allow developers to leverage Gemini for a wide range of applications, from creating quizzes from lectures to summarizing research papers to managing call center bots. Notably, Gemini is now publicly available and free to use, removing the previous waitlist barrier.
+## Upload and use media files for prompting with the Gemini API
+Summary: The Gemini API enables text, image, and audio prompting (multimodal prompting). To use large images, videos, and audio in prompts, the File API can be leveraged to store files up to 2GB in size and up to 20GB per project (stored for 48 hours). The File API supports a variety of media MIME types, and uploaded files can be referenced in Gemini API calls through a unique URI. Upon file upload, the API can be queried to verify receipt of files, and manual deletion is also possible. Specific model versions support prompting with image, audio, or video formats, with limitations and requirements for each format (e.g., image size, audio duration).
 
-Link: https://www.linkedin.com/posts/liambolling_we-leveled-up-gemini-15-pro-now-it-activity-7183522373583740929-p5jI?utm_source=share&amp;utm_medium=member_android
+Link: https://ai.google.dev/gemini-api/docs/prompting_with_media
 
-<img src="/img/b1a9166d-6b63-46d7-989e-782385049f27.png" width="400" />
-<br/><br/>
+<img src="/img/896d61e0-cfb0-4171-a89a-c368679830b1.png" width="400" />
 
-## Hugging Face and DeepLearning.AI Launch Free Course on Quantization Fundamentals with Hugging Face
-Summary: Hugging Face and DeepLearning.AI offer a free course on quantizing open-source large language models (LLMs) using PyTorch and the Hugging Face Transformers library. The course teaches how to load and run LLMs using efficient data types like int8 and bfloat16, enabling users to make LLMs more accessible and practical. It delves into the technical details of linear quantization, allowing users to map 32-bit floats to 8-bit integers. By completing the course, learners can improve the efficiency and cost-effectiveness of their LLM deployments.
 
-Link: https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_quantization-fundamentals-with-hugging-face-activity-7186335433843167232-sKV2?utm_source=share&amp;utm_medium=member_android
+<sup><sub>4/18/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10459_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10459_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10459_0&tag=Experiments)<sub/><sup/>
 
-<img src="/img/17cf3239-820e-4aed-9dac-6b94fe846667.png" width="400" />
-<br/><br/>
-
-## LlamaIndex Releases Comprehensive Tutorial Series on Agent Technologies
-Summary: LlamaIndex has released a comprehensive tutorial series introducing agents and tools. This beginner-friendly course covers the core interfaces and applications of agents, how to equip them with tools for tasks like QA and tool retrieval, and advanced extensions such as step-wise execution. The series enables professionals to gain a deeper understanding of agent reasoning and tool use to build simple applications.
-
-Link: https://www.linkedin.com/posts/llamaindex_were-excited-to-release-a-brand-new-tutorial-activity-7185664762754596866-uOdb?utm_source=share&utm_medium=member_android
-
-<img src="/img/07890689-d20b-4052-98a4-90635ad0044d.png" width="400" />
-<br/><br/>
-
-## Hugging Face's WizardLM-2 Outperforms OpenAI GPT-4 on Machine Translation Benchmark
-Summary: Mixtral 8x22B, a fine-tuned open LLM, outperforms GPT-4 on MT-Bench, an open benchmark for machine translation. The model is based on the Apache 2.0 license and uses a multi-step synthetic data pipeline, including Evol-instruct, and stage-by-stage training with SFT → DPO → PPO methods. The model achieves a score of over 9.00 on MT-Bench, the first open LLM to surpass this threshold.
-
-Link: https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_we-can-do-it-first-open-llmoutperforms-activity-7185726649265483776-ZyQW?utm_source=share&utm_medium=member_android
-
-<img src="/img/319a6486-2cd0-4534-9fb5-28feeb299a3f.png" width="400" />
-<br/><br/>
-
-## New AI Toolkit Simplifies Development of GDPR-Compliant AI Applications for Enterprise Use
-Summary: LlamaIndex and T-Systems International have collaborated to create create-tsi, a CLI toolkit that simplifies the development of GDPR-compliant AI applications. The toolkit enables users to build full-stack RAG bots with features such as GDPR-compliant LLMs, customizable web crawling, vector database connectivity, and language-specific embedding models. The toolkit facilitates GDPR compliance and reduces the complexity of AI application development for European enterprises.
-
-Link: https://www.linkedin.com/posts/llamaindex_introducing-create-tsi-a-toolkit-to-generate-activity-7184578591702077441-Z_1i?utm_source=share&amp;utm_medium=member_android
-
-<img src="/img/52fb3cc7-6dff-4c27-81b2-578fc87e7e76.png" width="400" />
-<br/><br/>
-
-## AI-based 'Grounding Dino' infers human poses from text descriptions
-Summary: Eduardo Pacheco's script, "Grounding Dino Inference," explores the use of grounded inference in dinosaur research. It demonstrates how linking textual knowledge about dinosaurs with visual and spatial data can enhance our understanding of their behavior and habitats. The script highlights the potential of multimodal deep embedding models for combining visual and textual information, enabling more accurate and comprehensive inferences in paleontological studies.
-
-Link: https://huggingface.co/spaces/EduardoPacheco/Grounding-Dino-Inference
-
-<img src="/img/bbe950e0-06c6-4715-a61a-cde1ee9c9082.png" width="400" />
-<br/><br/>
-
-## LangChain Standardizes Tool Calling for Enhanced Model Integration
-Summary: LangChain has made significant improvements to tool calling, enabling seamless integration of tools and models from various providers. A new `tool_calls` field standardizes tool integration, while a `ToolCallingAgent` enhances reliability. LangSmith provides visual representation of tool formats, and a `bind_tools` method streamlines tool attachment. These changes maintain backward compatibility and aim to simplify and improve the use of tools in LLM applications.
-
-Link: https://www.linkedin.com/posts/langchain_tool-calling-with-langchain-activity-7184943423274074113-zvHq?utm_source=share&utm_medium=member_android
-
-<img src="/img/e4d1a907-32ae-42ea-913e-2c44e6a561f0.png" width="400" />
-<br/><br/>
-
-## Text Generation Inference v2.0.0, the fastest open-source implementation of Cohere Command R+, achieves unparalleled speeds for text generation.
-Summary: Hugging Face has released Text Generation Inference (TGI) v2.0.0, implementing Cohere Command R+, an open-source model that rivals GPT4 in text quality. Utilizing "Medusa heads," TGI achieves remarkable speeds with a latency as low as 9ms per token for a 104B model, unlocking new use cases in text generation.
-
-Link: https://www.linkedin.com/posts/olivier-dehaene_text-generation-inference-v200-is-the-fastest-activity-7184595867339780097-kaKf?utm_source=share&utm_medium=member_android
-
-<img src="/img/e050065f-48ef-43dd-b96e-334a7f35b16a.png" width="400" />
-<br/><br/>
-
-## Hugging Face user demonstrates large language model running on powerful GPU to generate text.
-Summary: Using a powerful DGX machine with 4 A100 GPUs (80GB), the author demonstrates the successful execution of Mixtral 8x22B, a large language model (LLM) from Hugging Face. With CPU offloading, the model can generate text using a concise code snippet and a provided text prompt. However, despite the author's claim of being "GPU poor," others suggest that such computational capabilities are still out of reach for many users, highlighting the ongoing trade-offs and accessibility challenges in the field of LLMs.
-
-Link: https://www.linkedin.com/posts/vaibhavs10_it-works-running-mixtral-8x22b-with-transformers-ugcPost-7183792497351880705-2Raj?utm_source=share&amp;utm_medium=member_android
-
-<img src="/img/4e1fa224-c3dc-4b6b-b27b-7cff844b250a.png" width="400" />
-<br/><br/>
-
-## Comprehensive Evaluation of Advanced RAG Techniques Reveals Performance Enhancements with HyDE and LLM Reranking
-Summary: A comprehensive study, ARAGOG, evaluates advanced retrieval-augmented generation (RAG) techniques, demonstrating the effectiveness of HyDE and LLM reranking in enhancing retrieval precision. While MMR and multi-query techniques proved less impactful, native LlamaIndex approaches, including sentence window retrieval, document summary indices, and auto-merging retrieval, offer promising benefits in both retrieval precision and answer similarity. The paper highlights the importance of customizing RAG approaches to specific use cases and encourages further research on smaller re-rankers and the effectiveness of combining human and agent performance in RAG systems.
-
-Link: https://www.linkedin.com/posts/llamaindex_theres-thousands-of-rag-techniques-and-tutorials-activity-7183207871843590144-AZsx?utm_source=share&amp;utm_medium=member_android
-
-<img src="/img/3c94b23a-4fcd-423f-ac88-827784eb249e.png" width="400" />
-<br/><br/>
-
-## **Free Serverless Plan with Tripled Capacity for Locality Sensitive Hashing (LSH) Experiments**
-Summary: Locality Sensitive Hashing (LSH) is a widely-used technique for approximate nearest neighbor (ANN) search, enabling efficient similarity search with sub-linear complexity. The LSH process involves converting text to sparse vectors using shingling (a process that breaks down strings into overlapping character sequences), compressing sparse vectors into dense 'signatures' using MinHashing, and using a banding approach to divide signatures into sub-parts and hash each sub-part to identify candidate pairs. By adjusting parameters like the number of bands, LSH can be optimized to shift the similarity threshold for identifying candidate pairs. LSH algorithms can be implemented using libraries like Faiss or managed services like Pinecone for practical applications in areas such as recommendation systems, image and audio search, and fraud detection.
-
-Link: https://www.pinecone.io/learn/series/faiss/locality-sensitive-hashing/
-
-<img src="/img/e6076586-251c-410e-a283-5260f7729d3a.png" width="400" />
-<br/><br/>
-
-## Locality-sensitive hashing applied to find string similarity with potential typos and edit distance threshold
-Summary: Locality Sensitive Hashing (LSH) provides an approximate method for matching strings with potential typos. By representing strings as vectors and applying a sliding window, LSH identifies candidate pairs for further evaluation. The Python datasketch library includes a MinHashLSH implementation optimized for Jaccard similarity, which can be used to find similar strings with a customizable threshold. This approach reduces the computational complexity for large datasets, making it a suitable technique for approximate string matching in scenarios where typos may exist.
-
-Link: https://stackoverflow.com/questions/25114338/approximate-string-matching-using-lsh/41792983#41792983
-
-<img src="/img/7f459e97-930e-48f3-836c-f200eff6bbf8.png" width="400" />
-<br/><br/>
-
-## Forbes restricts access to website for unknown reason
-Summary: Access to the mirror-next-hop.forbes.com website is denied due to a "403" error. The current session has been terminated. For further information, contact the website's support. Reference number: 131.107.159.19, timestamp: 2024-04-18T18:46:40.254Z.
-
-Link: https://www.forbes.com/sites/stevemcdowell/2024/04/08/databricks-new-open-source-llm/
-
-<img src="/img/5d8b127d-b85f-44c7-a24e-949871919771.png" width="400" />
-<br/><br/>
-
-## Microsoft's New DNO Algorithm Enhances LLM Alignment Through Game Theory
-Summary: Microsoft has developed Direct Nash Optimization (DNO), a technique that uses game theory to improve language model (LLM) alignment. DNO identifies the Nash Equilibrium, where model responses to prompts align with preferences without the need for a reward model. Implemented on a 7B Orca model, DNO significantly enhanced alignment, outperforming GPT4 and Mistral on AlpacaEval 2.0. DNO allows for complex preference relations, scales efficiently, and eliminates the need for reward models. By optimizing for the overall Nash Equilibrium, DNO prevents the alignment issues that arise in traditional reinforcement learning with human feedback methods.
-
-Link: https://www.linkedin.com/posts/andrew-iain-jardine_llm-mistral-gpt4-activity-7184499116457037825-SmNk?utm_source=share&amp;utm_medium=member_android
-
-<img src="/img/697596ec-4e25-4745-b5bd-69dada5e919a.png" width="400" />
 <br/><br/>
 
 ## Octopus v2 introduces a novel method for an on-device model to surpass GPT-4 in accuracy and latency for function calling.
