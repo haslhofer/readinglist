@@ -1,3 +1,8 @@
+New AI Toolkit Simplifies Development of GDPR-Compliant AI Applications for Enterprise Use
+
+___
+
+
 AI-based 'Grounding Dino' infers human poses from text descriptions
 
 ___
