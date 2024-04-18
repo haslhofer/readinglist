@@ -1,3 +1,8 @@
+Gemini 1.5 Pro Enhances Capabilities with Audio Understanding, File Uploads, Action Taking, JSON Mode, and Public Availability
+
+___
+
+
 Hugging Face and DeepLearning.AI Launch Free Course on Quantization Fundamentals with Hugging Face
 
 ___
