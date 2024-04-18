@@ -1,3 +1,8 @@
+Hugging Face user demonstrates large language model running on powerful GPU to generate text.
+
+___
+
+
 Comprehensive Evaluation of Advanced RAG Techniques Reveals Performance Enhancements with HyDE and LLM Reranking
 
 ___
