@@ -10,6 +10,18 @@ Link: https://ai.google.dev/gemini-api/docs/prompting_with_media
 
 <br/><br/>
 
+## LLM Pioneer Mixtral AI Highlights Usage and Customization for Enhanced AI Integration
+Summary: Mistral AI has emerged as a leading player in the AI realm with its Large Language Model (LLM), Mixtral 8x7B, which adopts the Mixture-of-Experts (MoE) concept. Open-sourced under the Apache 2.0 license, Mixtral 8x7B enables developers to customize and enhance the model based on their specific needs. This customization is facilitated by Ollama, an open-source software that simplifies the installation and operation of AI models on local computers. By leveraging PDF documents and a vector database (Qdrant), Mixtral 8x7B can specialize in specific domains, as demonstrated by the example of generating code tailored for Spring Boot 3.2. This combination of performance, flexibility, and accessibility empowers developers to seamlessly integrate AI into their projects while safeguarding their data through local execution.
+
+Link: https://scalastic.io/en/mixtral-ollama-llamaindex-llm/
+
+<img src="/img/96b3f6da-9eaa-41c2-8415-64591109004f.png" width="400" />
+
+
+<sup><sub>4/8/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10381_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10381_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10381_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Build Scalable AI Agents with Large Language Models (LLMs) Through a Self-Paced Online Course
 Summary: Deep Learning Institute offers a free, self-paced online course on "Building RAG Agents with LLMs," covering strategies for deploying and scaling retrieval-based LLM agents. The course requires a basic understanding of LLMs and LangChain, as well as intermediate Python experience. It explores the implementation and development of microservices, dialog management, and document retrieval solutions. The course also provides hands-on experience with state-of-the-art models and guidance for productionalization and framework exploration.
 
