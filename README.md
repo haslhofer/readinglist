@@ -1,3 +1,11 @@
+## Gemini 1.5 Pro Enhances Capabilities with Audio Understanding, File Uploads, Action Taking, JSON Mode, and Public Availability
+Summary: Google's Gemini 1.5 Pro has been updated with several new features, including the ability to understand audio, handle unlimited files, take user-specified actions, and use JSON mode. These enhancements allow developers to leverage Gemini for a wide range of applications, from creating quizzes from lectures to summarizing research papers to managing call center bots. Notably, Gemini is now publicly available and free to use, removing the previous waitlist barrier.
+
+Link: https://www.linkedin.com/posts/liambolling_we-leveled-up-gemini-15-pro-now-it-activity-7183522373583740929-p5jI?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/b1a9166d-6b63-46d7-989e-782385049f27.png" width="400" />
+<br/><br/>
+
 ## Hugging Face and DeepLearning.AI Launch Free Course on Quantization Fundamentals with Hugging Face
 Summary: Hugging Face and DeepLearning.AI offer a free course on quantizing open-source large language models (LLMs) using PyTorch and the Hugging Face Transformers library. The course teaches how to load and run LLMs using efficient data types like int8 and bfloat16, enabling users to make LLMs more accessible and practical. It delves into the technical details of linear quantization, allowing users to map 32-bit floats to 8-bit integers. By completing the course, learners can improve the efficiency and cost-effectiveness of their LLM deployments.
 
