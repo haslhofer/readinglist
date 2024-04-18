@@ -1,3 +1,15 @@
+## Upload and use media files for prompting with the Gemini API
+Summary: The Gemini API enables text, image, and audio prompting (multimodal prompting). To use large images, videos, and audio in prompts, the File API can be leveraged to store files up to 2GB in size and up to 20GB per project (stored for 48 hours). The File API supports a variety of media MIME types, and uploaded files can be referenced in Gemini API calls through a unique URI. Upon file upload, the API can be queried to verify receipt of files, and manual deletion is also possible. Specific model versions support prompting with image, audio, or video formats, with limitations and requirements for each format (e.g., image size, audio duration).
+
+Link: https://ai.google.dev/gemini-api/docs/prompting_with_media
+
+<img src="/img/896d61e0-cfb0-4171-a89a-c368679830b1.png" width="400" />
+
+
+<sup><sub>4/18/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10459_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10459_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10459_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Build Scalable AI Agents with Large Language Models (LLMs) Through a Self-Paced Online Course
 Summary: Deep Learning Institute offers a free, self-paced online course on "Building RAG Agents with LLMs," covering strategies for deploying and scaling retrieval-based LLM agents. The course requires a basic understanding of LLMs and LangChain, as well as intermediate Python experience. It explores the implementation and development of microservices, dialog management, and document retrieval solutions. The course also provides hands-on experience with state-of-the-art models and guidance for productionalization and framework exploration.
 
