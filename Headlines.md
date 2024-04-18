@@ -1,3 +1,8 @@
+Hugging Face and DeepLearning.AI Launch Free Course on Quantization Fundamentals with Hugging Face
+
+___
+
+
 LlamaIndex Releases Comprehensive Tutorial Series on Agent Technologies
 
 ___
