@@ -1,3 +1,11 @@
+## Text Generation Inference v2.0.0, the fastest open-source implementation of Cohere Command R+, achieves unparalleled speeds for text generation.
+Summary: Hugging Face has released Text Generation Inference (TGI) v2.0.0, implementing Cohere Command R+, an open-source model that rivals GPT4 in text quality. Utilizing "Medusa heads," TGI achieves remarkable speeds with a latency as low as 9ms per token for a 104B model, unlocking new use cases in text generation.
+
+Link: https://www.linkedin.com/posts/olivier-dehaene_text-generation-inference-v200-is-the-fastest-activity-7184595867339780097-kaKf?utm_source=share&utm_medium=member_android
+
+<img src="/img/e050065f-48ef-43dd-b96e-334a7f35b16a.png" width="400" />
+<br/><br/>
+
 ## Hugging Face user demonstrates large language model running on powerful GPU to generate text.
 Summary: Using a powerful DGX machine with 4 A100 GPUs (80GB), the author demonstrates the successful execution of Mixtral 8x22B, a large language model (LLM) from Hugging Face. With CPU offloading, the model can generate text using a concise code snippet and a provided text prompt. However, despite the author's claim of being "GPU poor," others suggest that such computational capabilities are still out of reach for many users, highlighting the ongoing trade-offs and accessibility challenges in the field of LLMs.
 
