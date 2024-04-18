@@ -1,3 +1,11 @@
+## Hugging Face's WizardLM-2 Outperforms OpenAI GPT-4 on Machine Translation Benchmark
+Summary: Mixtral 8x22B, a fine-tuned open LLM, outperforms GPT-4 on MT-Bench, an open benchmark for machine translation. The model is based on the Apache 2.0 license and uses a multi-step synthetic data pipeline, including Evol-instruct, and stage-by-stage training with SFT → DPO → PPO methods. The model achieves a score of over 9.00 on MT-Bench, the first open LLM to surpass this threshold.
+
+Link: https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_we-can-do-it-first-open-llmoutperforms-activity-7185726649265483776-ZyQW?utm_source=share&utm_medium=member_android
+
+<img src="/img/319a6486-2cd0-4534-9fb5-28feeb299a3f.png" width="400" />
+<br/><br/>
+
 ## New AI Toolkit Simplifies Development of GDPR-Compliant AI Applications for Enterprise Use
 Summary: LlamaIndex and T-Systems International have collaborated to create create-tsi, a CLI toolkit that simplifies the development of GDPR-compliant AI applications. The toolkit enables users to build full-stack RAG bots with features such as GDPR-compliant LLMs, customizable web crawling, vector database connectivity, and language-specific embedding models. The toolkit facilitates GDPR compliance and reduces the complexity of AI application development for European enterprises.
 
