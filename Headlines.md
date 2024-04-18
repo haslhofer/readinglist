@@ -1,3 +1,8 @@
+**Free Serverless Plan with Tripled Capacity for Locality Sensitive Hashing (LSH) Experiments**
+
+___
+
+
 Locality-sensitive hashing applied to find string similarity with potential typos and edit distance threshold
 
 ___
