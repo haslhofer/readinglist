@@ -1,3 +1,15 @@
+## LangChain collaborates with Mistral AI to improve RAG agents with enhanced control flow and tool-calling capabilities
+Summary: LangChain has partnered with Mistral AI to provide a set of cookbooks and a video tutorial demonstrating how to create agents using control flows in LangGraph. These agents leverage ideas from three advanced RAG papers, enabling reliable performance across model scales. Additionally, LangChain introduces a new tool-calling agent that works with larger Mistral AI models and uses structured outputs for enhanced parsing reliability.
+
+Link: https://www.linkedin.com/posts/langchain_advance-rag-control-flow-with-mistral-and-activity-7186796108164001793-pDg7?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/bf819ea5-94fa-4e4e-8f41-95cf82e2a636.png" width="400" />
+
+
+<sup><sub>4/20/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10468_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10468_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10468_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Building Reliable Local RAG Agents with LLaMA3 and LangChain
 Summary: LangChain demonstrates how to create reliable local Retrieve-and-Generate (RAG) agents using LLaMA3-8b. By incorporating techniques from Adaptive RAG, Corrective RAG, and Self-RAG into a single workflow, they show how to build robust local agents that run efficiently on personal computers, enabling users to access powerful AI models without the need for cloud-based infrastructure.
 
