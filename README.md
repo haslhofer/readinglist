@@ -1,3 +1,15 @@
+## Building Reliable Local RAG Agents with LLaMA3 and LangChain
+Summary: LangChain demonstrates how to create reliable local Retrieve-and-Generate (RAG) agents using LLaMA3-8b. By incorporating techniques from Adaptive RAG, Corrective RAG, and Self-RAG into a single workflow, they show how to build robust local agents that run efficiently on personal computers, enabling users to access powerful AI models without the need for cloud-based infrastructure.
+
+Link: https://youtube.com/watch?v=-ROS6gfYIts&amp;si=XjWLq9ZsPeKIDCba
+
+<img src="/img/2311dc64-56a5-4f7c-b003-d3ed0362d978.png" width="400" />
+
+
+<sup><sub>4/20/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10466_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10466_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10466_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Upload and use media files for prompting with the Gemini API
 Summary: The Gemini API enables text, image, and audio prompting (multimodal prompting). To use large images, videos, and audio in prompts, the File API can be leveraged to store files up to 2GB in size and up to 20GB per project (stored for 48 hours). The File API supports a variety of media MIME types, and uploaded files can be referenced in Gemini API calls through a unique URI. Upon file upload, the API can be queried to verify receipt of files, and manual deletion is also possible. Specific model versions support prompting with image, audio, or video formats, with limitations and requirements for each format (e.g., image size, audio duration).
 
