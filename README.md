@@ -1,3 +1,51 @@
+## BANG: Unlocking Billion-Scale Approximate Nearest Neighbor Search on a Single GPU
+Summary: BANG, a groundbreaking GPU-based Approximate Nearest Neighbor Search (ANNS) method, efficiently handles billion-scale datasets that exceed GPU memory capacity. By leveraging compressed data on the GPU for distance computations and maintaining the graph on the CPU, BANG optimizes GPU kernels and executes concurrently on the GPU and CPU. BANG outperforms existing techniques in most cases, with significantly higher throughputs (40x-200x) for high recall values (0.9) on billion-size datasets.
+
+Link: https://arxiv.org/abs/2401.11324
+
+<img src="/img/d8d6b663-1423-4a14-9055-1fe653d51bf7.png" width="400" />
+
+
+<sup><sub>4/30/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10529_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10529_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10529_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## LangChain Collaborates with FreeCodeCamp for Comprehensive Gen AI Training
+Summary: LangChain, a company that offers an educational course on building projects with its AI framework, is hosting a masterclass on leveraging LangChain for Generative AI projects. The 4-hour course, available on freeCodeCamp.org's YouTube channel, is highly recommended by industry experts and provides practical wisdom and training on mastering AI frameworks and methodologies.
+
+Link: https://www.linkedin.com/posts/langchain_learn-langchain-and-gen-ai-by-building-activity-7190734076683681792-VAgI?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/da0553f4-8e3c-4f2f-9d34-0ed9017c201d.png" width="400" />
+
+
+<sup><sub>4/30/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10527_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10527_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10527_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## Multi-Agent RAG YouTube Workshop to Explore Complex Problem-Solving with LangChain
+Summary: LangChain is hosting a workshop on multi-agent reinforcement learning (RAG), where attendees will delve into the concept of combining independent agents to solve complex problems. The workshop will cover patterns such as planning, reflection, and tool use, and showcase LangGraph, a library for orchestrating multi-actor applications with large language models.
+
+Link: https://www.linkedin.com/posts/langchain_multi-agent-rag-luma-activity-7190832191080169472-YDnF?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/d75fd190-6bb5-4067-9775-473814e70cd3.png" width="400" />
+
+
+<sup><sub>4/30/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10524_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10524_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10524_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## ScrapeGraphAI: Automating Web Scraping with Language Learning Models
+Summary: ScrapeGraphAI is a Python library that simplifies web scraping by employing large language models (LLMs) to automate the creation of scraping pipelines for websites, documents, and XML files. By simply specifying the desired information to extract, the library leverages LLMs to generate the necessary scraping code, eliminating the complexities associated with traditional web scraping tools.
+
+Link: https://www.linkedin.com/posts/langchain_scrapegraphai-you-only-scrape-once-activity-7190356584525451265-wh2Q?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/b6505e4a-4a59-4633-9a93-cce482b7df23.png" width="400" />
+
+
+<sup><sub>4/30/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10522_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10522_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10522_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Hugging Face Delivers Phi-3-mini-4k-Instruct, a State-of-the-Art 3.8B Parameter Model for Inference
 Summary: Phi-3-Mini-4K-Instruct is a lightweight, state-of-the-art language model trained with diverse data sources, including synthetic data and quality-filtered websites. It has undergone post-training fine-tuning to enhance its instruction following and safety capabilities. The model has demonstrated strong performance in benchmarks for common sense reasoning, language understanding, math, code, long context, and logical reasoning. It supports the chat format and is designed for use in memory-constrained environments, latency-bound scenarios, and applications requiring strong reasoning abilities. Developers should consider potential limitations and responsibly use the model in alignment with ethical guidelines and applicable regulations.
 
