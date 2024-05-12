@@ -46,6 +46,18 @@ Link: https://www.linkedin.com/posts/langchain_learn-langchain-and-gen-ai-by-bui
 
 <br/><br/>
 
+## ScrapeGraphAI: Automating Web Scraping with Language Learning Models
+Summary: ScrapeGraphAI is a Python library that simplifies web scraping by employing large language models (LLMs) to automate the creation of scraping pipelines for websites, documents, and XML files. By simply specifying the desired information to extract, the library leverages LLMs to generate the necessary scraping code, eliminating the complexities associated with traditional web scraping tools.
+
+Link: https://www.linkedin.com/posts/langchain_scrapegraphai-you-only-scrape-once-activity-7190356584525451265-wh2Q?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/b6505e4a-4a59-4633-9a93-cce482b7df23.png" width="400" />
+
+
+<sup><sub>4/30/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10522_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10522_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10522_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Octopus v2 introduces a novel method for an on-device model to surpass GPT-4 in accuracy and latency for function calling.
 Summary: The Octopus v2 language model surpasses large-scale models like GPT-4 in accuracy and latency for on-device function calling tasks. It achieves this by reducing context length by 95% and outperforming Llama-7B with a RAG-based mechanism by 35-fold in latency. This model's optimized performance enables deployment on edge devices for real-world applications, making it suitable for use in AI agents.
 
