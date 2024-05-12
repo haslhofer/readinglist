@@ -10,6 +10,18 @@ Link: https://colab.research.google.com/drive/1sEZBonBMGP44CtO6GQTwAlL0BGJXjtfd?
 
 <br/><br/>
 
+## LangChain Collaborates with FreeCodeCamp for Comprehensive Gen AI Training
+Summary: LangChain, a company that offers an educational course on building projects with its AI framework, is hosting a masterclass on leveraging LangChain for Generative AI projects. The 4-hour course, available on freeCodeCamp.org's YouTube channel, is highly recommended by industry experts and provides practical wisdom and training on mastering AI frameworks and methodologies.
+
+Link: https://www.linkedin.com/posts/langchain_learn-langchain-and-gen-ai-by-building-activity-7190734076683681792-VAgI?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/da0553f4-8e3c-4f2f-9d34-0ed9017c201d.png" width="400" />
+
+
+<sup><sub>4/30/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10527_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10527_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10527_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Upload and use media files for prompting with the Gemini API
 Summary: The Gemini API enables text, image, and audio prompting (multimodal prompting). To use large images, videos, and audio in prompts, the File API can be leveraged to store files up to 2GB in size and up to 20GB per project (stored for 48 hours). The File API supports a variety of media MIME types, and uploaded files can be referenced in Gemini API calls through a unique URI. Upon file upload, the API can be queried to verify receipt of files, and manual deletion is also possible. Specific model versions support prompting with image, audio, or video formats, with limitations and requirements for each format (e.g., image size, audio duration).
 
