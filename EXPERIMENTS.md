@@ -34,6 +34,18 @@ Link: https://www.linkedin.com/posts/langchain_multi-agent-rag-luma-activity-719
 
 <br/><br/>
 
+## Hugging Face Delivers Phi-3-mini-4k-Instruct, a State-of-the-Art 3.8B Parameter Model for Inference
+Summary: Phi-3-Mini-4K-Instruct is a lightweight, state-of-the-art language model trained with diverse data sources, including synthetic data and quality-filtered websites. It has undergone post-training fine-tuning to enhance its instruction following and safety capabilities. The model has demonstrated strong performance in benchmarks for common sense reasoning, language understanding, math, code, long context, and logical reasoning. It supports the chat format and is designed for use in memory-constrained environments, latency-bound scenarios, and applications requiring strong reasoning abilities. Developers should consider potential limitations and responsibly use the model in alignment with ethical guidelines and applicable regulations.
+
+Link: https://huggingface.co/microsoft/Phi-3-mini-4k-instruct
+
+<img src="/img/a4c250de-5e92-42a4-930d-3bd7c1f55f23.png" width="400" />
+
+
+<sup><sub>4/24/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10486_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10486_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10486_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Upload and use media files for prompting with the Gemini API
 Summary: The Gemini API enables text, image, and audio prompting (multimodal prompting). To use large images, videos, and audio in prompts, the File API can be leveraged to store files up to 2GB in size and up to 20GB per project (stored for 48 hours). The File API supports a variety of media MIME types, and uploaded files can be referenced in Gemini API calls through a unique URI. Upon file upload, the API can be queried to verify receipt of files, and manual deletion is also possible. Specific model versions support prompting with image, audio, or video formats, with limitations and requirements for each format (e.g., image size, audio duration).
 
