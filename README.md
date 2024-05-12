@@ -10,18 +10,6 @@ Link: https://colab.research.google.com/drive/1sEZBonBMGP44CtO6GQTwAlL0BGJXjtfd?
 
 <br/><br/>
 
-## Mistral 7B AI Model Released with Apache License
-Summary: Mistral AI's 7B parameter model, Mistral, surpasses Llama 2 13B and nears CodeLlama 7B performance on code, while excelling at English tasks. Released under the Apache license, Mistral offers both instruct and text completion capabilities, outperforming previous models on several benchmarks. Access it through the CLI or API, and check out the HuggingFace and Mistral AI News Release for more information.
-
-Link: https://ollama.com/library/mistral
-
-<img src="/img/2111de2a-9612-4543-896c-80a53d93ca54.png" width="400" />
-
-
-<sup><sub>5/6/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10553_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10553_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10553_0&tag=Experiments)<sub/><sup/>
-
-<br/><br/>
-
 ## LangChain Collaborates with FreeCodeCamp for Comprehensive Gen AI Training
 Summary: LangChain, a company that offers an educational course on building projects with its AI framework, is hosting a masterclass on leveraging LangChain for Generative AI projects. The 4-hour course, available on freeCodeCamp.org's YouTube channel, is highly recommended by industry experts and provides practical wisdom and training on mastering AI frameworks and methodologies.
 
