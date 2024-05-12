@@ -22,6 +22,18 @@ Link: https://www.linkedin.com/posts/langchain_learn-langchain-and-gen-ai-by-bui
 
 <br/><br/>
 
+## Multi-Agent RAG YouTube Workshop to Explore Complex Problem-Solving with LangChain
+Summary: LangChain is hosting a workshop on multi-agent reinforcement learning (RAG), where attendees will delve into the concept of combining independent agents to solve complex problems. The workshop will cover patterns such as planning, reflection, and tool use, and showcase LangGraph, a library for orchestrating multi-actor applications with large language models.
+
+Link: https://www.linkedin.com/posts/langchain_multi-agent-rag-luma-activity-7190832191080169472-YDnF?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/d75fd190-6bb5-4067-9775-473814e70cd3.png" width="400" />
+
+
+<sup><sub>4/30/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10524_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10524_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10524_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Upload and use media files for prompting with the Gemini API
 Summary: The Gemini API enables text, image, and audio prompting (multimodal prompting). To use large images, videos, and audio in prompts, the File API can be leveraged to store files up to 2GB in size and up to 20GB per project (stored for 48 hours). The File API supports a variety of media MIME types, and uploaded files can be referenced in Gemini API calls through a unique URI. Upon file upload, the API can be queried to verify receipt of files, and manual deletion is also possible. Specific model versions support prompting with image, audio, or video formats, with limitations and requirements for each format (e.g., image size, audio duration).
 
