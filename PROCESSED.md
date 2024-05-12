@@ -34,6 +34,18 @@ Link: https://arxiv.org/abs/2401.11324
 
 <br/><br/>
 
+## LangChain Collaborates with FreeCodeCamp for Comprehensive Gen AI Training
+Summary: LangChain, a company that offers an educational course on building projects with its AI framework, is hosting a masterclass on leveraging LangChain for Generative AI projects. The 4-hour course, available on freeCodeCamp.org's YouTube channel, is highly recommended by industry experts and provides practical wisdom and training on mastering AI frameworks and methodologies.
+
+Link: https://www.linkedin.com/posts/langchain_learn-langchain-and-gen-ai-by-building-activity-7190734076683681792-VAgI?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/da0553f4-8e3c-4f2f-9d34-0ed9017c201d.png" width="400" />
+
+
+<sup><sub>4/30/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10527_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10527_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10527_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Octopus v2 introduces a novel method for an on-device model to surpass GPT-4 in accuracy and latency for function calling.
 Summary: The Octopus v2 language model surpasses large-scale models like GPT-4 in accuracy and latency for on-device function calling tasks. It achieves this by reducing context length by 95% and outperforming Llama-7B with a RAG-based mechanism by 35-fold in latency. This model's optimized performance enables deployment on edge devices for real-world applications, making it suitable for use in AI agents.
 
