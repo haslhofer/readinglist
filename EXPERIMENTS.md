@@ -1,3 +1,15 @@
+## ScrapeGraphAI: Extract Information Using Custom Scraping Pipelines
+Summary: ScrapeGraphAI provides various scraping pipelines for extracting information from the web. The SmartScraperGraph uses a direct graph implementation to execute user queries, incorporating OpenAI or Google Gemini models. Prettification options allow for formatting the results in JSON format. SpeechGraph combines scraping with text-to-speech functionality. Additionally, users can build their own custom graphs or utilize GraphBuilder for automated graph creation based on user prompts. The library also includes nodes for internet search, scraping, and text-to-speech generation.
+
+Link: https://colab.research.google.com/drive/1sEZBonBMGP44CtO6GQTwAlL0BGJXjtfd?usp=sharing
+
+<img src="/img/908f37a8-86d3-4b65-87d5-9d21636c27e5.png" width="400" />
+
+
+<sup><sub>5/9/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10565_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10565_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10565_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Upload and use media files for prompting with the Gemini API
 Summary: The Gemini API enables text, image, and audio prompting (multimodal prompting). To use large images, videos, and audio in prompts, the File API can be leveraged to store files up to 2GB in size and up to 20GB per project (stored for 48 hours). The File API supports a variety of media MIME types, and uploaded files can be referenced in Gemini API calls through a unique URI. Upon file upload, the API can be queried to verify receipt of files, and manual deletion is also possible. Specific model versions support prompting with image, audio, or video formats, with limitations and requirements for each format (e.g., image size, audio duration).
 
