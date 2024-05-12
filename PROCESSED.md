@@ -58,6 +58,18 @@ Link: https://www.linkedin.com/posts/langchain_scrapegraphai-you-only-scrape-onc
 
 <br/><br/>
 
+## Hugging Face Delivers Phi-3-mini-4k-Instruct, a State-of-the-Art 3.8B Parameter Model for Inference
+Summary: Phi-3-Mini-4K-Instruct is a lightweight, state-of-the-art language model trained with diverse data sources, including synthetic data and quality-filtered websites. It has undergone post-training fine-tuning to enhance its instruction following and safety capabilities. The model has demonstrated strong performance in benchmarks for common sense reasoning, language understanding, math, code, long context, and logical reasoning. It supports the chat format and is designed for use in memory-constrained environments, latency-bound scenarios, and applications requiring strong reasoning abilities. Developers should consider potential limitations and responsibly use the model in alignment with ethical guidelines and applicable regulations.
+
+Link: https://huggingface.co/microsoft/Phi-3-mini-4k-instruct
+
+<img src="/img/a4c250de-5e92-42a4-930d-3bd7c1f55f23.png" width="400" />
+
+
+<sup><sub>4/24/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10486_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10486_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10486_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Octopus v2 introduces a novel method for an on-device model to surpass GPT-4 in accuracy and latency for function calling.
 Summary: The Octopus v2 language model surpasses large-scale models like GPT-4 in accuracy and latency for on-device function calling tasks. It achieves this by reducing context length by 95% and outperforming Llama-7B with a RAG-based mechanism by 35-fold in latency. This model's optimized performance enables deployment on edge devices for real-world applications, making it suitable for use in AI agents.
 
