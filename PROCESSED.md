@@ -1,3 +1,15 @@
+## Mistral AI Releases Updated 7.3B Parameter Model for Instruct and Text Completion
+Summary: Mistral AI has released the 0.2 version of their 7B parameter model, Mistral 7B, under an Apache license. This model outperforms Llama 2 13B and Llama 1 34B on several benchmarks, with performance comparable to CodeLlama 7B on code-related tasks while maintaining proficiency in English language tasks. Mistral 7B supports both instruction following and text completion modes, accessible via command-line or API integration.
+
+Link: https://ollama.com/library/mistral
+
+<img src="/img/5084651b-7d2b-4874-a881-b650d381d8e1.png" width="400" />
+
+
+<sup><sub>5/6/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10556_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10556_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10556_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## BANG: Unlocking Billion-Scale Approximate Nearest Neighbor Search on a Single GPU
 Summary: BANG, a groundbreaking GPU-based Approximate Nearest Neighbor Search (ANNS) method, efficiently handles billion-scale datasets that exceed GPU memory capacity. By leveraging compressed data on the GPU for distance computations and maintaining the graph on the CPU, BANG optimizes GPU kernels and executes concurrently on the GPU and CPU. BANG outperforms existing techniques in most cases, with significantly higher throughputs (40x-200x) for high recall values (0.9) on billion-size datasets.
 
