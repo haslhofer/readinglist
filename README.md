@@ -22,18 +22,6 @@ Link: https://www.linkedin.com/posts/langchain_multi-agent-rag-luma-activity-719
 
 <br/><br/>
 
-## Hugging Face Delivers Phi-3-mini-4k-Instruct, a State-of-the-Art 3.8B Parameter Model for Inference
-Summary: Phi-3-Mini-4K-Instruct is a lightweight, state-of-the-art language model trained with diverse data sources, including synthetic data and quality-filtered websites. It has undergone post-training fine-tuning to enhance its instruction following and safety capabilities. The model has demonstrated strong performance in benchmarks for common sense reasoning, language understanding, math, code, long context, and logical reasoning. It supports the chat format and is designed for use in memory-constrained environments, latency-bound scenarios, and applications requiring strong reasoning abilities. Developers should consider potential limitations and responsibly use the model in alignment with ethical guidelines and applicable regulations.
-
-Link: https://huggingface.co/microsoft/Phi-3-mini-4k-instruct
-
-<img src="/img/a4c250de-5e92-42a4-930d-3bd7c1f55f23.png" width="400" />
-
-
-<sup><sub>4/24/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10486_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10486_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10486_0&tag=Experiments)<sub/><sup/>
-
-<br/><br/>
-
 ## AI Model Proliferation: A Rapidly Evolving Landscape with an Abundance of Options
 Summary: With the recent influx of AI models, it can be overwhelming to keep track of their capabilities. While some have become popular platforms like ChatGPT, many others are niche or specialized. Experts emphasize that not all models warrant widespread attention, and it is important to discern their value based on individual needs. Incremental improvements in existing models are expected, but significant advancements similar to ChatGPT's breakthrough are unlikely due to the underlying architecture becoming industry standard. Despite the proliferation of models, users should not attempt to keep up with every release; instead, focus should be placed on the most relevant and impactful models identified by experts.
 
