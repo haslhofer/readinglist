@@ -10,6 +10,18 @@ Link: https://colab.research.google.com/drive/1sEZBonBMGP44CtO6GQTwAlL0BGJXjtfd?
 
 <br/><br/>
 
+## BANG: Unlocking Billion-Scale Approximate Nearest Neighbor Search on a Single GPU
+Summary: BANG, a groundbreaking GPU-based Approximate Nearest Neighbor Search (ANNS) method, efficiently handles billion-scale datasets that exceed GPU memory capacity. By leveraging compressed data on the GPU for distance computations and maintaining the graph on the CPU, BANG optimizes GPU kernels and executes concurrently on the GPU and CPU. BANG outperforms existing techniques in most cases, with significantly higher throughputs (40x-200x) for high recall values (0.9) on billion-size datasets.
+
+Link: https://arxiv.org/abs/2401.11324
+
+<img src="/img/d8d6b663-1423-4a14-9055-1fe653d51bf7.png" width="400" />
+
+
+<sup><sub>4/30/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10529_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10529_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10529_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## LangChain Collaborates with FreeCodeCamp for Comprehensive Gen AI Training
 Summary: LangChain, a company that offers an educational course on building projects with its AI framework, is hosting a masterclass on leveraging LangChain for Generative AI projects. The 4-hour course, available on freeCodeCamp.org's YouTube channel, is highly recommended by industry experts and provides practical wisdom and training on mastering AI frameworks and methodologies.
 
@@ -333,6 +345,18 @@ Link: https://github.com/Portkey-AI/gateway
 
 
 <sup><sub>1/13/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9877_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9877_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9877_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## Mixtral: A Sparse Mixture of Experts Language Model that Outperforms Llama 2 70B and GPT-3.5
+Summary: Researchers released Mixtral 8x7B, a Sparse Mixture of Experts (SMoE) language model, which outperforms Llama 2 70B and GPT-3.5 across all evaluated benchmarks. It has the same architecture as Mistral 7B, but each layer consists of 8 feedforward blocks (experts). A router network selects two experts for each token at each layer, combining their outputs. Despite seeing only two at a time, Mixtral effectively utilizes 47B parameters, with active parameters of 13B during inference. It was trained with a context size of 32k tokens and achieved impressive results. Additionally, a fine-tuned version, Mixtral 8x7B - Instruct, surpassed GPT-3.5 Turbo, Claude-2.1, Gemini Pro, and Llama 2 70B - chat model on human benchmarks. Both models are released under the Apache 2.0 license.
+
+Link: https://arxiv.org/abs/2401.04088?utm_source=aitidbits.substack.com&utm_medium=newsletter
+
+<img src="/img/c5dc1189-7592-40ef-9ed9-79813baaff1d.png" width="400" />
+
+
+<sup><sub>1/11/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9864_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9864_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9864_0&tag=Experiments)<sub/><sup/>
 
 <br/><br/>
 
