@@ -348,6 +348,18 @@ Link: https://www.linkedin.com/posts/andrewyng_ai-discovers-new-antibiotics-open
 
 <br/><br/>
 
+## Improved Latent Space Representation with Variational Autoencoders
+Summary: Variational AutoEncoders (VAEs) are an extension of classical autoencoders typically used for dimensionality reduction. While classical autoencoders only minimize the reconstruction loss, VAEs instead maximize a lower bound on the log-likelihood of the data. This results in a more continuous and centralized latent space, which is advantageous for generative tasks. The posterior distribution in VAEs is approximated by a diagonal Gaussian distribution with parameters \(\mu\) and \(\sigma\), and the KL divergence between this distribution and the standard Gaussian is used as a penalty in the loss function. The resulting latent space is more compact and smooth, allowing for interpolation between input images and other fun applications.
+
+Link: https://avandekleut.github.io/vae/
+
+<img src="/img/66a15480-74d5-46e4-b88c-d4d063bbc644.png" width="400" />
+
+
+<sup><sub>1/9/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9835_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9835_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9835_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## A List of Open-Source LLMs for Builders
 Summary: This article presents a comprehensive list of open-source Large Language Models (LLMs) available for both commercial and research purposes. It includes models like Flan-U\u00b2, OpenChatKit, Cerebras-GPT, Pythia, Bloom & mTO, OpenAssistant, nanoT5, GeoV, Baize, Vicuna, Koala, GPT4All, Lit-LLaMA, Dolly, Dalai, Alpaca.cpp, Alpaca-LORA, and llama.cpp. While most of these models can be used commercially, Lit-LLaMA, Dolly, and OpenAssistant's offerings are restricted to non-commercial use. The article emphasizes that users should carefully consider their intended use case when selecting a model, as many require instruction tuning to perform effectively.
 
