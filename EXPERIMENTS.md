@@ -70,6 +70,18 @@ Link: https://www.linkedin.com/posts/langchain_multi-agent-rag-luma-activity-719
 
 <br/><br/>
 
+## ScrapeGraphAI: Automating Web Scraping with Language Learning Models
+Summary: ScrapeGraphAI is a Python library that simplifies web scraping by employing large language models (LLMs) to automate the creation of scraping pipelines for websites, documents, and XML files. By simply specifying the desired information to extract, the library leverages LLMs to generate the necessary scraping code, eliminating the complexities associated with traditional web scraping tools.
+
+Link: https://www.linkedin.com/posts/langchain_scrapegraphai-you-only-scrape-once-activity-7190356584525451265-wh2Q?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/b6505e4a-4a59-4633-9a93-cce482b7df23.png" width="400" />
+
+
+<sup><sub>4/30/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10522_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10522_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10522_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Hugging Face Delivers Phi-3-mini-4k-Instruct, a State-of-the-Art 3.8B Parameter Model for Inference
 Summary: Phi-3-Mini-4K-Instruct is a lightweight, state-of-the-art language model trained with diverse data sources, including synthetic data and quality-filtered websites. It has undergone post-training fine-tuning to enhance its instruction following and safety capabilities. The model has demonstrated strong performance in benchmarks for common sense reasoning, language understanding, math, code, long context, and logical reasoning. It supports the chat format and is designed for use in memory-constrained environments, latency-bound scenarios, and applications requiring strong reasoning abilities. Developers should consider potential limitations and responsibly use the model in alignment with ethical guidelines and applicable regulations.
 
@@ -199,6 +211,18 @@ Link: https://colab.research.google.com/github/fw-ai/cookbook/blob/main/examples
 
 
 <sup><sub>2/25/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10159_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10159_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10159_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## Demystifying Transformers: Unveiling the Mechanisms of ChatGPT, GPT-4, and LLaMa
+Summary: Transformers are a type of neural network architecture that has become increasingly popular for natural language processing tasks. They are used in a variety of applications, including machine translation, text summarization, and question answering. Transformers learn context and relationships in sequential data through an attention mechanism, allowing them to understand the meaning of words and phrases in context. At inference time, Transformers use a stack of encoder and decoder layers to generate text or translate languages, while during training, these layers are optimized using backpropagation to minimize a loss function.
+
+Link: https://www.youtube.com/watch?v=IGu7ivuy1Ag
+
+<img src="/img/b3db696d-c00c-4398-bebc-ca825c2f8960.png" width="400" />
+
+
+<sup><sub>2/22/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10140_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10140_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10140_0&tag=Experiments)<sub/><sup/>
 
 <br/><br/>
 
