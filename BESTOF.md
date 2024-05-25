@@ -58,6 +58,18 @@ Link: https://www.youtube.com/watch?v=IGu7ivuy1Ag
 
 <br/><br/>
 
+## Surya: Document OCR Toolkit Featuring Accurate OCR and Line-Level Text Detection
+Summary: Surya is an OCR toolkit that accurately extracts text and lines from documents in over 90 languages. It outperforms Tesseract in terms of speed, accuracy, and coverage. Surya is designed for OCR on printed text but may work on some handwritten images. It supports text extraction from images, PDFs, and folders and can also visualize the detected text lines.
+
+Link: https://github.com/VikParuchuri/surya
+
+<img src="/img/10e86b52-4ff6-4910-a6d8-34d0afa16104.png" width="400" />
+
+
+<sup><sub>2/19/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10115_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10115_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10115_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Hugging Face Researchers Train One of the Largest Context Size Transformers on Long Video and Language Sequences
 Summary: Researchers have developed a large transformer model that can process over 1 million tokens of video and language sequences. The model, trained on a massive dataset using the RingAttention technique, improves long sequence understanding and retrieval tasks. The authors also provide open-sourced 7B parameter models for text and video processing, addressing challenges such as memory constraints, computational complexity, and data limitations. This work enables broader AI capabilities for assisting humans by combining human textual knowledge with the physical world's understanding.
 
