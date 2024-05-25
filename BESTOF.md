@@ -22,6 +22,18 @@ Link: https://ollama.com/library/mistral
 
 <br/><br/>
 
+## ScrapeGraphAI: Automating Web Scraping with Language Learning Models
+Summary: ScrapeGraphAI is a Python library that simplifies web scraping by employing large language models (LLMs) to automate the creation of scraping pipelines for websites, documents, and XML files. By simply specifying the desired information to extract, the library leverages LLMs to generate the necessary scraping code, eliminating the complexities associated with traditional web scraping tools.
+
+Link: https://www.linkedin.com/posts/langchain_scrapegraphai-you-only-scrape-once-activity-7190356584525451265-wh2Q?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/b6505e4a-4a59-4633-9a93-cce482b7df23.png" width="400" />
+
+
+<sup><sub>4/30/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10522_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10522_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10522_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Calendars Can Be Time Machines: Exploring New Layers and Dimensional Time Management
 Summary: Calendars, essential tools for time management, have remained largely static despite technological advancements. They fail to distinguish between different event types, such as tasks, meetings, and blocked time, and lack the ability to integrate data from other sources. This essay proposes introducing native layers to calendars that would allow for the seamless integration of various activities, including Spotify listening history, sleep quality data, and personal activities from the past. By enhancing calendars' capabilities to accommodate diverse data layers, they can transform into actual time machines, enabling users to shape the future through insights gained from past experiences and unlock a range of new productivity use cases.
 
