@@ -250,6 +250,18 @@ Link: https://colab.research.google.com/github/fw-ai/cookbook/blob/main/examples
 
 <br/><br/>
 
+## Fireworks introduces FireFunction-v1, an open-weights, GPT-4-level function calling model for faster and accurate decision-making.
+Summary: Fireworks released FireFunction-v1, a new and improved open-weights model based on Mixtral. This model offers several advantages over its predecessor, including higher accuracy for real-world use cases, improved response accuracy for multilingual inputs, and the ability to configure "tool_choice" to 'any' to force a function call. It also outperforms other OSS models in terms of speed and accuracy and is available for free during a limited beta period. Additionally, it supports structured output generation and routing decision-making, making it a versatile tool for developers building LLM applications.
+
+Link: https://fireworks.ai/blog/firefunction-v1-gpt-4-level-function-calling
+
+<img src="/img/a4ef1d51-980c-45ef-80da-27b49674adfa.png" width="400" />
+
+
+<sup><sub>2/25/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10155_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10155_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10155_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Demystifying Transformers: Unveiling the Mechanisms of ChatGPT, GPT-4, and LLaMa
 Summary: Transformers are a type of neural network architecture that has become increasingly popular for natural language processing tasks. They are used in a variety of applications, including machine translation, text summarization, and question answering. Transformers learn context and relationships in sequential data through an attention mechanism, allowing them to understand the meaning of words and phrases in context. At inference time, Transformers use a stack of encoder and decoder layers to generate text or translate languages, while during training, these layers are optimized using backpropagation to minimize a loss function.
 
@@ -427,6 +439,20 @@ Link: https://www.linkedin.com/posts/llamaindex_composable-retrieval-a-lot-of-ad
 
 
 <sup><sub>1/19/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9920_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9920_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9920_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## Sure, here's a one-line headline describing the text you provided:
+
+**Government Unveils Plan to Combat Physician Burnout and Improve Patient Care**
+Summary: I do not have access to external websites or specific documents, including the text you are referring to. Therefore, I am unable to summarize the text for you.
+
+Link: https://www.wsj.com/tech/samsung-galaxy-s24-artificial-intelligence-features-dc37e134?mod=tech_trendingnow_article_pos1
+
+<img src="/img/29de4cd2-f593-4da1-847f-a5a984f00b99.png" width="400" />
+
+
+<sup><sub>1/18/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9916_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9916_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9916_0&tag=Experiments)<sub/><sup/>
 
 <br/><br/>
 
