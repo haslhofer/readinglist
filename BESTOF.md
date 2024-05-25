@@ -142,6 +142,18 @@ Link: https://github.com/hackerkid/Mind-Expanding-Books
 
 <br/><br/>
 
+## Open-source, Highly Accurate Optical Character Recognition (OCR) System Released
+Summary: A new open-source Optical Character Recognition (OCR) tool called Surya has been released, which accurately extracts text from images and supports multiple languages. It can recognize text at the line level, making it a valuable tool for tasks such as document processing and data extraction.
+
+Link: https://www.linkedin.com/posts/alexcarliera_a-new-highly-accurate-ocr-was-just-released-activity-7151966210732040192-MeDq?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/5a96af17-2a6c-45f1-8a69-663aa357620c.png" width="400" />
+
+
+<sup><sub>1/14/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9884_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9884_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9884_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Curiosity, effort, ability, and luck are key factors in achieving great work. One should focus on something exciting that provides scope for great and unique work. It is recommended to choose a field, learn enough to reach the frontier of knowledge, notice gaps, and then explore promising ones.
 Summary: This text describes the common traits of exceptionally productive people. The author asserts that the first step to excelling in a field is to choose a field that aligns with your natural aptitudes, interests, and offers ample opportunities for groundbreaking work. However, finding such a field is difficult, especially when you're young. Therefore, the author recommends experimenting with different fields and projects until you find one that truly excites you.
 
@@ -161,6 +173,18 @@ Link: https://paulgraham.com/greatwork.html
 
 
 <sup><sub>12/28/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9657_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9657_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9657_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## A List of Open-Source LLMs for Builders
+Summary: This article presents a comprehensive list of open-source Large Language Models (LLMs) available for both commercial and research purposes. It includes models like Flan-U\u00b2, OpenChatKit, Cerebras-GPT, Pythia, Bloom & mTO, OpenAssistant, nanoT5, GeoV, Baize, Vicuna, Koala, GPT4All, Lit-LLaMA, Dolly, Dalai, Alpaca.cpp, Alpaca-LORA, and llama.cpp. While most of these models can be used commercially, Lit-LLaMA, Dolly, and OpenAssistant's offerings are restricted to non-commercial use. The article emphasizes that users should carefully consider their intended use case when selecting a model, as many require instruction tuning to perform effectively.
+
+Link: https://www.linkedin.com/feed/update/urn:li:activity:7049789761728770049?utm_source=share&utm_medium=member_android
+
+<img src="/img/ccc7d6d4-ae0a-4d05-9334-9fe130ed51dd.png" width="400" />
+
+
+<sup><sub>4/8/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8221_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8221_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8221_0&tag=Experiments)<sub/><sup/>
 
 <br/><br/>
 
