@@ -58,6 +58,18 @@ Link: https://ai.google.dev/gemini-api/docs/prompting_with_media
 
 <br/><br/>
 
+## Octopus v2 introduces a novel method for an on-device model to surpass GPT-4 in accuracy and latency for function calling.
+Summary: The Octopus v2 language model surpasses large-scale models like GPT-4 in accuracy and latency for on-device function calling tasks. It achieves this by reducing context length by 95% and outperforming Llama-7B with a RAG-based mechanism by 35-fold in latency. This model's optimized performance enables deployment on edge devices for real-world applications, making it suitable for use in AI agents.
+
+Link: https://arxiv.org/abs/2404.01744
+
+<img src="/img/7bf3c88d-9ff6-4f3c-adcd-3991f245a191.png" width="400" />
+
+
+<sup><sub>4/8/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10383_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10383_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10383_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## LLM Pioneer Mixtral AI Highlights Usage and Customization for Enhanced AI Integration
 Summary: Mistral AI has emerged as a leading player in the AI realm with its Large Language Model (LLM), Mixtral 8x7B, which adopts the Mixture-of-Experts (MoE) concept. Open-sourced under the Apache 2.0 license, Mixtral 8x7B enables developers to customize and enhance the model based on their specific needs. This customization is facilitated by Ollama, an open-source software that simplifies the installation and operation of AI models on local computers. By leveraging PDF documents and a vector database (Qdrant), Mixtral 8x7B can specialize in specific domains, as demonstrated by the example of generating code tailored for Spring Boot 3.2. This combination of performance, flexibility, and accessibility empowers developers to seamlessly integrate AI into their projects while safeguarding their data through local execution.
 
@@ -91,6 +103,18 @@ Link: https://anakin.ai/blog/how-to-run-mixtral-8x7b-locally/
 
 
 <sup><sub>3/8/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10216_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10216_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10216_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## Calendars Can Be Time Machines: Exploring New Layers and Dimensional Time Management
+Summary: Calendars, essential tools for time management, have remained largely static despite technological advancements. They fail to distinguish between different event types, such as tasks, meetings, and blocked time, and lack the ability to integrate data from other sources. This essay proposes introducing native layers to calendars that would allow for the seamless integration of various activities, including Spotify listening history, sleep quality data, and personal activities from the past. By enhancing calendars' capabilities to accommodate diverse data layers, they can transform into actual time machines, enabling users to shape the future through insights gained from past experiences and unlock a range of new productivity use cases.
+
+Link: https://julian.digital/2023/07/06/multi-layered-calendars/
+
+<img src="/img/8fa53570-9c8e-4f96-ad96-c3e6ccf63472.png" width="400" />
+
+
+<sup><sub>3/6/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10205_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10205_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10205_0&tag=Experiments)<sub/><sup/>
 
 <br/><br/>
 
