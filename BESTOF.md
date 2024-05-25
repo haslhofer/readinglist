@@ -58,6 +58,18 @@ Link: https://www.theverge.com/2024/4/5/24122064/tesla-cancel-affordable-electri
 
 <br/><br/>
 
+## Shareable Jupyter Notebooks for llama_parse, a library for parsing Microsoft PowerPoint files
+Summary: This Jupyter notebook, "demo_ppt_financial.ipynb," demonstrates the usage of the `llama_parse` library for extracting data from financial PowerPoint presentations. It includes examples of extracting various financial metrics, such as revenue, net income, and earnings per share, from the presentation slides. The notebook also showcases the use of the library's visualization capabilities to create interactive charts and graphs that present the extracted data in a visually appealing manner.
+
+Link: https://github.com/run-llama/llama_parse/blob/main/examples/other_files/demo_ppt_financial.ipynb
+
+<img src="/img/dc3e57f8-daf8-4bb0-8450-ccf2214fdc75.png" width="400" />
+
+
+<sup><sub>3/15/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10252_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10252_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10252_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Calendars Can Be Time Machines: Exploring New Layers and Dimensional Time Management
 Summary: Calendars, essential tools for time management, have remained largely static despite technological advancements. They fail to distinguish between different event types, such as tasks, meetings, and blocked time, and lack the ability to integrate data from other sources. This essay proposes introducing native layers to calendars that would allow for the seamless integration of various activities, including Spotify listening history, sleep quality data, and personal activities from the past. By enhancing calendars' capabilities to accommodate diverse data layers, they can transform into actual time machines, enabling users to shape the future through insights gained from past experiences and unlock a range of new productivity use cases.
 
