@@ -238,6 +238,18 @@ Link: https://www.linkedin.com/posts/vaibhavs10_lets-go-metavoice-1b-by-metavoic
 
 <br/><br/>
 
+## Open Source Text-to-Speech System Built by Inverting Whisper
+Summary: WhisperSpeech is an open-source text-to-speech system built on top of Whisper, EnCodec, and Vocos models. The system uses Whisper to generate semantic tokens from audio, EnCodec to model acoustic tokens, and Vocos to generate high-quality audio from EnCodec tokens. WhisperSpeech is designed to be powerful and easily customizable, and it is currently trained on the English LibreLight dataset. Future releases will target multiple languages.
+
+Link: https://github.com/collabora/WhisperSpeech
+
+<img src="/img/68fbfb67-1368-44aa-b57f-9618fbec8c0a.png" width="400" />
+
+
+<sup><sub>1/24/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9969_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9969_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9969_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Colab Notebook Runs Mixtral8x7B-Instruct Model with MoE Offloading for Text Generation
 Summary: The provided text uses a pre-trained quantized model, Mixtral-8x7B-Instruct, implemented with a mixed-precision strategy and a specific offloading approach, making it suitable for inference on consumer-grade GPUs or in Google Colab with limited VRAM and RAM resources. It outlines the process of setting up the environment, initializing the model, and generating text sequences interactively, demonstrating its language generation capabilities. The text also includes a couple of funny poems in response to user prompts, showcasing the model's ability to generate creative text based on user input.
 
@@ -295,6 +307,20 @@ Link: https://neuml.hashnode.dev/introducing-the-semantic-graph
 
 
 <sup><sub>1/15/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9889_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9889_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9889_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## Sure, here is a one-line headline describing the provided text:
+
+**MoEs: Efficiently pretraining and serving large language models with mixture-of-experts.**
+Summary: Mixture of Experts (MoE) is a type of transformer model that uses sparsity to enable faster pretraining and inference compared to dense models. MoEs consist of sparse MoE layers, which have a certain number of "experts" (e.g. 8), where each expert is a neural network. A gate network or router determines which tokens are sent to which expert. MoEs have been used to train multi-trillion parameter models, such as the open-sourced 1.6T parameters Switch Transformers. Fine-tuning MoEs has historically been difficult due to overfitting, but recent work with MoE instruction-tuning has shown promise.
+
+Link: https://huggingface.co/blog/moe
+
+<img src="/img/ffe714a0-bb8c-4032-b597-ae9f3297a682.png" width="400" />
+
+
+<sup><sub>1/13/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9882_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9882_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9882_0&tag=Experiments)<sub/><sup/>
 
 <br/><br/>
 
