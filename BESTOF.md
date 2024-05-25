@@ -166,6 +166,42 @@ Link: https://www.linkedin.com/posts/alexcarliera_a-new-highly-accurate-ocr-was-
 
 <br/><br/>
 
+## Improved Latent Space Representation with Variational Autoencoders
+Summary: Variational AutoEncoders (VAEs) are an extension of classical autoencoders typically used for dimensionality reduction. While classical autoencoders only minimize the reconstruction loss, VAEs instead maximize a lower bound on the log-likelihood of the data. This results in a more continuous and centralized latent space, which is advantageous for generative tasks. The posterior distribution in VAEs is approximated by a diagonal Gaussian distribution with parameters \(\mu\) and \(\sigma\), and the KL divergence between this distribution and the standard Gaussian is used as a penalty in the loss function. The resulting latent space is more compact and smooth, allowing for interpolation between input images and other fun applications.
+
+Link: https://avandekleut.github.io/vae/
+
+<img src="/img/66a15480-74d5-46e4-b88c-d4d063bbc644.png" width="400" />
+
+
+<sup><sub>1/9/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9835_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9835_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9835_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## JPMorgan AI Research Introduces DocLLM: A Lightweight Extension to Traditional Large Language Models for Generative Reasoning Over Documents with Rich Layouts
+Summary: JPMorgan AI Research presents DocLLM, an extension of large language models designed for reasoning over visual documents. It combines textual semantics and spatial layout using bounding box coordinates, allowing efficient cross-modal interaction capture. The model is pre-trained with a modified self-supervised target addressing layout issues and fine-tuned with instruction data for tasks like form comprehension, table alignment, and visual question answering, showing significant performance gains.
+
+Link: https://www.marktechpost.com/2024/01/05/jpmorgan-ai-research-introduces-docllm-a-lightweight-extension-to-traditional-large-language-models-tailored-for-generative-reasoning-over-documents-with-rich-layouts/?amp=
+
+<img src="/img/e3156297-1b6f-4fe0-b942-2483d95d261c.png" width="400" />
+
+
+<sup><sub>1/6/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9805_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9805_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9805_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## JPMorgan AI Research Introduces DocLLM, a Lightweight Extension to Traditional Large Language Models for Generative Reasoning Over Documents with Rich Layouts
+Summary: JPMorgan AI Research has introduced DocLLM, a lightweight extension to traditional Large Language Models (LLMs) specifically tailored for generative reasoning over documents with rich layouts. DocLLM represents both text semantics and spatial layouts, leveraging bounding box coordinates acquired through optical character recognition (OCR) to add spatial layout information. It extends the self-attention mechanism of transformers to capture cross-modal interactions between text and layout. DocLLM has demonstrated significant performance gains on various document intelligence tasks, including form comprehension, table alignment, visual question answering, and key information extraction, highlighting its effectiveness in handling complex document structures and mixed data types.
+
+Link: https://www.marktechpost.com/2024/01/05/jpmorgan-ai-research-introduces-docllm-a-lightweight-extension-to-traditional-large-language-models-tailored-for-generative-reasoning-over-documents-with-rich-layouts/?amp=
+
+<img src="/img/c5ac700d-366a-404f-a3e3-51dbeaa6f74e.png" width="400" />
+
+
+<sup><sub>1/6/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9805_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9805_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9805_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Curiosity, effort, ability, and luck are key factors in achieving great work. One should focus on something exciting that provides scope for great and unique work. It is recommended to choose a field, learn enough to reach the frontier of knowledge, notice gaps, and then explore promising ones.
 Summary: This text describes the common traits of exceptionally productive people. The author asserts that the first step to excelling in a field is to choose a field that aligns with your natural aptitudes, interests, and offers ample opportunities for groundbreaking work. However, finding such a field is difficult, especially when you're young. Therefore, the author recommends experimenting with different fields and projects until you find one that truly excites you.
 
