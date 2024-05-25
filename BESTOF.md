@@ -58,6 +58,18 @@ Link: https://www.twosigma.com/articles/a-guide-to-large-language-model-abstract
 
 <br/><br/>
 
+## From scratch implementation of Self-Attention, Multi-Head Attention, Cross-Attention, and Causal Self-Attention in Large Language Models (LLMs)
+Summary: This article explains the inner workings of the self-attention mechanism, a core component of large language models (LLMs) like GPT-4 and Llama, through a step-by-step coding approach. It also covers multi-head attention, cross-attention, and causal self-attention.
+
+Link: https://magazine.sebastianraschka.com/p/understanding-and-coding-self-attention
+
+<img src="/img/fc744586-928d-47fd-bd8e-87045144ad19.png" width="400" />
+
+
+<sup><sub>1/15/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9895_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9895_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9895_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Curiosity, effort, ability, and luck are key factors in achieving great work. One should focus on something exciting that provides scope for great and unique work. It is recommended to choose a field, learn enough to reach the frontier of knowledge, notice gaps, and then explore promising ones.
 Summary: This text describes the common traits of exceptionally productive people. The author asserts that the first step to excelling in a field is to choose a field that aligns with your natural aptitudes, interests, and offers ample opportunities for groundbreaking work. However, finding such a field is difficult, especially when you're young. Therefore, the author recommends experimenting with different fields and projects until you find one that truly excites you.
 
