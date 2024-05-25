@@ -10,6 +10,18 @@ Link: https://julian.digital/2023/07/06/multi-layered-calendars/
 
 <br/><br/>
 
+## Hugging Face Researchers Train One of the Largest Context Size Transformers on Long Video and Language Sequences
+Summary: Researchers have developed a large transformer model that can process over 1 million tokens of video and language sequences. The model, trained on a massive dataset using the RingAttention technique, improves long sequence understanding and retrieval tasks. The authors also provide open-sourced 7B parameter models for text and video processing, addressing challenges such as memory constraints, computational complexity, and data limitations. This work enables broader AI capabilities for assisting humans by combining human textual knowledge with the physical world's understanding.
+
+Link: https://huggingface.co/papers/2402.08268
+
+<img src="/img/3f867aaf-26a2-47a5-9061-c1fe77a06a78.png" width="400" />
+
+
+<sup><sub>2/17/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10103_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10103_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10103_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Colab Notebook Runs Mixtral8x7B-Instruct Model with MoE Offloading for Text Generation
 Summary: The provided text uses a pre-trained quantized model, Mixtral-8x7B-Instruct, implemented with a mixed-precision strategy and a specific offloading approach, making it suitable for inference on consumer-grade GPUs or in Google Colab with limited VRAM and RAM resources. It outlines the process of setting up the environment, initializing the model, and generating text sequences interactively, demonstrating its language generation capabilities. The text also includes a couple of funny poems in response to user prompts, showcasing the model's ability to generate creative text based on user input.
 
