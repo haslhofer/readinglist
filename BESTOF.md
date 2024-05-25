@@ -58,6 +58,18 @@ Link: https://julian.digital/2023/07/06/multi-layered-calendars/
 
 <br/><br/>
 
+## Getting Started with DSPy: A Comprehensive Guide to LLM Programming
+Summary: This video tutorial by Connor Shorten introduces the DSPy programming language, which simplifies the creation of language models by compiling declarative calls into pipelines. The video covers key aspects of DSPy development, including installation, data management with dspy.Example, LLM metrics, the DSPy programming model, and optimization techniques, making it a comprehensive resource for getting started with DSPy programming.
+
+Link: https://youtu.be/CEuUG4Umfxs?si=86Gp7CKV3PuBzpds
+
+<img src="/img/1818d5d3-b3db-4532-9872-402b4a63745c.png" width="400" />
+
+
+<sup><sub>2/29/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10178_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10178_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10178_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Demystifying Transformers: Unveiling the Mechanisms of ChatGPT, GPT-4, and LLaMa
 Summary: Transformers are a type of neural network architecture that has become increasingly popular for natural language processing tasks. They are used in a variety of applications, including machine translation, text summarization, and question answering. Transformers learn context and relationships in sequential data through an attention mechanism, allowing them to understand the meaning of words and phrases in context. At inference time, Transformers use a stack of encoder and decoder layers to generate text or translate languages, while during training, these layers are optimized using backpropagation to minimize a loss function.
 
