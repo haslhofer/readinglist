@@ -82,6 +82,18 @@ Link: https://scalastic.io/en/mixtral-ollama-llamaindex-llm/
 
 <br/><br/>
 
+## Tesla abandons plans for $25,000 electric car, focuses on robotaxi platform
+Summary: Tesla has reportedly abandoned plans for its $25,000 "Model 2" electric vehicle, shifting its focus to a new robotaxi platform. Despite Elon Musk's long-standing promise of an affordable EV, the company has prioritized its next-generation vehicle platform and the development of a fully autonomous robotaxi, believing that the latter would make a low-cost vehicle obsolete. Tesla's strategic shift comes amid increasing competition from Chinese automakers and its loss of the top global EV producer title to BYD.
+
+Link: https://www.theverge.com/2024/4/5/24122064/tesla-cancel-affordable-electric-vehicle-model-2-china
+
+<img src="/img/b9e2b682-a2d4-4b65-81ad-674ffa4bc39b.png" width="400" />
+
+
+<sup><sub>4/5/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10347_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10347_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10347_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Build Scalable AI Agents with Large Language Models (LLMs) Through a Self-Paced Online Course
 Summary: Deep Learning Institute offers a free, self-paced online course on "Building RAG Agents with LLMs," covering strategies for deploying and scaling retrieval-based LLM agents. The course requires a basic understanding of LLMs and LangChain, as well as intermediate Python experience. It explores the implementation and development of microservices, dialog management, and document retrieval solutions. The course also provides hands-on experience with state-of-the-art models and guidance for productionalization and framework exploration.
 
