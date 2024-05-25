@@ -310,3 +310,15 @@ Link: https://github.com/Portkey-AI/gateway
 
 <br/><br/>
 
+## A List of Open-Source LLMs for Builders
+Summary: This article presents a comprehensive list of open-source Large Language Models (LLMs) available for both commercial and research purposes. It includes models like Flan-U\u00b2, OpenChatKit, Cerebras-GPT, Pythia, Bloom & mTO, OpenAssistant, nanoT5, GeoV, Baize, Vicuna, Koala, GPT4All, Lit-LLaMA, Dolly, Dalai, Alpaca.cpp, Alpaca-LORA, and llama.cpp. While most of these models can be used commercially, Lit-LLaMA, Dolly, and OpenAssistant's offerings are restricted to non-commercial use. The article emphasizes that users should carefully consider their intended use case when selecting a model, as many require instruction tuning to perform effectively.
+
+Link: https://www.linkedin.com/feed/update/urn:li:activity:7049789761728770049?utm_source=share&utm_medium=member_android
+
+<img src="/img/ccc7d6d4-ae0a-4d05-9334-9fe130ed51dd.png" width="400" />
+
+
+<sup><sub>4/8/2023 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8221_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8221_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=8221_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
