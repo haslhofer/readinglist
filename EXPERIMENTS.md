@@ -214,6 +214,18 @@ Link: https://huggingface.co/metavoiceio/metavoice-1B-v0.1
 
 <br/><br/>
 
+## Colab Notebook Runs Mixtral8x7B-Instruct Model with MoE Offloading for Text Generation
+Summary: The provided text uses a pre-trained quantized model, Mixtral-8x7B-Instruct, implemented with a mixed-precision strategy and a specific offloading approach, making it suitable for inference on consumer-grade GPUs or in Google Colab with limited VRAM and RAM resources. It outlines the process of setting up the environment, initializing the model, and generating text sequences interactively, demonstrating its language generation capabilities. The text also includes a couple of funny poems in response to user prompts, showcasing the model's ability to generate creative text based on user input.
+
+Link: https://colab.research.google.com/github/dvmazur/mixtral-offloading/blob/master/notebooks/demo.ipynb#scrollTo=f7qY7ebqX7T7
+
+<img src="/img/a1ccacca-62c9-4256-85fa-d60954da19e7.png" width="400" />
+
+
+<sup><sub>1/20/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9932_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9932_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9932_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## New programming language optimizes prompts for large language models
 Summary: LMQL, a programming language designed specifically for interacting with Large Language Models (LLMs), has just released version 0.7. It enables robust and modular LLM prompting with features such as types, templates, constraints, and an optimizing runtime. Programmers can write queries in LMQL, which are then sent to an LLM to generate responses. The results are directly accessible, enabling the construction of complex prompts with guaranteed output formats. Moreover, LMQL supports nested queries, modularized local instructions, and re-use of prompt components, making it a powerful tool for prompt engineering.
 
