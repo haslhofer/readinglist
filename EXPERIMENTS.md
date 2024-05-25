@@ -310,6 +310,18 @@ Link: https://github.com/Portkey-AI/gateway
 
 <br/><br/>
 
+## DPO: A New Method to Align Language Models with Human Preferences
+Summary: The Direct Preference Optimization (DPO) paper by Rafael Rafailov and others introduces a new approach to aligning language models with human preferences. This approach streamlines the training process by directly integrating the reward function with the language model training, eliminating the need for a separate reward model. DPO has the potential to simplify the alignment process and make it more efficient, potentially revolutionizing the way language models are trained and aligned with human preferences.
+
+Link: https://www.linkedin.com/posts/andrewyng_ai-discovers-new-antibiotics-openai-revamps-activity-7151282706947969025-WV2v?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/c4e93447-19fa-4ae8-a788-887f212b4420.png" width="400" />
+
+
+<sup><sub>1/11/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9860_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9860_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9860_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## A List of Open-Source LLMs for Builders
 Summary: This article presents a comprehensive list of open-source Large Language Models (LLMs) available for both commercial and research purposes. It includes models like Flan-U\u00b2, OpenChatKit, Cerebras-GPT, Pythia, Bloom & mTO, OpenAssistant, nanoT5, GeoV, Baize, Vicuna, Koala, GPT4All, Lit-LLaMA, Dolly, Dalai, Alpaca.cpp, Alpaca-LORA, and llama.cpp. While most of these models can be used commercially, Lit-LLaMA, Dolly, and OpenAssistant's offerings are restricted to non-commercial use. The article emphasizes that users should carefully consider their intended use case when selecting a model, as many require instruction tuning to perform effectively.
 
