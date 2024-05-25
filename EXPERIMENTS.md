@@ -226,6 +226,18 @@ Link: https://huggingface.co/metavoiceio/metavoice-1B-v0.1
 
 <br/><br/>
 
+## MetaVoice 1B: A 1.2 Billion Parameter Voice Cloning Model Released with Apache 2.0 License
+Summary: MetaVoice 1B is a new text-to-speech (TTS) model released by MetaVoice, with 1.2 billion parameters and trained on 100K hours of data. It can do zero-shot voice cloning, short and long-form synthesis, and can portray emotions in speech. The model is Apache 2.0 licensed and its architecture consists of an encoder (Multi-Band Diffusion), a GPT + Encoder Transformer LM, and a DeepFilterNet to clean up artifacts.
+
+Link: https://www.linkedin.com/posts/vaibhavs10_lets-go-metavoice-1b-by-metavoice-ugcPost-7161031611092733953-tTcT?utm_source=share&utm_medium=member_android
+
+<img src="/img/f5bb5532-ed69-423e-bce5-b0559f339fab.png" width="400" />
+
+
+<sup><sub>2/7/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10048_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10048_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10048_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Colab Notebook Runs Mixtral8x7B-Instruct Model with MoE Offloading for Text Generation
 Summary: The provided text uses a pre-trained quantized model, Mixtral-8x7B-Instruct, implemented with a mixed-precision strategy and a specific offloading approach, making it suitable for inference on consumer-grade GPUs or in Google Colab with limited VRAM and RAM resources. It outlines the process of setting up the environment, initializing the model, and generating text sequences interactively, demonstrating its language generation capabilities. The text also includes a couple of funny poems in response to user prompts, showcasing the model's ability to generate creative text based on user input.
 
