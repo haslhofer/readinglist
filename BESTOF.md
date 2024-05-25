@@ -324,6 +324,18 @@ Link: https://avandekleut.github.io/vae/
 
 <br/><br/>
 
+## A Survey on Generative Information Extraction Methods Using Large Language Models
+Summary: A survey on leveraging generative large language models (LLMs) for information extraction (IE) tasks is presented. The achievements of LLM-based IE methods are categorized, reviewed, and analyzed. The study provides insights into techniques and suggests promising research directions for future exploration. A public repository with consistently updated resources is maintained to facilitate ongoing research in this area.
+
+Link: https://arxiv.org/abs/2312.17617v1
+
+<img src="/img/fce3f106-83d0-40c6-ada2-89dfec55272c.png" width="400" />
+
+
+<sup><sub>1/8/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9818_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9818_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9818_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Harvard Offers 10 Free Online Courses on Data Science, Statistics, and Web Programming
 Summary: Harvard University is offering a variety of free data science, statistics, and web programming courses. These courses cover a wide range of topics, from high-dimensional data analysis to understanding technology. The courses are taught by experts in the field and are designed to be accessible to learners of all levels.
 
