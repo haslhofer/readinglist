@@ -46,6 +46,18 @@ Link: https://julian.digital/2023/07/06/multi-layered-calendars/
 
 <br/><br/>
 
+## Demystifying Transformers: Unveiling the Mechanisms of ChatGPT, GPT-4, and LLaMa
+Summary: Transformers are a type of neural network architecture that has become increasingly popular for natural language processing tasks. They are used in a variety of applications, including machine translation, text summarization, and question answering. Transformers learn context and relationships in sequential data through an attention mechanism, allowing them to understand the meaning of words and phrases in context. At inference time, Transformers use a stack of encoder and decoder layers to generate text or translate languages, while during training, these layers are optimized using backpropagation to minimize a loss function.
+
+Link: https://www.youtube.com/watch?v=IGu7ivuy1Ag
+
+<img src="/img/b3db696d-c00c-4398-bebc-ca825c2f8960.png" width="400" />
+
+
+<sup><sub>2/22/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10140_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10140_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10140_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Hugging Face Researchers Train One of the Largest Context Size Transformers on Long Video and Language Sequences
 Summary: Researchers have developed a large transformer model that can process over 1 million tokens of video and language sequences. The model, trained on a massive dataset using the RingAttention technique, improves long sequence understanding and retrieval tasks. The authors also provide open-sourced 7B parameter models for text and video processing, addressing challenges such as memory constraints, computational complexity, and data limitations. This work enables broader AI capabilities for assisting humans by combining human textual knowledge with the physical world's understanding.
 
