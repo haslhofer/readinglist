@@ -250,6 +250,18 @@ Link: https://magazine.sebastianraschka.com/p/understanding-and-coding-self-atte
 
 <br/><br/>
 
+## This article lists recommended books of various genres, all of which promise to expand readers' minds.
+Summary: This repository contains a list of mind-expanding books curated by various contributors. The selection covers a wide range of topics, including startups and business, philosophy and psychology, autobiographies and biographies, history, science and medicine, logic and problem-solving, politics, economics, gender, sexuality, race, education, writing, theater and film, Shakespeare, fiction, and miscellaneous subjects like health, design, travel, language, nature, and art. Some popular book recommendations are Shoe Dog by Phil Knight, The Ride of a Lifetime by Robert Iger, and Bad Blood by John Carreyrou.
+
+Link: https://github.com/hackerkid/Mind-Expanding-Books
+
+<img src="/img/9e8c5f7b-a2eb-403f-8998-875c15b5938d.png" width="400" />
+
+
+<sup><sub>1/15/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9893_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9893_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9893_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Explore topics, data connectivity and run network analysis with the Semantic Graph
 Summary: A semantic graph, also known as a knowledge graph or semantic network, is introduced, constructed with semantic relationships connecting the nodes. Nodes and relationships can be added to the graph, and analysis functions can be run on it. Semantic graphs can be used to explore relationships, such as topics and interconnections in a dataset. Embeddings instances can be indexed into a graph, allowing for network analysis and topic modeling. Topic modeling can be done using community detection algorithms, and centrality and pagerank can be used to analyze the graph. The graph can also be traversed to show how nodes are connected. Furthermore, images can be grouped into topics using topic modeling, and the image graph can be walked to explore relationships between images.
 
