@@ -106,6 +106,18 @@ Link: https://huggingface.co/papers/2402.08268
 
 <br/><br/>
 
+## Meta releases Code Llama 70B, a large language model achieving human-level performance on code generation tasks.
+Summary: Meta released Code Llama 70B, the largest version of Code Llama, an AI system designed for programming tasks. It has achieved 67.8% on the HumanEval benchmark, matching the initial performance of the recently-hyped GPT-4. Code Llama 70B is initialized from Llama 2, trained on 1T Tokens, and fine-tuned on Python and Instruct versions. It has a context window of 16384 and is available on Hugging Face, with plans to integrate it into Hugging Chat soon.
+
+Link: https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_code-llama-70b-is-heremeta-just-activity-7157780231116738562-GlmI?utm_source=share&amp;utm_medium=member_android
+
+<img src="/img/f0b117f2-83fe-4a0b-a3c3-6135c48c2e52.png" width="400" />
+
+
+<sup><sub>1/29/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10008_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10008_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10008_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Colab Notebook Runs Mixtral8x7B-Instruct Model with MoE Offloading for Text Generation
 Summary: The provided text uses a pre-trained quantized model, Mixtral-8x7B-Instruct, implemented with a mixed-precision strategy and a specific offloading approach, making it suitable for inference on consumer-grade GPUs or in Google Colab with limited VRAM and RAM resources. It outlines the process of setting up the environment, initializing the model, and generating text sequences interactively, demonstrating its language generation capabilities. The text also includes a couple of funny poems in response to user prompts, showcasing the model's ability to generate creative text based on user input.
 
@@ -187,6 +199,18 @@ Link: https://www.linkedin.com/posts/alexcarliera_a-new-highly-accurate-ocr-was-
 
 
 <sup><sub>1/14/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9884_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9884_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9884_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## Portkey's AI Gateway: Access 100+ LLMs with Unified API
+Summary: Portkey's AI Gateway functions as an interface between applications and hosted Large Language Models, enabling streamlined API requests to various providers. It features a unified API signature for over 100 LLMs, allowing developers to connect using the OpenAI API signature without code modifications. Additional features include automatic retries, fallbacks, load balancing, and multiple SDKs for easy integration. Configurable routing strategies offer customization for fallbacks, retries, and load balancing.
+
+Link: https://github.com/Portkey-AI/gateway
+
+<img src="/img/9010a57f-f609-41d0-984d-09bda68172c1.png" width="400" />
+
+
+<sup><sub>1/13/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9877_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9877_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9877_0&tag=Experiments)<sub/><sup/>
 
 <br/><br/>
 
