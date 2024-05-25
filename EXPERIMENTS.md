@@ -396,6 +396,18 @@ Link: https://www.linkedin.com/posts/andrewyng_ai-discovers-new-antibiotics-open
 
 <br/><br/>
 
+## Explore standalone use cases of txtai embeddings components
+Summary: The main components of txtai are embeddings, pipeline, workflow, and an API. Its package provides the glue between these components, making everything easy to use. Each of the packages is modular and can be used on its own. Embeddings package provides the glue between components, making everything easy to use.
+
+Link: https://neuml.hashnode.dev/embeddings-index-components
+
+<img src="/img/dcbde876-dd30-41cb-9464-9104b3554d31.png" width="400" />
+
+
+<sup><sub>1/11/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9856_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9856_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=9856_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Improved Latent Space Representation with Variational Autoencoders
 Summary: Variational AutoEncoders (VAEs) are an extension of classical autoencoders typically used for dimensionality reduction. While classical autoencoders only minimize the reconstruction loss, VAEs instead maximize a lower bound on the log-likelihood of the data. This results in a more continuous and centralized latent space, which is advantageous for generative tasks. The posterior distribution in VAEs is approximated by a diagonal Gaussian distribution with parameters \(\mu\) and \(\sigma\), and the KL divergence between this distribution and the standard Gaussian is used as a penalty in the loss function. The resulting latent space is more compact and smooth, allowing for interpolation between input images and other fun applications.
 
