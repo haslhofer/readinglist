@@ -202,6 +202,30 @@ Link: https://julian.digital/2023/07/06/multi-layered-calendars/
 
 <br/><br/>
 
+## Graph Path Traversal Enhances RAG for Comprehensive Knowledge-Based Text Generation
+Summary: Using txtai's graph path traversal capabilities, this article demonstrates how to collect complex data for advanced Retrieval Augmented Generation (RAG). Building a knowledge base from Wikipedia articles, the author traverses topics of interest to retrieve relevant articles. These articles are then visualized using a graph to show interconnectedness. By combining the collected articles with a LLM (Mistral-7B-OpenOrca-AWQ), the article demonstrates how to generate a short book on English history from the fall of the Roman Empire to the Norman conquest, illustrating the power of graph path traversal for comprehensive context generation in RAG.
+
+Link: https://neuml.hashnode.dev/advanced-rag-with-graph-path-traversal
+
+<img src="/img/e8931b20-a6fa-416d-8c2c-d58beaf8eef6.png" width="400" />
+
+
+<sup><sub>3/6/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10203_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10203_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10203_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
+## StructLM: Advancing LLMs for Structured Knowledge Grounding
+Summary: The StructLM project aims to enhance Structured Knowledge Grounding (SKG) capabilities in Large Language Models (LLMs). Researchers created a comprehensive instruction tuning dataset and trained a series of models (StructLM-7B to StructLM-34B) based on the Code-LLaMA architecture. StructLM excels on 14 out of 18 evaluated SKG datasets, setting new state-of-the-art achievements on 7 tasks. However, researchers found that increasing model size beyond StructLM-7B offered marginal benefits, suggesting that advancing SKG требует more innovative approaches.
+
+Link: https://tiger-ai-lab.github.io/StructLM/
+
+<img src="/img/f82bef1d-0a32-4c95-8b00-2ac184deb024.png" width="400" />
+
+
+<sup><sub>3/3/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10189_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10189_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10189_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Information Extraction via Firework Function Calling
 Summary: .
 
