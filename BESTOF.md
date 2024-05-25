@@ -10,6 +10,18 @@ Link: https://colab.research.google.com/drive/1sEZBonBMGP44CtO6GQTwAlL0BGJXjtfd?
 
 <br/><br/>
 
+## Mistral AI Releases Updated 7.3B Parameter Model for Instruct and Text Completion
+Summary: Mistral AI has released the 0.2 version of their 7B parameter model, Mistral 7B, under an Apache license. This model outperforms Llama 2 13B and Llama 1 34B on several benchmarks, with performance comparable to CodeLlama 7B on code-related tasks while maintaining proficiency in English language tasks. Mistral 7B supports both instruction following and text completion modes, accessible via command-line or API integration.
+
+Link: https://ollama.com/library/mistral
+
+<img src="/img/5084651b-7d2b-4874-a881-b650d381d8e1.png" width="400" />
+
+
+<sup><sub>5/6/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10556_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10556_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10556_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Calendars Can Be Time Machines: Exploring New Layers and Dimensional Time Management
 Summary: Calendars, essential tools for time management, have remained largely static despite technological advancements. They fail to distinguish between different event types, such as tasks, meetings, and blocked time, and lack the ability to integrate data from other sources. This essay proposes introducing native layers to calendars that would allow for the seamless integration of various activities, including Spotify listening history, sleep quality data, and personal activities from the past. By enhancing calendars' capabilities to accommodate diverse data layers, they can transform into actual time machines, enabling users to shape the future through insights gained from past experiences and unlock a range of new productivity use cases.
 
