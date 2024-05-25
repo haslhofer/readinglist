@@ -1,3 +1,15 @@
+## ScrapeGraphAI: Extract Information Using Custom Scraping Pipelines
+Summary: ScrapeGraphAI provides various scraping pipelines for extracting information from the web. The SmartScraperGraph uses a direct graph implementation to execute user queries, incorporating OpenAI or Google Gemini models. Prettification options allow for formatting the results in JSON format. SpeechGraph combines scraping with text-to-speech functionality. Additionally, users can build their own custom graphs or utilize GraphBuilder for automated graph creation based on user prompts. The library also includes nodes for internet search, scraping, and text-to-speech generation.
+
+Link: https://colab.research.google.com/drive/1sEZBonBMGP44CtO6GQTwAlL0BGJXjtfd?usp=sharing
+
+<img src="/img/908f37a8-86d3-4b65-87d5-9d21636c27e5.png" width="400" />
+
+
+<sup><sub>5/9/2024 [Mark as read](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10565_0&tag=isread) [Mark as BestOf](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10565_0&tag=bestof) [Experiments](https://githublistbuilder.azurewebsites.net/api/TagSetter?articleid=10565_0&tag=Experiments)<sub/><sup/>
+
+<br/><br/>
+
 ## Calendars Can Be Time Machines: Exploring New Layers and Dimensional Time Management
 Summary: Calendars, essential tools for time management, have remained largely static despite technological advancements. They fail to distinguish between different event types, such as tasks, meetings, and blocked time, and lack the ability to integrate data from other sources. This essay proposes introducing native layers to calendars that would allow for the seamless integration of various activities, including Spotify listening history, sleep quality data, and personal activities from the past. By enhancing calendars' capabilities to accommodate diverse data layers, they can transform into actual time machines, enabling users to shape the future through insights gained from past experiences and unlock a range of new productivity use cases.
 
