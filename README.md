@@ -1,3 +1,11 @@
+## LLM-PowerHouse: A Comprehensive Guide to Building Intelligent Apps with Custom-Trained Large Language Models
+Summary: LLM-PowerHouse is a repository that provides comprehensive guidance for leveraging Large Language Models (LLMs) with custom training and inferencing. It offers resources ranging from foundational concepts to advanced techniques, including articles, tutorials, and code examples. The repository covers NLP concepts, LLM models, training techniques, evaluation metrics, cost analysis, and deployment strategies. It also explores alignment methods for LLMs and showcases codebases for building LLM-based applications. This resource aims to empower developers and researchers to harness the potential of LLMs and create intelligent applications that enhance natural language understanding.
+
+Link: https://github.com/ghimiresunil/LLM-PowerHouse-A-Curated-Guide-for-Large-Language-Models-with-Custom-Training-and-Inferencing
+
+<img src="/img/9cc1b541-2dee-489f-92ac-7920cb9b06e3.png" width="400" />
+<br/><br/>
+
 ## Anthropic Home: Prompt Generator Tool Streamlines AI Model Prompting
 Summary: Anthropic provides a Prompt Generator tool to assist users in effectively prompting their AI model, Claude. This tool addresses the "blank page problem" by offering tailored prompts based on best practices, such as separating data from instructions and using chains of thought. Additionally, it integrates with Google Colab for analyzing the underlying prompt architecture, requiring an API key for execution. The tool complements other resources like prompt engineering techniques, the Anthropic cookbook, and the prompt library, which provide further guidance for optimizing prompts and enhancing model performance.
 
