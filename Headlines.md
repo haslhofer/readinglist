@@ -1,3 +1,8 @@
+YOLOv10: Real-Time End-to-End Object Detection with High Accuracy and Efficiency
+
+___
+
+
 Covalent Simplifies Generative AI Workflows by Integrating with Streamlit for Efficient ML Management
 
 ___
