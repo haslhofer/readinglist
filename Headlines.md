@@ -1,3 +1,8 @@
+OpenBMB's MiniCPM-Llama3-V-2.5: An Open-Source 8B Multimodal LLM with Enhanced OCR and Trustworthy Behavior
+
+___
+
+
 LLM-PowerHouse: A Comprehensive Guide to Building Intelligent Apps with Custom-Trained Large Language Models
 
 ___
