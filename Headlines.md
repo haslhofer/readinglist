@@ -1,3 +1,8 @@
+Anthropic Home: Prompt Generator Tool Streamlines AI Model Prompting
+
+___
+
+
 Gemini 1.5 Pro Enhances Capabilities with Audio Understanding, File Uploads, Action Taking, JSON Mode, and Public Availability
 
 ___
