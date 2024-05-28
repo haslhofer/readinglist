@@ -1,3 +1,11 @@
+## Covalent Simplifies Generative AI Workflows by Integrating with Streamlit for Efficient ML Management
+Summary: This blog post provides a detailed guide on how to build complex ML workflows for generative AI tasks using Covalent and Streamlit. Covalent simplifies resource management and allows users to focus on coding and experimentation. Streamlit enables data visualization and user interaction. The tutorial covers how to construct Covalent workflows, build a Streamlit UI for executing them, and apply them to tasks like news article summarization using Quanta. The combination of Covalent and Streamlit provides a transformative solution for efficient ML workload management and user engagement.
+
+Link: https://blog.streamlit.io/simplifying-generative-ai-workflows/
+
+<img src="/img/f1fa3272-d34a-4309-9568-b8f8d0253b3c.png" width="400" />
+<br/><br/>
+
 ## OpenBMB's MiniCPM-Llama3-V-2.5: An Open-Source 8B Multimodal LLM with Enhanced OCR and Trustworthy Behavior
 Summary: MiniCPM-Llama3-V-2.5, an 8B parameter GPT-4V-level multi-modal LLM, has been upgraded with enhanced OCR capabilities and supports over 30 languages. It exhibits trustworthy behavior due to the RLAIF-V method and achieves industry-leading performance on various benchmarks, including OpenCompass and OCRBench. The model can be deployed efficiently on edge devices with optimizations for various hardware and software environments. It can be used through Hugging Face Transformers, llama.cpp, and various demo setups, including WebUI and Gradio. MiniCPM-Llama3-V-2.5 has also received positive feedback from users regarding its full-text OCR extraction and instruction-following abilities.
 
