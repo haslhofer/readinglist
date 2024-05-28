@@ -1,3 +1,11 @@
+## OpenBMB's MiniCPM-Llama3-V-2.5: An Open-Source 8B Multimodal LLM with Enhanced OCR and Trustworthy Behavior
+Summary: MiniCPM-Llama3-V-2.5, an 8B parameter GPT-4V-level multi-modal LLM, has been upgraded with enhanced OCR capabilities and supports over 30 languages. It exhibits trustworthy behavior due to the RLAIF-V method and achieves industry-leading performance on various benchmarks, including OpenCompass and OCRBench. The model can be deployed efficiently on edge devices with optimizations for various hardware and software environments. It can be used through Hugging Face Transformers, llama.cpp, and various demo setups, including WebUI and Gradio. MiniCPM-Llama3-V-2.5 has also received positive feedback from users regarding its full-text OCR extraction and instruction-following abilities.
+
+Link: https://huggingface.co/openbmb/MiniCPM-Llama3-V-2_5
+
+<img src="/img/9538acf7-3067-4f90-aca3-d6745d249e6e.png" width="400" />
+<br/><br/>
+
 ## LLM-PowerHouse: A Comprehensive Guide to Building Intelligent Apps with Custom-Trained Large Language Models
 Summary: LLM-PowerHouse is a repository that provides comprehensive guidance for leveraging Large Language Models (LLMs) with custom training and inferencing. It offers resources ranging from foundational concepts to advanced techniques, including articles, tutorials, and code examples. The repository covers NLP concepts, LLM models, training techniques, evaluation metrics, cost analysis, and deployment strategies. It also explores alignment methods for LLMs and showcases codebases for building LLM-based applications. This resource aims to empower developers and researchers to harness the potential of LLMs and create intelligent applications that enhance natural language understanding.
 
