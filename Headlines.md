@@ -1,3 +1,8 @@
+Covalent Simplifies Generative AI Workflows by Integrating with Streamlit for Efficient ML Management
+
+___
+
+
 OpenBMB's MiniCPM-Llama3-V-2.5: An Open-Source 8B Multimodal LLM with Enhanced OCR and Trustworthy Behavior
 
 ___
