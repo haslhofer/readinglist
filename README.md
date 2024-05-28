@@ -1,3 +1,11 @@
+## Anthropic Home: Prompt Generator Tool Streamlines AI Model Prompting
+Summary: Anthropic provides a Prompt Generator tool to assist users in effectively prompting their AI model, Claude. This tool addresses the "blank page problem" by offering tailored prompts based on best practices, such as separating data from instructions and using chains of thought. Additionally, it integrates with Google Colab for analyzing the underlying prompt architecture, requiring an API key for execution. The tool complements other resources like prompt engineering techniques, the Anthropic cookbook, and the prompt library, which provide further guidance for optimizing prompts and enhancing model performance.
+
+Link: https://docs.anthropic.com/en/docs/prompt-generator
+
+<img src="/img/be9b31d5-bf56-404c-9527-3faf883f31d9.png" width="400" />
+<br/><br/>
+
 ## Multi-Agent RAG YouTube Workshop to Explore Complex Problem-Solving with LangChain
 Summary: LangChain is hosting a workshop on multi-agent reinforcement learning (RAG), where attendees will delve into the concept of combining independent agents to solve complex problems. The workshop will cover patterns such as planning, reflection, and tool use, and showcase LangGraph, a library for orchestrating multi-actor applications with large language models.
 
