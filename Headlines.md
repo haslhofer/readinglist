@@ -1,3 +1,8 @@
+LLM-PowerHouse: A Comprehensive Guide to Building Intelligent Apps with Custom-Trained Large Language Models
+
+___
+
+
 Anthropic Home: Prompt Generator Tool Streamlines AI Model Prompting
 
 ___
