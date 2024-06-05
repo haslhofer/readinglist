@@ -1,3 +1,11 @@
+## Octopus-V2: Compact, speedy on-device language model for function calling, specifically tailored for Android APIs
+Summary: Octopus-V2 is an advanced open-source language model with 2 billion parameters, designed for on-device function calling. It uses a unique functional token strategy for training and inference, achieving performance levels comparable to GPT-4 and RAG+GPT-3.5 with high accuracy, while significantly outperforming them in inference speed due to its efficiency. Octopus-V2 is particularly suitable for Android applications, with capabilities including generating individual, nested, and parallel function calls in complex scenarios.
+
+Link: https://huggingface.co/NexaAIDev/Octopus-v2
+
+<img src="/img/48efbce7-29a1-439b-afe2-dc7ddff09286.png" width="400" />
+<br/><br/>
+
 ## Octopus: AI Programmer Decodes Vision, Language, and Executes Complex Actions
 Summary: Octopus is an embodied vision-language model (VLM) designed to understand visual and textual task objectives, generate action sequences, and produce executable code. Based on LLaVA and Otter architectures, it operates in OctoVerse, a set of sub-worlds that test Octopus's abilities in various environments (OmniGibson, GTA, MineCraft). Users can access training pipelines, evaluation tools, and citation information for the model. Octopus's proficiency in embodied visual planning and programming highlights the potential of RL-based training for VLM performance.
 
