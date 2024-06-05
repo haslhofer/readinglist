@@ -1,3 +1,8 @@
+Octopus-V2: Compact, speedy on-device language model for function calling, specifically tailored for Android APIs
+
+___
+
+
 Octopus: AI Programmer Decodes Vision, Language, and Executes Complex Actions
 
 ___
