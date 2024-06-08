@@ -1,3 +1,8 @@
+Multimodal Universal Information Extraction: Recognizing Everything from All Modalities at Once
+
+___
+
+
 Octopus-V2: Compact, speedy on-device language model for function calling, specifically tailored for Android APIs
 
 ___
