@@ -1,3 +1,11 @@
+## Multimodal Universal Information Extraction: Recognizing Everything from All Modalities at Once
+Summary: The concept of Grounded Multimodal Universal Information Extraction (MUIE) is introduced, offering a unified framework for analyzing information extraction tasks across diverse modalities by recognizing and grounding information within their corresponding context. A tailored multimodal large language model, Reamo, is developed to effectively extract and ground information from all modalities simultaneously. A new test set is constructed for grounded MUIE, facilitating extensive evaluation of Reamo. Comparisons with pipeline-integrated MLLMs demonstrate Reamo's superiority across evaluation dimensions, setting a benchmark for future research.
+
+Link: https://arxiv.org/abs/2406.03701
+
+<img src="/img/66c363ff-1fb3-4cbf-aa1c-8208d6aea730.png" width="400" />
+<br/><br/>
+
 ## Octopus-V2: Compact, speedy on-device language model for function calling, specifically tailored for Android APIs
 Summary: Octopus-V2 is an advanced open-source language model with 2 billion parameters, designed for on-device function calling. It uses a unique functional token strategy for training and inference, achieving performance levels comparable to GPT-4 and RAG+GPT-3.5 with high accuracy, while significantly outperforming them in inference speed due to its efficiency. Octopus-V2 is particularly suitable for Android applications, with capabilities including generating individual, nested, and parallel function calls in complex scenarios.
 
