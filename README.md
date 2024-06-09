@@ -1,3 +1,11 @@
+## Roboflow's Repository of Computer Vision Tutorials and Examples
+Summary: Roboflow's repository on GitHub hosts numerous computer vision tutorials and examples, covering models like ResNet, YOLO, DETR, and SAM. The tutorials focus on different tasks such as object detection, image classification, image segmentation, and more. Additionally, the repository includes notebooks that demonstrate various computer vision skills, like vehicle speed estimation, object tracking, and auto-training. The materials complement videos on YouTube, which showcase the latest models and techniques in the field. The repository encourages community involvement, providing guidelines for bug reporting, feature requests, and contributions.
+
+Link: https://github.com/roboflow/notebooks
+
+<img src="/img/cce24e30-6a9e-472a-9a78-4fd5207e1466.png" width="400" />
+<br/><br/>
+
 ## Building Open Source LLM Agents with Llama 3
 Summary: LangChain demonstrates the creation of autonomous agents using Llama 3, which combines tool calling, memory, and planning. These agents are designed for specific tasks and utilize Groq and LangGraph components. The video tutorial provides step-by-step guidance on building agents from scratch, offering a comprehensive understanding of their architecture and capabilities.
 
