@@ -1,3 +1,11 @@
+## Building Open Source LLM Agents with Llama 3
+Summary: LangChain demonstrates the creation of autonomous agents using Llama 3, which combines tool calling, memory, and planning. These agents are designed for specific tasks and utilize Groq and LangGraph components. The video tutorial provides step-by-step guidance on building agents from scratch, offering a comprehensive understanding of their architecture and capabilities.
+
+Link: https://youtube.com/watch?v=j2OAeeujQ9M&amp;si=eT_3hTO_taovntr9
+
+<img src="/img/18e718b2-c125-4da4-b770-ddf28dce3250.png" width="400" />
+<br/><br/>
+
 ## Multimodal Universal Information Extraction: Recognizing Everything from All Modalities at Once
 Summary: The concept of Grounded Multimodal Universal Information Extraction (MUIE) is introduced, offering a unified framework for analyzing information extraction tasks across diverse modalities by recognizing and grounding information within their corresponding context. A tailored multimodal large language model, Reamo, is developed to effectively extract and ground information from all modalities simultaneously. A new test set is constructed for grounded MUIE, facilitating extensive evaluation of Reamo. Comparisons with pipeline-integrated MLLMs demonstrate Reamo's superiority across evaluation dimensions, setting a benchmark for future research.
 
