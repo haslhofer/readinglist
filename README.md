@@ -1,3 +1,11 @@
+## YouTube Videos Provide Insights into Developing and Utilizing Large Language Models (LLMs)
+Summary: YouTube offers numerous videos on Large Language Models (LLMs), ranging from building and training LLMs from scratch to finetuning, knowledge graph creation, and their impact on various industries. Experts such as Sebastian Raschka, Andrej Karpathy, and Henrik Kniberg provide insights into the development and applications of LLMs, while channels like NetworkChuck and CNBC cover the latest news and trends related to AI and LLMs.
+
+Link: https://youtube.com/watch?v=kPGTx4wcm_w&amp;si=d8dsb4uH75XBJhPn
+
+<img src="/img/4274ca78-e58a-4147-b027-58b6529179ac.png" width="400" />
+<br/><br/>
+
 ## Roboflow's Repository of Computer Vision Tutorials and Examples
 Summary: Roboflow's repository on GitHub hosts numerous computer vision tutorials and examples, covering models like ResNet, YOLO, DETR, and SAM. The tutorials focus on different tasks such as object detection, image classification, image segmentation, and more. Additionally, the repository includes notebooks that demonstrate various computer vision skills, like vehicle speed estimation, object tracking, and auto-training. The materials complement videos on YouTube, which showcase the latest models and techniques in the field. The repository encourages community involvement, providing guidelines for bug reporting, feature requests, and contributions.
 
